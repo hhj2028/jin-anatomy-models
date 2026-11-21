@@ -1,6 +1,6 @@
 # JIN Anatomy Studio — model data
 
-The 3D model data shipped in [JIN Anatomy Studio](https://github.com/hhj2028/jin-anatomy-studio) 1.0.23, published so that anyone can reuse it under the same terms as its sources. This repository holds **model data only**; the application code is not included.
+The 3D model data shipped in [JIN Anatomy Studio](https://github.com/hhj2028/jin-anatomy-studio) 1.0.24, published so that anyone can reuse it under the same terms as its sources. This repository holds **model data only**; the application code is not included.
 
 ## Licence
 
@@ -25,7 +25,7 @@ The scripts that made these changes are in `tools/`.
 
 Geometry is Draco-compressed glTF (`.glb`, extension `KHR_draco_mesh_compression`), metres, +Y up, +Z front, +X left. Each package has `manifest.json` (chunks, sha256, coordinate notes), `meshes.json` (per-surface metadata and licence) and `structures.json` (named hierarchy).
 
-## Packages (92)
+## Packages (93)
 
 | Package | Source | Licences |
 |---|---|---|
@@ -37,6 +37,7 @@ Geometry is Draco-compressed glTF (`.glb`, extension `KHR_draco_mesh_compression
 | `hra-female-cardiac` | HRA Female Cardiac Reference | CC BY 4.0 |
 | `hra-female-respiratory` | HRA Female Lungs and Airways | CC BY 4.0 |
 | `hra-female-viscera` | HRA Female Colonic and Renal Continuation | CC BY 4.0 |
+| `inner-ear-labyrinth` | Human Bony Labyrinth (Wimmer et al. 2019) | CC BY 4.0 |
 | `open3d-aligned-overview` | Open3D Anatomy — Aligned right-sided overview | CC BY-SA 4.0 |
 | `open3d-hand` | Open3D Anatomy — Hand | CC BY-SA 4.0 |
 | `open3d-inguinal-canal` | Open3D Anatomy — Male inguinal and femoral regions | CC BY-SA 4.0 |

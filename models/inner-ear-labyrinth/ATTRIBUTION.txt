@@ -1,0 +1,11 @@
+Inner ear (bony labyrinth): cochlea, vestibule, semicircular canals
+Source: Wimmer W, Anschuetz L, Weder S, Wagner F, Delingette H, Caversaccio M (2019). Human Bony Labyrinth: Co-Registered CT and micro-CT Images, Surface Models and Anatomical Landmarks. Zenodo. https://doi.org/10.5281/zenodo.3355272
+License: Creative Commons Attribution 4.0 International (CC BY 4.0) https://creativecommons.org/licenses/by/4.0/
+Specimen: F07, right side, micro-CT surface model (F07_uCT_SURF.ply, md5 888a7c27cb33a8b8fa256f525642ff39).
+
+Changes made for JIN Anatomy Studio (scripts/build_inner_ear_labyrinth.mjs):
+- Labelled the single labyrinth surface into cochlea, vestibule and semicircular canals using the dataset's cochlear coordinate system and vestibule landmark. These are geometric cuts, not segmented anatomical borders.
+- Simplified each part by 0.24 mm vertex clustering (20430 triangles per side from 196830).
+- Converted millimetres to metres and placed the ear with one similarity transform (scale 1.0451): the oval window landmark to the Z-Anatomy stapes footplate, and the part centroids to the positions of the former Z-Anatomy inner-ear surfaces, then refined the orientation by whole-shape ICP against those former positions (0.31 mm RMS). No former geometry is included.
+- The left inner ear is a reflected display copy of this right specimen.
+This replaces the University of Dundee inner-ear surfaces (CC BY-NC-SA 4.0), which are not distributed.
