@@ -1,0 +1,91 @@
+{
+  "dataset": "Z-Anatomy",
+  "sourceUrl": "https://github.com/LluisV/Z-Anatomy/tree/PC-Version/Resources/Models/FBX",
+  "license": "Mixed: CC BY-SA 4.0 aggregate; selected inner-ear and kidney assets carry non-commercial source terms",
+  "licenseSourceUrl": "https://github.com/Z-Anatomy/Models-of-human-anatomy",
+  "attribution": "Z-Anatomy - The libre 3D atlas of anatomy; BodyParts3D - The Database Center for Life Science; additional model-specific credits in ATTRIBUTION.txt and meshes.json",
+  "modifications": "Converted official FBX to independent named Draco GLB structures; removed annotation-helper geometry; applied FBX hierarchy transforms and converted centimetres to metres; 18-bit position quantization. Mirrored transform winding corrected. No anatomical meshes invented. Original FBX Tendon material faces restored as scalar masks; optional 1.5 mm display feather remains inside authored tendon faces. Original geometry, identifiers and bounds retained. Source-authored Tendon boundary interpolation repaired with planar edge midpoint/face centroid display subdivisions. Original anatomical surfaces and source IDs retained; render tessellation is not additional anatomical detail. Cool off-white nonmetal display material, roughness 0.52, and per-mesh inside-boundary feather capped at 3 mm.",
+  "coordinates": {
+    "up": "+Y",
+    "front": "+Z",
+    "left": "+X",
+    "units": "metres",
+    "sourceToApp": "Apply complete FBX node world transform, then divide positions by 100. This model is not spatially registered to BodyParts3D 4.0.",
+    "bounds": [
+      [
+        -0.022744399487305847,
+        1.4915178713846353,
+        0.003027485801118801
+      ],
+      [
+        0.022744432865907813,
+        1.5395737550111266,
+        0.07885312944988097
+      ]
+    ]
+  },
+  "geometryMeshCount": 6,
+  "structureCount": 6,
+  "triangleCount": 12346,
+  "totalGlbBytes": 117848,
+  "chunks": [
+    {
+      "file": "oral-original-skeletal-01.glb",
+      "system": "skeletal",
+      "bytes": 13280,
+      "meshCount": 1,
+      "meshIds": [
+        "ZA_6b3996016be69d"
+      ],
+      "sha256": "9b48f65358344714c771a43f583fb77d23a1bad24e22346e3774092f9e2d07a9"
+    },
+    {
+      "file": "oral-original-visceral-01.glb",
+      "system": "visceral",
+      "bytes": 7668,
+      "meshCount": 1,
+      "meshIds": [
+        "ZA_b71ed9c42a05cb"
+      ],
+      "sha256": "952d281e010737b157cf9c317eb37bc2330baf25afc0f903ef49bb08d9d0f834"
+    },
+    {
+      "file": "oral-original-muscular-01.glb",
+      "system": "muscular",
+      "meshCount": 4,
+      "meshIds": [
+        "ZA_ea1796261f16e0",
+        "ZA_d3a25f93603585",
+        "ZA_429b46cd6d5cd1",
+        "ZA_5a35a6dab78631"
+      ],
+      "bytes": 96900,
+      "sha256": "03c8c80c828ad7c12dc8978c4f2777b9355b761608947028b74acc576c5a5604"
+    }
+  ],
+  "geometryFile": "meshes.json",
+  "structuresFile": "structures.json",
+  "requiresDecoder": "KHR_draco_mesh_compression",
+  "limitations": [
+    "Mixed underlying source licenses: do not describe this whole package as unrestricted commercial-use content.",
+    "Two telencephalon white-matter meshes omitted because the original University of Washington permission could not be confirmed.",
+    "Contains original anatomy surfaces and optional attachment/surface-region teaching layers; completeness against a textbook must be mapped, not assumed.",
+    "Do not overlay on BodyParts3D without anatomical registration."
+  ],
+  "sourceTriangles": 12346,
+  "datasetId": "z-body-oral",
+  "subset": {
+    "sourceDatasetId": "z-anatomy",
+    "physicalMeshIds": [
+      "ZA_6b3996016be69d",
+      "ZA_b71ed9c42a05cb",
+      "ZA_ea1796261f16e0",
+      "ZA_d3a25f93603585",
+      "ZA_429b46cd6d5cd1",
+      "ZA_5a35a6dab78631"
+    ],
+    "anatomicalRepresentation": "original-source-subset",
+    "modifications": "Whole original source surfaces, compressed attributes, materials and coordinates preserved; only glTF table offsets and indices compacted.",
+    "scope": "Tongue and hyoid context plus bilateral genioglossus and hyoglossus. No independently labelled intramuscular XII terminals."
+  }
+}

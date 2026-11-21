@@ -1,0 +1,16 @@
+VMRA Superior mesenteric plexus — illustrative reconstruction, CC BY-SA 4.0.
+https://creativecommons.org/licenses/by-sa/4.0/
+
+Z-Anatomy — Gauthier Kervyn, Marcin Zielinski, Lluis Vinent.
+https://github.com/Z-Anatomy/Models-of-human-anatomy
+Source license: CC BY-SA 4.0.
+
+BodyParts3D — The Database Center for Life Science.
+https://lifesciencedb.jp/bp3d/
+Upstream CC BY-SA 2.1 Japan attribution notice retained as supplied by Z-Anatomy.
+
+Modifications: New illustrative nerve surfaces use exterior guides derived from source intestinal arteries in the composed body. Thread positions and thickness, local links and organ-wall approaches are authored. The composed source intestinal geometry includes the documented source-derived accommodation. Original source datasets remain unchanged. No measured nerve segmentation or complete terminal innervation is claimed.
+
+Anatomical relationships: Luzon et al., 2022, Surgical Endoscopy, DOI 10.1007/s00464-022-09200-2; UAMS Department of Neuroscience, Nerves of the Abdomen. Literature is consulted for anatomical relationships only. No private atlas image, article figure or specimen nerve mesh is copied.
+
+2026-09-14 continuation: an additional authored middle-colic regional autonomic route approaches the outer transverse-colon wall. Original nerve GLB is unchanged. This is a partial educational reconstruction, not measured neural anatomy or whole-colon innervation.

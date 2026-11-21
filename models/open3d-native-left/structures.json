@@ -1,0 +1,229 @@
+[
+  {
+    "id": "VMRA_NATIVE_LEFT_O3D_529cd1e2ec44af",
+    "nameEn": "Left humerus",
+    "kind": "structure",
+    "system": "skeletal",
+    "meshIds": [
+      "VMRA_NATIVE_LEFT_O3D_529cd1e2ec44af"
+    ],
+    "anatomicalScope": {
+      "kind": "surface",
+      "label": "Left humerus",
+      "note": "One complete original disconnected anatomical left component; no reflected, sliced or moved source triangles."
+    },
+    "laterality": "left",
+    "nameKo": "왼쪽 위팔뼈",
+    "anatomicalRepresentation": "source-component-subset",
+    "bodyRegionIds": [
+      "arm"
+    ]
+  },
+  {
+    "id": "VMRA_NATIVE_LEFT_O3D_025acb3eb4f4c3",
+    "nameEn": "Left tenth rib",
+    "kind": "structure",
+    "system": "skeletal",
+    "meshIds": [
+      "VMRA_NATIVE_LEFT_O3D_025acb3eb4f4c3"
+    ],
+    "anatomicalScope": {
+      "kind": "surface",
+      "label": "Left tenth rib",
+      "note": "One complete original disconnected anatomical left component; no reflected, sliced or moved source triangles."
+    },
+    "laterality": "left",
+    "nameKo": "왼쪽 제10갈비뼈",
+    "anatomicalRepresentation": "source-component-subset",
+    "bodyRegionIds": [
+      "trunk",
+      "abdomen"
+    ]
+  },
+  {
+    "id": "VMRA_NATIVE_LEFT_O3D_ce73e88b02db18",
+    "nameEn": "Left eleventh rib",
+    "kind": "structure",
+    "system": "skeletal",
+    "meshIds": [
+      "VMRA_NATIVE_LEFT_O3D_ce73e88b02db18"
+    ],
+    "anatomicalScope": {
+      "kind": "surface",
+      "label": "Left eleventh rib",
+      "note": "One complete original disconnected anatomical left component; no reflected, sliced or moved source triangles."
+    },
+    "laterality": "left",
+    "nameKo": "왼쪽 제11갈비뼈",
+    "anatomicalRepresentation": "source-component-subset",
+    "bodyRegionIds": [
+      "trunk",
+      "abdomen"
+    ]
+  },
+  {
+    "id": "VMRA_NATIVE_LEFT_O3D_f3428a581f4473",
+    "nameEn": "Left twelfth rib",
+    "kind": "structure",
+    "system": "skeletal",
+    "meshIds": [
+      "VMRA_NATIVE_LEFT_O3D_f3428a581f4473"
+    ],
+    "anatomicalScope": {
+      "kind": "surface",
+      "label": "Left twelfth rib",
+      "note": "One complete original disconnected anatomical left component; no reflected, sliced or moved source triangles."
+    },
+    "laterality": "left",
+    "nameKo": "왼쪽 제12갈비뼈",
+    "anatomicalRepresentation": "source-component-subset",
+    "bodyRegionIds": [
+      "trunk",
+      "abdomen"
+    ]
+  },
+  {
+    "id": "VMRA_NATIVE_LEFT_O3D_12566afc8ac71c",
+    "nameEn": "Left second rib",
+    "kind": "structure",
+    "system": "skeletal",
+    "meshIds": [
+      "VMRA_NATIVE_LEFT_O3D_12566afc8ac71c"
+    ],
+    "anatomicalScope": {
+      "kind": "surface",
+      "label": "Left second rib",
+      "note": "One complete original disconnected anatomical left component; no reflected, sliced or moved source triangles."
+    },
+    "laterality": "left",
+    "nameKo": "왼쪽 제2갈비뼈",
+    "anatomicalRepresentation": "source-component-subset",
+    "bodyRegionIds": [
+      "trunk"
+    ]
+  },
+  {
+    "id": "VMRA_NATIVE_LEFT_O3D_d0e1cb2dc7975a",
+    "nameEn": "Left third rib",
+    "kind": "structure",
+    "system": "skeletal",
+    "meshIds": [
+      "VMRA_NATIVE_LEFT_O3D_d0e1cb2dc7975a"
+    ],
+    "anatomicalScope": {
+      "kind": "surface",
+      "label": "Left third rib",
+      "note": "One complete original disconnected anatomical left component; no reflected, sliced or moved source triangles."
+    },
+    "laterality": "left",
+    "nameKo": "왼쪽 제3갈비뼈",
+    "anatomicalRepresentation": "source-component-subset",
+    "bodyRegionIds": [
+      "trunk"
+    ]
+  },
+  {
+    "id": "VMRA_NATIVE_LEFT_O3D_11991810878b71",
+    "nameEn": "Left fourth rib",
+    "kind": "structure",
+    "system": "skeletal",
+    "meshIds": [
+      "VMRA_NATIVE_LEFT_O3D_11991810878b71"
+    ],
+    "anatomicalScope": {
+      "kind": "surface",
+      "label": "Left fourth rib",
+      "note": "One complete original disconnected anatomical left component; no reflected, sliced or moved source triangles."
+    },
+    "laterality": "left",
+    "nameKo": "왼쪽 제4갈비뼈",
+    "anatomicalRepresentation": "source-component-subset",
+    "bodyRegionIds": [
+      "trunk"
+    ]
+  },
+  {
+    "id": "VMRA_NATIVE_LEFT_O3D_8bddca95bf4356",
+    "nameEn": "Left seventh rib",
+    "kind": "structure",
+    "system": "skeletal",
+    "meshIds": [
+      "VMRA_NATIVE_LEFT_O3D_8bddca95bf4356"
+    ],
+    "anatomicalScope": {
+      "kind": "surface",
+      "label": "Left seventh rib",
+      "note": "One complete original disconnected anatomical left component; no reflected, sliced or moved source triangles."
+    },
+    "laterality": "left",
+    "nameKo": "왼쪽 제7갈비뼈",
+    "anatomicalRepresentation": "source-component-subset",
+    "bodyRegionIds": [
+      "trunk",
+      "abdomen"
+    ]
+  },
+  {
+    "id": "VMRA_NATIVE_LEFT_O3D_de2781bd871d9d",
+    "nameEn": "Left eighth rib",
+    "kind": "structure",
+    "system": "skeletal",
+    "meshIds": [
+      "VMRA_NATIVE_LEFT_O3D_de2781bd871d9d"
+    ],
+    "anatomicalScope": {
+      "kind": "surface",
+      "label": "Left eighth rib",
+      "note": "One complete original disconnected anatomical left component; no reflected, sliced or moved source triangles."
+    },
+    "laterality": "left",
+    "nameKo": "왼쪽 제8갈비뼈",
+    "anatomicalRepresentation": "source-component-subset",
+    "bodyRegionIds": [
+      "trunk",
+      "abdomen"
+    ]
+  },
+  {
+    "id": "VMRA_NATIVE_LEFT_O3D_5f2e3583be1966",
+    "nameEn": "Left ninth rib",
+    "kind": "structure",
+    "system": "skeletal",
+    "meshIds": [
+      "VMRA_NATIVE_LEFT_O3D_5f2e3583be1966"
+    ],
+    "anatomicalScope": {
+      "kind": "surface",
+      "label": "Left ninth rib",
+      "note": "One complete original disconnected anatomical left component; no reflected, sliced or moved source triangles."
+    },
+    "laterality": "left",
+    "nameKo": "왼쪽 제9갈비뼈",
+    "anatomicalRepresentation": "source-component-subset",
+    "bodyRegionIds": [
+      "trunk",
+      "abdomen"
+    ]
+  },
+  {
+    "id": "VMRA_NATIVE_LEFT_O3D_2dd47663fd9252",
+    "nameEn": "Left scapula",
+    "kind": "structure",
+    "system": "skeletal",
+    "meshIds": [
+      "VMRA_NATIVE_LEFT_O3D_2dd47663fd9252"
+    ],
+    "anatomicalScope": {
+      "kind": "surface",
+      "label": "Left scapula",
+      "note": "One complete original disconnected anatomical left component; no reflected, sliced or moved source triangles."
+    },
+    "laterality": "left",
+    "nameKo": "왼쪽 어깨뼈",
+    "anatomicalRepresentation": "source-component-subset",
+    "bodyRegionIds": [
+      "trunk",
+      "arm"
+    ]
+  }
+]

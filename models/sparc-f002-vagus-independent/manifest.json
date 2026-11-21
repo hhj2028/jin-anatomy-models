@@ -1,0 +1,124 @@
+{
+  "dataset": "SPARC f002 Left Vagus — reconstructed specimen course",
+  "datasetId": "sparc-f002-vagus-independent",
+  "sourceRelease": "SPARC 426 v7 (2026-08-04), specimen f002 left",
+  "sourceUrl": "https://discover.pennsieve.io/datasets/426",
+  "sourceDownloadUrl": "https://sparc-prod-aod-discover-publish50-use1.s3.amazonaws.com/426/manifest.json",
+  "sourceDoi": "https://doi.org/10.26275/tjzi-muqm",
+  "sourceSubjectDoi": "https://doi.org/10.26275/imas-52lf",
+  "license": "CC-BY-4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "Lin, M., Christie, R., Chopovda, V., & Nickerson, D. P. (2026). Scaffold map - Human vagus nerve (Version 7). SPARC Portal. https://doi.org/10.26275/tjzi-muqm. CC BY 4.0. Selected source-rendered surfaces converted from JSON to GLB; micrometers scaled to meters. Original display colors retained with a Phong-to-PBR material approximation.",
+  "authoredMaterials": true,
+  "materialPolicy": "preserve-original",
+  "defaultSystems": [
+    "nervous"
+  ],
+  "geometryMeshCount": 3,
+  "structureCount": 3,
+  "triangleCount": 14688,
+  "totalGlbBytes": 334468,
+  "chunks": [
+    {
+      "file": "sparc-f002-vagus-nervous-01.glb",
+      "system": "nervous",
+      "bytes": 334468,
+      "meshCount": 3,
+      "meshIds": [
+        "SPARC426_f002_L_cervical_vagus_surface",
+        "SPARC426_f002_L_thoracic_vagus_surface",
+        "SPARC426_f002_L_anterior_gastric_branch_surface"
+      ],
+      "triangleCount": 14688,
+      "sha256": "f2fdb62373f5c8e1e5fb46c3ee20a359df934a84f727da37fae8cfabe3f6b58c"
+    }
+  ],
+  "units": "meter",
+  "sourceUnits": "micrometer",
+  "sourceToWorldScale": 1e-06,
+  "bounds": [
+    [
+      -0.006573024902343749,
+      2.4993629455566405e-05,
+      -0.055456929687499996
+    ],
+    [
+      0.243240625,
+      0.145095328125,
+      0.36253625
+    ]
+  ],
+  "initialView": {
+    "visibleMeshIds": [
+      "SPARC426_f002_L_cervical_vagus_surface",
+      "SPARC426_f002_L_thoracic_vagus_surface",
+      "SPARC426_f002_L_anterior_gastric_branch_surface"
+    ],
+    "regionMeshIds": [
+      "SPARC426_f002_L_cervical_vagus_surface",
+      "SPARC426_f002_L_thoracic_vagus_surface",
+      "SPARC426_f002_L_anterior_gastric_branch_surface"
+    ],
+    "bounds": [
+      [
+        -0.006573024902343749,
+        2.4993629455566405e-05,
+        -0.055456929687499996
+      ],
+      [
+        0.243240625,
+        0.145095328125,
+        0.36253625
+      ]
+    ],
+    "direction": [
+      -0.42642584500545155,
+      0.8983194837232417,
+      -0.10575019562438223
+    ],
+    "cameraUp": [
+      0.26299729846209535,
+      0.23499821137861687,
+      0.9357394197374025
+    ],
+    "nameEn": "Left vagus · specimen course"
+  },
+  "coordinateFrame": {
+    "kind": "stitched-ex-vivo-specimen",
+    "isAnatomicalBodyFrame": false,
+    "registeredToOtherDatasets": false,
+    "physicalUnitVerified": true,
+    "allowAnatomicalDirectionLabels": false
+  },
+  "observationScope": {
+    "fullBody": false,
+    "organSurfaceContextAvailable": false,
+    "completeOrganInnervation": false,
+    "namedGastricBranchCount": 1,
+    "descriptionKo": "절제한 왼미주신경 표본에 맞춘 표면과 앞위가지 시작 부분입니다. 몸속 장기 배치나 위벽 말단 분포는 포함하지 않습니다."
+  },
+  "geometryFile": "meshes.json",
+  "structuresFile": "structures.json",
+  "referenceOnly": true,
+  "coordinates": {
+    "units": "metres",
+    "bounds": [
+      [
+        -0.006573024902343749,
+        2.4993629455566405e-05,
+        -0.055456929687499996
+      ],
+      [
+        0.243240625,
+        0.145095328125,
+        0.36253625
+      ]
+    ],
+    "kind": "stitched-ex-vivo-specimen",
+    "isAnatomicalBodyFrame": false,
+    "registeredToOtherDatasets": false,
+    "allowAnatomicalDirectionLabels": false,
+    "sourceToApp": "Uniform 1e-6 micrometer-to-meter node scale already present in GLB; no further transform."
+  },
+  "sourceSubjectAttribution": "Source donor reconstruction: Zanos et al. (2026), Human vagus nerve anatomical reconstruction using microCT and immunohistochemistry - f002, Version 1. https://doi.org/10.26275/imas-52lf."
+}

@@ -1,0 +1,6323 @@
+{
+  "sourceRegions": [
+    "overview-skeleton",
+    "muscles-thorax-abdomen",
+    "upper-limb",
+    "lower-limb"
+  ],
+  "candidateCount": 1347,
+  "sameNamePairs": [
+    {
+      "name": "atlas c1",
+      "ids": [
+        "O3D_428c2ef1758603",
+        "O3D_0afee6b2b8f76e"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "muscles-thorax-abdomen"
+      ],
+      "sourceNames": [
+        "Atlas (C1)",
+        "Atlas (C1)"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 5.941838026046753e-07,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 0.9999871348893625,
+      "vertices": [
+        4080,
+        4080
+      ],
+      "triangles": [
+        7024,
+        7024
+      ]
+    },
+    {
+      "name": "atlas c1",
+      "ids": [
+        "O3D_428c2ef1758603",
+        "O3D_376439c9a758a6"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "Atlas (C1)",
+        "Atlas (C1)"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 0.0,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        4080,
+        4080
+      ],
+      "triangles": [
+        7024,
+        7024
+      ]
+    },
+    {
+      "name": "atlas c1",
+      "ids": [
+        "O3D_0afee6b2b8f76e",
+        "O3D_376439c9a758a6"
+      ],
+      "regions": [
+        "muscles-thorax-abdomen",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "Atlas (C1)",
+        "Atlas (C1)"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 5.941838026046753e-07,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 0.9999871348893625,
+      "vertices": [
+        4080,
+        4080
+      ],
+      "triangles": [
+        7024,
+        7024
+      ]
+    },
+    {
+      "name": "axis c2",
+      "ids": [
+        "O3D_dc4b96fe0c81a2",
+        "O3D_ec2810e77dd945"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "muscles-thorax-abdomen"
+      ],
+      "sourceNames": [
+        "Axis (C2)",
+        "Axis (C2)"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 1.3113021850585938e-06,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        3695,
+        3695
+      ],
+      "triangles": [
+        6292,
+        6292
+      ]
+    },
+    {
+      "name": "axis c2",
+      "ids": [
+        "O3D_dc4b96fe0c81a2",
+        "O3D_43336a4022325f"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "Axis (C2)",
+        "Axis (C2)"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 1.862645149230957e-09,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 0.9999999650738649,
+      "vertices": [
+        3695,
+        3695
+      ],
+      "triangles": [
+        6292,
+        6292
+      ]
+    },
+    {
+      "name": "axis c2",
+      "ids": [
+        "O3D_ec2810e77dd945",
+        "O3D_43336a4022325f"
+      ],
+      "regions": [
+        "muscles-thorax-abdomen",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "Axis (C2)",
+        "Axis (C2)"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 1.3113021850585938e-06,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 0.9999999650738649,
+      "vertices": [
+        3695,
+        3695
+      ],
+      "triangles": [
+        6292,
+        6292
+      ]
+    },
+    {
+      "name": "body of sternum",
+      "ids": [
+        "O3D_d711e4637ff760",
+        "O3D_30160bb8ea8d43"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "muscles-thorax-abdomen"
+      ],
+      "sourceNames": [
+        "Body of sternum",
+        "Body of sternum"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 2.041459083557129e-06,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 0.9999638179262385,
+      "vertices": [
+        2634,
+        2634
+      ],
+      "triangles": [
+        4456,
+        4456
+      ]
+    },
+    {
+      "name": "body of sternum",
+      "ids": [
+        "O3D_d711e4637ff760",
+        "O3D_097130742a2310"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "Body of sternum",
+        "Body of sternum"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 1.1920928955078125e-07,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 0.9999999613424977,
+      "vertices": [
+        2634,
+        2634
+      ],
+      "triangles": [
+        4456,
+        4456
+      ]
+    },
+    {
+      "name": "body of sternum",
+      "ids": [
+        "O3D_30160bb8ea8d43",
+        "O3D_097130742a2310"
+      ],
+      "regions": [
+        "muscles-thorax-abdomen",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "Body of sternum",
+        "Body of sternum"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 1.996755599975586e-06,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 0.9999617008407776,
+      "vertices": [
+        2634,
+        2634
+      ],
+      "triangles": [
+        4456,
+        4456
+      ]
+    },
+    {
+      "name": "cervical vertebrae c3",
+      "ids": [
+        "O3D_e33328ffff6eb3",
+        "O3D_497318124e470e"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "muscles-thorax-abdomen"
+      ],
+      "sourceNames": [
+        "Cervical vertebrae (C3)",
+        "Cervical vertebrae (C3)"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 8.810311555862427e-07,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        3489,
+        3489
+      ],
+      "triangles": [
+        5918,
+        5918
+      ]
+    },
+    {
+      "name": "cervical vertebrae c4",
+      "ids": [
+        "O3D_f5c2570b03a745",
+        "O3D_db897e2dbc9b2b"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "muscles-thorax-abdomen"
+      ],
+      "sourceNames": [
+        "Cervical vertebrae (C4)",
+        "Cervical vertebrae (C4)"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 1.2721866369247437e-06,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        3932,
+        3932
+      ],
+      "triangles": [
+        6576,
+        6576
+      ]
+    },
+    {
+      "name": "cervical vertebrae c5",
+      "ids": [
+        "O3D_a1d63f00044c2e",
+        "O3D_71460af4d3d372"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "muscles-thorax-abdomen"
+      ],
+      "sourceNames": [
+        "Cervical vertebrae (C5)",
+        "Cervical vertebrae (C5)"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 1.7601996660232544e-06,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        4030,
+        4030
+      ],
+      "triangles": [
+        6824,
+        6824
+      ]
+    },
+    {
+      "name": "cervical vertebrae c6",
+      "ids": [
+        "O3D_a761d020962ae5",
+        "O3D_5300b698daabd2"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "muscles-thorax-abdomen"
+      ],
+      "sourceNames": [
+        "Cervical vertebrae (C6)",
+        "Cervical vertebrae (C6)"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 4.851818084716797e-05,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        3940,
+        3940
+      ],
+      "triangles": [
+        6864,
+        6864
+      ]
+    },
+    {
+      "name": "cervical vertebrae c7",
+      "ids": [
+        "O3D_840735b242b675",
+        "O3D_804f9a48ce2ec1"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "muscles-thorax-abdomen"
+      ],
+      "sourceNames": [
+        "Cervical vertebrae (C7)",
+        "Cervical vertebrae (C7)"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 8.344650268554688e-07,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 0.9999971775772034,
+      "vertices": [
+        3889,
+        3889
+      ],
+      "triangles": [
+        6748,
+        6748
+      ]
+    },
+    {
+      "name": "coccyx",
+      "ids": [
+        "O3D_6a0b802edd8314",
+        "O3D_80acf7ede78588"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "muscles-thorax-abdomen"
+      ],
+      "sourceNames": [
+        "Coccyx",
+        "Coccyx"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 7.152557373046875e-07,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        448,
+        448
+      ],
+      "triangles": [
+        732,
+        732
+      ]
+    },
+    {
+      "name": "coccyx",
+      "ids": [
+        "O3D_6a0b802edd8314",
+        "O3D_69770f68daa64b"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "lower-limb"
+      ],
+      "sourceNames": [
+        "Coccyx",
+        "Coccyx"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 0.0,
+      "identicalDracoBytes": true,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        448,
+        448
+      ],
+      "triangles": [
+        732,
+        732
+      ]
+    },
+    {
+      "name": "coccyx",
+      "ids": [
+        "O3D_80acf7ede78588",
+        "O3D_69770f68daa64b"
+      ],
+      "regions": [
+        "muscles-thorax-abdomen",
+        "lower-limb"
+      ],
+      "sourceNames": [
+        "Coccyx",
+        "Coccyx"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 7.152557373046875e-07,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        448,
+        448
+      ],
+      "triangles": [
+        732,
+        732
+      ]
+    },
+    {
+      "name": "lumbar vertebrae l1",
+      "ids": [
+        "O3D_a194fbb98385e2",
+        "O3D_b7c5ce31bab478"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "muscles-thorax-abdomen"
+      ],
+      "sourceNames": [
+        "Lumbar vertebrae (L1)",
+        "Lumbar vertebrae (L1)"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 1.30385160446167e-06,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 0.9999959423571254,
+      "vertices": [
+        4677,
+        4677
+      ],
+      "triangles": [
+        8320,
+        8320
+      ]
+    },
+    {
+      "name": "lumbar vertebrae l2",
+      "ids": [
+        "O3D_b203445563ab28",
+        "O3D_2de2de9fab4797"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "muscles-thorax-abdomen"
+      ],
+      "sourceNames": [
+        "Lumbar vertebrae (L2)",
+        "Lumbar vertebrae (L2)"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 2.2649765014648438e-06,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 0.9999807847399186,
+      "vertices": [
+        4621,
+        4621
+      ],
+      "triangles": [
+        8056,
+        8056
+      ]
+    },
+    {
+      "name": "lumbar vertebrae l3",
+      "ids": [
+        "O3D_0a1fa794298b9d",
+        "O3D_af9af589783d9d"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "muscles-thorax-abdomen"
+      ],
+      "sourceNames": [
+        "Lumbar vertebrae (L3)",
+        "Lumbar vertebrae (L3)"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 2.384185791015625e-06,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        4567,
+        4567
+      ],
+      "triangles": [
+        7988,
+        7988
+      ]
+    },
+    {
+      "name": "lumbar vertebrae l4",
+      "ids": [
+        "O3D_1b948b3b42daca",
+        "O3D_bc6ed1675b88bc"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "muscles-thorax-abdomen"
+      ],
+      "sourceNames": [
+        "Lumbar vertebrae (L4)",
+        "Lumbar vertebrae (L4)"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 1.8775463104248047e-06,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 0.9999777490300741,
+      "vertices": [
+        4502,
+        4502
+      ],
+      "triangles": [
+        7984,
+        7984
+      ]
+    },
+    {
+      "name": "lumbar vertebrae l5",
+      "ids": [
+        "O3D_ee008ecb7d1444",
+        "O3D_0b64068dc73901"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "muscles-thorax-abdomen"
+      ],
+      "sourceNames": [
+        "Lumbar vertebrae (L5)",
+        "Lumbar vertebrae (L5)"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 2.0265579223632812e-06,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 0.999999908690046,
+      "vertices": [
+        4145,
+        4145
+      ],
+      "triangles": [
+        7412,
+        7412
+      ]
+    },
+    {
+      "name": "manubrium of sternum",
+      "ids": [
+        "O3D_983c3021c7e610",
+        "O3D_e5ba6ebdab3fd8"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "muscles-thorax-abdomen"
+      ],
+      "sourceNames": [
+        "Manubrium of sternum",
+        "Manubrium of sternum"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 7.152557373046875e-07,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 0.9999982631435886,
+      "vertices": [
+        1425,
+        1425
+      ],
+      "triangles": [
+        2476,
+        2476
+      ]
+    },
+    {
+      "name": "manubrium of sternum",
+      "ids": [
+        "O3D_983c3021c7e610",
+        "O3D_19ac48f9ced2a1"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "Manubrium of sternum",
+        "Manubrium of sternum"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 0.0,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        1425,
+        1425
+      ],
+      "triangles": [
+        2476,
+        2476
+      ]
+    },
+    {
+      "name": "manubrium of sternum",
+      "ids": [
+        "O3D_e5ba6ebdab3fd8",
+        "O3D_19ac48f9ced2a1"
+      ],
+      "regions": [
+        "muscles-thorax-abdomen",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "Manubrium of sternum",
+        "Manubrium of sternum"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 7.152557373046875e-07,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 0.9999982631435886,
+      "vertices": [
+        1425,
+        1425
+      ],
+      "triangles": [
+        2476,
+        2476
+      ]
+    },
+    {
+      "name": "sacrum",
+      "ids": [
+        "O3D_5f8fe434da9608",
+        "O3D_0468824c2cbc98"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "muscles-thorax-abdomen"
+      ],
+      "sourceNames": [
+        "Sacrum",
+        "Sacrum"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 2.86102294921875e-06,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        6302,
+        6302
+      ],
+      "triangles": [
+        10564,
+        10564
+      ]
+    },
+    {
+      "name": "sacrum",
+      "ids": [
+        "O3D_5f8fe434da9608",
+        "O3D_2d184a0811e97d"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "Sacrum",
+        "Sacrum"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 3.725290298461914e-09,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 0.9999999698847429,
+      "vertices": [
+        6302,
+        6302
+      ],
+      "triangles": [
+        10564,
+        10564
+      ]
+    },
+    {
+      "name": "sacrum",
+      "ids": [
+        "O3D_5f8fe434da9608",
+        "O3D_4653b666e65477"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "lower-limb"
+      ],
+      "sourceNames": [
+        "Sacrum",
+        "Sacrum"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 0.0,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        6302,
+        6302
+      ],
+      "triangles": [
+        10564,
+        10564
+      ]
+    },
+    {
+      "name": "sacrum",
+      "ids": [
+        "O3D_0468824c2cbc98",
+        "O3D_2d184a0811e97d"
+      ],
+      "regions": [
+        "muscles-thorax-abdomen",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "Sacrum",
+        "Sacrum"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 2.86102294921875e-06,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 0.999999969884743,
+      "vertices": [
+        6302,
+        6302
+      ],
+      "triangles": [
+        10564,
+        10564
+      ]
+    },
+    {
+      "name": "sacrum",
+      "ids": [
+        "O3D_0468824c2cbc98",
+        "O3D_4653b666e65477"
+      ],
+      "regions": [
+        "muscles-thorax-abdomen",
+        "lower-limb"
+      ],
+      "sourceNames": [
+        "Sacrum",
+        "Sacrum"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 2.86102294921875e-06,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        6302,
+        6302
+      ],
+      "triangles": [
+        10564,
+        10564
+      ]
+    },
+    {
+      "name": "sacrum",
+      "ids": [
+        "O3D_2d184a0811e97d",
+        "O3D_4653b666e65477"
+      ],
+      "regions": [
+        "upper-limb",
+        "lower-limb"
+      ],
+      "sourceNames": [
+        "Sacrum",
+        "Sacrum"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 3.725290298461914e-09,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 0.9999999698847429,
+      "vertices": [
+        6302,
+        6302
+      ],
+      "triangles": [
+        10564,
+        10564
+      ]
+    },
+    {
+      "name": "thoracic vertebrae t1",
+      "ids": [
+        "O3D_9b7bc59dab102d",
+        "O3D_6971db53374e6a"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "muscles-thorax-abdomen"
+      ],
+      "sourceNames": [
+        "Thoracic vertebrae (T1)",
+        "Thoracic vertebrae (T1)"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 1.3113021850585938e-06,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        3480,
+        3480
+      ],
+      "triangles": [
+        6100,
+        6100
+      ]
+    },
+    {
+      "name": "thoracic vertebrae t10",
+      "ids": [
+        "O3D_9d8f9b27eb0793",
+        "O3D_574abea6aaeffd"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "muscles-thorax-abdomen"
+      ],
+      "sourceNames": [
+        "Thoracic vertebrae (T10)",
+        "Thoracic vertebrae (T10)"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 1.8328428268432617e-06,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 0.9999999528175405,
+      "vertices": [
+        4162,
+        4162
+      ],
+      "triangles": [
+        7226,
+        7226
+      ]
+    },
+    {
+      "name": "thoracic vertebrae t11",
+      "ids": [
+        "O3D_7839fa59b7cd8c",
+        "O3D_d2787fe59fe8db"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "muscles-thorax-abdomen"
+      ],
+      "sourceNames": [
+        "Thoracic vertebrae (T11)",
+        "Thoracic vertebrae (T11)"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 1.5087425708770752e-06,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        4813,
+        4813
+      ],
+      "triangles": [
+        8312,
+        8312
+      ]
+    },
+    {
+      "name": "thoracic vertebrae t12",
+      "ids": [
+        "O3D_3a60f664f0542f",
+        "O3D_618cdde0e365ed"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "muscles-thorax-abdomen"
+      ],
+      "sourceNames": [
+        "Thoracic vertebrae (T12)",
+        "Thoracic vertebrae (T12)"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 1.9744038581848145e-06,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        4534,
+        4534
+      ],
+      "triangles": [
+        8024,
+        8024
+      ]
+    },
+    {
+      "name": "thoracic vertebrae t2",
+      "ids": [
+        "O3D_e4dd1706f9d36f",
+        "O3D_95f2c9b579c4f2"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "muscles-thorax-abdomen"
+      ],
+      "sourceNames": [
+        "Thoracic vertebrae (T2)",
+        "Thoracic vertebrae (T2)"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 1.9073486328125e-06,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 0.9999830857557249,
+      "vertices": [
+        3405,
+        3405
+      ],
+      "triangles": [
+        5920,
+        5920
+      ]
+    },
+    {
+      "name": "thoracic vertebrae t3",
+      "ids": [
+        "O3D_5fe5f8908c2b70",
+        "O3D_ced12922f1f51b"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "muscles-thorax-abdomen"
+      ],
+      "sourceNames": [
+        "Thoracic vertebrae (T3)",
+        "Thoracic vertebrae (T3)"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 1.1920928955078125e-06,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 0.9999999524107477,
+      "vertices": [
+        3552,
+        3552
+      ],
+      "triangles": [
+        6080,
+        6080
+      ]
+    },
+    {
+      "name": "thoracic vertebrae t4",
+      "ids": [
+        "O3D_0426dc600e7a49",
+        "O3D_a3a207498e8f52"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "muscles-thorax-abdomen"
+      ],
+      "sourceNames": [
+        "Thoracic vertebrae (T4)",
+        "Thoracic vertebrae (T4)"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 2.0265579223632812e-06,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 0.9999741977086711,
+      "vertices": [
+        3661,
+        3661
+      ],
+      "triangles": [
+        6296,
+        6296
+      ]
+    },
+    {
+      "name": "thoracic vertebrae t5",
+      "ids": [
+        "O3D_94647ea3c5ef40",
+        "O3D_c33fea47977452"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "muscles-thorax-abdomen"
+      ],
+      "sourceNames": [
+        "Thoracic vertebrae (T5)",
+        "Thoracic vertebrae (T5)"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 2.1010637283325195e-06,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        3798,
+        3798
+      ],
+      "triangles": [
+        6636,
+        6636
+      ]
+    },
+    {
+      "name": "thoracic vertebrae t6",
+      "ids": [
+        "O3D_09ed4b3e371b7e",
+        "O3D_0d6475e64d8e6a"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "muscles-thorax-abdomen"
+      ],
+      "sourceNames": [
+        "Thoracic vertebrae (T6)",
+        "Thoracic vertebrae (T6)"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 1.3113021850585938e-06,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 0.9999912999029658,
+      "vertices": [
+        4330,
+        4330
+      ],
+      "triangles": [
+        7600,
+        7600
+      ]
+    },
+    {
+      "name": "thoracic vertebrae t7",
+      "ids": [
+        "O3D_8765ad4b272a11",
+        "O3D_255e32bd1b04aa"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "muscles-thorax-abdomen"
+      ],
+      "sourceNames": [
+        "Thoracic vertebrae (T7)",
+        "Thoracic vertebrae (T7)"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 1.259148120880127e-06,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 0.999994036425513,
+      "vertices": [
+        4477,
+        4477
+      ],
+      "triangles": [
+        7968,
+        7968
+      ]
+    },
+    {
+      "name": "thoracic vertebrae t8",
+      "ids": [
+        "O3D_5f298ea9e37693",
+        "O3D_6f522150b27d1b"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "muscles-thorax-abdomen"
+      ],
+      "sourceNames": [
+        "Thoracic vertebrae (T8)",
+        "Thoracic vertebrae (T8)"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 1.1920928955078125e-06,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        4705,
+        4705
+      ],
+      "triangles": [
+        8212,
+        8212
+      ]
+    },
+    {
+      "name": "thoracic vertebrae t9",
+      "ids": [
+        "O3D_256547b289b634",
+        "O3D_2866ec8de87610"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "muscles-thorax-abdomen"
+      ],
+      "sourceNames": [
+        "Thoracic vertebrae (T9)",
+        "Thoracic vertebrae (T9)"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 2.2649765014648438e-06,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 0.9999997885734077,
+      "vertices": [
+        4249,
+        4249
+      ],
+      "triangles": [
+        7604,
+        7604
+      ]
+    },
+    {
+      "name": "1st metacarpal bone r",
+      "ids": [
+        "O3D_1c4805deaca99f",
+        "O3D_8a9f36702e1569"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "1st metacarpal bone.r",
+        "1st metacarpal bone.r"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 1.1101365089416504e-06,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 0.999998423754648,
+      "vertices": [
+        851,
+        851
+      ],
+      "triangles": [
+        1502,
+        1502
+      ]
+    },
+    {
+      "name": "2nd metacarpal bone r",
+      "ids": [
+        "O3D_b5e4ab8a1a9435",
+        "O3D_2cf75728fadee1"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "2nd metacarpal bone.r",
+        "2nd metacarpal bone.r"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 1.4416873455047607e-06,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 0.9999999641443006,
+      "vertices": [
+        1189,
+        1189
+      ],
+      "triangles": [
+        2064,
+        2064
+      ]
+    },
+    {
+      "name": "3rd metacarpal bone r",
+      "ids": [
+        "O3D_e890841643613c",
+        "O3D_5ae46ce412a72f"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "3rd metacarpal bone.r",
+        "3rd metacarpal bone.r"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 1.0915100574493408e-06,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        1257,
+        1257
+      ],
+      "triangles": [
+        2124,
+        2124
+      ]
+    },
+    {
+      "name": "4th metacarpal bone r",
+      "ids": [
+        "O3D_19865cb6cacb7f",
+        "O3D_0c7036c07468f7"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "4th metacarpal bone.r",
+        "4th metacarpal bone.r"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 2.1606683731079102e-07,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 0.9999999653099768,
+      "vertices": [
+        1135,
+        1135
+      ],
+      "triangles": [
+        1900,
+        1900
+      ]
+    },
+    {
+      "name": "5th metacarpal bone r",
+      "ids": [
+        "O3D_4e23caede5d0e2",
+        "O3D_24dd1fb2ba5a23"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "5th metacarpal bone.r",
+        "5th metacarpal bone.r"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 1.6242265701293945e-06,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 0.9999576488297279,
+      "vertices": [
+        1079,
+        1079
+      ],
+      "triangles": [
+        1814,
+        1814
+      ]
+    },
+    {
+      "name": "calcaneus r",
+      "ids": [
+        "O3D_bd07bf5fad50cf",
+        "O3D_f2b97a7db04ffb"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "lower-limb"
+      ],
+      "sourceNames": [
+        "Calcaneus.r",
+        "Calcaneus.r"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 0.0,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        1689,
+        1689
+      ],
+      "triangles": [
+        2910,
+        2910
+      ]
+    },
+    {
+      "name": "capitate r",
+      "ids": [
+        "O3D_5367956811e69a",
+        "O3D_fc35bb12057e3f"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "Capitate.r",
+        "Capitate.r"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 2.682209014892578e-07,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 0.999999949496258,
+      "vertices": [
+        507,
+        507
+      ],
+      "triangles": [
+        844,
+        844
+      ]
+    },
+    {
+      "name": "clavicle r",
+      "ids": [
+        "O3D_7c7436abc4f31a",
+        "O3D_7c841547917a32"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "Clavicle.r",
+        "Clavicle.r"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 0.0,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        2670,
+        2670
+      ],
+      "triangles": [
+        4942,
+        4942
+      ]
+    },
+    {
+      "name": "cuboid bone r",
+      "ids": [
+        "O3D_2dd46eb22d824b",
+        "O3D_aa086ff980fc8d"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "lower-limb"
+      ],
+      "sourceNames": [
+        "Cuboid bone.r",
+        "Cuboid bone.r"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 0.0,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        1114,
+        1114
+      ],
+      "triangles": [
+        1916,
+        1916
+      ]
+    },
+    {
+      "name": "distal phalanx of 1st finger r",
+      "ids": [
+        "O3D_18ab69147f7050",
+        "O3D_7857bf04860f98"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "Distal phalanx of 1st finger.r",
+        "Distal phalanx of 1st finger.r"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 4.172325134277344e-07,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        477,
+        477
+      ],
+      "triangles": [
+        820,
+        820
+      ]
+    },
+    {
+      "name": "distal phalanx of 2d finger r",
+      "ids": [
+        "O3D_c13356f29f9604",
+        "O3D_f84090da891fdb"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "Distal phalanx of 2d finger.r",
+        "Distal phalanx of 2d finger.r"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 1.1920928955078125e-07,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 0.9999956163999245,
+      "vertices": [
+        418,
+        418
+      ],
+      "triangles": [
+        710,
+        710
+      ]
+    },
+    {
+      "name": "distal phalanx of 3d finger r",
+      "ids": [
+        "O3D_b98bef123e1a63",
+        "O3D_1737566cbf8016"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "Distal phalanx of 3d finger.r",
+        "Distal phalanx of 3d finger.r"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 2.980232238769531e-07,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 0.999974011584321,
+      "vertices": [
+        344,
+        344
+      ],
+      "triangles": [
+        592,
+        592
+      ]
+    },
+    {
+      "name": "distal phalanx of 4th finger r",
+      "ids": [
+        "O3D_a06772875bf368",
+        "O3D_05f675c33b63b8"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "Distal phalanx of 4th finger.r",
+        "Distal phalanx of 4th finger.r"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 2.980232238769531e-07,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        373,
+        373
+      ],
+      "triangles": [
+        582,
+        582
+      ]
+    },
+    {
+      "name": "distal phalanx of 5th finger r",
+      "ids": [
+        "O3D_5a37f6a1cf788f",
+        "O3D_0bb69dca0a5a95"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "Distal phalanx of 5th finger.r",
+        "Distal phalanx of 5th finger.r"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 3.5762786865234375e-07,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 0.9999980729169677,
+      "vertices": [
+        348,
+        348
+      ],
+      "triangles": [
+        596,
+        596
+      ]
+    },
+    {
+      "name": "distal phalanx of fifth finger of foot r",
+      "ids": [
+        "O3D_f2e0c0ca4100e5",
+        "O3D_bd405a360cba60"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "lower-limb"
+      ],
+      "sourceNames": [
+        "Distal phalanx of fifth finger of foot.r",
+        "Distal phalanx of fifth finger of foot.r"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 0.0,
+      "identicalDracoBytes": true,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        210,
+        210
+      ],
+      "triangles": [
+        342,
+        342
+      ]
+    },
+    {
+      "name": "distal phalanx of first finger of foot r",
+      "ids": [
+        "O3D_be5edb20989ae3",
+        "O3D_517c7e2a8eea81"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "lower-limb"
+      ],
+      "sourceNames": [
+        "Distal phalanx of first finger of foot.r",
+        "Distal phalanx of first finger of foot.r"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 0.0,
+      "identicalDracoBytes": true,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        438,
+        438
+      ],
+      "triangles": [
+        706,
+        706
+      ]
+    },
+    {
+      "name": "distal phalanx of fourth finger of foot r",
+      "ids": [
+        "O3D_ed436be907b1ad",
+        "O3D_3bcecab4ccc0c0"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "lower-limb"
+      ],
+      "sourceNames": [
+        "Distal phalanx of fourth finger of foot.r",
+        "Distal phalanx of fourth finger of foot.r"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 0.0,
+      "identicalDracoBytes": true,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        194,
+        194
+      ],
+      "triangles": [
+        316,
+        316
+      ]
+    },
+    {
+      "name": "distal phalanx of second finger of foot r",
+      "ids": [
+        "O3D_693c3c9c8b3d4b",
+        "O3D_8c1e863d3ef68e"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "lower-limb"
+      ],
+      "sourceNames": [
+        "Distal phalanx of second finger of foot.r",
+        "Distal phalanx of second finger of foot.r"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 0.0,
+      "identicalDracoBytes": true,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        231,
+        231
+      ],
+      "triangles": [
+        344,
+        344
+      ]
+    },
+    {
+      "name": "distal phalanx of third finger of foot r",
+      "ids": [
+        "O3D_4c70c46df0d05c",
+        "O3D_fa4454e364bd79"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "lower-limb"
+      ],
+      "sourceNames": [
+        "Distal phalanx of third finger of foot.r",
+        "Distal phalanx of third finger of foot.r"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 0.0,
+      "identicalDracoBytes": true,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        193,
+        193
+      ],
+      "triangles": [
+        296,
+        296
+      ]
+    },
+    {
+      "name": "femur r",
+      "ids": [
+        "O3D_05ffaf48937967",
+        "O3D_353f2de0f8a901"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "lower-limb"
+      ],
+      "sourceNames": [
+        "Femur.r",
+        "Femur.r"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 0.0,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        6827,
+        6827
+      ],
+      "triangles": [
+        12608,
+        12608
+      ]
+    },
+    {
+      "name": "fibula r",
+      "ids": [
+        "O3D_4bcfe480dc5d8f",
+        "O3D_b7b56fad74835f"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "lower-limb"
+      ],
+      "sourceNames": [
+        "Fibula.r",
+        "Fibula.r"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 0.0,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        1700,
+        1700
+      ],
+      "triangles": [
+        2868,
+        2868
+      ]
+    },
+    {
+      "name": "fifth metatarsal bone r",
+      "ids": [
+        "O3D_58743afc3ae3e4",
+        "O3D_4349bceee38883"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "lower-limb"
+      ],
+      "sourceNames": [
+        "Fifth metatarsal bone.r",
+        "Fifth metatarsal bone.r"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 0.0,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        857,
+        857
+      ],
+      "triangles": [
+        1362,
+        1362
+      ]
+    },
+    {
+      "name": "first metatarsal bone r",
+      "ids": [
+        "O3D_baae659ab543c2",
+        "O3D_0b4c8f4cb1a87c"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "lower-limb"
+      ],
+      "sourceNames": [
+        "First metatarsal bone.r",
+        "First metatarsal bone.r"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 0.0,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        960,
+        960
+      ],
+      "triangles": [
+        1652,
+        1652
+      ]
+    },
+    {
+      "name": "fourth metatarsal bone r",
+      "ids": [
+        "O3D_67671601b70460",
+        "O3D_8f825670398e3f"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "lower-limb"
+      ],
+      "sourceNames": [
+        "Fourth metatarsal bone.r",
+        "Fourth metatarsal bone.r"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 0.0,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        1014,
+        1014
+      ],
+      "triangles": [
+        1696,
+        1696
+      ]
+    },
+    {
+      "name": "hamate r",
+      "ids": [
+        "O3D_b840d5e82c3751",
+        "O3D_9107d18196d411"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "Hamate.r",
+        "Hamate.r"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 5.960464477539062e-07,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        554,
+        554
+      ],
+      "triangles": [
+        896,
+        896
+      ]
+    },
+    {
+      "name": "hip bone r",
+      "ids": [
+        "O3D_0432208a152acf",
+        "O3D_0290b01a175d55"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "lower-limb"
+      ],
+      "sourceNames": [
+        "Hip bone.r",
+        "Hip bone.r"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 0.0,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        6247,
+        6247
+      ],
+      "triangles": [
+        11062,
+        11062
+      ]
+    },
+    {
+      "name": "humerus r",
+      "ids": [
+        "O3D_51d578370516da",
+        "O3D_55cb78340bdd95"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "Humerus.r",
+        "Humerus.r"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 1.8924474716186523e-06,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 0.9999999278779232,
+      "vertices": [
+        4561,
+        4561
+      ],
+      "triangles": [
+        8448,
+        8448
+      ]
+    },
+    {
+      "name": "intermediate cuneiform bone r",
+      "ids": [
+        "O3D_070f07058ca164",
+        "O3D_71074817334d57"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "lower-limb"
+      ],
+      "sourceNames": [
+        "Intermediate cuneiform bone.r",
+        "Intermediate cuneiform bone.r"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 0.0,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        889,
+        889
+      ],
+      "triangles": [
+        1506,
+        1506
+      ]
+    },
+    {
+      "name": "lateral cuneiform bone r",
+      "ids": [
+        "O3D_762e27768e9abd",
+        "O3D_139f2a2f058000"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "lower-limb"
+      ],
+      "sourceNames": [
+        "Lateral cuneiform bone.r",
+        "Lateral cuneiform bone.r"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 0.0,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        935,
+        935
+      ],
+      "triangles": [
+        1548,
+        1548
+      ]
+    },
+    {
+      "name": "lunate bone r",
+      "ids": [
+        "O3D_bb2b54b41e9b11",
+        "O3D_af635bdfb47d3c"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "Lunate bone.r",
+        "Lunate bone.r"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 2.942979335784912e-07,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 0.9999990667361257,
+      "vertices": [
+        417,
+        417
+      ],
+      "triangles": [
+        706,
+        706
+      ]
+    },
+    {
+      "name": "medial cuneiform bone r",
+      "ids": [
+        "O3D_30a42a0866067a",
+        "O3D_b645282575cafb"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "lower-limb"
+      ],
+      "sourceNames": [
+        "Medial cuneiform bone.r",
+        "Medial cuneiform bone.r"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 0.0,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        1250,
+        1250
+      ],
+      "triangles": [
+        2174,
+        2174
+      ]
+    },
+    {
+      "name": "middle phalanx of 2d finger r",
+      "ids": [
+        "O3D_c40d6b399ccd63",
+        "O3D_a1861c9ff49a39"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "Middle phalanx of 2d finger.r",
+        "Middle phalanx of 2d finger.r"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 5.364418029785156e-07,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 0.9999824190100867,
+      "vertices": [
+        568,
+        568
+      ],
+      "triangles": [
+        916,
+        916
+      ]
+    },
+    {
+      "name": "middle phalanx of 3rd finger r",
+      "ids": [
+        "O3D_66428e98e09b99",
+        "O3D_710e06f70fba98"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "Middle phalanx of 3rd finger.r",
+        "Middle phalanx of 3rd finger.r"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 7.450580596923828e-07,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        560,
+        560
+      ],
+      "triangles": [
+        978,
+        978
+      ]
+    },
+    {
+      "name": "middle phalanx of 4th finger r",
+      "ids": [
+        "O3D_b40604dc2582e0",
+        "O3D_e2081c16fd77d8"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "Middle phalanx of 4th finger.r",
+        "Middle phalanx of 4th finger.r"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 7.152557373046875e-07,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 0.9999998489374182,
+      "vertices": [
+        558,
+        558
+      ],
+      "triangles": [
+        976,
+        976
+      ]
+    },
+    {
+      "name": "middle phalanx of 5th finger r",
+      "ids": [
+        "O3D_d042c318f26827",
+        "O3D_1ab3db6ebf3062"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "Middle phalanx of 5th finger.r",
+        "Middle phalanx of 5th finger.r"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 4.023313522338867e-07,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 0.9999932623879724,
+      "vertices": [
+        498,
+        498
+      ],
+      "triangles": [
+        850,
+        850
+      ]
+    },
+    {
+      "name": "middle phalanx of fifth finger of foot r",
+      "ids": [
+        "O3D_9d787e04643151",
+        "O3D_8439c5426e19bf"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "lower-limb"
+      ],
+      "sourceNames": [
+        "Middle phalanx of fifth finger of foot.r",
+        "Middle phalanx of fifth finger of foot.r"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 0.0,
+      "identicalDracoBytes": true,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        198,
+        198
+      ],
+      "triangles": [
+        302,
+        302
+      ]
+    },
+    {
+      "name": "middle phalanx of fourth finger of foot r",
+      "ids": [
+        "O3D_762ccb86caf70d",
+        "O3D_be381fe4a8ed55"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "lower-limb"
+      ],
+      "sourceNames": [
+        "Middle phalanx of fourth finger of foot.r",
+        "Middle phalanx of fourth finger of foot.r"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 0.0,
+      "identicalDracoBytes": true,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        291,
+        291
+      ],
+      "triangles": [
+        458,
+        458
+      ]
+    },
+    {
+      "name": "middle phalanx of second finger of foot r",
+      "ids": [
+        "O3D_a5afef8330ed47",
+        "O3D_a5e15d37866fcb"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "lower-limb"
+      ],
+      "sourceNames": [
+        "Middle phalanx of second finger of foot.r",
+        "Middle phalanx of second finger of foot.r"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 0.0,
+      "identicalDracoBytes": true,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        335,
+        335
+      ],
+      "triangles": [
+        506,
+        506
+      ]
+    },
+    {
+      "name": "middle phalanx of third finger of foot r",
+      "ids": [
+        "O3D_6d5b8d338fa1f5",
+        "O3D_c3c4055e7d1996"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "lower-limb"
+      ],
+      "sourceNames": [
+        "Middle phalanx of third finger of foot.r",
+        "Middle phalanx of third finger of foot.r"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 0.0,
+      "identicalDracoBytes": true,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        310,
+        310
+      ],
+      "triangles": [
+        486,
+        486
+      ]
+    },
+    {
+      "name": "navicular bone r",
+      "ids": [
+        "O3D_7e20fcfb67b0ae",
+        "O3D_7eaefca10763bc"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "lower-limb"
+      ],
+      "sourceNames": [
+        "Navicular bone.r",
+        "Navicular bone.r"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 0.0,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        1118,
+        1118
+      ],
+      "triangles": [
+        1950,
+        1950
+      ]
+    },
+    {
+      "name": "patella r",
+      "ids": [
+        "O3D_46eefd38fdbbcf",
+        "O3D_0524842d43f040"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "lower-limb"
+      ],
+      "sourceNames": [
+        "Patella.r",
+        "Patella.r"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 0.0,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        597,
+        597
+      ],
+      "triangles": [
+        1122,
+        1122
+      ]
+    },
+    {
+      "name": "pisiform r",
+      "ids": [
+        "O3D_29d1be907858d9",
+        "O3D_4af8ec4a3893c2"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "Pisiform.r",
+        "Pisiform.r"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 1.7881393432617188e-07,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 0.9999834485802559,
+      "vertices": [
+        225,
+        225
+      ],
+      "triangles": [
+        352,
+        352
+      ]
+    },
+    {
+      "name": "proximal phalanx of 1st finger r",
+      "ids": [
+        "O3D_25956066f36f52",
+        "O3D_eb0c56cffb51ea"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "Proximal phalanx of 1st finger.r",
+        "Proximal phalanx of 1st finger.r"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 8.568167686462402e-07,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 0.9999985360362008,
+      "vertices": [
+        831,
+        831
+      ],
+      "triangles": [
+        1458,
+        1458
+      ]
+    },
+    {
+      "name": "proximal phalanx of 2d finger r",
+      "ids": [
+        "O3D_0ee16040f964be",
+        "O3D_b2c2de653d49d4"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "Proximal phalanx of 2d finger.r",
+        "Proximal phalanx of 2d finger.r"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 7.748603820800781e-07,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 0.9999826900864551,
+      "vertices": [
+        956,
+        956
+      ],
+      "triangles": [
+        1596,
+        1596
+      ]
+    },
+    {
+      "name": "proximal phalanx of 3rd finger r",
+      "ids": [
+        "O3D_8f4215cad6df9b",
+        "O3D_1a1d55d4b34992"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "Proximal phalanx of 3rd finger.r",
+        "Proximal phalanx of 3rd finger.r"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 7.152557373046875e-07,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        858,
+        858
+      ],
+      "triangles": [
+        1408,
+        1408
+      ]
+    },
+    {
+      "name": "proximal phalanx of 4th finger r",
+      "ids": [
+        "O3D_9049ce8ad2e082",
+        "O3D_411ed3f56e678f"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "Proximal phalanx of 4th finger.r",
+        "Proximal phalanx of 4th finger.r"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 1.0132789611816406e-06,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        873,
+        873
+      ],
+      "triangles": [
+        1486,
+        1486
+      ]
+    },
+    {
+      "name": "proximal phalanx of 5th finger r",
+      "ids": [
+        "O3D_99d99bcd430914",
+        "O3D_f7020d290213c8"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "Proximal phalanx of 5th finger.r",
+        "Proximal phalanx of 5th finger.r"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 3.427267074584961e-07,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 0.9999998242708029,
+      "vertices": [
+        804,
+        804
+      ],
+      "triangles": [
+        1374,
+        1374
+      ]
+    },
+    {
+      "name": "proximal phalanx of fifth finger of foot r",
+      "ids": [
+        "O3D_1b09c8de922be4",
+        "O3D_92f12f00c399cd"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "lower-limb"
+      ],
+      "sourceNames": [
+        "Proximal phalanx of fifth finger of foot.r",
+        "Proximal phalanx of fifth finger of foot.r"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 0.0,
+      "identicalDracoBytes": true,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        412,
+        412
+      ],
+      "triangles": [
+        662,
+        662
+      ]
+    },
+    {
+      "name": "proximal phalanx of first finger of foot r",
+      "ids": [
+        "O3D_59c2efc5b0de65",
+        "O3D_5638d10a6ecece"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "lower-limb"
+      ],
+      "sourceNames": [
+        "Proximal phalanx of first finger of foot.r",
+        "Proximal phalanx of first finger of foot.r"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 0.0,
+      "identicalDracoBytes": true,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        536,
+        536
+      ],
+      "triangles": [
+        892,
+        892
+      ]
+    },
+    {
+      "name": "proximal phalanx of fourth finger of foot r",
+      "ids": [
+        "O3D_5740e9f6dbe809",
+        "O3D_b86bc40289c5e6"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "lower-limb"
+      ],
+      "sourceNames": [
+        "Proximal phalanx of fourth finger of foot.r",
+        "Proximal phalanx of fourth finger of foot.r"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 0.0,
+      "identicalDracoBytes": true,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        404,
+        404
+      ],
+      "triangles": [
+        646,
+        646
+      ]
+    },
+    {
+      "name": "proximal phalanx of second finger of foot r",
+      "ids": [
+        "O3D_15c2823ffacddf",
+        "O3D_48376bca16d359"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "lower-limb"
+      ],
+      "sourceNames": [
+        "Proximal phalanx of second finger of foot.r",
+        "Proximal phalanx of second finger of foot.r"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 0.0,
+      "identicalDracoBytes": true,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        446,
+        446
+      ],
+      "triangles": [
+        716,
+        716
+      ]
+    },
+    {
+      "name": "proximal phalanx of third finger of foot r",
+      "ids": [
+        "O3D_9183f2e777d2ab",
+        "O3D_de0609aa778b2c"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "lower-limb"
+      ],
+      "sourceNames": [
+        "Proximal phalanx of third finger of foot.r",
+        "Proximal phalanx of third finger of foot.r"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 0.0,
+      "identicalDracoBytes": true,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        438,
+        438
+      ],
+      "triangles": [
+        712,
+        712
+      ]
+    },
+    {
+      "name": "radius r",
+      "ids": [
+        "O3D_0c3cd158a448ab",
+        "O3D_53ce0077bdda88"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "Radius.r",
+        "Radius.r"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 0.0005289316177368164,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        3047,
+        3047
+      ],
+      "triangles": [
+        5764,
+        5764
+      ]
+    },
+    {
+      "name": "rib 10th r",
+      "ids": [
+        "O3D_729df736695dda",
+        "O3D_c074c945fa655d"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "Rib (10th).r",
+        "Rib (10th).r"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 0.0,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        2125,
+        2125
+      ],
+      "triangles": [
+        3796,
+        3796
+      ]
+    },
+    {
+      "name": "rib 11th r",
+      "ids": [
+        "O3D_30e605fc81a7a4",
+        "O3D_477c1dbeca7407"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "Rib (11th).r",
+        "Rib (11th).r"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 3.725290298461914e-09,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        1280,
+        1280
+      ],
+      "triangles": [
+        2288,
+        2288
+      ]
+    },
+    {
+      "name": "rib 12th r",
+      "ids": [
+        "O3D_0d8c85afd5d8a6",
+        "O3D_92f723b322100f"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "Rib (12th).r",
+        "Rib (12th).r"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 1.862645149230957e-09,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        733,
+        733
+      ],
+      "triangles": [
+        1248,
+        1248
+      ]
+    },
+    {
+      "name": "rib 1st r",
+      "ids": [
+        "O3D_51e8dd76018b0f",
+        "O3D_52d3ef22e744ae"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "Rib (1st).r",
+        "Rib (1st).r"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 0.0,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        1118,
+        1118
+      ],
+      "triangles": [
+        1972,
+        1972
+      ]
+    },
+    {
+      "name": "rib 2nd r",
+      "ids": [
+        "O3D_4236788925f1d4",
+        "O3D_795307fccd650a"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "Rib (2nd).r",
+        "Rib (2nd).r"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 3.725290298461914e-09,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        1709,
+        1709
+      ],
+      "triangles": [
+        3022,
+        3022
+      ]
+    },
+    {
+      "name": "rib 3rd r",
+      "ids": [
+        "O3D_d272794bbf886a",
+        "O3D_080bf60f2e394c"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "Rib (3rd).r",
+        "Rib (3rd).r"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 7.450580596923828e-09,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 0.9999999614363272,
+      "vertices": [
+        2187,
+        2187
+      ],
+      "triangles": [
+        3906,
+        3906
+      ]
+    },
+    {
+      "name": "rib 4th r",
+      "ids": [
+        "O3D_8e3a0b2cf52b6d",
+        "O3D_05e1556536a912"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "Rib (4th).r",
+        "Rib (4th).r"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 7.450580596923828e-09,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 0.9999999559062906,
+      "vertices": [
+        2659,
+        2659
+      ],
+      "triangles": [
+        4772,
+        4772
+      ]
+    },
+    {
+      "name": "rib 5th r",
+      "ids": [
+        "O3D_a7bb1c97572a94",
+        "O3D_c2ed071b2bcb64"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "Rib (5th).r",
+        "Rib (5th).r"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 1.1920928955078125e-07,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 0.9999999604606743,
+      "vertices": [
+        2230,
+        2230
+      ],
+      "triangles": [
+        4048,
+        4048
+      ]
+    },
+    {
+      "name": "rib 6th r",
+      "ids": [
+        "O3D_84d581d0704dc3",
+        "O3D_8582b9633b671f"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "Rib (6th).r",
+        "Rib (6th).r"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 7.450580596923828e-09,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 0.9999999619165598,
+      "vertices": [
+        2254,
+        2254
+      ],
+      "triangles": [
+        4098,
+        4098
+      ]
+    },
+    {
+      "name": "rib 7th r",
+      "ids": [
+        "O3D_1056282f5791ed",
+        "O3D_dd8ac348f67a87"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "Rib (7th).r",
+        "Rib (7th).r"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 0.0,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        1982,
+        1982
+      ],
+      "triangles": [
+        3550,
+        3550
+      ]
+    },
+    {
+      "name": "rib 8th r",
+      "ids": [
+        "O3D_4d4e85342a6c0a",
+        "O3D_a7805821a793dd"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "Rib (8th).r",
+        "Rib (8th).r"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 0.0,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        2160,
+        2160
+      ],
+      "triangles": [
+        3904,
+        3904
+      ]
+    },
+    {
+      "name": "rib 9th r",
+      "ids": [
+        "O3D_cd57752b68ea2a",
+        "O3D_103511b749438f"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "Rib (9th).r",
+        "Rib (9th).r"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 3.725290298461914e-09,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        2051,
+        2051
+      ],
+      "triangles": [
+        3698,
+        3698
+      ]
+    },
+    {
+      "name": "scaphoid r",
+      "ids": [
+        "O3D_5f4bf39b3fe6b3",
+        "O3D_a18eac2c7af6fa"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "Scaphoid.r",
+        "Scaphoid.r"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 6.556510925292969e-07,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 0.9999804478321576,
+      "vertices": [
+        409,
+        409
+      ],
+      "triangles": [
+        670,
+        670
+      ]
+    },
+    {
+      "name": "scapula r",
+      "ids": [
+        "O3D_0b76a292ebe35b",
+        "O3D_c9a396f05c513e"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "Scapula.r.",
+        "Scapula.r."
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 0.0,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        4929,
+        4929
+      ],
+      "triangles": [
+        9180,
+        9180
+      ]
+    },
+    {
+      "name": "second metatarsal bone r",
+      "ids": [
+        "O3D_0a15b8e871abe8",
+        "O3D_0c415e7941d503"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "lower-limb"
+      ],
+      "sourceNames": [
+        "Second metatarsal bone.r",
+        "Second metatarsal bone.r"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 0.0,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        1099,
+        1099
+      ],
+      "triangles": [
+        1798,
+        1798
+      ]
+    },
+    {
+      "name": "sesamoid bones of foot r",
+      "ids": [
+        "O3D_714c49023988d2",
+        "O3D_7a101cad254659"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "lower-limb"
+      ],
+      "sourceNames": [
+        "Sesamoid bones of foot.r",
+        "Sesamoid bones of foot.r"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 0.0,
+      "identicalDracoBytes": true,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        449,
+        449
+      ],
+      "triangles": [
+        806,
+        806
+      ]
+    },
+    {
+      "name": "sesamoid bones of hand r",
+      "ids": [
+        "O3D_a732a1bdccf882",
+        "O3D_39c8b8eeef87f4"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "Sesamoid_bones_of_hand.r",
+        "Sesamoid bones of hand.r"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 1.776963472366333e-06,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 0.9999738445087161,
+      "vertices": [
+        636,
+        636
+      ],
+      "triangles": [
+        980,
+        980
+      ]
+    },
+    {
+      "name": "talus r",
+      "ids": [
+        "O3D_bc7d3ef489bfc8",
+        "O3D_6393902df6c166"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "lower-limb"
+      ],
+      "sourceNames": [
+        "Talus.r",
+        "Talus.r"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 0.0,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        1383,
+        1383
+      ],
+      "triangles": [
+        2338,
+        2338
+      ]
+    },
+    {
+      "name": "third metatarsal bone r",
+      "ids": [
+        "O3D_1073bb24d25d3d",
+        "O3D_d11f4d26cc9fe3"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "lower-limb"
+      ],
+      "sourceNames": [
+        "Third metatarsal bone.r",
+        "Third metatarsal bone.r"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 0.0,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        983,
+        983
+      ],
+      "triangles": [
+        1670,
+        1670
+      ]
+    },
+    {
+      "name": "tibia r",
+      "ids": [
+        "O3D_cbe1e286dd60a5",
+        "O3D_5af1a73d983212"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "lower-limb"
+      ],
+      "sourceNames": [
+        "Tibia.r",
+        "Tibia.r"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 0.0,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        3747,
+        3747
+      ],
+      "triangles": [
+        6768,
+        6768
+      ]
+    },
+    {
+      "name": "trapezium r",
+      "ids": [
+        "O3D_622c237f0d0ba8",
+        "O3D_6bbecad67b65cf"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "Trapezium.r",
+        "Trapezium.r"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 2.60770320892334e-07,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 0.9999858535874594,
+      "vertices": [
+        504,
+        504
+      ],
+      "triangles": [
+        856,
+        856
+      ]
+    },
+    {
+      "name": "trapezoid r",
+      "ids": [
+        "O3D_8a596345c848fb",
+        "O3D_4a286f581c8062"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "Trapezoid.r",
+        "Trapezoid.r"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 4.172325134277344e-07,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 0.9999999374561803,
+      "vertices": [
+        360,
+        360
+      ],
+      "triangles": [
+        574,
+        574
+      ]
+    },
+    {
+      "name": "triquetrum r",
+      "ids": [
+        "O3D_5a46b1f9a21688",
+        "O3D_03a77f7dcba4db"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "Triquetrum.r",
+        "Triquetrum.r"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 3.2782554626464844e-07,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 0.9999783285222654,
+      "vertices": [
+        400,
+        400
+      ],
+      "triangles": [
+        664,
+        664
+      ]
+    },
+    {
+      "name": "ulna r",
+      "ids": [
+        "O3D_aadce953e665bf",
+        "O3D_84e67835de7387"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "Ulna.r",
+        "Ulna.r"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 0.00039756298065185547,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        3883,
+        3883
+      ],
+      "triangles": [
+        7300,
+        7300
+      ]
+    },
+    {
+      "name": "costal cart of 10th rib r",
+      "ids": [
+        "O3D_d12fc2f24a2388",
+        "O3D_c0ed6e68febb59"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "Costal cart of 10th rib.r",
+        "Costal cart of 10th.rib.r"
+      ],
+      "systems": [
+        "connective",
+        "connective"
+      ],
+      "boundsDifferenceMetres": 0.0,
+      "identicalDracoBytes": true,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        442,
+        442
+      ],
+      "triangles": [
+        880,
+        880
+      ]
+    },
+    {
+      "name": "costal cart of 1st rib r",
+      "ids": [
+        "O3D_4d452cd10bf90a",
+        "O3D_b020b15ab64b47"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "Costal cart of 1st rib.r",
+        "Costal cart of 1st.rib.r"
+      ],
+      "systems": [
+        "connective",
+        "connective"
+      ],
+      "boundsDifferenceMetres": 0.0,
+      "identicalDracoBytes": true,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        226,
+        226
+      ],
+      "triangles": [
+        448,
+        448
+      ]
+    },
+    {
+      "name": "costal cart of 2nd rib r",
+      "ids": [
+        "O3D_2bb5fedb741150",
+        "O3D_a206c3fc962377"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "Costal cart of 2nd rib.r",
+        "Costal cart of 2nd.rib.r"
+      ],
+      "systems": [
+        "connective",
+        "connective"
+      ],
+      "boundsDifferenceMetres": 0.0,
+      "identicalDracoBytes": true,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        277,
+        277
+      ],
+      "triangles": [
+        550,
+        550
+      ]
+    },
+    {
+      "name": "costal cart of 3rd rib r",
+      "ids": [
+        "O3D_cab8d41fe4fac6",
+        "O3D_7cb8bb5c021eac"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "Costal cart of 3rd rib.r",
+        "Costal cart of 3rd.rib.r"
+      ],
+      "systems": [
+        "connective",
+        "connective"
+      ],
+      "boundsDifferenceMetres": 0.0,
+      "identicalDracoBytes": true,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        415,
+        415
+      ],
+      "triangles": [
+        826,
+        826
+      ]
+    },
+    {
+      "name": "costal cart of 4th rib r",
+      "ids": [
+        "O3D_b3bf8810636df2",
+        "O3D_82719c336629f1"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "Costal cart of 4th rib.r",
+        "Costal cart of 4th.rib.r"
+      ],
+      "systems": [
+        "connective",
+        "connective"
+      ],
+      "boundsDifferenceMetres": 0.0,
+      "identicalDracoBytes": true,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        420,
+        420
+      ],
+      "triangles": [
+        836,
+        836
+      ]
+    },
+    {
+      "name": "costal cart of 5th rib r",
+      "ids": [
+        "O3D_4a6ed5cb930d0a",
+        "O3D_9d031cef802202"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "Costal cart of 5th rib.r",
+        "Costal cart of 5th.rib.r"
+      ],
+      "systems": [
+        "connective",
+        "connective"
+      ],
+      "boundsDifferenceMetres": 0.0,
+      "identicalDracoBytes": true,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        460,
+        460
+      ],
+      "triangles": [
+        916,
+        916
+      ]
+    },
+    {
+      "name": "costal cart of 6th rib r",
+      "ids": [
+        "O3D_3886784e4d1d6e",
+        "O3D_ee6243ec8d3088"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "Costal cart of 6th rib.r",
+        "Costal cart of 6th.rib.r"
+      ],
+      "systems": [
+        "connective",
+        "connective"
+      ],
+      "boundsDifferenceMetres": 0.0,
+      "identicalDracoBytes": true,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        497,
+        497
+      ],
+      "triangles": [
+        990,
+        990
+      ]
+    },
+    {
+      "name": "costal cart of 7th rib r",
+      "ids": [
+        "O3D_6e4cf05788cb02",
+        "O3D_3950528eaa2c88"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "Costal cart of 7th rib.r",
+        "Costal cart of 7th.rib.r"
+      ],
+      "systems": [
+        "connective",
+        "connective"
+      ],
+      "boundsDifferenceMetres": 0.0,
+      "identicalDracoBytes": true,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        569,
+        569
+      ],
+      "triangles": [
+        1134,
+        1134
+      ]
+    },
+    {
+      "name": "costal cart of 8th rib r",
+      "ids": [
+        "O3D_17b7692a87f53c",
+        "O3D_a3eb9c598e607c"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "Costal cart of 8th rib.r",
+        "Costal cart of 8th.rib.r"
+      ],
+      "systems": [
+        "connective",
+        "connective"
+      ],
+      "boundsDifferenceMetres": 0.0,
+      "identicalDracoBytes": true,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        412,
+        412
+      ],
+      "triangles": [
+        820,
+        820
+      ]
+    },
+    {
+      "name": "costal cart of 9th rib r",
+      "ids": [
+        "O3D_c6c207e6651620",
+        "O3D_ec5880c6b2d063"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "Costal cart of 9th rib.r",
+        "Costal cart of 9th.rib.r"
+      ],
+      "systems": [
+        "connective",
+        "connective"
+      ],
+      "boundsDifferenceMetres": 0.0,
+      "identicalDracoBytes": true,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        414,
+        414
+      ],
+      "triangles": [
+        824,
+        824
+      ]
+    },
+    {
+      "name": "10th rib art cart of head r",
+      "ids": [
+        "O3D_f15e1063fba806",
+        "O3D_82773344f78dfc"
+      ],
+      "regions": [
+        "muscles-thorax-abdomen",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "10th rib art cart of head.r",
+        "10th rib art cart of head.r"
+      ],
+      "systems": [
+        "connective",
+        "connective"
+      ],
+      "boundsDifferenceMetres": 0.00022864341735839844,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        273,
+        688
+      ],
+      "triangles": [
+        538,
+        1368
+      ]
+    },
+    {
+      "name": "10th rib art cart of tubercle r",
+      "ids": [
+        "O3D_56f6187b0ae21c",
+        "O3D_5269902e6adc25"
+      ],
+      "regions": [
+        "muscles-thorax-abdomen",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "10th rib art cart of tubercle.r",
+        "10th rib art cart of tubercle.r"
+      ],
+      "systems": [
+        "connective",
+        "connective"
+      ],
+      "boundsDifferenceMetres": 9.531527757644653e-05,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        184,
+        532
+      ],
+      "triangles": [
+        364,
+        1060
+      ]
+    },
+    {
+      "name": "1st rib art cart of head r",
+      "ids": [
+        "O3D_c16cc51b589ac5",
+        "O3D_05b5ce9de629f8"
+      ],
+      "regions": [
+        "muscles-thorax-abdomen",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "1st rib art cart of head.r",
+        "1st rib art cart of head.r"
+      ],
+      "systems": [
+        "connective",
+        "connective"
+      ],
+      "boundsDifferenceMetres": 0.00029456615447998047,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        120,
+        950
+      ],
+      "triangles": [
+        236,
+        1896
+      ]
+    },
+    {
+      "name": "1st rib art cart of tubercle r",
+      "ids": [
+        "O3D_110ac6bb7227dd",
+        "O3D_8465b9410898e1"
+      ],
+      "regions": [
+        "muscles-thorax-abdomen",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "1st rib art cart of tubercle.r",
+        "1st rib art cart of tubercle.r"
+      ],
+      "systems": [
+        "connective",
+        "connective"
+      ],
+      "boundsDifferenceMetres": 0.0006937980651855469,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 0.949392148754242,
+      "vertices": [
+        104,
+        378
+      ],
+      "triangles": [
+        204,
+        752
+      ]
+    },
+    {
+      "name": "2nd rib art cart of head r",
+      "ids": [
+        "O3D_7bb598026225f0",
+        "O3D_0e7abab055d12d"
+      ],
+      "regions": [
+        "muscles-thorax-abdomen",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "2nd rib art cart of head.r",
+        "2nd rib art cart of head.r"
+      ],
+      "systems": [
+        "connective",
+        "connective"
+      ],
+      "boundsDifferenceMetres": 3.5762786865234375e-07,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 0.9998758180037648,
+      "vertices": [
+        454,
+        454
+      ],
+      "triangles": [
+        900,
+        900
+      ]
+    },
+    {
+      "name": "2nd rib art cart of tubercle r",
+      "ids": [
+        "O3D_279ffc6872ed76",
+        "O3D_f839b666c33234"
+      ],
+      "regions": [
+        "muscles-thorax-abdomen",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "2nd rib art cart of tubercle.r",
+        "2nd rib art cart of tubercle.r"
+      ],
+      "systems": [
+        "connective",
+        "connective"
+      ],
+      "boundsDifferenceMetres": 3.8370490074157715e-07,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 0.9998629316205889,
+      "vertices": [
+        332,
+        332
+      ],
+      "triangles": [
+        660,
+        660
+      ]
+    },
+    {
+      "name": "3rd rib art cart of head r",
+      "ids": [
+        "O3D_d46ed6fc400337",
+        "O3D_d929a35ab13c46"
+      ],
+      "regions": [
+        "muscles-thorax-abdomen",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "3rd rib art cart of head.r",
+        "3rd rib art cart of head.r"
+      ],
+      "systems": [
+        "connective",
+        "connective"
+      ],
+      "boundsDifferenceMetres": 0.00036776065826416016,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        256,
+        556
+      ],
+      "triangles": [
+        504,
+        1104
+      ]
+    },
+    {
+      "name": "3rd rib art cart of tubercle r",
+      "ids": [
+        "O3D_3b24cf0a685f23",
+        "O3D_46a1000c90e774"
+      ],
+      "regions": [
+        "muscles-thorax-abdomen",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "3rd rib art cart of tubercle.r",
+        "3rd rib art cart of tubercle.r"
+      ],
+      "systems": [
+        "connective",
+        "connective"
+      ],
+      "boundsDifferenceMetres": 0.0002000555396080017,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        124,
+        324
+      ],
+      "triangles": [
+        244,
+        644
+      ]
+    },
+    {
+      "name": "4th rib art cart of head r",
+      "ids": [
+        "O3D_2150536af336f7",
+        "O3D_60b2bda34b902c"
+      ],
+      "regions": [
+        "muscles-thorax-abdomen",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "4th rib art cart of head.r",
+        "4th rib art cart of head.r"
+      ],
+      "systems": [
+        "connective",
+        "connective"
+      ],
+      "boundsDifferenceMetres": 0.00029328837990760803,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        227,
+        480
+      ],
+      "triangles": [
+        446,
+        952
+      ]
+    },
+    {
+      "name": "4th rib art cart of tubercle r",
+      "ids": [
+        "O3D_0ece4d379332e9",
+        "O3D_01d7b0c27e8599"
+      ],
+      "regions": [
+        "muscles-thorax-abdomen",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "4th rib art cart of tubercle.r",
+        "4th rib art cart of tubercle.r"
+      ],
+      "systems": [
+        "connective",
+        "connective"
+      ],
+      "boundsDifferenceMetres": 0.0006856881082057953,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 0.8850913012011113,
+      "vertices": [
+        140,
+        208
+      ],
+      "triangles": [
+        276,
+        412
+      ]
+    },
+    {
+      "name": "5th rib art cart of head r",
+      "ids": [
+        "O3D_400a2f6ff5dd01",
+        "O3D_ffdae3e4f11092"
+      ],
+      "regions": [
+        "muscles-thorax-abdomen",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "5th rib art cart of head.r",
+        "5th rib art cart of head.r"
+      ],
+      "systems": [
+        "connective",
+        "connective"
+      ],
+      "boundsDifferenceMetres": 0.00022220611572265625,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        339,
+        588
+      ],
+      "triangles": [
+        670,
+        1168
+      ]
+    },
+    {
+      "name": "5th rib art cart of tubercle r",
+      "ids": [
+        "O3D_cf0e52f080e4ae",
+        "O3D_fe0e159ab6c079"
+      ],
+      "regions": [
+        "muscles-thorax-abdomen",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "5th rib art cart of tubercle.r",
+        "5th rib art cart of tubercle.r"
+      ],
+      "systems": [
+        "connective",
+        "connective"
+      ],
+      "boundsDifferenceMetres": 0.0013448353856801987,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 0.9879237172466276,
+      "vertices": [
+        136,
+        262
+      ],
+      "triangles": [
+        268,
+        520
+      ]
+    },
+    {
+      "name": "6th rib art cart of head r",
+      "ids": [
+        "O3D_996e96e8f3b6e0",
+        "O3D_100a7113c35ffd"
+      ],
+      "regions": [
+        "muscles-thorax-abdomen",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "6th rib art cart of head.r",
+        "6th rib art cart of head.r"
+      ],
+      "systems": [
+        "connective",
+        "connective"
+      ],
+      "boundsDifferenceMetres": 0.00024306774139404297,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        293,
+        654
+      ],
+      "triangles": [
+        578,
+        1300
+      ]
+    },
+    {
+      "name": "6th rib art cart of tubercle r",
+      "ids": [
+        "O3D_5bef485442129a",
+        "O3D_1244735e80c4fc"
+      ],
+      "regions": [
+        "muscles-thorax-abdomen",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "6th rib art cart of tubercle.r",
+        "6th rib art cart of tubercle.r"
+      ],
+      "systems": [
+        "connective",
+        "connective"
+      ],
+      "boundsDifferenceMetres": 0.0012499094009399414,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 0.9950000748836711,
+      "vertices": [
+        124,
+        300
+      ],
+      "triangles": [
+        244,
+        596
+      ]
+    },
+    {
+      "name": "7th rib art cart of head r",
+      "ids": [
+        "O3D_8c4102fbd85a60",
+        "O3D_4b10f1533cccf1"
+      ],
+      "regions": [
+        "muscles-thorax-abdomen",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "7th rib art cart of head.r",
+        "7th rib art cart of head.r"
+      ],
+      "systems": [
+        "connective",
+        "connective"
+      ],
+      "boundsDifferenceMetres": 0.0004982128739356995,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        225,
+        544
+      ],
+      "triangles": [
+        442,
+        1080
+      ]
+    },
+    {
+      "name": "7th rib art cart of tubercle r",
+      "ids": [
+        "O3D_6e3f5a2f97e79e",
+        "O3D_7d57831983d3cc"
+      ],
+      "regions": [
+        "muscles-thorax-abdomen",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "7th rib art cart of tubercle.r",
+        "7th rib art cart of tubercle.r"
+      ],
+      "systems": [
+        "connective",
+        "connective"
+      ],
+      "boundsDifferenceMetres": 0.00039692223072052,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 0.9559555959348024,
+      "vertices": [
+        186,
+        496
+      ],
+      "triangles": [
+        368,
+        988
+      ]
+    },
+    {
+      "name": "8th rib art cart of head r",
+      "ids": [
+        "O3D_3672ad51ae9506",
+        "O3D_0842e68b4389ce"
+      ],
+      "regions": [
+        "muscles-thorax-abdomen",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "8th rib art cart of head.r",
+        "8th rib art cart of head.r"
+      ],
+      "systems": [
+        "connective",
+        "connective"
+      ],
+      "boundsDifferenceMetres": 0.0004172772169113159,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        249,
+        416
+      ],
+      "triangles": [
+        490,
+        824
+      ]
+    },
+    {
+      "name": "8th rib art cart of tubercle r",
+      "ids": [
+        "O3D_5373c63bcec9b4",
+        "O3D_d6315ce3cf71f7"
+      ],
+      "regions": [
+        "muscles-thorax-abdomen",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "8th rib art cart of tubercle.r",
+        "8th rib art cart of tubercle.r"
+      ],
+      "systems": [
+        "connective",
+        "connective"
+      ],
+      "boundsDifferenceMetres": 0.0007121562957763672,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 0.978229534982837,
+      "vertices": [
+        146,
+        410
+      ],
+      "triangles": [
+        288,
+        816
+      ]
+    },
+    {
+      "name": "9th rib art cart of head r",
+      "ids": [
+        "O3D_a3187989931310",
+        "O3D_75e819f835ee2a"
+      ],
+      "regions": [
+        "muscles-thorax-abdomen",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "9th rib art cart of head.r",
+        "9th rib art cart of head.r"
+      ],
+      "systems": [
+        "connective",
+        "connective"
+      ],
+      "boundsDifferenceMetres": 0.00017821788787841797,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        258,
+        580
+      ],
+      "triangles": [
+        508,
+        1152
+      ]
+    },
+    {
+      "name": "9th rib art cart of tubercle r",
+      "ids": [
+        "O3D_1ac6cc770e61fa",
+        "O3D_95c80cf70c5516"
+      ],
+      "regions": [
+        "muscles-thorax-abdomen",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "9th rib art cart of tubercle.r",
+        "9th rib art cart of tubercle.r"
+      ],
+      "systems": [
+        "connective",
+        "connective"
+      ],
+      "boundsDifferenceMetres": 0.0007424056529998779,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        110,
+        444
+      ],
+      "triangles": [
+        216,
+        884
+      ]
+    },
+    {
+      "name": "acromioclavicular capsule r",
+      "ids": [
+        "O3D_eeed71a58a42b3",
+        "O3D_b6114c5583ba6e"
+      ],
+      "regions": [
+        "muscles-thorax-abdomen",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "Acromioclavicular capsule.r",
+        "Acromioclavicular capsule.r"
+      ],
+      "systems": [
+        "connective",
+        "connective"
+      ],
+      "boundsDifferenceMetres": 0.0,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        1110,
+        1110
+      ],
+      "triangles": [
+        2016,
+        2016
+      ]
+    },
+    {
+      "name": "acromioclavicular disc r",
+      "ids": [
+        "O3D_ab8870deaa0fca",
+        "O3D_bcc95d0eac1397"
+      ],
+      "regions": [
+        "muscles-thorax-abdomen",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "Acromioclavicular disc.r",
+        "Acromioclavicular disc.r"
+      ],
+      "systems": [
+        "connective",
+        "connective"
+      ],
+      "boundsDifferenceMetres": 5.066394805908203e-07,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 0.9999155461628737,
+      "vertices": [
+        3741,
+        3741
+      ],
+      "triangles": [
+        7478,
+        7478
+      ]
+    },
+    {
+      "name": "articular capsule of glenohumeral joint r",
+      "ids": [
+        "O3D_4e499c6684837b",
+        "O3D_e3553a563083d2"
+      ],
+      "regions": [
+        "muscles-thorax-abdomen",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "Articular capsule of glenohumeral joint.r",
+        "Articular capsule of glenohumeral joint.r"
+      ],
+      "systems": [
+        "connective",
+        "connective"
+      ],
+      "boundsDifferenceMetres": 0.00021517276763916016,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 0.999905378026671,
+      "vertices": [
+        838,
+        790
+      ],
+      "triangles": [
+        1372,
+        1284
+      ]
+    },
+    {
+      "name": "articular cartilage of acromioclavicular joint on clavicle r",
+      "ids": [
+        "O3D_6e93a0d302e6d8",
+        "O3D_16f9347bb700e9"
+      ],
+      "regions": [
+        "muscles-thorax-abdomen",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "Articular cartilage of acromioclavicular joint on clavicle.r",
+        "Articular cartilage of acromioclavicular joint on clavicle.r"
+      ],
+      "systems": [
+        "connective",
+        "connective"
+      ],
+      "boundsDifferenceMetres": 0.002926856279373169,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 0.4781416278813978,
+      "vertices": [
+        490,
+        219
+      ],
+      "triangles": [
+        952,
+        434
+      ]
+    },
+    {
+      "name": "articular disc of steroclavicular joint r",
+      "ids": [
+        "O3D_a50fde0003d067",
+        "O3D_3415116ea0a6aa"
+      ],
+      "regions": [
+        "muscles-thorax-abdomen",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "Articular disc of steroclavicular joint.r",
+        "Articular disc of steroclavicular joint.r"
+      ],
+      "systems": [
+        "connective",
+        "connective"
+      ],
+      "boundsDifferenceMetres": 1.862645149230957e-09,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        262,
+        262
+      ],
+      "triangles": [
+        480,
+        480
+      ]
+    },
+    {
+      "name": "coraco acromial ligament r",
+      "ids": [
+        "O3D_e36d927972c6cf",
+        "O3D_3e0af9896a5025"
+      ],
+      "regions": [
+        "muscles-thorax-abdomen",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "Coraco-acromial ligament.r",
+        "Coraco-acromial ligament.r"
+      ],
+      "systems": [
+        "connective",
+        "connective"
+      ],
+      "boundsDifferenceMetres": 1.862645149230957e-09,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 0.9999999241765843,
+      "vertices": [
+        330,
+        330
+      ],
+      "triangles": [
+        560,
+        560
+      ]
+    },
+    {
+      "name": "coracoclavicular ligament r",
+      "ids": [
+        "O3D_c87376eadb2458",
+        "O3D_4fc2cac68d40fd"
+      ],
+      "regions": [
+        "muscles-thorax-abdomen",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "Coracoclavicular ligament.r",
+        "Coracoclavicular ligament.r"
+      ],
+      "systems": [
+        "connective",
+        "connective"
+      ],
+      "boundsDifferenceMetres": 3.725290298461914e-09,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        539,
+        539
+      ],
+      "triangles": [
+        880,
+        880
+      ]
+    },
+    {
+      "name": "coracohumeral ligament r",
+      "ids": [
+        "O3D_3628ba06412a62",
+        "O3D_3cc598d13bfea0"
+      ],
+      "regions": [
+        "muscles-thorax-abdomen",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "Coracohumeral ligament.r",
+        "Coracohumeral ligament.r"
+      ],
+      "systems": [
+        "connective",
+        "connective"
+      ],
+      "boundsDifferenceMetres": 0.00020813941955566406,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 0.9963009175396391,
+      "vertices": [
+        370,
+        370
+      ],
+      "triangles": [
+        624,
+        624
+      ]
+    },
+    {
+      "name": "inferior transverse scapular ligament r",
+      "ids": [
+        "O3D_4749d9dfe535b1",
+        "O3D_f1cf83c6c5b6ab"
+      ],
+      "regions": [
+        "muscles-thorax-abdomen",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "Inferior transverse scapular ligament.r",
+        "Inferior transverse scapular ligament.r"
+      ],
+      "systems": [
+        "connective",
+        "connective"
+      ],
+      "boundsDifferenceMetres": 7.450580596923828e-09,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 0.9999997472753758,
+      "vertices": [
+        268,
+        268
+      ],
+      "triangles": [
+        452,
+        452
+      ]
+    },
+    {
+      "name": "interpubic disc",
+      "ids": [
+        "O3D_5a0ec649eef65d",
+        "O3D_13603dc4a54a90"
+      ],
+      "regions": [
+        "muscles-thorax-abdomen",
+        "lower-limb"
+      ],
+      "sourceNames": [
+        "Interpubic disc",
+        "Interpubic disc"
+      ],
+      "systems": [
+        "connective",
+        "connective"
+      ],
+      "boundsDifferenceMetres": 0.0016506006941199303,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 0.9998247775950133,
+      "vertices": [
+        2594,
+        2594
+      ],
+      "triangles": [
+        5184,
+        5184
+      ]
+    },
+    {
+      "name": "sternoclavicular capsule r",
+      "ids": [
+        "O3D_4a53032e4609f4",
+        "O3D_4b2ad7cad076c5"
+      ],
+      "regions": [
+        "muscles-thorax-abdomen",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "Sternoclavicular capsule.r",
+        "Sternoclavicular capsule.r"
+      ],
+      "systems": [
+        "connective",
+        "connective"
+      ],
+      "boundsDifferenceMetres": 3.725290298461914e-09,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        382,
+        382
+      ],
+      "triangles": [
+        652,
+        652
+      ]
+    },
+    {
+      "name": "superior transverse scapular ligament r",
+      "ids": [
+        "O3D_80a7a16a10a1dc",
+        "O3D_5d074536b1faf1"
+      ],
+      "regions": [
+        "muscles-thorax-abdomen",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "Superior transverse scapular ligament.r",
+        "Superior transverse scapular ligament.r"
+      ],
+      "systems": [
+        "connective",
+        "connective"
+      ],
+      "boundsDifferenceMetres": 0.0,
+      "identicalDracoBytes": true,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        174,
+        174
+      ],
+      "triangles": [
+        272,
+        272
+      ]
+    },
+    {
+      "name": "symphysis of sacrococcygeal joint",
+      "ids": [
+        "O3D_6a78f94f008af0",
+        "O3D_4dc69a945f121b"
+      ],
+      "regions": [
+        "muscles-thorax-abdomen",
+        "lower-limb"
+      ],
+      "sourceNames": [
+        "Symphysis of sacrococcygeal joint",
+        "Symphysis of sacrococcygeal joint"
+      ],
+      "systems": [
+        "connective",
+        "connective"
+      ],
+      "boundsDifferenceMetres": 0.001570768654346466,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 0.9499305405788927,
+      "vertices": [
+        514,
+        360
+      ],
+      "triangles": [
+        764,
+        716
+      ]
+    },
+    {
+      "name": "xiphoid process",
+      "ids": [
+        "O3D_6dc2107f6db8d9",
+        "O3D_71eaa39ee3ecf2"
+      ],
+      "regions": [
+        "muscles-thorax-abdomen",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "Xiphoid process",
+        "Xiphoid process"
+      ],
+      "systems": [
+        "connective",
+        "connective"
+      ],
+      "boundsDifferenceMetres": 0.0004048813134431839,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        2552,
+        484
+      ],
+      "triangles": [
+        5100,
+        748
+      ]
+    },
+    {
+      "name": "deltoid r",
+      "ids": [
+        "O3D_98903f44c3eb91",
+        "O3D_b391af42634860"
+      ],
+      "regions": [
+        "muscles-thorax-abdomen",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "Deltoid muscle.r",
+        "Deltoid muscle.r"
+      ],
+      "systems": [
+        "muscular",
+        "muscular"
+      ],
+      "boundsDifferenceMetres": 0.001902468502521515,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 0.9954698995203378,
+      "vertices": [
+        745,
+        745
+      ],
+      "triangles": [
+        1108,
+        1108
+      ]
+    },
+    {
+      "name": "infraspinatus r",
+      "ids": [
+        "O3D_27dae8ce631018",
+        "O3D_58d4fddde5ab78"
+      ],
+      "regions": [
+        "muscles-thorax-abdomen",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "Infraspinatus muscle.r",
+        "Infraspinatus muscle.r"
+      ],
+      "systems": [
+        "muscular",
+        "muscular"
+      ],
+      "boundsDifferenceMetres": 8.431077003479004e-05,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 0.999976670278509,
+      "vertices": [
+        907,
+        907
+      ],
+      "triangles": [
+        1600,
+        1600
+      ]
+    },
+    {
+      "name": "subscapularis r",
+      "ids": [
+        "O3D_6d1b86c4821b2e",
+        "O3D_656995fe72e5c9"
+      ],
+      "regions": [
+        "muscles-thorax-abdomen",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "Subscapularis muscle.r",
+        "Subscapularis muscle.r"
+      ],
+      "systems": [
+        "muscular",
+        "muscular"
+      ],
+      "boundsDifferenceMetres": 0.00016339123249053955,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 0.999997301027229,
+      "vertices": [
+        951,
+        951
+      ],
+      "triangles": [
+        1606,
+        1606
+      ]
+    },
+    {
+      "name": "supraspinatus r",
+      "ids": [
+        "O3D_250aa52aba4e73",
+        "O3D_56187f71bb8dd3"
+      ],
+      "regions": [
+        "muscles-thorax-abdomen",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "Supraspinatus muscle.r",
+        "Supraspinatus muscle.r"
+      ],
+      "systems": [
+        "muscular",
+        "muscular"
+      ],
+      "boundsDifferenceMetres": 0.00019872188568115234,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 0.999971594692988,
+      "vertices": [
+        804,
+        777
+      ],
+      "triangles": [
+        1364,
+        1316
+      ]
+    },
+    {
+      "name": "teres major r",
+      "ids": [
+        "O3D_64a66b9b9b7fd5",
+        "O3D_c6ab6c11c7af79"
+      ],
+      "regions": [
+        "muscles-thorax-abdomen",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "Teres major muscle.r",
+        "Teres major muscle.r"
+      ],
+      "systems": [
+        "muscular",
+        "muscular"
+      ],
+      "boundsDifferenceMetres": 0.0009215176105499268,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 0.9906750387758734,
+      "vertices": [
+        535,
+        535
+      ],
+      "triangles": [
+        892,
+        892
+      ]
+    },
+    {
+      "name": "teres minor r",
+      "ids": [
+        "O3D_e9560b19116c69",
+        "O3D_f5c73c2427dd19"
+      ],
+      "regions": [
+        "muscles-thorax-abdomen",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "Teres minor muscle.r",
+        "Teres minor muscle.r"
+      ],
+      "systems": [
+        "muscular",
+        "muscular"
+      ],
+      "boundsDifferenceMetres": 2.037733793258667e-06,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 0.9999975987138712,
+      "vertices": [
+        799,
+        799
+      ],
+      "triangles": [
+        1354,
+        1354
+      ]
+    },
+    {
+      "name": "pectoralis major r",
+      "ids": [
+        "O3D_cc9748e8ec2c82",
+        "O3D_52483d10e34b77"
+      ],
+      "regions": [
+        "muscles-thorax-abdomen",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "Pectoralis major.r",
+        "Pectoralis major.r"
+      ],
+      "systems": [
+        "muscular",
+        "muscular"
+      ],
+      "boundsDifferenceMetres": 0.0036898404359817505,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 0.9999968401455843,
+      "vertices": [
+        1460,
+        1460
+      ],
+      "triangles": [
+        2502,
+        2502
+      ]
+    },
+    {
+      "name": "pectoralis minor r",
+      "ids": [
+        "O3D_83f088ac65a8e6",
+        "O3D_b583924d75ddb7"
+      ],
+      "regions": [
+        "muscles-thorax-abdomen",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "Pectoralis minor.r",
+        "Pectoralis minor muscle.r"
+      ],
+      "systems": [
+        "muscular",
+        "muscular"
+      ],
+      "boundsDifferenceMetres": 2.51084566116333e-06,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        488,
+        488
+      ],
+      "triangles": [
+        736,
+        736
+      ]
+    },
+    {
+      "name": "serratus anterior r",
+      "ids": [
+        "O3D_ea540924b30d16",
+        "O3D_1f054fce63e46e"
+      ],
+      "regions": [
+        "muscles-thorax-abdomen",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "Serratus anterior muscle.r",
+        "Serratus anterior muscle.r"
+      ],
+      "systems": [
+        "muscular",
+        "muscular"
+      ],
+      "boundsDifferenceMetres": 0.0009163618087768555,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 0.9965569426052827,
+      "vertices": [
+        1330,
+        1310
+      ],
+      "triangles": [
+        1808,
+        1776
+      ]
+    },
+    {
+      "name": "subclavius r",
+      "ids": [
+        "O3D_ec54aa6775145c",
+        "O3D_583932c1f6cf8e"
+      ],
+      "regions": [
+        "muscles-thorax-abdomen",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "Subclavius muscle.r",
+        "Subclavius muscle.r"
+      ],
+      "systems": [
+        "muscular",
+        "muscular"
+      ],
+      "boundsDifferenceMetres": 0.0,
+      "identicalDracoBytes": true,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        392,
+        392
+      ],
+      "triangles": [
+        658,
+        658
+      ]
+    },
+    {
+      "name": "iliacus r",
+      "ids": [
+        "O3D_12c55af1341814",
+        "O3D_593319ccc35fd2"
+      ],
+      "regions": [
+        "muscles-thorax-abdomen",
+        "lower-limb"
+      ],
+      "sourceNames": [
+        "Iliacus muscle.r",
+        "Iliacus muscle.r"
+      ],
+      "systems": [
+        "muscular",
+        "muscular"
+      ],
+      "boundsDifferenceMetres": 0.18350040167570114,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        2176,
+        1094
+      ],
+      "triangles": [
+        3952,
+        1976
+      ]
+    },
+    {
+      "name": "psoas major r",
+      "ids": [
+        "O3D_adecc06d894b53",
+        "O3D_feeba3c39bc76f"
+      ],
+      "regions": [
+        "muscles-thorax-abdomen",
+        "lower-limb"
+      ],
+      "sourceNames": [
+        "Psoas major.r",
+        "Psoas major.r"
+      ],
+      "systems": [
+        "muscular",
+        "muscular"
+      ],
+      "boundsDifferenceMetres": 0.12427705898880959,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        3066,
+        1533
+      ],
+      "triangles": [
+        4450,
+        2225
+      ]
+    },
+    {
+      "name": "psoas minor r",
+      "ids": [
+        "O3D_43725c0a10e83e",
+        "O3D_decef2362e2791"
+      ],
+      "regions": [
+        "muscles-thorax-abdomen",
+        "lower-limb"
+      ],
+      "sourceNames": [
+        "Psoas minor.r",
+        "Psoas minor.r"
+      ],
+      "systems": [
+        "muscular",
+        "muscular"
+      ],
+      "boundsDifferenceMetres": 0.06485196202993393,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 0.8430672183111212,
+      "vertices": [
+        3254,
+        1255
+      ],
+      "triangles": [
+        5320,
+        2096
+      ]
+    },
+    {
+      "name": "latissimus dorsi r",
+      "ids": [
+        "O3D_7c20bb8bac9c80",
+        "O3D_9bc96aab719f6d"
+      ],
+      "regions": [
+        "muscles-thorax-abdomen",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "Latissimus dorsi.r",
+        "Latissimus dorsi.r"
+      ],
+      "systems": [
+        "muscular",
+        "muscular"
+      ],
+      "boundsDifferenceMetres": 0.0002225637435913086,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 0.9999710048377983,
+      "vertices": [
+        1288,
+        1288
+      ],
+      "triangles": [
+        2104,
+        2104
+      ]
+    },
+    {
+      "name": "levator scapulae r",
+      "ids": [
+        "O3D_47ad0227e3dac1",
+        "O3D_b38c3fa837a0bb"
+      ],
+      "regions": [
+        "muscles-thorax-abdomen",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "Levator scapulae.r",
+        "Levator scapulae.r"
+      ],
+      "systems": [
+        "muscular",
+        "muscular"
+      ],
+      "boundsDifferenceMetres": 0.0001571178436279297,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 0.9999532438684111,
+      "vertices": [
+        826,
+        826
+      ],
+      "triangles": [
+        1448,
+        1448
+      ]
+    },
+    {
+      "name": "rhomboid major r",
+      "ids": [
+        "O3D_1ca284041b009c",
+        "O3D_60a123045b91e6"
+      ],
+      "regions": [
+        "muscles-thorax-abdomen",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "Rhomboid major muscle.r",
+        "Rhomboid major muscle.r"
+      ],
+      "systems": [
+        "muscular",
+        "muscular"
+      ],
+      "boundsDifferenceMetres": 3.7811696529388428e-06,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        278,
+        278
+      ],
+      "triangles": [
+        464,
+        464
+      ]
+    },
+    {
+      "name": "rhomboid minor r",
+      "ids": [
+        "O3D_87027ca464b88c",
+        "O3D_be93cb1067bb0f"
+      ],
+      "regions": [
+        "muscles-thorax-abdomen",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "Rhomboid minor muscle.r",
+        "Rhomboid minor muscle.r"
+      ],
+      "systems": [
+        "muscular",
+        "muscular"
+      ],
+      "boundsDifferenceMetres": 2.689659595489502e-06,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 0.9999676688593344,
+      "vertices": [
+        226,
+        226
+      ],
+      "triangles": [
+        368,
+        368
+      ]
+    },
+    {
+      "name": "trapezius r",
+      "ids": [
+        "O3D_be14571bca5972",
+        "O3D_3aaa0c7deab2f2"
+      ],
+      "regions": [
+        "muscles-thorax-abdomen",
+        "upper-limb"
+      ],
+      "sourceNames": [
+        "Trapezius muscle.r",
+        "Trapezius muscle.r"
+      ],
+      "systems": [
+        "muscular",
+        "muscular"
+      ],
+      "boundsDifferenceMetres": 0.0014580488204956055,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        1515,
+        1515
+      ],
+      "triangles": [
+        2448,
+        2448
+      ]
+    },
+    {
+      "name": "lumbar vertebra l1",
+      "ids": [
+        "O3D_97f9578fb05af5",
+        "O3D_0f4f2e36ee050c"
+      ],
+      "regions": [
+        "upper-limb",
+        "lower-limb"
+      ],
+      "sourceNames": [
+        "Lumbar vertebra (L1)",
+        "Lumbar vertebra (L1)"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 1.30385160446167e-06,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 0.9999958521109701,
+      "vertices": [
+        4677,
+        4677
+      ],
+      "triangles": [
+        8320,
+        8320
+      ]
+    },
+    {
+      "name": "lumbar vertebra l2",
+      "ids": [
+        "O3D_07fedb6e4454ee",
+        "O3D_3f202e428391ca"
+      ],
+      "regions": [
+        "upper-limb",
+        "lower-limb"
+      ],
+      "sourceNames": [
+        "Lumbar vertebra (L2)",
+        "Lumbar vertebra (L2)"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 2.2649765014648438e-06,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 0.999980807346107,
+      "vertices": [
+        4621,
+        4621
+      ],
+      "triangles": [
+        8056,
+        8056
+      ]
+    },
+    {
+      "name": "lumbar vertebra l3",
+      "ids": [
+        "O3D_106c6a35284d4a",
+        "O3D_d5471c0ad5c90d"
+      ],
+      "regions": [
+        "upper-limb",
+        "lower-limb"
+      ],
+      "sourceNames": [
+        "Lumbar vertebra (L3)",
+        "Lumbar vertebra (L3)"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 2.384185791015625e-06,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 0.9999998674865714,
+      "vertices": [
+        4567,
+        4567
+      ],
+      "triangles": [
+        7988,
+        7988
+      ]
+    },
+    {
+      "name": "lumbar vertebra l4",
+      "ids": [
+        "O3D_037b3dc02a23cf",
+        "O3D_598dfba3bc659d"
+      ],
+      "regions": [
+        "upper-limb",
+        "lower-limb"
+      ],
+      "sourceNames": [
+        "Lumbar vertebra (L4)",
+        "Lumbar vertebra (L4)"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 1.8700957298278809e-06,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 0.9999764208882944,
+      "vertices": [
+        4502,
+        4502
+      ],
+      "triangles": [
+        7984,
+        7984
+      ]
+    },
+    {
+      "name": "lumbar vertebra l5",
+      "ids": [
+        "O3D_4334b5c5b5b984",
+        "O3D_0b90d0a18d57bf"
+      ],
+      "regions": [
+        "upper-limb",
+        "lower-limb"
+      ],
+      "sourceNames": [
+        "Lumbar vertebra (L5)",
+        "Lumbar vertebra (L5)"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 2.0265579223632812e-06,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 0.9999998734134702,
+      "vertices": [
+        4145,
+        4145
+      ],
+      "triangles": [
+        7412,
+        7412
+      ]
+    },
+    {
+      "name": "thoracic vertebra t12",
+      "ids": [
+        "O3D_f9afbe7a5f23b3",
+        "O3D_d6a388d6884cb2"
+      ],
+      "regions": [
+        "upper-limb",
+        "lower-limb"
+      ],
+      "sourceNames": [
+        "Thoracic vertebra (T12)",
+        "Thoracic vertebra (T12)"
+      ],
+      "systems": [
+        "skeletal",
+        "skeletal"
+      ],
+      "boundsDifferenceMetres": 1.9744038581848145e-06,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        4534,
+        4534
+      ],
+      "triangles": [
+        8024,
+        8024
+      ]
+    },
+    {
+      "name": "annulus fibrosus l2 l3",
+      "ids": [
+        "O3D_42a6e1d60e216b",
+        "O3D_339a7072e0b287"
+      ],
+      "regions": [
+        "upper-limb",
+        "lower-limb"
+      ],
+      "sourceNames": [
+        "Annulus fibrosus L2 L3",
+        "Annulus fibrosus L2 L3"
+      ],
+      "systems": [
+        "connective",
+        "connective"
+      ],
+      "boundsDifferenceMetres": 1.862645149230957e-09,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 0.9999999089051791,
+      "vertices": [
+        328,
+        328
+      ],
+      "triangles": [
+        652,
+        652
+      ]
+    },
+    {
+      "name": "annulus fibrosus l3 l4",
+      "ids": [
+        "O3D_cd220af2b7dab8",
+        "O3D_dd9daa8f7bafd8"
+      ],
+      "regions": [
+        "upper-limb",
+        "lower-limb"
+      ],
+      "sourceNames": [
+        "Annulus fibrosus L3 L4",
+        "Annulus fibrosus L3 L4"
+      ],
+      "systems": [
+        "connective",
+        "connective"
+      ],
+      "boundsDifferenceMetres": 0.0,
+      "identicalDracoBytes": true,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        336,
+        336
+      ],
+      "triangles": [
+        668,
+        668
+      ]
+    },
+    {
+      "name": "annulus fibrosus l4 l5",
+      "ids": [
+        "O3D_8bc7dc2f797537",
+        "O3D_ee46d3987f753a"
+      ],
+      "regions": [
+        "upper-limb",
+        "lower-limb"
+      ],
+      "sourceNames": [
+        "Annulus fibrosus L4 L5",
+        "Annulus fibrosus L4 L5"
+      ],
+      "systems": [
+        "connective",
+        "connective"
+      ],
+      "boundsDifferenceMetres": 0.0,
+      "identicalDracoBytes": true,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        318,
+        318
+      ],
+      "triangles": [
+        632,
+        632
+      ]
+    },
+    {
+      "name": "annulus fibrosus l5 s1",
+      "ids": [
+        "O3D_a90d4ebcd3eaf9",
+        "O3D_da016fec02bf99"
+      ],
+      "regions": [
+        "upper-limb",
+        "lower-limb"
+      ],
+      "sourceNames": [
+        "Annulus fibrosus L5 S1",
+        "Annulus fibrosus L5 S1"
+      ],
+      "systems": [
+        "connective",
+        "connective"
+      ],
+      "boundsDifferenceMetres": 0.0,
+      "identicalDracoBytes": true,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        292,
+        292
+      ],
+      "triangles": [
+        580,
+        580
+      ]
+    },
+    {
+      "name": "annulus fibrosus t12 l1",
+      "ids": [
+        "O3D_8d0ce1c2c1cbf7",
+        "O3D_53fa8eaccb3903"
+      ],
+      "regions": [
+        "upper-limb",
+        "lower-limb"
+      ],
+      "sourceNames": [
+        "Annulus fibrosus T12 L1",
+        "Annulus fibrosus T12 L1"
+      ],
+      "systems": [
+        "connective",
+        "connective"
+      ],
+      "boundsDifferenceMetres": 0.0,
+      "identicalDracoBytes": true,
+      "boundingBoxOverlapFractionOfSmaller": 1.0,
+      "vertices": [
+        350,
+        350
+      ],
+      "triangles": [
+        696,
+        696
+      ]
+    },
+    {
+      "name": "articular capsules of distal interphalangeal joints",
+      "ids": [
+        "O3D_b8b93e56c60eee",
+        "O3D_10194134b86808"
+      ],
+      "regions": [
+        "upper-limb",
+        "lower-limb"
+      ],
+      "sourceNames": [
+        "Articular capsules of distal interphalangeal joints",
+        "Articular capsules of distal interphalangeal joints"
+      ],
+      "systems": [
+        "connective",
+        "connective"
+      ],
+      "boundsDifferenceMetres": 0.7795343417674303,
+      "identicalDracoBytes": false,
+      "boundingBoxOverlapFractionOfSmaller": 0.0,
+      "vertices": [
+        1694,
+        2568
+      ],
+      "triangles": [
+        2866,
+        4572
+      ]
+    }
+  ],
+  "exactCompressedGeometryDuplicateGroups": [
+    [
+      {
+        "id": "O3D_6a0b802edd8314",
+        "name": "Coccyx",
+        "region": "overview-skeleton",
+        "system": "skeletal"
+      },
+      {
+        "id": "O3D_69770f68daa64b",
+        "name": "Coccyx",
+        "region": "lower-limb",
+        "system": "skeletal"
+      }
+    ],
+    [
+      {
+        "id": "O3D_f2e0c0ca4100e5",
+        "name": "Distal phalanx of fifth finger of foot.r",
+        "region": "overview-skeleton",
+        "system": "skeletal"
+      },
+      {
+        "id": "O3D_bd405a360cba60",
+        "name": "Distal phalanx of fifth finger of foot.r",
+        "region": "lower-limb",
+        "system": "skeletal"
+      }
+    ],
+    [
+      {
+        "id": "O3D_be5edb20989ae3",
+        "name": "Distal phalanx of first finger of foot.r",
+        "region": "overview-skeleton",
+        "system": "skeletal"
+      },
+      {
+        "id": "O3D_517c7e2a8eea81",
+        "name": "Distal phalanx of first finger of foot.r",
+        "region": "lower-limb",
+        "system": "skeletal"
+      }
+    ],
+    [
+      {
+        "id": "O3D_ed436be907b1ad",
+        "name": "Distal phalanx of fourth finger of foot.r",
+        "region": "overview-skeleton",
+        "system": "skeletal"
+      },
+      {
+        "id": "O3D_3bcecab4ccc0c0",
+        "name": "Distal phalanx of fourth finger of foot.r",
+        "region": "lower-limb",
+        "system": "skeletal"
+      }
+    ],
+    [
+      {
+        "id": "O3D_693c3c9c8b3d4b",
+        "name": "Distal phalanx of second finger of foot.r",
+        "region": "overview-skeleton",
+        "system": "skeletal"
+      },
+      {
+        "id": "O3D_8c1e863d3ef68e",
+        "name": "Distal phalanx of second finger of foot.r",
+        "region": "lower-limb",
+        "system": "skeletal"
+      }
+    ],
+    [
+      {
+        "id": "O3D_4c70c46df0d05c",
+        "name": "Distal phalanx of third finger of foot.r",
+        "region": "overview-skeleton",
+        "system": "skeletal"
+      },
+      {
+        "id": "O3D_fa4454e364bd79",
+        "name": "Distal phalanx of third finger of foot.r",
+        "region": "lower-limb",
+        "system": "skeletal"
+      }
+    ],
+    [
+      {
+        "id": "O3D_9d787e04643151",
+        "name": "Middle phalanx of fifth finger of foot.r",
+        "region": "overview-skeleton",
+        "system": "skeletal"
+      },
+      {
+        "id": "O3D_8439c5426e19bf",
+        "name": "Middle phalanx of fifth finger of foot.r",
+        "region": "lower-limb",
+        "system": "skeletal"
+      }
+    ],
+    [
+      {
+        "id": "O3D_762ccb86caf70d",
+        "name": "Middle phalanx of fourth finger of foot.r",
+        "region": "overview-skeleton",
+        "system": "skeletal"
+      },
+      {
+        "id": "O3D_be381fe4a8ed55",
+        "name": "Middle phalanx of fourth finger of foot.r",
+        "region": "lower-limb",
+        "system": "skeletal"
+      }
+    ],
+    [
+      {
+        "id": "O3D_a5afef8330ed47",
+        "name": "Middle phalanx of second finger of foot.r",
+        "region": "overview-skeleton",
+        "system": "skeletal"
+      },
+      {
+        "id": "O3D_a5e15d37866fcb",
+        "name": "Middle phalanx of second finger of foot.r",
+        "region": "lower-limb",
+        "system": "skeletal"
+      }
+    ],
+    [
+      {
+        "id": "O3D_6d5b8d338fa1f5",
+        "name": "Middle phalanx of third finger of foot.r",
+        "region": "overview-skeleton",
+        "system": "skeletal"
+      },
+      {
+        "id": "O3D_c3c4055e7d1996",
+        "name": "Middle phalanx of third finger of foot.r",
+        "region": "lower-limb",
+        "system": "skeletal"
+      }
+    ],
+    [
+      {
+        "id": "O3D_1b09c8de922be4",
+        "name": "Proximal phalanx of fifth finger of foot.r",
+        "region": "overview-skeleton",
+        "system": "skeletal"
+      },
+      {
+        "id": "O3D_92f12f00c399cd",
+        "name": "Proximal phalanx of fifth finger of foot.r",
+        "region": "lower-limb",
+        "system": "skeletal"
+      }
+    ],
+    [
+      {
+        "id": "O3D_59c2efc5b0de65",
+        "name": "Proximal phalanx of first finger of foot.r",
+        "region": "overview-skeleton",
+        "system": "skeletal"
+      },
+      {
+        "id": "O3D_5638d10a6ecece",
+        "name": "Proximal phalanx of first finger of foot.r",
+        "region": "lower-limb",
+        "system": "skeletal"
+      }
+    ],
+    [
+      {
+        "id": "O3D_5740e9f6dbe809",
+        "name": "Proximal phalanx of fourth finger of foot.r",
+        "region": "overview-skeleton",
+        "system": "skeletal"
+      },
+      {
+        "id": "O3D_b86bc40289c5e6",
+        "name": "Proximal phalanx of fourth finger of foot.r",
+        "region": "lower-limb",
+        "system": "skeletal"
+      }
+    ],
+    [
+      {
+        "id": "O3D_15c2823ffacddf",
+        "name": "Proximal phalanx of second finger of foot.r",
+        "region": "overview-skeleton",
+        "system": "skeletal"
+      },
+      {
+        "id": "O3D_48376bca16d359",
+        "name": "Proximal phalanx of second finger of foot.r",
+        "region": "lower-limb",
+        "system": "skeletal"
+      }
+    ],
+    [
+      {
+        "id": "O3D_9183f2e777d2ab",
+        "name": "Proximal phalanx of third finger of foot.r",
+        "region": "overview-skeleton",
+        "system": "skeletal"
+      },
+      {
+        "id": "O3D_de0609aa778b2c",
+        "name": "Proximal phalanx of third finger of foot.r",
+        "region": "lower-limb",
+        "system": "skeletal"
+      }
+    ],
+    [
+      {
+        "id": "O3D_714c49023988d2",
+        "name": "Sesamoid bones of foot.r",
+        "region": "overview-skeleton",
+        "system": "skeletal"
+      },
+      {
+        "id": "O3D_7a101cad254659",
+        "name": "Sesamoid bones of foot.r",
+        "region": "lower-limb",
+        "system": "skeletal"
+      }
+    ],
+    [
+      {
+        "id": "O3D_d12fc2f24a2388",
+        "name": "Costal cart of 10th rib.r",
+        "region": "overview-skeleton",
+        "system": "connective"
+      },
+      {
+        "id": "O3D_c0ed6e68febb59",
+        "name": "Costal cart of 10th.rib.r",
+        "region": "upper-limb",
+        "system": "connective"
+      }
+    ],
+    [
+      {
+        "id": "O3D_4d452cd10bf90a",
+        "name": "Costal cart of 1st rib.r",
+        "region": "overview-skeleton",
+        "system": "connective"
+      },
+      {
+        "id": "O3D_b020b15ab64b47",
+        "name": "Costal cart of 1st.rib.r",
+        "region": "upper-limb",
+        "system": "connective"
+      }
+    ],
+    [
+      {
+        "id": "O3D_2bb5fedb741150",
+        "name": "Costal cart of 2nd rib.r",
+        "region": "overview-skeleton",
+        "system": "connective"
+      },
+      {
+        "id": "O3D_a206c3fc962377",
+        "name": "Costal cart of 2nd.rib.r",
+        "region": "upper-limb",
+        "system": "connective"
+      }
+    ],
+    [
+      {
+        "id": "O3D_cab8d41fe4fac6",
+        "name": "Costal cart of 3rd rib.r",
+        "region": "overview-skeleton",
+        "system": "connective"
+      },
+      {
+        "id": "O3D_7cb8bb5c021eac",
+        "name": "Costal cart of 3rd.rib.r",
+        "region": "upper-limb",
+        "system": "connective"
+      }
+    ],
+    [
+      {
+        "id": "O3D_b3bf8810636df2",
+        "name": "Costal cart of 4th rib.r",
+        "region": "overview-skeleton",
+        "system": "connective"
+      },
+      {
+        "id": "O3D_82719c336629f1",
+        "name": "Costal cart of 4th.rib.r",
+        "region": "upper-limb",
+        "system": "connective"
+      }
+    ],
+    [
+      {
+        "id": "O3D_4a6ed5cb930d0a",
+        "name": "Costal cart of 5th rib.r",
+        "region": "overview-skeleton",
+        "system": "connective"
+      },
+      {
+        "id": "O3D_9d031cef802202",
+        "name": "Costal cart of 5th.rib.r",
+        "region": "upper-limb",
+        "system": "connective"
+      }
+    ],
+    [
+      {
+        "id": "O3D_3886784e4d1d6e",
+        "name": "Costal cart of 6th rib.r",
+        "region": "overview-skeleton",
+        "system": "connective"
+      },
+      {
+        "id": "O3D_ee6243ec8d3088",
+        "name": "Costal cart of 6th.rib.r",
+        "region": "upper-limb",
+        "system": "connective"
+      }
+    ],
+    [
+      {
+        "id": "O3D_6e4cf05788cb02",
+        "name": "Costal cart of 7th rib.r",
+        "region": "overview-skeleton",
+        "system": "connective"
+      },
+      {
+        "id": "O3D_3950528eaa2c88",
+        "name": "Costal cart of 7th.rib.r",
+        "region": "upper-limb",
+        "system": "connective"
+      }
+    ],
+    [
+      {
+        "id": "O3D_17b7692a87f53c",
+        "name": "Costal cart of 8th rib.r",
+        "region": "overview-skeleton",
+        "system": "connective"
+      },
+      {
+        "id": "O3D_a3eb9c598e607c",
+        "name": "Costal cart of 8th.rib.r",
+        "region": "upper-limb",
+        "system": "connective"
+      }
+    ],
+    [
+      {
+        "id": "O3D_c6c207e6651620",
+        "name": "Costal cart of 9th rib.r",
+        "region": "overview-skeleton",
+        "system": "connective"
+      },
+      {
+        "id": "O3D_ec5880c6b2d063",
+        "name": "Costal cart of 9th.rib.r",
+        "region": "upper-limb",
+        "system": "connective"
+      }
+    ],
+    [
+      {
+        "id": "O3D_2949d37139224f",
+        "name": "Acromioclavicular ligament overlay.r",
+        "region": "muscles-thorax-abdomen",
+        "system": "attachments"
+      },
+      {
+        "id": "O3D_a914e52b5cbadf",
+        "name": "Acromioclavicular ligament.r",
+        "region": "upper-limb",
+        "system": "connective"
+      }
+    ],
+    [
+      {
+        "id": "O3D_ac9930a55a5b67",
+        "name": "Interclavicular ligament",
+        "region": "muscles-thorax-abdomen",
+        "system": "connective"
+      },
+      {
+        "id": "O3D_a8761a725905b5",
+        "name": "Interclavicular ligament.r",
+        "region": "upper-limb",
+        "system": "connective"
+      }
+    ],
+    [
+      {
+        "id": "O3D_80a7a16a10a1dc",
+        "name": "Superior transverse scapular ligament.r",
+        "region": "muscles-thorax-abdomen",
+        "system": "connective"
+      },
+      {
+        "id": "O3D_5d074536b1faf1",
+        "name": "Superior transverse scapular ligament.r",
+        "region": "upper-limb",
+        "system": "connective"
+      }
+    ],
+    [
+      {
+        "id": "O3D_ec54aa6775145c",
+        "name": "Subclavius muscle.r",
+        "region": "muscles-thorax-abdomen",
+        "system": "muscular"
+      },
+      {
+        "id": "O3D_583932c1f6cf8e",
+        "name": "Subclavius muscle.r",
+        "region": "upper-limb",
+        "system": "muscular"
+      }
+    ],
+    [
+      {
+        "id": "O3D_156459c17c1d3b",
+        "name": "Medial collateral artery.r",
+        "region": "upper-limb",
+        "system": "arterial"
+      },
+      {
+        "id": "O3D_17587b42a0c8c8",
+        "name": "Middle collateral artery.r",
+        "region": "upper-limb",
+        "system": "arterial"
+      }
+    ],
+    [
+      {
+        "id": "O3D_cd220af2b7dab8",
+        "name": "Annulus fibrosus L3 L4",
+        "region": "upper-limb",
+        "system": "connective"
+      },
+      {
+        "id": "O3D_dd9daa8f7bafd8",
+        "name": "Annulus fibrosus L3 L4",
+        "region": "lower-limb",
+        "system": "connective"
+      }
+    ],
+    [
+      {
+        "id": "O3D_8bc7dc2f797537",
+        "name": "Annulus fibrosus L4 L5",
+        "region": "upper-limb",
+        "system": "connective"
+      },
+      {
+        "id": "O3D_ee46d3987f753a",
+        "name": "Annulus fibrosus L4 L5",
+        "region": "lower-limb",
+        "system": "connective"
+      }
+    ],
+    [
+      {
+        "id": "O3D_a90d4ebcd3eaf9",
+        "name": "Annulus fibrosus L5 S1",
+        "region": "upper-limb",
+        "system": "connective"
+      },
+      {
+        "id": "O3D_da016fec02bf99",
+        "name": "Annulus fibrosus L5 S1",
+        "region": "lower-limb",
+        "system": "connective"
+      }
+    ],
+    [
+      {
+        "id": "O3D_8d0ce1c2c1cbf7",
+        "name": "Annulus fibrosus T12 L1",
+        "region": "upper-limb",
+        "system": "connective"
+      },
+      {
+        "id": "O3D_53fa8eaccb3903",
+        "name": "Annulus fibrosus T12 L1",
+        "region": "lower-limb",
+        "system": "connective"
+      }
+    ]
+  ]
+}

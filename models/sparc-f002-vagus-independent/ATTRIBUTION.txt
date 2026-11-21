@@ -1,0 +1,13 @@
+SPARC f002 left vagus: independent fitted specimen reference
+
+Authors: Mabelle Lin; Richard Christie; Valerie Chopovda; David P. Nickerson.
+Lin, M., Christie, R., Chopovda, V., & Nickerson, D. P. (2026). Scaffold map - Human vagus nerve (Version 7). SPARC Portal. https://doi.org/10.26275/tjzi-muqm. CC BY 4.0. Selected source-rendered surfaces converted from JSON to GLB; micrometers scaled to meters. Original display colors retained with a Phong-to-PBR material approximation.
+Source release: SPARC dataset 426, Version 7, August 4, 2026.
+Source DOI: https://doi.org/10.26275/tjzi-muqm
+Source portal: https://discover.pennsieve.io/datasets/426
+License: Creative Commons Attribution 4.0 International (CC BY 4.0).
+License URL: https://creativecommons.org/licenses/by/4.0/
+Source donor reconstruction: Zanos et al. (2026), Human vagus nerve anatomical reconstruction using microCT and immunohistochemistry - f002, Version 1. https://doi.org/10.26275/imas-52lf.
+
+Modifications: selected three existing source-rendered surfaces, converted JSON arrays to GLB, and applied the verified micrometer-to-meter scale (1e-6). Original positions, normals and face order were retained after float32 representation. Original display colors were retained with a Phong-to-PBR material approximation. Display labels simplify source surface names; exact sourceName values remain available.
+The source-author fitted epineurium surfaces are approximate representations of an ex-vivo specimen. One anterior gastric branch origin is included; distal gastric distribution and in-body organ alignment are not supplied. No new geometry, anatomical registration, complete innervation mapping or endorsement is claimed.

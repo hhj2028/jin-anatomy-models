@@ -1,0 +1,1409 @@
+{
+  "previousAbdominalResources": {
+    "upperAbdomen": {
+      "sourceDatasetId": "z-anatomy",
+      "sourcePins": [
+        {
+          "path": "vmra-anatomy/dist/models/z-anatomy/manifest.json",
+          "bytes": 82558,
+          "sha256": "f8e877e239fa3ef9e805d29db63b2ca86230a983b0ea63e7d9943e60d37c079c"
+        },
+        {
+          "path": "vmra-anatomy/dist/models/z-anatomy/meshes.json",
+          "bytes": 3040787,
+          "sha256": "8995aa20f2d5eeb249bcec6579de3a695125a8ca1c7ece9875cf559a78f60ac6"
+        },
+        {
+          "path": "vmra-anatomy/dist/models/z-anatomy/structures.json",
+          "bytes": 2946013,
+          "sha256": "97b1da352b0727b466cc964c24693eb2e7b073c549879d58dfd82f2a4de69c0f"
+        },
+        {
+          "path": "vmra-anatomy/dist/models/z-anatomy/ATTRIBUTION.txt",
+          "bytes": 1645,
+          "sha256": "8e6ad47df398e75334ec43ff14c77bde971746febd14090a9840db6df766f5ce"
+        }
+      ],
+      "candidatePin": {
+        "path": "anatomy-research/unified-body-v36/organ-source-path/upper-abdominal-replacement-candidate.json",
+        "bytes": 321670,
+        "sha256": "eb3f7886a42fb365ef2a58223ae49c95c48ca4a14879423a623a5f18ef7dc8b4"
+      },
+      "originalDirectOwnerRows": [
+        {
+          "id": "ZAG_3b5abb7437a2b8",
+          "nameEn": "Diaphragm",
+          "sourceNodeName": "Diaphragm",
+          "system": "muscular",
+          "meshIds": [
+            "ZA_3b5abb7437a2b8"
+          ],
+          "directMeshIds": [
+            "ZA_3b5abb7437a2b8"
+          ],
+          "childIds": [],
+          "sourcePath": "MuscularSystem100.fbx/RootNode/Thoracic part of muscular system.g/Diaphragm",
+          "systems": [
+            "muscular"
+          ],
+          "bounds": [
+            [
+              -0.12580665182345685,
+              1.0422530392833924,
+              -0.06699225894849638
+            ],
+            [
+              0.12496618573750728,
+              1.2621448834348832,
+              0.1009408877596556
+            ]
+          ],
+          "parentIds": [
+            "ZAG_de28553c1e4770"
+          ],
+          "kind": "structure"
+        },
+        {
+          "id": "ZAG_2847a6ba006008",
+          "nameEn": "Splenic artery",
+          "sourceNodeName": "Splenic artery",
+          "system": "arterial",
+          "meshIds": [
+            "ZA_2847a6ba006008"
+          ],
+          "directMeshIds": [
+            "ZA_2847a6ba006008"
+          ],
+          "childIds": [],
+          "sourcePath": "CardioVascular41.fbx/RootNode/Arterial system.g/Systemic arteries.g/Aorta.g/Abdominal aorta/Coeliac trunk/Splenic artery",
+          "systems": [
+            "arterial"
+          ],
+          "bounds": [
+            [
+              0.004249953716879542,
+              1.144295735283321,
+              -0.017590332977435574
+            ],
+            [
+              0.09893398226315366,
+              1.1688199122340555,
+              0.035894506148706214
+            ]
+          ],
+          "parentIds": [
+            "ZAG_3f46174d1fa443"
+          ],
+          "kind": "structure"
+        },
+        {
+          "id": "ZAG_9ec6b5e31560ff",
+          "nameEn": "Left gastric artery",
+          "sourceNodeName": "Left gastric artery",
+          "system": "arterial",
+          "meshIds": [
+            "ZA_9ec6b5e31560ff"
+          ],
+          "directMeshIds": [
+            "ZA_9ec6b5e31560ff"
+          ],
+          "childIds": [],
+          "sourcePath": "CardioVascular41.fbx/RootNode/Arterial system.g/Systemic arteries.g/Aorta.g/Abdominal aorta/Coeliac trunk/Left gastric artery",
+          "systems": [
+            "arterial"
+          ],
+          "bounds": [
+            [
+              0.0035562906831309205,
+              1.1539032834738223,
+              0.029600314100050804
+            ],
+            [
+              0.021595212941432327,
+              1.1782498881105905,
+              0.05659665101559801
+            ]
+          ],
+          "parentIds": [
+            "ZAG_3f46174d1fa443"
+          ],
+          "kind": "structure"
+        },
+        {
+          "id": "ZAG_95b44ea0a99d64",
+          "nameEn": "Proper hepatic artery",
+          "sourceNodeName": "Proper hepatic artery",
+          "system": "arterial",
+          "meshIds": [
+            "ZA_95b44ea0a99d64"
+          ],
+          "directMeshIds": [
+            "ZA_95b44ea0a99d64"
+          ],
+          "childIds": [],
+          "sourcePath": "CardioVascular41.fbx/RootNode/Arterial system.g/Systemic arteries.g/Aorta.g/Abdominal aorta/Coeliac trunk/Common hepatic artery/Proper hepatic artery",
+          "systems": [
+            "arterial"
+          ],
+          "bounds": [
+            [
+              -0.11244112421868314,
+              1.1443197584126985,
+              0.0459225860849397
+            ],
+            [
+              -0.02037866817617802,
+              1.1728531106814761,
+              0.07414400707158326
+            ]
+          ],
+          "parentIds": [
+            "ZAG_0dda26b692a945"
+          ],
+          "kind": "structure"
+        },
+        {
+          "id": "ZAG_7b899d4ce4db0a",
+          "nameEn": "Gastroduodenal artery",
+          "sourceNodeName": "Gastroduodenal artery",
+          "system": "arterial",
+          "meshIds": [
+            "ZA_7b899d4ce4db0a"
+          ],
+          "directMeshIds": [
+            "ZA_7b899d4ce4db0a"
+          ],
+          "childIds": [],
+          "sourcePath": "CardioVascular41.fbx/RootNode/Arterial system.g/Systemic arteries.g/Aorta.g/Abdominal aorta/Coeliac trunk/Common hepatic artery/Gastroduodenal artery",
+          "systems": [
+            "arterial"
+          ],
+          "bounds": [
+            [
+              -0.03486016632046932,
+              1.1290199029457846,
+              0.05900888949655153
+            ],
+            [
+              -0.020144597007366826,
+              1.1485049432907382,
+              0.08843878753029949
+            ]
+          ],
+          "parentIds": [
+            "ZAG_0dda26b692a945"
+          ],
+          "kind": "structure"
+        },
+        {
+          "id": "ZAG_0dda26b692a945",
+          "nameEn": "Common hepatic artery",
+          "sourceNodeName": "Common hepatic artery",
+          "system": "arterial",
+          "meshIds": [
+            "ZA_0dda26b692a945",
+            "ZA_95b44ea0a99d64",
+            "ZA_7b899d4ce4db0a"
+          ],
+          "directMeshIds": [
+            "ZA_0dda26b692a945"
+          ],
+          "childIds": [
+            "ZAG_95b44ea0a99d64",
+            "ZAG_7b899d4ce4db0a"
+          ],
+          "sourcePath": "CardioVascular41.fbx/RootNode/Arterial system.g/Systemic arteries.g/Aorta.g/Abdominal aorta/Coeliac trunk/Common hepatic artery",
+          "systems": [
+            "arterial"
+          ],
+          "bounds": [
+            [
+              -0.11244112421868314,
+              1.1290199029457846,
+              0.029872661578342462
+            ],
+            [
+              0.009876656481907753,
+              1.1728531106814761,
+              0.08843878753029949
+            ]
+          ],
+          "parentIds": [
+            "ZAG_3f46174d1fa443"
+          ],
+          "kind": "structure"
+        },
+        {
+          "id": "ZAG_3f46174d1fa443",
+          "nameEn": "Coeliac trunk",
+          "sourceNodeName": "Coeliac trunk",
+          "system": "arterial",
+          "meshIds": [
+            "ZA_3f46174d1fa443",
+            "ZA_2847a6ba006008",
+            "ZA_9ec6b5e31560ff",
+            "ZA_0dda26b692a945",
+            "ZA_95b44ea0a99d64",
+            "ZA_7b899d4ce4db0a"
+          ],
+          "directMeshIds": [
+            "ZA_3f46174d1fa443"
+          ],
+          "childIds": [
+            "ZAG_2847a6ba006008",
+            "ZAG_9ec6b5e31560ff",
+            "ZAG_0dda26b692a945"
+          ],
+          "sourcePath": "CardioVascular41.fbx/RootNode/Arterial system.g/Systemic arteries.g/Aorta.g/Abdominal aorta/Coeliac trunk",
+          "systems": [
+            "arterial"
+          ],
+          "bounds": [
+            [
+              -0.11244112421868314,
+              1.1290199029457846,
+              -0.017590332977435574
+            ],
+            [
+              0.09893398226315366,
+              1.1782498881105905,
+              0.08843878753029949
+            ]
+          ],
+          "parentIds": [
+            "ZAG_89c871621ecb90"
+          ],
+          "kind": "structure"
+        },
+        {
+          "id": "ZAG_89c871621ecb90",
+          "nameEn": "Abdominal aorta",
+          "sourceNodeName": "Abdominal aorta",
+          "system": "arterial",
+          "meshIds": [
+            "ZA_89c871621ecb90",
+            "ZA_06bc29070a40dc",
+            "ZA_a7e6838ec19419",
+            "ZA_644ab2ec87b1fe",
+            "ZA_f23a29a2a3a1ec",
+            "ZA_87fe83238319a6",
+            "ZA_00d42af6524b4e",
+            "ZA_1ecdcf3f0d7c84",
+            "ZA_05a452c7b17a0a",
+            "ZA_f95c73abe3b64a",
+            "ZA_4a205da0da49e4",
+            "ZA_7e768a5ede1c63",
+            "ZA_a9eb87c2e4d6c7",
+            "ZA_ec46aa019b5338",
+            "ZA_3f46174d1fa443",
+            "ZA_2847a6ba006008",
+            "ZA_9ec6b5e31560ff",
+            "ZA_0dda26b692a945",
+            "ZA_95b44ea0a99d64",
+            "ZA_7b899d4ce4db0a",
+            "ZA_f4b9229ec64e67",
+            "ZA_180767c053a8f6",
+            "ZA_61ed63d8ea8327",
+            "ZA_5473c67dce9e00",
+            "ZA_41f1bcbab37194",
+            "ZA_6c7727c915db0c",
+            "ZA_d4a12dd416aa5e",
+            "ZA_d6bbe2c4746c4b",
+            "ZA_8923dbb5dea93a",
+            "ZA_ee810fadd5fe70",
+            "ZA_b656e13c1faabc",
+            "ZA_841c1766aa0b9a",
+            "ZA_5a56650e84c0f9",
+            "ZA_e68345170abf13",
+            "ZA_926ffba1cf1d76",
+            "ZA_77594035d16e3f",
+            "ZA_f63492d9f57dab",
+            "ZA_b76e75fc4b9543"
+          ],
+          "directMeshIds": [
+            "ZA_89c871621ecb90"
+          ],
+          "childIds": [
+            "ZAG_06bc29070a40dc",
+            "ZAG_a7e6838ec19419",
+            "ZAG_644ab2ec87b1fe",
+            "ZAG_f23a29a2a3a1ec",
+            "ZAG_3f46174d1fa443",
+            "ZAG_f4b9229ec64e67",
+            "ZAG_6c7727c915db0c",
+            "ZAG_b656e13c1faabc",
+            "ZAG_841c1766aa0b9a",
+            "ZAG_b76e75fc4b9543"
+          ],
+          "sourcePath": "CardioVascular41.fbx/RootNode/Arterial system.g/Systemic arteries.g/Aorta.g/Abdominal aorta",
+          "systems": [
+            "arterial"
+          ],
+          "bounds": [
+            [
+              -0.11244112421868314,
+              0.7280430559852504,
+              -0.054688039023627795
+            ],
+            [
+              0.09893398226315366,
+              1.2650709933998732,
+              0.08843878753029949
+            ]
+          ],
+          "parentIds": [
+            "ZAG_8f747c2948543f"
+          ],
+          "kind": "structure"
+        },
+        {
+          "id": "ZAG_e1ea626bc665eb",
+          "nameEn": "Liver",
+          "sourceNodeName": "Liver",
+          "system": "visceral",
+          "meshIds": [
+            "ZA_e1ea626bc665eb",
+            "ZA_408c97f22073fa",
+            "ZA_61394bf64eb338",
+            "ZA_8bd5b761675aa3",
+            "ZA_b298261346432d",
+            "ZA_ca8935795ad517",
+            "ZA_a12385d6f82a6c",
+            "ZA_8cd7d485586324",
+            "ZA_146bba5e735710"
+          ],
+          "directMeshIds": [
+            "ZA_e1ea626bc665eb"
+          ],
+          "childIds": [
+            "ZAG_408c97f22073fa",
+            "ZAG_61394bf64eb338",
+            "ZAG_8bd5b761675aa3",
+            "ZAG_b298261346432d",
+            "ZAG_ca8935795ad517",
+            "ZAG_a12385d6f82a6c",
+            "ZAG_8cd7d485586324",
+            "ZAG_146bba5e735710"
+          ],
+          "sourcePath": "VisceralSystem100.fbx/RootNode/Digestive system.g/Liver",
+          "systems": [
+            "visceral"
+          ],
+          "bounds": [
+            [
+              -0.11472640922823496,
+              1.0913935688649532,
+              -0.05372605519461359
+            ],
+            [
+              0.09161854851602001,
+              1.257661630640973,
+              0.09943254806859547
+            ]
+          ],
+          "parentIds": [
+            "ZAG_55b76942a7ad60"
+          ],
+          "kind": "structure"
+        },
+        {
+          "id": "ZAG_e46a92e6cc0bf8",
+          "nameEn": "Pancreas",
+          "sourceNodeName": "Pancreas",
+          "system": "visceral",
+          "meshIds": [
+            "ZA_e46a92e6cc0bf8",
+            "ZA_ec2930ac1d39e4",
+            "ZA_d85e04ac392057"
+          ],
+          "directMeshIds": [
+            "ZA_e46a92e6cc0bf8"
+          ],
+          "childIds": [
+            "ZAG_ec2930ac1d39e4",
+            "ZAG_d85e04ac392057"
+          ],
+          "sourcePath": "VisceralSystem100.fbx/RootNode/Digestive system.g/Pancreas",
+          "systems": [
+            "visceral"
+          ],
+          "bounds": [
+            [
+              -0.05346847775091519,
+              1.0791330182090544,
+              -0.005127262543226085
+            ],
+            [
+              0.07267442549719971,
+              1.1528729594992073,
+              0.0482316625325903
+            ]
+          ],
+          "parentIds": [
+            "ZAG_55b76942a7ad60"
+          ],
+          "kind": "structure"
+        },
+        {
+          "id": "ZAG_2a06b78a9d7555",
+          "nameEn": "Stomach",
+          "sourceNodeName": "Stomach",
+          "system": "visceral",
+          "meshIds": [
+            "ZA_2a06b78a9d7555"
+          ],
+          "directMeshIds": [
+            "ZA_2a06b78a9d7555"
+          ],
+          "childIds": [],
+          "sourcePath": "VisceralSystem100.fbx/RootNode/Digestive system.g/Digestive canal.g/Stomach",
+          "systems": [
+            "visceral"
+          ],
+          "bounds": [
+            [
+              -0.028751823778181657,
+              1.1036782023683602,
+              -0.01649504312109956
+            ],
+            [
+              0.10542309684036674,
+              1.229142156608553,
+              0.08882422386597505
+            ]
+          ],
+          "parentIds": [
+            "ZAG_c9597bc6a58104"
+          ],
+          "kind": "structure"
+        },
+        {
+          "id": "ZAG_8814235835dbe9",
+          "nameEn": "Duodenum",
+          "sourceNodeName": "Duodenum",
+          "system": "visceral",
+          "meshIds": [
+            "ZA_8814235835dbe9"
+          ],
+          "directMeshIds": [
+            "ZA_8814235835dbe9"
+          ],
+          "childIds": [],
+          "sourcePath": "VisceralSystem100.fbx/RootNode/Digestive system.g/Digestive canal.g/Small intestine.g/Duodenum",
+          "systems": [
+            "visceral"
+          ],
+          "bounds": [
+            [
+              -0.0656240455985178,
+              1.0448769213822247,
+              0.005745805988395527
+            ],
+            [
+              0.0323296996363943,
+              1.143259791142094,
+              0.057378987085152676
+            ]
+          ],
+          "parentIds": [
+            "ZAG_b4f92073d56535"
+          ],
+          "kind": "structure"
+        },
+        {
+          "id": "ZAG_ffb7a877189e7a",
+          "nameEn": "Spleen",
+          "sourceNodeName": "Spleen",
+          "system": "lymphatic",
+          "meshIds": [
+            "ZA_ffb7a877189e7a"
+          ],
+          "directMeshIds": [
+            "ZA_ffb7a877189e7a"
+          ],
+          "childIds": [],
+          "sourcePath": "LymphoidOrgans100.fbx/RootNode/Secondary lymphoid organs.g/Spleen",
+          "systems": [
+            "lymphatic"
+          ],
+          "bounds": [
+            [
+              0.05563420079648495,
+              1.1263839688539807,
+              -0.05195114210575613
+            ],
+            [
+              0.11386805050075054,
+              1.196613899520753,
+              0.04311465910774904
+            ]
+          ],
+          "parentIds": [
+            "ZAG_568461033f4663"
+          ],
+          "kind": "structure"
+        }
+      ],
+      "subsetStructureRowsAreUnmodified": true,
+      "chunkExtraction": [
+        {
+          "source": {
+            "path": "vmra-anatomy/dist/models/z-anatomy/z-anatomy-arterial-01.glb",
+            "bytes": 9535012,
+            "sha256": "1cd5433926d4f281a944aa742f5019b28f0c05aab47b461854caa2497c1627e2"
+          },
+          "output": {
+            "path": "anatomy-research/unified-body-v37/upper-abdominal-assets/package/z-upper-abdominal-arterial-01.glb",
+            "bytes": 74060,
+            "sha256": "56da99cb6ac3ea610c138d55499d92bd7f2854ae37b94d259bbf912710a7e597"
+          },
+          "physicalIds": [
+            "ZA_89c871621ecb90",
+            "ZA_3f46174d1fa443",
+            "ZA_2847a6ba006008",
+            "ZA_9ec6b5e31560ff",
+            "ZA_0dda26b692a945",
+            "ZA_95b44ea0a99d64",
+            "ZA_7b899d4ce4db0a"
+          ],
+          "records": [
+            {
+              "physicalId": "ZA_89c871621ecb90",
+              "sourceNodeIndex": 322,
+              "sourceMeshIndex": 322,
+              "outputNodeIndex": 0,
+              "outputMeshIndex": 0
+            },
+            {
+              "physicalId": "ZA_3f46174d1fa443",
+              "sourceNodeIndex": 336,
+              "sourceMeshIndex": 336,
+              "outputNodeIndex": 1,
+              "outputMeshIndex": 1
+            },
+            {
+              "physicalId": "ZA_2847a6ba006008",
+              "sourceNodeIndex": 337,
+              "sourceMeshIndex": 337,
+              "outputNodeIndex": 2,
+              "outputMeshIndex": 2
+            },
+            {
+              "physicalId": "ZA_9ec6b5e31560ff",
+              "sourceNodeIndex": 338,
+              "sourceMeshIndex": 338,
+              "outputNodeIndex": 3,
+              "outputMeshIndex": 3
+            },
+            {
+              "physicalId": "ZA_0dda26b692a945",
+              "sourceNodeIndex": 339,
+              "sourceMeshIndex": 339,
+              "outputNodeIndex": 4,
+              "outputMeshIndex": 4
+            },
+            {
+              "physicalId": "ZA_95b44ea0a99d64",
+              "sourceNodeIndex": 340,
+              "sourceMeshIndex": 340,
+              "outputNodeIndex": 5,
+              "outputMeshIndex": 5
+            },
+            {
+              "physicalId": "ZA_7b899d4ce4db0a",
+              "sourceNodeIndex": 341,
+              "sourceMeshIndex": 341,
+              "outputNodeIndex": 6,
+              "outputMeshIndex": 6
+            }
+          ],
+          "bytes": 74060
+        },
+        {
+          "source": {
+            "path": "vmra-anatomy/dist/models/z-anatomy/z-anatomy-visceral-01.glb",
+            "bytes": 5755556,
+            "sha256": "4fbd7854fd5a6d59134fce04a8d083b8e0b95c626ad8a0c803111e0a1bc0eacd"
+          },
+          "output": {
+            "path": "anatomy-research/unified-body-v37/upper-abdominal-assets/package/z-upper-abdominal-visceral-01.glb",
+            "bytes": 251112,
+            "sha256": "51a49f1dbf785f68e530e67c8cdb7a366413b114c876917e3387acc56bd7e35b"
+          },
+          "physicalIds": [
+            "ZA_e1ea626bc665eb",
+            "ZA_e46a92e6cc0bf8",
+            "ZA_2a06b78a9d7555",
+            "ZA_8814235835dbe9"
+          ],
+          "records": [
+            {
+              "physicalId": "ZA_e1ea626bc665eb",
+              "sourceNodeIndex": 69,
+              "sourceMeshIndex": 69,
+              "outputNodeIndex": 0,
+              "outputMeshIndex": 0
+            },
+            {
+              "physicalId": "ZA_e46a92e6cc0bf8",
+              "sourceNodeIndex": 79,
+              "sourceMeshIndex": 79,
+              "outputNodeIndex": 1,
+              "outputMeshIndex": 1
+            },
+            {
+              "physicalId": "ZA_2a06b78a9d7555",
+              "sourceNodeIndex": 103,
+              "sourceMeshIndex": 103,
+              "outputNodeIndex": 2,
+              "outputMeshIndex": 2
+            },
+            {
+              "physicalId": "ZA_8814235835dbe9",
+              "sourceNodeIndex": 104,
+              "sourceMeshIndex": 104,
+              "outputNodeIndex": 3,
+              "outputMeshIndex": 3
+            }
+          ],
+          "bytes": 251112
+        },
+        {
+          "source": {
+            "path": "vmra-anatomy/dist/models/z-anatomy/z-anatomy-lymphatic-01.glb",
+            "bytes": 1250500,
+            "sha256": "34ebdd066c33c3f40d77e29b74ba1edf21dbc944929f3e93f11b2ecc2e547c4f"
+          },
+          "output": {
+            "path": "anatomy-research/unified-body-v37/upper-abdominal-assets/package/z-upper-abdominal-lymphatic-01.glb",
+            "bytes": 13376,
+            "sha256": "4b3cba578e891b4611c99dc3931dc29eca0a21b72066bfd8bb71a7201e71a006"
+          },
+          "physicalIds": [
+            "ZA_ffb7a877189e7a"
+          ],
+          "records": [
+            {
+              "physicalId": "ZA_ffb7a877189e7a",
+              "sourceNodeIndex": 2,
+              "sourceMeshIndex": 2,
+              "outputNodeIndex": 0,
+              "outputMeshIndex": 0
+            }
+          ],
+          "bytes": 13376
+        },
+        {
+          "source": {
+            "path": "vmra-anatomy/dist/models/z-anatomy/z-anatomy-muscular-01.glb",
+            "bytes": 16753504,
+            "sha256": "3c55fb55f16af111454cf45f9775c0de482120053092973ccd830a0ae0a865de"
+          },
+          "output": {
+            "path": "anatomy-research/unified-body-v37/upper-abdominal-assets/package/z-upper-abdominal-muscular-01.glb",
+            "bytes": 476924,
+            "sha256": "ddc780acb36a0b863374a93a80b8629961b66dfd28aff83e98a7af13cbfba739"
+          },
+          "physicalIds": [
+            "ZA_3b5abb7437a2b8"
+          ],
+          "records": [
+            {
+              "physicalId": "ZA_3b5abb7437a2b8",
+              "sourceNodeIndex": 289,
+              "sourceMeshIndex": 289,
+              "outputNodeIndex": 0,
+              "outputMeshIndex": 0
+            }
+          ],
+          "bytes": 476924
+        }
+      ]
+    },
+    "peritonealFolds": {
+      "sourceDatasetId": "z-anatomy",
+      "sourcePins": [
+        {
+          "path": "vmra-anatomy/dist/models/z-anatomy/manifest.json",
+          "bytes": 82558,
+          "sha256": "f8e877e239fa3ef9e805d29db63b2ca86230a983b0ea63e7d9943e60d37c079c"
+        },
+        {
+          "path": "vmra-anatomy/dist/models/z-anatomy/meshes.json",
+          "bytes": 3040787,
+          "sha256": "8995aa20f2d5eeb249bcec6579de3a695125a8ca1c7ece9875cf559a78f60ac6"
+        },
+        {
+          "path": "vmra-anatomy/dist/models/z-anatomy/structures.json",
+          "bytes": 2946013,
+          "sha256": "97b1da352b0727b466cc964c24693eb2e7b073c549879d58dfd82f2a4de69c0f"
+        },
+        {
+          "path": "vmra-anatomy/dist/models/z-anatomy/ATTRIBUTION.txt",
+          "bytes": 1645,
+          "sha256": "8e6ad47df398e75334ec43ff14c77bde971746febd14090a9840db6df766f5ce"
+        }
+      ],
+      "originalDirectOwnerRows": [
+        {
+          "id": "ZAG_36ca5c9701a784",
+          "nameEn": "Meso-appendix",
+          "sourceNodeName": "Meso-appendix",
+          "system": "visceral",
+          "meshIds": [
+            "ZA_36ca5c9701a784"
+          ],
+          "directMeshIds": [
+            "ZA_36ca5c9701a784"
+          ],
+          "childIds": [],
+          "sourcePath": "VisceralSystem100.fbx/RootNode/Abdominopelvic cavity.g/Peritoneal structures.g/Mesocolon/Meso-appendix",
+          "systems": [
+            "visceral"
+          ],
+          "bounds": [
+            [
+              -0.07203438430421721,
+              0.9466796011725539,
+              -0.012859009567281669
+            ],
+            [
+              -0.022499496102543995,
+              0.9906740593708503,
+              0.02002566181335216
+            ]
+          ],
+          "parentIds": [
+            "ZAG_10c50be99792b6"
+          ],
+          "kind": "structure"
+        },
+        {
+          "id": "ZAG_10c50be99792b6",
+          "nameEn": "Mesocolon",
+          "sourceNodeName": "Mesocolon",
+          "system": "visceral",
+          "meshIds": [
+            "ZA_10c50be99792b6",
+            "ZA_36ca5c9701a784"
+          ],
+          "directMeshIds": [
+            "ZA_10c50be99792b6"
+          ],
+          "childIds": [
+            "ZAG_36ca5c9701a784"
+          ],
+          "sourcePath": "VisceralSystem100.fbx/RootNode/Abdominopelvic cavity.g/Peritoneal structures.g/Mesocolon",
+          "systems": [
+            "visceral"
+          ],
+          "bounds": [
+            [
+              -0.07203438430421721,
+              0.9466796011725539,
+              -0.012859009567281669
+            ],
+            [
+              0.0999408649900271,
+              1.1472465234499172,
+              0.08681990441688187
+            ]
+          ],
+          "parentIds": [
+            "ZAG_1925bdccb99e22"
+          ],
+          "kind": "structure"
+        },
+        {
+          "id": "ZAG_c8834cf6d085b1",
+          "nameEn": "Greater omentum",
+          "sourceNodeName": "Greater omentum",
+          "system": "visceral",
+          "meshIds": [
+            "ZA_c8834cf6d085b1"
+          ],
+          "directMeshIds": [
+            "ZA_c8834cf6d085b1"
+          ],
+          "childIds": [],
+          "sourcePath": "VisceralSystem100.fbx/RootNode/Abdominopelvic cavity.g/Peritoneal structures.g/Greater omentum",
+          "systems": [
+            "visceral"
+          ],
+          "bounds": [
+            [
+              -0.10256143978215934,
+              0.8795408992644398,
+              0.018614350309779804
+            ],
+            [
+              0.10926662493952641,
+              1.1628340128127335,
+              0.08806485113219747
+            ]
+          ],
+          "parentIds": [
+            "ZAG_1925bdccb99e22"
+          ],
+          "kind": "structure"
+        },
+        {
+          "id": "ZAG_98420971b78359",
+          "nameEn": "Lesser omentum",
+          "sourceNodeName": "Lesser omentum",
+          "system": "visceral",
+          "meshIds": [
+            "ZA_98420971b78359"
+          ],
+          "directMeshIds": [
+            "ZA_98420971b78359"
+          ],
+          "childIds": [],
+          "sourcePath": "VisceralSystem100.fbx/RootNode/Abdominopelvic cavity.g/Peritoneal structures.g/Lesser omentum",
+          "systems": [
+            "visceral"
+          ],
+          "bounds": [
+            [
+              -0.03456621793902347,
+              1.1419628474036383,
+              0.016711522844698793
+            ],
+            [
+              0.025421488846199408,
+              1.2000268439116404,
+              0.08068585604236952
+            ]
+          ],
+          "parentIds": [
+            "ZAG_1925bdccb99e22"
+          ],
+          "kind": "structure"
+        }
+      ],
+      "subsetStructureRowsAreUnmodified": true,
+      "chunkExtraction": [
+        {
+          "source": {
+            "path": "vmra-anatomy/dist/models/z-anatomy/z-anatomy-visceral-01.glb",
+            "bytes": 5755556,
+            "sha256": "4fbd7854fd5a6d59134fce04a8d083b8e0b95c626ad8a0c803111e0a1bc0eacd"
+          },
+          "output": {
+            "path": "anatomy-research/unified-body-v40/peritoneal-folds/package/z-peritoneal-folds-01.glb",
+            "bytes": 752084,
+            "sha256": "a6f5342d73abb42f35b8b59922f49a82032c8ea3f23466e814b62ba41110b5f1"
+          },
+          "physicalIds": [
+            "ZA_10c50be99792b6",
+            "ZA_36ca5c9701a784",
+            "ZA_c8834cf6d085b1",
+            "ZA_98420971b78359"
+          ],
+          "records": [
+            {
+              "physicalId": "ZA_10c50be99792b6",
+              "sourceNodeIndex": 114,
+              "sourceMeshIndex": 114,
+              "outputNodeIndex": 0,
+              "outputMeshIndex": 0
+            },
+            {
+              "physicalId": "ZA_36ca5c9701a784",
+              "sourceNodeIndex": 115,
+              "sourceMeshIndex": 115,
+              "outputNodeIndex": 1,
+              "outputMeshIndex": 1
+            },
+            {
+              "physicalId": "ZA_c8834cf6d085b1",
+              "sourceNodeIndex": 116,
+              "sourceMeshIndex": 116,
+              "outputNodeIndex": 2,
+              "outputMeshIndex": 2
+            },
+            {
+              "physicalId": "ZA_98420971b78359",
+              "sourceNodeIndex": 117,
+              "sourceMeshIndex": 117,
+              "outputNodeIndex": 3,
+              "outputMeshIndex": 3
+            }
+          ],
+          "bytes": 752084
+        }
+      ]
+    }
+  },
+  "intestinalResources": {
+    "sourceDatasetId": "z-anatomy",
+    "sourcePins": [
+      {
+        "path": "vmra-anatomy/dist/models/z-anatomy/manifest.json",
+        "bytes": 82558,
+        "sha256": "f8e877e239fa3ef9e805d29db63b2ca86230a983b0ea63e7d9943e60d37c079c"
+      },
+      {
+        "path": "vmra-anatomy/dist/models/z-anatomy/meshes.json",
+        "bytes": 3040787,
+        "sha256": "8995aa20f2d5eeb249bcec6579de3a695125a8ca1c7ece9875cf559a78f60ac6"
+      },
+      {
+        "path": "vmra-anatomy/dist/models/z-anatomy/structures.json",
+        "bytes": 2946013,
+        "sha256": "97b1da352b0727b466cc964c24693eb2e7b073c549879d58dfd82f2a4de69c0f"
+      },
+      {
+        "path": "vmra-anatomy/dist/models/z-anatomy/ATTRIBUTION.txt",
+        "bytes": 1645,
+        "sha256": "8e6ad47df398e75334ec43ff14c77bde971746febd14090a9840db6df766f5ce"
+      },
+      {
+        "path": "vmra-anatomy/dist/models/z-body-viscera/manifest.json",
+        "bytes": 6068,
+        "sha256": "4e0de9ba7b3b47c39dd01b847b49c92fc94a10f7a048d31b769a1e6aca15de9c"
+      },
+      {
+        "path": "vmra-anatomy/dist/models/z-body-viscera/meshes.json",
+        "bytes": 17230,
+        "sha256": "619fdf1edaf0494b0b19ae506cfaeb3aad0179c967110caf05dc44962b45781d"
+      }
+    ],
+    "chunkExtraction": [
+      {
+        "source": {
+          "path": "vmra-anatomy/dist/models/z-anatomy/z-anatomy-arterial-01.glb",
+          "bytes": 9535012,
+          "sha256": "1cd5433926d4f281a944aa742f5019b28f0c05aab47b461854caa2497c1627e2"
+        },
+        "output": {
+          "path": "anatomy-research/unified-body-v41/intestinal-source/package/z-intestinal-arterial-01.glb",
+          "bytes": 246900,
+          "sha256": "c466cf299463ba298a277325e79b9087c215e65e6e811a8255a57e3640f6ead2"
+        },
+        "physicalIds": [
+          "ZA_f23a29a2a3a1ec",
+          "ZA_87fe83238319a6",
+          "ZA_00d42af6524b4e",
+          "ZA_1ecdcf3f0d7c84",
+          "ZA_05a452c7b17a0a",
+          "ZA_f95c73abe3b64a",
+          "ZA_4a205da0da49e4",
+          "ZA_7e768a5ede1c63",
+          "ZA_a9eb87c2e4d6c7",
+          "ZA_ec46aa019b5338",
+          "ZA_841c1766aa0b9a",
+          "ZA_5a56650e84c0f9",
+          "ZA_e68345170abf13",
+          "ZA_926ffba1cf1d76",
+          "ZA_77594035d16e3f",
+          "ZA_f63492d9f57dab"
+        ],
+        "records": [
+          {
+            "physicalId": "ZA_f23a29a2a3a1ec",
+            "sourceNodeIndex": 326,
+            "sourceMeshIndex": 326,
+            "outputNodeIndex": 0,
+            "outputMeshIndex": 0
+          },
+          {
+            "physicalId": "ZA_87fe83238319a6",
+            "sourceNodeIndex": 327,
+            "sourceMeshIndex": 327,
+            "outputNodeIndex": 1,
+            "outputMeshIndex": 1
+          },
+          {
+            "physicalId": "ZA_00d42af6524b4e",
+            "sourceNodeIndex": 328,
+            "sourceMeshIndex": 328,
+            "outputNodeIndex": 2,
+            "outputMeshIndex": 2
+          },
+          {
+            "physicalId": "ZA_1ecdcf3f0d7c84",
+            "sourceNodeIndex": 329,
+            "sourceMeshIndex": 329,
+            "outputNodeIndex": 3,
+            "outputMeshIndex": 3
+          },
+          {
+            "physicalId": "ZA_05a452c7b17a0a",
+            "sourceNodeIndex": 330,
+            "sourceMeshIndex": 330,
+            "outputNodeIndex": 4,
+            "outputMeshIndex": 4
+          },
+          {
+            "physicalId": "ZA_f95c73abe3b64a",
+            "sourceNodeIndex": 331,
+            "sourceMeshIndex": 331,
+            "outputNodeIndex": 5,
+            "outputMeshIndex": 5
+          },
+          {
+            "physicalId": "ZA_4a205da0da49e4",
+            "sourceNodeIndex": 332,
+            "sourceMeshIndex": 332,
+            "outputNodeIndex": 6,
+            "outputMeshIndex": 6
+          },
+          {
+            "physicalId": "ZA_7e768a5ede1c63",
+            "sourceNodeIndex": 333,
+            "sourceMeshIndex": 333,
+            "outputNodeIndex": 7,
+            "outputMeshIndex": 7
+          },
+          {
+            "physicalId": "ZA_a9eb87c2e4d6c7",
+            "sourceNodeIndex": 334,
+            "sourceMeshIndex": 334,
+            "outputNodeIndex": 8,
+            "outputMeshIndex": 8
+          },
+          {
+            "physicalId": "ZA_ec46aa019b5338",
+            "sourceNodeIndex": 335,
+            "sourceMeshIndex": 335,
+            "outputNodeIndex": 9,
+            "outputMeshIndex": 9
+          },
+          {
+            "physicalId": "ZA_841c1766aa0b9a",
+            "sourceNodeIndex": 353,
+            "sourceMeshIndex": 353,
+            "outputNodeIndex": 10,
+            "outputMeshIndex": 10
+          },
+          {
+            "physicalId": "ZA_5a56650e84c0f9",
+            "sourceNodeIndex": 354,
+            "sourceMeshIndex": 354,
+            "outputNodeIndex": 11,
+            "outputMeshIndex": 11
+          },
+          {
+            "physicalId": "ZA_e68345170abf13",
+            "sourceNodeIndex": 355,
+            "sourceMeshIndex": 355,
+            "outputNodeIndex": 12,
+            "outputMeshIndex": 12
+          },
+          {
+            "physicalId": "ZA_926ffba1cf1d76",
+            "sourceNodeIndex": 356,
+            "sourceMeshIndex": 356,
+            "outputNodeIndex": 13,
+            "outputMeshIndex": 13
+          },
+          {
+            "physicalId": "ZA_77594035d16e3f",
+            "sourceNodeIndex": 357,
+            "sourceMeshIndex": 357,
+            "outputNodeIndex": 14,
+            "outputMeshIndex": 14
+          },
+          {
+            "physicalId": "ZA_f63492d9f57dab",
+            "sourceNodeIndex": 358,
+            "sourceMeshIndex": 358,
+            "outputNodeIndex": 15,
+            "outputMeshIndex": 15
+          }
+        ],
+        "bytes": 246900
+      },
+      {
+        "source": {
+          "path": "vmra-anatomy/dist/models/z-anatomy/z-anatomy-visceral-01.glb",
+          "bytes": 5755556,
+          "sha256": "4fbd7854fd5a6d59134fce04a8d083b8e0b95c626ad8a0c803111e0a1bc0eacd"
+        },
+        "output": {
+          "path": "anatomy-research/unified-body-v41/intestinal-source/package/z-intestinal-visceral-01.glb",
+          "bytes": 881020,
+          "sha256": "0b96e697a39d13d2bba5a1e21757da7adc6e0770a6da41328f660e1a75e1ea4e"
+        },
+        "physicalIds": [
+          "ZA_b579f1c03eb459",
+          "ZA_4eefc95da94c9d",
+          "ZA_922fc374d403a4",
+          "ZA_0346e487ef01e7",
+          "ZA_131fcc6cfdb0ae",
+          "ZA_c82d9152540e4e",
+          "ZA_0621f837d515bb",
+          "ZA_e4b9cfb43a8d39",
+          "ZA_4697e0d292a01e"
+        ],
+        "records": [
+          {
+            "physicalId": "ZA_b579f1c03eb459",
+            "sourceNodeIndex": 105,
+            "sourceMeshIndex": 105,
+            "outputNodeIndex": 0,
+            "outputMeshIndex": 0
+          },
+          {
+            "physicalId": "ZA_4eefc95da94c9d",
+            "sourceNodeIndex": 106,
+            "sourceMeshIndex": 106,
+            "outputNodeIndex": 1,
+            "outputMeshIndex": 1
+          },
+          {
+            "physicalId": "ZA_922fc374d403a4",
+            "sourceNodeIndex": 107,
+            "sourceMeshIndex": 107,
+            "outputNodeIndex": 2,
+            "outputMeshIndex": 2
+          },
+          {
+            "physicalId": "ZA_0346e487ef01e7",
+            "sourceNodeIndex": 108,
+            "sourceMeshIndex": 108,
+            "outputNodeIndex": 3,
+            "outputMeshIndex": 3
+          },
+          {
+            "physicalId": "ZA_131fcc6cfdb0ae",
+            "sourceNodeIndex": 109,
+            "sourceMeshIndex": 109,
+            "outputNodeIndex": 4,
+            "outputMeshIndex": 4
+          },
+          {
+            "physicalId": "ZA_c82d9152540e4e",
+            "sourceNodeIndex": 110,
+            "sourceMeshIndex": 110,
+            "outputNodeIndex": 5,
+            "outputMeshIndex": 5
+          },
+          {
+            "physicalId": "ZA_0621f837d515bb",
+            "sourceNodeIndex": 111,
+            "sourceMeshIndex": 111,
+            "outputNodeIndex": 6,
+            "outputMeshIndex": 6
+          },
+          {
+            "physicalId": "ZA_e4b9cfb43a8d39",
+            "sourceNodeIndex": 112,
+            "sourceMeshIndex": 112,
+            "outputNodeIndex": 7,
+            "outputMeshIndex": 7
+          },
+          {
+            "physicalId": "ZA_4697e0d292a01e",
+            "sourceNodeIndex": 113,
+            "sourceMeshIndex": 113,
+            "outputNodeIndex": 8,
+            "outputMeshIndex": 8
+          }
+        ],
+        "bytes": 881020
+      },
+      {
+        "source": {
+          "path": "vmra-anatomy/dist/models/z-anatomy/z-anatomy-lymphatic-01.glb",
+          "bytes": 1250500,
+          "sha256": "34ebdd066c33c3f40d77e29b74ba1edf21dbc944929f3e93f11b2ecc2e547c4f"
+        },
+        "output": {
+          "path": "anatomy-research/unified-body-v41/intestinal-source/package/z-intestinal-lymphatic-01.glb",
+          "bytes": 95188,
+          "sha256": "73dfe849f736ade07b2e19165006d9659dbcfdae20bf5d0d16c1e48691da6129"
+        },
+        "physicalIds": [
+          "ZA_2e38bc8b4196f9",
+          "ZA_e0b7c6631b26ca",
+          "ZA_318948e8b69c44",
+          "ZA_0ce2b6e767db7b",
+          "ZA_9a40d49059188b",
+          "ZA_feb117702045eb",
+          "ZA_48016fbbd40880",
+          "ZA_d8424882fe5df7",
+          "ZA_b746fdbdd3411f",
+          "ZA_960cbc65727af1",
+          "ZA_ef1005f3803930"
+        ],
+        "records": [
+          {
+            "physicalId": "ZA_2e38bc8b4196f9",
+            "sourceNodeIndex": 88,
+            "sourceMeshIndex": 88,
+            "outputNodeIndex": 0,
+            "outputMeshIndex": 0
+          },
+          {
+            "physicalId": "ZA_e0b7c6631b26ca",
+            "sourceNodeIndex": 89,
+            "sourceMeshIndex": 89,
+            "outputNodeIndex": 1,
+            "outputMeshIndex": 1
+          },
+          {
+            "physicalId": "ZA_318948e8b69c44",
+            "sourceNodeIndex": 90,
+            "sourceMeshIndex": 90,
+            "outputNodeIndex": 2,
+            "outputMeshIndex": 2
+          },
+          {
+            "physicalId": "ZA_0ce2b6e767db7b",
+            "sourceNodeIndex": 91,
+            "sourceMeshIndex": 91,
+            "outputNodeIndex": 3,
+            "outputMeshIndex": 3
+          },
+          {
+            "physicalId": "ZA_9a40d49059188b",
+            "sourceNodeIndex": 92,
+            "sourceMeshIndex": 92,
+            "outputNodeIndex": 4,
+            "outputMeshIndex": 4
+          },
+          {
+            "physicalId": "ZA_feb117702045eb",
+            "sourceNodeIndex": 93,
+            "sourceMeshIndex": 93,
+            "outputNodeIndex": 5,
+            "outputMeshIndex": 5
+          },
+          {
+            "physicalId": "ZA_48016fbbd40880",
+            "sourceNodeIndex": 94,
+            "sourceMeshIndex": 94,
+            "outputNodeIndex": 6,
+            "outputMeshIndex": 6
+          },
+          {
+            "physicalId": "ZA_d8424882fe5df7",
+            "sourceNodeIndex": 95,
+            "sourceMeshIndex": 95,
+            "outputNodeIndex": 7,
+            "outputMeshIndex": 7
+          },
+          {
+            "physicalId": "ZA_b746fdbdd3411f",
+            "sourceNodeIndex": 96,
+            "sourceMeshIndex": 96,
+            "outputNodeIndex": 8,
+            "outputMeshIndex": 8
+          },
+          {
+            "physicalId": "ZA_960cbc65727af1",
+            "sourceNodeIndex": 97,
+            "sourceMeshIndex": 97,
+            "outputNodeIndex": 9,
+            "outputMeshIndex": 9
+          },
+          {
+            "physicalId": "ZA_ef1005f3803930",
+            "sourceNodeIndex": 98,
+            "sourceMeshIndex": 98,
+            "outputNodeIndex": 10,
+            "outputMeshIndex": 10
+          }
+        ],
+        "bytes": 95188
+      },
+      {
+        "source": {
+          "path": "vmra-anatomy/dist/models/z-anatomy/z-anatomy-venous-01.glb",
+          "bytes": 4651496,
+          "sha256": "9def16383bbf851ec74b0196c79c83b17f0c3a1ab80b3273aee3644ebade962a"
+        },
+        "output": {
+          "path": "anatomy-research/unified-body-v41/intestinal-source/package/z-intestinal-venous-01.glb",
+          "bytes": 177392,
+          "sha256": "118b9799ee7eb78142bfbf635c59157144e795f98e8656e7ecbfbb9f929f5926"
+        },
+        "physicalIds": [
+          "ZA_01c71d94edd190",
+          "ZA_4aa0606a2626d4",
+          "ZA_b1139d2bc8922b",
+          "ZA_76bbd35c754f86",
+          "ZA_673937074ca284",
+          "ZA_bfd3e1ce2d20b2",
+          "ZA_57c438a096f74e",
+          "ZA_3d361482fc7dff",
+          "ZA_f80b5f090b31d2"
+        ],
+        "records": [
+          {
+            "physicalId": "ZA_01c71d94edd190",
+            "sourceNodeIndex": 176,
+            "sourceMeshIndex": 176,
+            "outputNodeIndex": 0,
+            "outputMeshIndex": 0
+          },
+          {
+            "physicalId": "ZA_4aa0606a2626d4",
+            "sourceNodeIndex": 198,
+            "sourceMeshIndex": 198,
+            "outputNodeIndex": 1,
+            "outputMeshIndex": 1
+          },
+          {
+            "physicalId": "ZA_b1139d2bc8922b",
+            "sourceNodeIndex": 199,
+            "sourceMeshIndex": 199,
+            "outputNodeIndex": 2,
+            "outputMeshIndex": 2
+          },
+          {
+            "physicalId": "ZA_76bbd35c754f86",
+            "sourceNodeIndex": 200,
+            "sourceMeshIndex": 200,
+            "outputNodeIndex": 3,
+            "outputMeshIndex": 3
+          },
+          {
+            "physicalId": "ZA_673937074ca284",
+            "sourceNodeIndex": 201,
+            "sourceMeshIndex": 201,
+            "outputNodeIndex": 4,
+            "outputMeshIndex": 4
+          },
+          {
+            "physicalId": "ZA_bfd3e1ce2d20b2",
+            "sourceNodeIndex": 202,
+            "sourceMeshIndex": 202,
+            "outputNodeIndex": 5,
+            "outputMeshIndex": 5
+          },
+          {
+            "physicalId": "ZA_57c438a096f74e",
+            "sourceNodeIndex": 203,
+            "sourceMeshIndex": 203,
+            "outputNodeIndex": 6,
+            "outputMeshIndex": 6
+          },
+          {
+            "physicalId": "ZA_3d361482fc7dff",
+            "sourceNodeIndex": 204,
+            "sourceMeshIndex": 204,
+            "outputNodeIndex": 7,
+            "outputMeshIndex": 7
+          },
+          {
+            "physicalId": "ZA_f80b5f090b31d2",
+            "sourceNodeIndex": 205,
+            "sourceMeshIndex": 205,
+            "outputNodeIndex": 8,
+            "outputMeshIndex": 8
+          }
+        ],
+        "bytes": 177392
+      }
+    ],
+    "existingDependencyMeshIds": [
+      "ZA_8814235835dbe9"
+    ],
+    "wholeOriginalPhysicalMetadataPreserved": true,
+    "wholeOriginalStructureRowsPreserved": true,
+    "nativeBodyRegistrationPolicy": "Identity source frame; separate whole-body conflict/ownership audit required"
+  }
+}

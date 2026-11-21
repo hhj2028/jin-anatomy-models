@@ -1,0 +1,829 @@
+[
+  {
+    "id": "VMRA_GASTRIC_FJ1916",
+    "nameEn": "Caudate lobe branch of right hepatic artery",
+    "system": "arterial",
+    "kind": "structure",
+    "meshIds": [
+      "VMRA_GASTRIC_FJ1916"
+    ],
+    "directMeshIds": [
+      "VMRA_GASTRIC_FJ1916"
+    ],
+    "sourceOriginalDatasetId": "bodyparts3d",
+    "sourceOriginalMeshId": "FJ1916",
+    "anatomicalRepresentation": "source-derived-surface",
+    "anatomicalScope": {
+      "kind": "surface",
+      "label": "Caudate lobe branch of right hepatic artery",
+      "note": "Full selected BodyParts3D physical element under recorded shared registration. Source-derived coordinates; not measured anatomy. Other same-named source elements are not automatically duplicates."
+    },
+    "conceptId": "FMA70447",
+    "nameKo": "오른간동맥의 꼬리엽가지",
+    "parentIds": [
+      "FMA14778"
+    ]
+  },
+  {
+    "id": "VMRA_GASTRIC_FJ3075",
+    "nameEn": "Anterior inferior segmental hepatic artery",
+    "system": "arterial",
+    "kind": "structure",
+    "meshIds": [
+      "VMRA_GASTRIC_FJ3075"
+    ],
+    "directMeshIds": [
+      "VMRA_GASTRIC_FJ3075"
+    ],
+    "sourceOriginalDatasetId": "bodyparts3d",
+    "sourceOriginalMeshId": "FJ3075",
+    "anatomicalRepresentation": "source-derived-surface",
+    "anatomicalScope": {
+      "kind": "surface",
+      "label": "Anterior inferior segmental hepatic artery",
+      "note": "Full selected BodyParts3D physical element under recorded shared registration. Source-derived coordinates; not measured anatomy. Other same-named source elements are not automatically duplicates."
+    },
+    "conceptId": "FMA70443",
+    "nameKo": "앞아래구역간동맥",
+    "parentIds": [
+      "FMA70441"
+    ]
+  },
+  {
+    "id": "VMRA_GASTRIC_FJ3076",
+    "nameEn": "Anterior superior segmental hepatic artery",
+    "system": "arterial",
+    "kind": "structure",
+    "meshIds": [
+      "VMRA_GASTRIC_FJ3076"
+    ],
+    "directMeshIds": [
+      "VMRA_GASTRIC_FJ3076"
+    ],
+    "sourceOriginalDatasetId": "bodyparts3d",
+    "sourceOriginalMeshId": "FJ3076",
+    "anatomicalRepresentation": "source-derived-surface",
+    "anatomicalScope": {
+      "kind": "surface",
+      "label": "Anterior superior segmental hepatic artery",
+      "note": "Full selected BodyParts3D physical element under recorded shared registration. Source-derived coordinates; not measured anatomy. Other same-named source elements are not automatically duplicates."
+    },
+    "conceptId": "FMA70442",
+    "nameKo": "앞위구역간동맥",
+    "parentIds": [
+      "FMA70441"
+    ]
+  },
+  {
+    "id": "VMRA_GASTRIC_FJ3077",
+    "nameEn": "Caudate lobe branch of left hepatic artery",
+    "system": "arterial",
+    "kind": "structure",
+    "meshIds": [
+      "VMRA_GASTRIC_FJ3077"
+    ],
+    "directMeshIds": [
+      "VMRA_GASTRIC_FJ3077"
+    ],
+    "sourceOriginalDatasetId": "bodyparts3d",
+    "sourceOriginalMeshId": "FJ3077",
+    "anatomicalRepresentation": "source-derived-surface",
+    "anatomicalScope": {
+      "kind": "surface",
+      "label": "Caudate lobe branch of left hepatic artery",
+      "note": "Full selected BodyParts3D physical element under recorded shared registration. Source-derived coordinates; not measured anatomy. Other same-named source elements are not automatically duplicates."
+    },
+    "conceptId": "FMA70455",
+    "nameKo": "왼간동맥의 꼬리엽가지",
+    "parentIds": [
+      "FMA14779"
+    ]
+  },
+  {
+    "id": "VMRA_GASTRIC_FJ3078",
+    "nameEn": "Common hepatic artery",
+    "system": "arterial",
+    "kind": "structure",
+    "meshIds": [
+      "VMRA_GASTRIC_FJ3078"
+    ],
+    "directMeshIds": [
+      "VMRA_GASTRIC_FJ3078"
+    ],
+    "sourceOriginalDatasetId": "bodyparts3d",
+    "sourceOriginalMeshId": "FJ3078",
+    "anatomicalRepresentation": "source-derived-surface",
+    "anatomicalScope": {
+      "kind": "surface",
+      "label": "Common hepatic artery",
+      "note": "Full selected BodyParts3D physical element under recorded shared registration. Source-derived coordinates; not measured anatomy. Other same-named source elements are not automatically duplicates."
+    }
+  },
+  {
+    "id": "VMRA_GASTRIC_FJ3081",
+    "nameEn": "Hepatic artery proper",
+    "system": "arterial",
+    "kind": "structure",
+    "meshIds": [
+      "VMRA_GASTRIC_FJ3081"
+    ],
+    "directMeshIds": [
+      "VMRA_GASTRIC_FJ3081"
+    ],
+    "sourceOriginalDatasetId": "bodyparts3d",
+    "sourceOriginalMeshId": "FJ3081",
+    "anatomicalRepresentation": "source-derived-surface",
+    "anatomicalScope": {
+      "kind": "surface",
+      "label": "Hepatic artery proper",
+      "note": "Full selected BodyParts3D physical element under recorded shared registration. Source-derived coordinates; not measured anatomy. Other same-named source elements are not automatically duplicates."
+    }
+  },
+  {
+    "id": "VMRA_GASTRIC_FJ3091",
+    "nameEn": "Lateral superior segmental hepatic artery",
+    "system": "arterial",
+    "kind": "structure",
+    "meshIds": [
+      "VMRA_GASTRIC_FJ3091"
+    ],
+    "directMeshIds": [
+      "VMRA_GASTRIC_FJ3091"
+    ],
+    "sourceOriginalDatasetId": "bodyparts3d",
+    "sourceOriginalMeshId": "FJ3091",
+    "anatomicalRepresentation": "source-derived-surface",
+    "anatomicalScope": {
+      "kind": "surface",
+      "label": "Lateral superior segmental hepatic artery",
+      "note": "Full selected BodyParts3D physical element under recorded shared registration. Source-derived coordinates; not measured anatomy. Other same-named source elements are not automatically duplicates."
+    },
+    "parentIds": [
+      "FMA70452"
+    ],
+    "nameKo": "가쪽위구역간동맥"
+  },
+  {
+    "id": "VMRA_GASTRIC_FJ3092",
+    "nameEn": "Lateral inferior segmental hepatic artery",
+    "system": "arterial",
+    "kind": "structure",
+    "meshIds": [
+      "VMRA_GASTRIC_FJ3092"
+    ],
+    "directMeshIds": [
+      "VMRA_GASTRIC_FJ3092"
+    ],
+    "sourceOriginalDatasetId": "bodyparts3d",
+    "sourceOriginalMeshId": "FJ3092",
+    "anatomicalRepresentation": "source-derived-surface",
+    "anatomicalScope": {
+      "kind": "surface",
+      "label": "Lateral inferior segmental hepatic artery",
+      "note": "Full selected BodyParts3D physical element under recorded shared registration. Source-derived coordinates; not measured anatomy. Other same-named source elements are not automatically duplicates."
+    },
+    "conceptId": "FMA70453",
+    "nameKo": "가쪽아래구역간동맥",
+    "parentIds": [
+      "FMA70451"
+    ]
+  },
+  {
+    "id": "VMRA_GASTRIC_FJ3093",
+    "nameEn": "Lateral superior segmental hepatic artery",
+    "system": "arterial",
+    "kind": "structure",
+    "meshIds": [
+      "VMRA_GASTRIC_FJ3093"
+    ],
+    "directMeshIds": [
+      "VMRA_GASTRIC_FJ3093"
+    ],
+    "sourceOriginalDatasetId": "bodyparts3d",
+    "sourceOriginalMeshId": "FJ3093",
+    "anatomicalRepresentation": "source-derived-surface",
+    "anatomicalScope": {
+      "kind": "surface",
+      "label": "Lateral superior segmental hepatic artery",
+      "note": "Full selected BodyParts3D physical element under recorded shared registration. Source-derived coordinates; not measured anatomy. Other same-named source elements are not automatically duplicates."
+    },
+    "parentIds": [
+      "FMA70452"
+    ],
+    "nameKo": "가쪽위구역간동맥"
+  },
+  {
+    "id": "VMRA_GASTRIC_FJ3095",
+    "nameEn": "Trunk of left hepatic artery",
+    "system": "arterial",
+    "kind": "structure",
+    "meshIds": [
+      "VMRA_GASTRIC_FJ3095"
+    ],
+    "directMeshIds": [
+      "VMRA_GASTRIC_FJ3095"
+    ],
+    "sourceOriginalDatasetId": "bodyparts3d",
+    "sourceOriginalMeshId": "FJ3095",
+    "anatomicalRepresentation": "source-derived-surface",
+    "anatomicalScope": {
+      "kind": "surface",
+      "label": "Trunk of left hepatic artery",
+      "note": "Full selected BodyParts3D physical element under recorded shared registration. Source-derived coordinates; not measured anatomy. Other same-named source elements are not automatically duplicates."
+    },
+    "conceptId": "FMA70457",
+    "nameKo": "왼간동맥줄기",
+    "parentIds": [
+      "FMA14779"
+    ]
+  },
+  {
+    "id": "VMRA_GASTRIC_FJ3106",
+    "nameEn": "Medial inferior segmental hepatic artery",
+    "system": "arterial",
+    "kind": "structure",
+    "meshIds": [
+      "VMRA_GASTRIC_FJ3106"
+    ],
+    "directMeshIds": [
+      "VMRA_GASTRIC_FJ3106"
+    ],
+    "sourceOriginalDatasetId": "bodyparts3d",
+    "sourceOriginalMeshId": "FJ3106",
+    "anatomicalRepresentation": "source-derived-surface",
+    "anatomicalScope": {
+      "kind": "surface",
+      "label": "Medial inferior segmental hepatic artery",
+      "note": "Full selected BodyParts3D physical element under recorded shared registration. Source-derived coordinates; not measured anatomy. Other same-named source elements are not automatically duplicates."
+    },
+    "conceptId": "FMA70450",
+    "nameKo": "안쪽아래구역간동맥",
+    "parentIds": [
+      "FMA70448"
+    ]
+  },
+  {
+    "id": "VMRA_GASTRIC_FJ3107",
+    "nameEn": "Medial superior segmental hepatic artery",
+    "system": "arterial",
+    "kind": "structure",
+    "meshIds": [
+      "VMRA_GASTRIC_FJ3107"
+    ],
+    "directMeshIds": [
+      "VMRA_GASTRIC_FJ3107"
+    ],
+    "sourceOriginalDatasetId": "bodyparts3d",
+    "sourceOriginalMeshId": "FJ3107",
+    "anatomicalRepresentation": "source-derived-surface",
+    "anatomicalScope": {
+      "kind": "surface",
+      "label": "Medial superior segmental hepatic artery",
+      "note": "Full selected BodyParts3D physical element under recorded shared registration. Source-derived coordinates; not measured anatomy. Other same-named source elements are not automatically duplicates."
+    },
+    "conceptId": "FMA70449",
+    "nameKo": "안쪽위구역간동맥",
+    "parentIds": [
+      "FMA70448"
+    ]
+  },
+  {
+    "id": "VMRA_GASTRIC_FJ3114",
+    "nameEn": "Posterior inferior segmental hepatic artery",
+    "system": "arterial",
+    "kind": "structure",
+    "meshIds": [
+      "VMRA_GASTRIC_FJ3114"
+    ],
+    "directMeshIds": [
+      "VMRA_GASTRIC_FJ3114"
+    ],
+    "sourceOriginalDatasetId": "bodyparts3d",
+    "sourceOriginalMeshId": "FJ3114",
+    "anatomicalRepresentation": "source-derived-surface",
+    "anatomicalScope": {
+      "kind": "surface",
+      "label": "Posterior inferior segmental hepatic artery",
+      "note": "Full selected BodyParts3D physical element under recorded shared registration. Source-derived coordinates; not measured anatomy. Other same-named source elements are not automatically duplicates."
+    },
+    "conceptId": "FMA70446",
+    "nameKo": "뒤아래구역간동맥",
+    "parentIds": [
+      "FMA70444"
+    ]
+  },
+  {
+    "id": "VMRA_GASTRIC_FJ3115",
+    "nameEn": "Posterior superior segmental hepatic artery",
+    "system": "arterial",
+    "kind": "structure",
+    "meshIds": [
+      "VMRA_GASTRIC_FJ3115"
+    ],
+    "directMeshIds": [
+      "VMRA_GASTRIC_FJ3115"
+    ],
+    "sourceOriginalDatasetId": "bodyparts3d",
+    "sourceOriginalMeshId": "FJ3115",
+    "anatomicalRepresentation": "source-derived-surface",
+    "anatomicalScope": {
+      "kind": "surface",
+      "label": "Posterior superior segmental hepatic artery",
+      "note": "Full selected BodyParts3D physical element under recorded shared registration. Source-derived coordinates; not measured anatomy. Other same-named source elements are not automatically duplicates."
+    },
+    "parentIds": [
+      "FMA70445"
+    ],
+    "nameKo": "뒤위구역간동맥"
+  },
+  {
+    "id": "VMRA_GASTRIC_FJ3116",
+    "nameEn": "Posterior superior segmental hepatic artery",
+    "system": "arterial",
+    "kind": "structure",
+    "meshIds": [
+      "VMRA_GASTRIC_FJ3116"
+    ],
+    "directMeshIds": [
+      "VMRA_GASTRIC_FJ3116"
+    ],
+    "sourceOriginalDatasetId": "bodyparts3d",
+    "sourceOriginalMeshId": "FJ3116",
+    "anatomicalRepresentation": "source-derived-surface",
+    "anatomicalScope": {
+      "kind": "surface",
+      "label": "Posterior superior segmental hepatic artery",
+      "note": "Full selected BodyParts3D physical element under recorded shared registration. Source-derived coordinates; not measured anatomy. Other same-named source elements are not automatically duplicates."
+    },
+    "parentIds": [
+      "FMA70445"
+    ],
+    "nameKo": "뒤위구역간동맥"
+  },
+  {
+    "id": "VMRA_GASTRIC_FJ3117",
+    "nameEn": "Trunk of right hepatic artery",
+    "system": "arterial",
+    "kind": "structure",
+    "meshIds": [
+      "VMRA_GASTRIC_FJ3117"
+    ],
+    "directMeshIds": [
+      "VMRA_GASTRIC_FJ3117"
+    ],
+    "sourceOriginalDatasetId": "bodyparts3d",
+    "sourceOriginalMeshId": "FJ3117",
+    "anatomicalRepresentation": "source-derived-surface",
+    "anatomicalScope": {
+      "kind": "surface",
+      "label": "Trunk of right hepatic artery",
+      "note": "Full selected BodyParts3D physical element under recorded shared registration. Source-derived coordinates; not measured anatomy. Other same-named source elements are not automatically duplicates."
+    },
+    "conceptId": "FMA70456",
+    "nameKo": "오른간동맥줄기",
+    "parentIds": [
+      "FMA14778"
+    ]
+  },
+  {
+    "id": "VMRA_GASTRIC_FJ3421",
+    "nameEn": "Celiac trunk",
+    "system": "arterial",
+    "kind": "structure",
+    "meshIds": [
+      "VMRA_GASTRIC_FJ3421"
+    ],
+    "directMeshIds": [
+      "VMRA_GASTRIC_FJ3421"
+    ],
+    "sourceOriginalDatasetId": "bodyparts3d",
+    "sourceOriginalMeshId": "FJ3421",
+    "anatomicalRepresentation": "source-derived-surface",
+    "anatomicalScope": {
+      "kind": "surface",
+      "label": "Celiac trunk",
+      "note": "Full selected BodyParts3D physical element under recorded shared registration. Source-derived coordinates; not measured anatomy. Other same-named source elements are not automatically duplicates."
+    }
+  },
+  {
+    "id": "VMRA_GASTRIC_FJ3432",
+    "nameEn": "Trunk of gastroduodenal artery",
+    "system": "arterial",
+    "kind": "structure",
+    "meshIds": [
+      "VMRA_GASTRIC_FJ3432"
+    ],
+    "directMeshIds": [
+      "VMRA_GASTRIC_FJ3432"
+    ],
+    "sourceOriginalDatasetId": "bodyparts3d",
+    "sourceOriginalMeshId": "FJ3432",
+    "anatomicalRepresentation": "source-derived-surface",
+    "anatomicalScope": {
+      "kind": "surface",
+      "label": "Trunk of gastroduodenal artery",
+      "note": "Full selected BodyParts3D physical element under recorded shared registration. Source-derived coordinates; not measured anatomy. Other same-named source elements are not automatically duplicates."
+    }
+  },
+  {
+    "id": "VMRA_GASTRIC_FJ3499",
+    "nameEn": "Left gastric artery",
+    "system": "arterial",
+    "kind": "structure",
+    "meshIds": [
+      "VMRA_GASTRIC_FJ3499"
+    ],
+    "directMeshIds": [
+      "VMRA_GASTRIC_FJ3499"
+    ],
+    "sourceOriginalDatasetId": "bodyparts3d",
+    "sourceOriginalMeshId": "FJ3499",
+    "anatomicalRepresentation": "source-derived-surface",
+    "anatomicalScope": {
+      "kind": "surface",
+      "label": "Left gastric artery",
+      "note": "Full selected BodyParts3D physical element under recorded shared registration. Source-derived coordinates; not measured anatomy. Other same-named source elements are not automatically duplicates."
+    }
+  },
+  {
+    "id": "VMRA_GASTRIC_FJ3501",
+    "nameEn": "Left gastro-epiploic artery",
+    "system": "arterial",
+    "kind": "structure",
+    "meshIds": [
+      "VMRA_GASTRIC_FJ3501"
+    ],
+    "directMeshIds": [
+      "VMRA_GASTRIC_FJ3501"
+    ],
+    "sourceOriginalDatasetId": "bodyparts3d",
+    "sourceOriginalMeshId": "FJ3501",
+    "anatomicalRepresentation": "source-derived-surface",
+    "anatomicalScope": {
+      "kind": "surface",
+      "label": "Left gastro-epiploic artery",
+      "note": "Full selected BodyParts3D physical element under recorded shared registration. Source-derived coordinates; not measured anatomy. Other same-named source elements are not automatically duplicates."
+    }
+  },
+  {
+    "id": "VMRA_GASTRIC_FJ3594",
+    "nameEn": "Right gastric artery",
+    "system": "arterial",
+    "kind": "structure",
+    "meshIds": [
+      "VMRA_GASTRIC_FJ3594"
+    ],
+    "directMeshIds": [
+      "VMRA_GASTRIC_FJ3594"
+    ],
+    "sourceOriginalDatasetId": "bodyparts3d",
+    "sourceOriginalMeshId": "FJ3594",
+    "anatomicalRepresentation": "source-derived-surface",
+    "anatomicalScope": {
+      "kind": "surface",
+      "label": "Right gastric artery",
+      "note": "Full selected BodyParts3D physical element under recorded shared registration. Source-derived coordinates; not measured anatomy. Other same-named source elements are not automatically duplicates."
+    }
+  },
+  {
+    "id": "VMRA_GASTRIC_FJ3596",
+    "nameEn": "Right gastro-epiploic artery",
+    "system": "arterial",
+    "kind": "structure",
+    "meshIds": [
+      "VMRA_GASTRIC_FJ3596"
+    ],
+    "directMeshIds": [
+      "VMRA_GASTRIC_FJ3596"
+    ],
+    "sourceOriginalDatasetId": "bodyparts3d",
+    "sourceOriginalMeshId": "FJ3596",
+    "anatomicalRepresentation": "source-derived-surface",
+    "anatomicalScope": {
+      "kind": "surface",
+      "label": "Right gastro-epiploic artery",
+      "note": "Full selected BodyParts3D physical element under recorded shared registration. Source-derived coordinates; not measured anatomy. Other same-named source elements are not automatically duplicates."
+    }
+  },
+  {
+    "id": "VMRA_GASTRIC_FJ3640",
+    "nameEn": "Splenic artery",
+    "system": "arterial",
+    "kind": "structure",
+    "meshIds": [
+      "VMRA_GASTRIC_FJ3640"
+    ],
+    "directMeshIds": [
+      "VMRA_GASTRIC_FJ3640"
+    ],
+    "sourceOriginalDatasetId": "bodyparts3d",
+    "sourceOriginalMeshId": "FJ3640",
+    "anatomicalRepresentation": "source-derived-surface",
+    "anatomicalScope": {
+      "kind": "surface",
+      "label": "Splenic artery",
+      "note": "Full selected BodyParts3D physical element under recorded shared registration. Source-derived coordinates; not measured anatomy. Other same-named source elements are not automatically duplicates."
+    }
+  },
+  {
+    "id": "FMA14778",
+    "conceptId": "FMA14778",
+    "nameEn": "Right hepatic artery",
+    "nameKo": "오른간동맥",
+    "system": "arterial",
+    "kind": "group",
+    "meshIds": [
+      "VMRA_GASTRIC_FJ1916",
+      "VMRA_GASTRIC_FJ3075",
+      "VMRA_GASTRIC_FJ3076",
+      "VMRA_GASTRIC_FJ3114",
+      "VMRA_GASTRIC_FJ3115",
+      "VMRA_GASTRIC_FJ3116",
+      "VMRA_GASTRIC_FJ3117"
+    ],
+    "directMeshIds": [],
+    "parentIds": [],
+    "childIds": [
+      "FMA70441",
+      "FMA70444",
+      "VMRA_GASTRIC_FJ1916",
+      "VMRA_GASTRIC_FJ3117"
+    ],
+    "sourceOriginalDatasetId": "bodyparts3d",
+    "anatomicalRepresentation": "source-derived-surface",
+    "anatomicalScope": {
+      "kind": "group",
+      "label": "Right hepatic artery",
+      "note": "Named source PART-OF membership of retained registered surfaces. Does not specify direct arterial takeoff or perfusion territory."
+    }
+  },
+  {
+    "id": "FMA14779",
+    "conceptId": "FMA14779",
+    "nameEn": "Left hepatic artery",
+    "nameKo": "왼간동맥",
+    "system": "arterial",
+    "kind": "group",
+    "meshIds": [
+      "VMRA_GASTRIC_FJ3077",
+      "VMRA_GASTRIC_FJ3091",
+      "VMRA_GASTRIC_FJ3092",
+      "VMRA_GASTRIC_FJ3093",
+      "VMRA_GASTRIC_FJ3095",
+      "VMRA_GASTRIC_FJ3106",
+      "VMRA_GASTRIC_FJ3107"
+    ],
+    "directMeshIds": [],
+    "parentIds": [],
+    "childIds": [
+      "FMA70448",
+      "FMA70451",
+      "VMRA_GASTRIC_FJ3077",
+      "VMRA_GASTRIC_FJ3095"
+    ],
+    "sourceOriginalDatasetId": "bodyparts3d",
+    "anatomicalRepresentation": "source-derived-surface",
+    "anatomicalScope": {
+      "kind": "group",
+      "label": "Left hepatic artery",
+      "note": "Named source PART-OF membership of retained registered surfaces. Does not specify direct arterial takeoff or perfusion territory."
+    }
+  },
+  {
+    "id": "FMA70441",
+    "conceptId": "FMA70441",
+    "nameEn": "Anterior segmental hepatic artery",
+    "nameKo": "앞구역간동맥",
+    "system": "arterial",
+    "kind": "group",
+    "meshIds": [
+      "VMRA_GASTRIC_FJ3075",
+      "VMRA_GASTRIC_FJ3076"
+    ],
+    "directMeshIds": [],
+    "parentIds": [
+      "FMA14778"
+    ],
+    "childIds": [
+      "VMRA_GASTRIC_FJ3075",
+      "VMRA_GASTRIC_FJ3076"
+    ],
+    "sourceOriginalDatasetId": "bodyparts3d",
+    "anatomicalRepresentation": "source-derived-surface",
+    "anatomicalScope": {
+      "kind": "group",
+      "label": "Anterior segmental hepatic artery",
+      "note": "Named source PART-OF membership of retained registered surfaces. Does not specify direct arterial takeoff or perfusion territory."
+    }
+  },
+  {
+    "id": "FMA70444",
+    "conceptId": "FMA70444",
+    "nameEn": "Posterior segmental hepatic artery",
+    "nameKo": "뒤구역간동맥",
+    "system": "arterial",
+    "kind": "group",
+    "meshIds": [
+      "VMRA_GASTRIC_FJ3114",
+      "VMRA_GASTRIC_FJ3115",
+      "VMRA_GASTRIC_FJ3116"
+    ],
+    "directMeshIds": [],
+    "parentIds": [
+      "FMA14778"
+    ],
+    "childIds": [
+      "VMRA_GASTRIC_FJ3114",
+      "FMA70445"
+    ],
+    "sourceOriginalDatasetId": "bodyparts3d",
+    "anatomicalRepresentation": "source-derived-surface",
+    "anatomicalScope": {
+      "kind": "group",
+      "label": "Posterior segmental hepatic artery",
+      "note": "Named source PART-OF membership of retained registered surfaces. Does not specify direct arterial takeoff or perfusion territory."
+    }
+  },
+  {
+    "id": "FMA70448",
+    "conceptId": "FMA70448",
+    "nameEn": "Medial segmental hepatic artery",
+    "nameKo": "안쪽구역간동맥",
+    "system": "arterial",
+    "kind": "group",
+    "meshIds": [
+      "VMRA_GASTRIC_FJ3106",
+      "VMRA_GASTRIC_FJ3107"
+    ],
+    "directMeshIds": [],
+    "parentIds": [
+      "FMA14779"
+    ],
+    "childIds": [
+      "VMRA_GASTRIC_FJ3106",
+      "VMRA_GASTRIC_FJ3107"
+    ],
+    "sourceOriginalDatasetId": "bodyparts3d",
+    "anatomicalRepresentation": "source-derived-surface",
+    "anatomicalScope": {
+      "kind": "group",
+      "label": "Medial segmental hepatic artery",
+      "note": "Named source PART-OF membership of retained registered surfaces. Does not specify direct arterial takeoff or perfusion territory."
+    }
+  },
+  {
+    "id": "FMA70451",
+    "conceptId": "FMA70451",
+    "nameEn": "Lateral segmental hepatic artery",
+    "nameKo": "가쪽구역간동맥",
+    "system": "arterial",
+    "kind": "group",
+    "meshIds": [
+      "VMRA_GASTRIC_FJ3091",
+      "VMRA_GASTRIC_FJ3092",
+      "VMRA_GASTRIC_FJ3093"
+    ],
+    "directMeshIds": [],
+    "parentIds": [
+      "FMA14779"
+    ],
+    "childIds": [
+      "FMA70452",
+      "VMRA_GASTRIC_FJ3092"
+    ],
+    "sourceOriginalDatasetId": "bodyparts3d",
+    "anatomicalRepresentation": "source-derived-surface",
+    "anatomicalScope": {
+      "kind": "group",
+      "label": "Lateral segmental hepatic artery",
+      "note": "Named source PART-OF membership of retained registered surfaces. Does not specify direct arterial takeoff or perfusion territory."
+    }
+  },
+  {
+    "id": "FMA70452",
+    "conceptId": "FMA70452",
+    "nameEn": "Lateral superior segmental hepatic artery",
+    "nameKo": "가쪽위구역간동맥",
+    "system": "arterial",
+    "kind": "structure",
+    "meshIds": [
+      "VMRA_GASTRIC_FJ3091",
+      "VMRA_GASTRIC_FJ3093"
+    ],
+    "directMeshIds": [
+      "VMRA_GASTRIC_FJ3091",
+      "VMRA_GASTRIC_FJ3093"
+    ],
+    "parentIds": [
+      "FMA70451"
+    ],
+    "childIds": [],
+    "sourceOriginalDatasetId": "bodyparts3d",
+    "anatomicalRepresentation": "source-derived-surface",
+    "anatomicalScope": {
+      "kind": "group",
+      "label": "Lateral superior segmental hepatic artery",
+      "note": "Named source PART-OF membership of retained registered surfaces. Does not specify direct arterial takeoff or perfusion territory."
+    }
+  },
+  {
+    "id": "FMA70445",
+    "conceptId": "FMA70445",
+    "nameEn": "Posterior superior segmental hepatic artery",
+    "nameKo": "뒤위구역간동맥",
+    "system": "arterial",
+    "kind": "structure",
+    "meshIds": [
+      "VMRA_GASTRIC_FJ3115",
+      "VMRA_GASTRIC_FJ3116"
+    ],
+    "directMeshIds": [
+      "VMRA_GASTRIC_FJ3115",
+      "VMRA_GASTRIC_FJ3116"
+    ],
+    "parentIds": [
+      "FMA70444"
+    ],
+    "childIds": [],
+    "sourceOriginalDatasetId": "bodyparts3d",
+    "anatomicalRepresentation": "source-derived-surface",
+    "anatomicalScope": {
+      "kind": "group",
+      "label": "Posterior superior segmental hepatic artery",
+      "note": "Named source PART-OF membership of retained registered surfaces. Does not specify direct arterial takeoff or perfusion territory."
+    }
+  },
+  {
+    "id": "VMRA_GASTRIC_FJ3409",
+    "nameEn": "Anterior superior pancreaticoduodenal artery",
+    "nameKo": "앞위이자샘창자동맥",
+    "conceptId": "FMA14782",
+    "system": "arterial",
+    "kind": "structure",
+    "meshIds": [
+      "VMRA_GASTRIC_FJ3409"
+    ],
+    "directMeshIds": [
+      "VMRA_GASTRIC_FJ3409"
+    ],
+    "parentIds": [
+      "FMA70437"
+    ],
+    "sourceOriginalDatasetId": "bodyparts3d",
+    "sourceOriginalMeshId": "FJ3409",
+    "anatomicalRepresentation": "source-derived-surface",
+    "anatomicalScope": {
+      "kind": "surface",
+      "label": "Anterior superior pancreaticoduodenal artery",
+      "note": "Whole original named BodyParts3D surface under a shared source-to-current-body interpolation; not measured anatomy. Physical source contacts do not establish directed biological parentage."
+    }
+  },
+  {
+    "id": "VMRA_GASTRIC_FJ3557",
+    "nameEn": "Posterior superior pancreaticoduodenal artery",
+    "nameKo": "뒤위이자샘창자동맥",
+    "conceptId": "FMA14784",
+    "system": "arterial",
+    "kind": "structure",
+    "meshIds": [
+      "VMRA_GASTRIC_FJ3557"
+    ],
+    "directMeshIds": [
+      "VMRA_GASTRIC_FJ3557"
+    ],
+    "parentIds": [
+      "FMA70437"
+    ],
+    "sourceOriginalDatasetId": "bodyparts3d",
+    "sourceOriginalMeshId": "FJ3557",
+    "anatomicalRepresentation": "source-derived-surface",
+    "anatomicalScope": {
+      "kind": "surface",
+      "label": "Posterior superior pancreaticoduodenal artery",
+      "note": "Whole original named BodyParts3D surface under a shared source-to-current-body interpolation; not measured anatomy. Physical source contacts do not establish directed biological parentage."
+    }
+  },
+  {
+    "id": "FMA70437",
+    "nameEn": "Superior pancreaticoduodenal artery",
+    "nameKo": "위이자샘창자동맥",
+    "system": "arterial",
+    "kind": "group",
+    "meshIds": [
+      "VMRA_GASTRIC_FJ3409",
+      "VMRA_GASTRIC_FJ3557"
+    ],
+    "directMeshIds": [],
+    "childIds": [
+      "VMRA_GASTRIC_FJ3409",
+      "VMRA_GASTRIC_FJ3557"
+    ],
+    "sourceOriginalDatasetId": "bodyparts3d",
+    "sourceHierarchy": "is-a",
+    "anatomicalScope": {
+      "kind": "group",
+      "label": "Superior pancreaticoduodenal arteries",
+      "note": "Original IS-A grouping of anterior and posterior named arteries; no common superior trunk is implied."
+    }
+  }
+]

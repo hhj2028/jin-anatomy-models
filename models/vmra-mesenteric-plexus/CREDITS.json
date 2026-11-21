@@ -1,0 +1,45 @@
+{
+  "schemaVersion": 1,
+  "title": "Superior mesenteric plexus — illustrative reconstruction",
+  "anatomicalRepresentation": "illustrative-pathway",
+  "license": "CC-BY-SA-4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "modificationStatement": "New illustrative nerve surfaces use external guides derived from the source intestinal arterial surfaces in the composed body. Nerve thread positions, thickness, local links and wall approaches are authored. This is not measured nerve segmentation. The original source anatomical assets remain unchanged.",
+  "geometrySources": [
+    {
+      "title": "Z-Anatomy — The libre 3D atlas of anatomy",
+      "creators": ["Gauthier Kervyn", "Marcin Zielinski", "Lluis Vinent"],
+      "sourceUrl": "https://github.com/Z-Anatomy/Models-of-human-anatomy",
+      "license": "CC-BY-SA-4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "use": "Source arterial and intestinal geometry underlying the geometric guides and organ-facing approach. The composed intestinal surfaces include the recorded VMRA source-derived accommodation."
+    },
+    {
+      "title": "BodyParts3D",
+      "creators": ["The Database Center for Life Science"],
+      "sourceUrl": "https://lifesciencedb.jp/bp3d/",
+      "license": "CC-BY-SA-2.1-JP",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.1/jp/",
+      "use": "Upstream attribution notice retained as supplied by Z-Anatomy."
+    }
+  ],
+  "anatomicalReferences": [
+    {
+      "title": "Reconstructing topography and extent of injury to the superior mesenteric artery plexus in right colectomy with extended D3 mesenterectomy: a composite multimodal 3-dimensional analysis",
+      "authors": "Luzon et al.",
+      "year": 2022,
+      "doi": "10.1007/s00464-022-09200-2",
+      "url": "https://link.springer.com/article/10.1007/s00464-022-09200-2",
+      "supports": "A peri-SMA network with peripheral arterial courses and mesenteric communications; regional anatomy supports the illustrative plexus form.",
+      "use": "Anatomical relationships only; no article figure, specimen image or reconstructed nerve mesh is copied."
+    },
+    {
+      "title": "Nerves of the Abdomen",
+      "authors": "UAMS Department of Neuroscience",
+      "url": "https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/nerve-tables/nerves-of-the-abdomen/",
+      "supports": "Superior mesenteric autonomic territory includes the appendix and ascending colon; proximal versus distal autonomic routes remain distinct.",
+      "use": "Anatomical relationship reference; no image or extensive text is copied."
+    }
+  ],
+  "scopeStatement": "Representative authored pathways to the ascending colon and appendix. Thread dimensions, exact entry points and complete terminal innervation are not measured or claimed."
+}

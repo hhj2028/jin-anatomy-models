@@ -1,0 +1,233 @@
+[
+  {
+    "id": "SPARC426_f002_L_cervical_vagus_surface",
+    "sourceName": "left cervical vagus nerve epineurium",
+    "sourceArrayIndex": 1,
+    "sourceFile": "f002_left_human_vagus_01_combination_3.json",
+    "sourceUrl": "https://sparc-prod-aod-discover-publish50-use1.s3.amazonaws.com/426/files/derivative/sub-f002/L/060-visualization/f002_left_human_vagus_01_combination_3.json",
+    "sourceS3VersionId": "SiAyvqCB_._nzfGDb5e9l7sXWtm226BE",
+    "sourceBytes": 699496,
+    "sourceSha256": "eca073b12d1d1cb970c7a2720e1ab5b350bdcce729463b205043c1c30eb543fe",
+    "vertices": 3136,
+    "triangles": 4608,
+    "nativeBounds": [
+      [
+        -6573.02490234375,
+        24.993629455566406,
+        -55456.9296875
+      ],
+      [
+        26680.146484375,
+        31074.779296875,
+        114932.5859375
+      ]
+    ],
+    "positionFloat32MaxAbsoluteErrorNativeUnits": 5.00003807246685e-07,
+    "normalFloat32MaxAbsoluteError": 2.9773712162395327e-08,
+    "positionSha256": "b99288219143a29050e4d79a8570b1502b9ea0e7506b90b5b013838f02ef28fd",
+    "normalSha256": "d5dfe18d03a6d8fe93ed8236733742593346567df1c2c53e52eafbd1b2caefa8",
+    "indicesSha256": "e1e5da1be921fd375a704da87235e07cff4aa7e5cd09279a515051651c43cb40",
+    "sourceFaceOrderAndWindingPreserved": true,
+    "nonzeroTriangles": 4608,
+    "sourceLegacyMaterial": {
+      "DbgColor": 15658734,
+      "DbgIndex": 0,
+      "DbgName": "my_material",
+      "colorDiffuse": [
+        0,
+        0.666667,
+        1
+      ],
+      "colorSpecular": [
+        0,
+        0,
+        0
+      ],
+      "shading": "Phong",
+      "specularCoef": 0,
+      "opacity": 0.5,
+      "vertexColors": true
+    },
+    "name": "left cervical vagus nerve epineurium",
+    "nameEn": "left cervical vagus nerve epineurium",
+    "system": "nervous",
+    "chunk": "sparc-f002-vagus-nervous-01.glb",
+    "bounds": [
+      [
+        -0.006573024902343749,
+        2.4993629455566405e-05,
+        -0.055456929687499996
+      ],
+      [
+        0.026680146484375,
+        0.031074779296874997,
+        0.1149325859375
+      ]
+    ],
+    "worldUnits": "meter",
+    "sourceCoordinateUnit": "um",
+    "sourceToWorldScale": 1e-06,
+    "coordinateRegistration": "independent-ex-vivo",
+    "side": "left",
+    "authoredMaterial": true,
+    "defaultVisible": true,
+    "evidenceClass": "source-fitted-nerve-surface",
+    "independentBranchesComplete": false,
+    "displayName": "Left cervical vagus nerve",
+    "nameKo": "왼쪽 미주신경 · 목부분"
+  },
+  {
+    "id": "SPARC426_f002_L_thoracic_vagus_surface",
+    "sourceName": "left thoracic vagus nerve epineurium",
+    "sourceArrayIndex": null,
+    "sourceFile": "f002_left_human_vagus_05.json",
+    "sourceUrl": "https://sparc-prod-aod-discover-publish50-use1.s3.amazonaws.com/426/files/derivative/sub-f002/L/060-visualization/f002_left_human_vagus_05.json",
+    "sourceS3VersionId": "kRuBSYGyM_ID02S2FXLwFJehX9gw6OZy",
+    "sourceBytes": 839906,
+    "sourceSha256": "60d851b87ca0e2729b42205ff7b307cc00c66fda65d48d0f0f7a5021335f0063",
+    "vertices": 6664,
+    "triangles": 9792,
+    "nativeBounds": [
+      [
+        24587.79296875,
+        29169.947265625,
+        113967.3671875
+      ],
+      [
+        243240.625,
+        145095.328125,
+        362536.25
+      ]
+    ],
+    "positionFloat32MaxAbsoluteErrorNativeUnits": 5.00003807246685e-07,
+    "normalFloat32MaxAbsoluteError": 2.9792785682936085e-08,
+    "positionSha256": "b7e380d2ab00e40bc36f34eeb918fcf54ebef9fffb0eb372a70f11803c546034",
+    "normalSha256": "0267e91162c94b60748f547bba3e874dfdb288f9bd524a088fc48b9f3910ecd5",
+    "indicesSha256": "4770f56e5476d6e31cf14bd57f1569bf681b10068b2dc41b2486742ac6ee707d",
+    "sourceFaceOrderAndWindingPreserved": true,
+    "nonzeroTriangles": 9792,
+    "sourceLegacyMaterial": {
+      "DbgColor": 15658734,
+      "DbgIndex": 0,
+      "DbgName": "my_material",
+      "colorDiffuse": [
+        0,
+        0.666667,
+        1
+      ],
+      "colorSpecular": [
+        0,
+        0,
+        0
+      ],
+      "shading": "Phong",
+      "specularCoef": 0,
+      "opacity": 0.5,
+      "vertexColors": true
+    },
+    "name": "left thoracic vagus nerve epineurium",
+    "nameEn": "left thoracic vagus nerve epineurium",
+    "system": "nervous",
+    "chunk": "sparc-f002-vagus-nervous-01.glb",
+    "bounds": [
+      [
+        0.024587792968749998,
+        0.029169947265625,
+        0.1139673671875
+      ],
+      [
+        0.243240625,
+        0.145095328125,
+        0.36253625
+      ]
+    ],
+    "worldUnits": "meter",
+    "sourceCoordinateUnit": "um",
+    "sourceToWorldScale": 1e-06,
+    "coordinateRegistration": "independent-ex-vivo",
+    "side": "left",
+    "authoredMaterial": true,
+    "defaultVisible": true,
+    "evidenceClass": "source-fitted-nerve-surface",
+    "independentBranchesComplete": false,
+    "displayName": "Left thoracic vagus nerve",
+    "nameKo": "왼쪽 미주신경 · 가슴부분"
+  },
+  {
+    "id": "SPARC426_f002_L_anterior_gastric_branch_surface",
+    "sourceName": "anterior gastric branch of vagus nerve epineurium",
+    "sourceArrayIndex": 9,
+    "sourceFile": "f002_left_human_vagus_26_combination_1.json",
+    "sourceUrl": "https://sparc-prod-aod-discover-publish50-use1.s3.amazonaws.com/426/files/derivative/sub-f002/L/060-visualization/f002_left_human_vagus_26_combination_1.json",
+    "sourceS3VersionId": "pCm3Rjz_3kTit5lw0PJdwpEDuHCAgGyz",
+    "sourceBytes": 604354,
+    "sourceSha256": "5da716ff8635ac0527cbc6058ea3f81fc4a6fd82cd73c03711f3d07dbee43746",
+    "vertices": 196,
+    "triangles": 288,
+    "nativeBounds": [
+      [
+        112207.3359375,
+        98049.5703125,
+        293204.0
+      ],
+      [
+        117645.09375,
+        101651.015625,
+        299475.3125
+      ]
+    ],
+    "positionFloat32MaxAbsoluteErrorNativeUnits": 5.00003807246685e-07,
+    "normalFloat32MaxAbsoluteError": 2.9243469201745143e-08,
+    "positionSha256": "8ba86f3a41f1759642d26b9fc221a3a05c207a5a6126028b2da0b33e452653ec",
+    "normalSha256": "e563ff7a50b55cc129dc8fe62c57ccfe0075e17eacc2813477acac761cd1de38",
+    "indicesSha256": "fe63c094590e169da309ef3140257500f7879dab1dcdd19ca6d7e88a6466ee51",
+    "sourceFaceOrderAndWindingPreserved": true,
+    "nonzeroTriangles": 288,
+    "sourceLegacyMaterial": {
+      "DbgColor": 15658734,
+      "DbgIndex": 0,
+      "DbgName": "my_material",
+      "colorDiffuse": [
+        1,
+        0.333333,
+        1
+      ],
+      "colorSpecular": [
+        0,
+        0,
+        0
+      ],
+      "shading": "Phong",
+      "specularCoef": 0,
+      "opacity": 0.5,
+      "vertexColors": true
+    },
+    "name": "anterior gastric branch of vagus nerve epineurium",
+    "nameEn": "anterior gastric branch of vagus nerve epineurium",
+    "system": "nervous",
+    "chunk": "sparc-f002-vagus-nervous-01.glb",
+    "bounds": [
+      [
+        0.1122073359375,
+        0.0980495703125,
+        0.29320399999999996
+      ],
+      [
+        0.11764509375,
+        0.101651015625,
+        0.2994753125
+      ]
+    ],
+    "worldUnits": "meter",
+    "sourceCoordinateUnit": "um",
+    "sourceToWorldScale": 1e-06,
+    "coordinateRegistration": "independent-ex-vivo",
+    "side": "left",
+    "authoredMaterial": true,
+    "defaultVisible": true,
+    "evidenceClass": "source-fitted-nerve-surface",
+    "independentBranchesComplete": false,
+    "displayName": "Anterior gastric branch of vagus nerve",
+    "nameKo": "미주신경 앞위가지"
+  }
+]

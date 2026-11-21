@@ -1,0 +1,4346 @@
+[
+  {
+    "id": "ZA_cab46e9b54579d",
+    "conceptId": "",
+    "nameEn": "Left Hip bone",
+    "sourceNodeName": "Hip bone.l",
+    "sourcePath": "SkeletalSystem100.fbx/RootNode/Bones of lower limb.g/Bones of pelvic girdle.g/Hip bone.l",
+    "sourceFile": "SkeletalSystem100.fbx",
+    "sourceMaterialNames": [
+      "Bone-7.001",
+      "Bone-1.001",
+      "Cartilage.001",
+      "Bone-6.001"
+    ],
+    "system": "skeletal",
+    "meshIds": [
+      "ZA_cab46e9b54579d"
+    ],
+    "bounds": [
+      [
+        0.0029371542278133767,
+        0.7973397336102103,
+        -0.0867836505758258
+      ],
+      [
+        0.13489441870781613,
+        1.0119402352232696,
+        0.05606863171455813
+      ]
+    ],
+    "vertices": 1894,
+    "triangles": 3788,
+    "dracoBytes": 33755,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "bone",
+    "appearanceStyle": {
+      "color": "#e3d7b5",
+      "roughness": 0.7
+    },
+    "displaySystem": "skeletal"
+  },
+  {
+    "id": "ZA_8f3b7c83492f74",
+    "conceptId": "",
+    "nameEn": "Left Patella",
+    "sourceNodeName": "Patella.l",
+    "sourcePath": "SkeletalSystem100.fbx/RootNode/Bones of lower limb.g/Bones of free part of lower limb.g/Patella.l",
+    "sourceFile": "SkeletalSystem100.fbx",
+    "sourceMaterialNames": [
+      "Bone-1.001",
+      "Cartilage.001"
+    ],
+    "system": "skeletal",
+    "meshIds": [
+      "ZA_8f3b7c83492f74"
+    ],
+    "bounds": [
+      [
+        0.06285183326213438,
+        0.4238056787661278,
+        -0.004087891184267684
+      ],
+      [
+        0.10603749156570846,
+        0.4647278865256592,
+        0.018664359153827848
+      ]
+    ],
+    "vertices": 140,
+    "triangles": 276,
+    "dracoBytes": 2710,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "bone",
+    "appearanceStyle": {
+      "color": "#e3d7b5",
+      "roughness": 0.7
+    },
+    "displaySystem": "skeletal"
+  },
+  {
+    "id": "ZA_e70d8eb52c7a24",
+    "conceptId": "",
+    "nameEn": "Left Femur",
+    "sourceNodeName": "Femur.l",
+    "sourcePath": "SkeletalSystem100.fbx/RootNode/Bones of lower limb.g/Bones of free part of lower limb.g/Femur.l",
+    "sourceFile": "SkeletalSystem100.fbx",
+    "sourceMaterialNames": [
+      "Cartilage.001",
+      "Bone.001"
+    ],
+    "system": "skeletal",
+    "meshIds": [
+      "ZA_e70d8eb52c7a24"
+    ],
+    "bounds": [
+      [
+        0.03193832962891507,
+        0.4298659156903344,
+        -0.05935278157963404
+      ],
+      [
+        0.1485309357046664,
+        0.8843051678838085,
+        0.01875806888517797
+      ]
+    ],
+    "vertices": 1899,
+    "triangles": 3794,
+    "dracoBytes": 33168,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "bone",
+    "appearanceStyle": {
+      "color": "#e3d7b5",
+      "roughness": 0.7
+    },
+    "displaySystem": "skeletal"
+  },
+  {
+    "id": "ZA_594b35d316875f",
+    "conceptId": "",
+    "nameEn": "Left Tibia",
+    "sourceNodeName": "Tibia.l",
+    "sourcePath": "SkeletalSystem100.fbx/RootNode/Bones of lower limb.g/Bones of free part of lower limb.g/Tibia.l",
+    "sourceFile": "SkeletalSystem100.fbx",
+    "sourceMaterialNames": [
+      "Bone.001",
+      "Cartilage.001"
+    ],
+    "system": "skeletal",
+    "meshIds": [
+      "ZA_594b35d316875f"
+    ],
+    "bounds": [
+      [
+        0.037342186171599435,
+        0.0752181154745293,
+        -0.06295964499576252
+      ],
+      [
+        0.1157890981235601,
+        0.4331813181657914,
+        0.00506349690146191
+      ]
+    ],
+    "vertices": 837,
+    "triangles": 1670,
+    "dracoBytes": 14896,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "bone",
+    "appearanceStyle": {
+      "color": "#e3d7b5",
+      "roughness": 0.7
+    },
+    "displaySystem": "skeletal"
+  },
+  {
+    "id": "ZA_918a1a5f8ca52a",
+    "conceptId": "",
+    "nameEn": "Left Fibula",
+    "sourceNodeName": "Fibula.l",
+    "sourcePath": "SkeletalSystem100.fbx/RootNode/Bones of lower limb.g/Bones of free part of lower limb.g/Fibula.l",
+    "sourceFile": "SkeletalSystem100.fbx",
+    "sourceMaterialNames": [
+      "Bone.001",
+      "Cartilage.001"
+    ],
+    "system": "skeletal",
+    "meshIds": [
+      "ZA_918a1a5f8ca52a"
+    ],
+    "bounds": [
+      [
+        0.08862371554849721,
+        0.05521084638134568,
+        -0.05968645694032722
+      ],
+      [
+        0.12484718413085966,
+        0.41770333310628716,
+        -0.02676036630222586
+      ]
+    ],
+    "vertices": 634,
+    "triangles": 1264,
+    "dracoBytes": 11315,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "bone",
+    "appearanceStyle": {
+      "color": "#e3d7b5",
+      "roughness": 0.7
+    },
+    "displaySystem": "skeletal"
+  },
+  {
+    "id": "ZA_33c434c0d8f144",
+    "conceptId": "",
+    "nameEn": "Left Sesamoid bones of foot",
+    "sourceNodeName": "Sesamoid bones of foot.l",
+    "sourcePath": "SkeletalSystem100.fbx/RootNode/Bones of lower limb.g/Bones of free part of lower limb.g/Bones of foot.g/Sesamoid bones of foot.l",
+    "sourceFile": "SkeletalSystem100.fbx",
+    "sourceMaterialNames": [
+      "Bone-1.001",
+      "Cartilage.001"
+    ],
+    "system": "skeletal",
+    "meshIds": [
+      "ZA_33c434c0d8f144"
+    ],
+    "bounds": [
+      [
+        0.06302053319949492,
+        0.010635034395041461,
+        0.06363540382850097
+      ],
+      [
+        0.08037596093164902,
+        0.01865749541187059,
+        0.07726893352536109
+      ]
+    ],
+    "vertices": 149,
+    "triangles": 290,
+    "dracoBytes": 2874,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "bone",
+    "appearanceStyle": {
+      "color": "#e3d7b5",
+      "roughness": 0.7
+    },
+    "displaySystem": "skeletal"
+  },
+  {
+    "id": "ZA_62c25c6660bdc5",
+    "conceptId": "",
+    "nameEn": "Left Talus",
+    "sourceNodeName": "Talus.l",
+    "sourcePath": "SkeletalSystem100.fbx/RootNode/Bones of lower limb.g/Bones of free part of lower limb.g/Bones of foot.g/Tarsal bones.g/Talus.l",
+    "sourceFile": "SkeletalSystem100.fbx",
+    "sourceMaterialNames": [
+      "Bone-1.001",
+      "Cartilage.001"
+    ],
+    "system": "skeletal",
+    "meshIds": [
+      "ZA_62c25c6660bdc5"
+    ],
+    "bounds": [
+      [
+        0.05364578389829853,
+        0.04986255597393712,
+        -0.06610487941736626
+      ],
+      [
+        0.0957554490531176,
+        0.08547542068784045,
+        -0.007040659427359337
+      ]
+    ],
+    "vertices": 677,
+    "triangles": 1350,
+    "dracoBytes": 12446,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "bone",
+    "appearanceStyle": {
+      "color": "#e3d7b5",
+      "roughness": 0.7
+    },
+    "displaySystem": "skeletal"
+  },
+  {
+    "id": "ZA_da21c725139bf1",
+    "conceptId": "",
+    "nameEn": "Left Calcaneus",
+    "sourceNodeName": "Calcaneus.l",
+    "sourcePath": "SkeletalSystem100.fbx/RootNode/Bones of lower limb.g/Bones of free part of lower limb.g/Bones of foot.g/Tarsal bones.g/Calcaneus.l",
+    "sourceFile": "SkeletalSystem100.fbx",
+    "sourceMaterialNames": [
+      "Bone-5.001",
+      "Cartilage.001"
+    ],
+    "system": "skeletal",
+    "meshIds": [
+      "ZA_da21c725139bf1"
+    ],
+    "bounds": [
+      [
+        0.05468535511086741,
+        0.011449236229367435,
+        -0.09155608286941998
+      ],
+      [
+        0.10222746902572333,
+        0.06255660661880222,
+        -0.01586840056215438
+      ]
+    ],
+    "vertices": 726,
+    "triangles": 1448,
+    "dracoBytes": 13299,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "bone",
+    "appearanceStyle": {
+      "color": "#e3d7b5",
+      "roughness": 0.7
+    },
+    "displaySystem": "skeletal"
+  },
+  {
+    "id": "ZA_c21491109a67a0",
+    "conceptId": "",
+    "nameEn": "Left Navicular bone",
+    "sourceNodeName": "Navicular bone.l",
+    "sourcePath": "SkeletalSystem100.fbx/RootNode/Bones of lower limb.g/Bones of free part of lower limb.g/Bones of foot.g/Tarsal bones.g/Navicular bone.l",
+    "sourceFile": "SkeletalSystem100.fbx",
+    "sourceMaterialNames": [
+      "Cartilage.001",
+      "Bone-2.001"
+    ],
+    "system": "skeletal",
+    "meshIds": [
+      "ZA_c21491109a67a0"
+    ],
+    "bounds": [
+      [
+        0.05268996547278338,
+        0.04845915794782186,
+        -0.015108197748663873
+      ],
+      [
+        0.09337543532328013,
+        0.07597560863343819,
+        0.008928559606989059
+      ]
+    ],
+    "vertices": 368,
+    "triangles": 732,
+    "dracoBytes": 6871,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "bone",
+    "appearanceStyle": {
+      "color": "#e3d7b5",
+      "roughness": 0.7
+    },
+    "displaySystem": "skeletal"
+  },
+  {
+    "id": "ZA_632525bd99d5bf",
+    "conceptId": "",
+    "nameEn": "Left Cuboid bone",
+    "sourceNodeName": "Cuboid bone.l",
+    "sourcePath": "SkeletalSystem100.fbx/RootNode/Bones of lower limb.g/Bones of free part of lower limb.g/Bones of foot.g/Tarsal bones.g/Cuboid bone.l",
+    "sourceFile": "SkeletalSystem100.fbx",
+    "sourceMaterialNames": [
+      "Cartilage.001",
+      "Bone-6.001"
+    ],
+    "system": "skeletal",
+    "meshIds": [
+      "ZA_632525bd99d5bf"
+    ],
+    "bounds": [
+      [
+        0.0795205620752579,
+        0.028904123644532227,
+        -0.023472475761959384
+      ],
+      [
+        0.11175454207654408,
+        0.05976178374630489,
+        0.0107195858701147
+      ]
+    ],
+    "vertices": 501,
+    "triangles": 998,
+    "dracoBytes": 9348,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "bone",
+    "appearanceStyle": {
+      "color": "#e3d7b5",
+      "roughness": 0.7
+    },
+    "displaySystem": "skeletal"
+  },
+  {
+    "id": "ZA_5889587c191f00",
+    "conceptId": "",
+    "nameEn": "Left Intermediate cuneiform bone",
+    "sourceNodeName": "Intermediate cuneiform bone.l",
+    "sourcePath": "SkeletalSystem100.fbx/RootNode/Bones of lower limb.g/Bones of free part of lower limb.g/Bones of foot.g/Tarsal bones.g/Intermediate cuneiform bone.l",
+    "sourceFile": "SkeletalSystem100.fbx",
+    "sourceMaterialNames": [
+      "Cartilage.001",
+      "Bone-3.001"
+    ],
+    "system": "skeletal",
+    "meshIds": [
+      "ZA_5889587c191f00"
+    ],
+    "bounds": [
+      [
+        0.0738510825290189,
+        0.04667759762701252,
+        -0.0002193125475806168
+      ],
+      [
+        0.09337495172319801,
+        0.07069862672134469,
+        0.022742818818504346
+      ]
+    ],
+    "vertices": 224,
+    "triangles": 444,
+    "dracoBytes": 4281,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "bone",
+    "appearanceStyle": {
+      "color": "#e3d7b5",
+      "roughness": 0.7
+    },
+    "displaySystem": "skeletal"
+  },
+  {
+    "id": "ZA_7e1c209f4908a6",
+    "conceptId": "",
+    "nameEn": "Left Lateral cuneiform bone",
+    "sourceNodeName": "Lateral cuneiform bone.l",
+    "sourcePath": "SkeletalSystem100.fbx/RootNode/Bones of lower limb.g/Bones of free part of lower limb.g/Bones of foot.g/Tarsal bones.g/Lateral cuneiform bone.l",
+    "sourceFile": "SkeletalSystem100.fbx",
+    "sourceMaterialNames": [
+      "Cartilage.001",
+      "Bone-3.001"
+    ],
+    "system": "skeletal",
+    "meshIds": [
+      "ZA_7e1c209f4908a6"
+    ],
+    "bounds": [
+      [
+        0.08131529986425402,
+        0.040224285712921,
+        -0.006200997420939469
+      ],
+      [
+        0.10554157675105365,
+        0.06708479948351609,
+        0.02026971668563703
+      ]
+    ],
+    "vertices": 321,
+    "triangles": 638,
+    "dracoBytes": 6052,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "bone",
+    "appearanceStyle": {
+      "color": "#e3d7b5",
+      "roughness": 0.7
+    },
+    "displaySystem": "skeletal"
+  },
+  {
+    "id": "ZA_8997ddc6d59366",
+    "conceptId": "",
+    "nameEn": "Left Medial cuneiform bone",
+    "sourceNodeName": "Medial cuneiform bone.l",
+    "sourcePath": "SkeletalSystem100.fbx/RootNode/Bones of lower limb.g/Bones of free part of lower limb.g/Bones of foot.g/Tarsal bones.g/Medial cuneiform bone.l",
+    "sourceFile": "SkeletalSystem100.fbx",
+    "sourceMaterialNames": [
+      "Bone-3.001",
+      "Cartilage.001"
+    ],
+    "system": "skeletal",
+    "meshIds": [
+      "ZA_8997ddc6d59366"
+    ],
+    "bounds": [
+      [
+        0.058070139811174044,
+        0.035434369195486995,
+        -0.0009966689807479922
+      ],
+      [
+        0.08315333367830387,
+        0.06773656606767893,
+        0.03196230289102503
+      ]
+    ],
+    "vertices": 498,
+    "triangles": 992,
+    "dracoBytes": 9324,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "bone",
+    "appearanceStyle": {
+      "color": "#e3d7b5",
+      "roughness": 0.7
+    },
+    "displaySystem": "skeletal"
+  },
+  {
+    "id": "ZA_f27fc964a1e1d7",
+    "conceptId": "",
+    "nameEn": "Left First metatarsal bone",
+    "sourceNodeName": "First metatarsal bone.l",
+    "sourcePath": "SkeletalSystem100.fbx/RootNode/Bones of lower limb.g/Bones of free part of lower limb.g/Bones of foot.g/Metatarsal bones.g/First metatarsal bone.l",
+    "sourceFile": "SkeletalSystem100.fbx",
+    "sourceMaterialNames": [
+      "Bone.001",
+      "Cartilage.001"
+    ],
+    "system": "skeletal",
+    "meshIds": [
+      "ZA_f27fc964a1e1d7"
+    ],
+    "bounds": [
+      [
+        0.06031530982907112,
+        0.014639398749697285,
+        0.02083410860804495
+      ],
+      [
+        0.08216331342220946,
+        0.05953386537725974,
+        0.08441006703531745
+      ]
+    ],
+    "vertices": 546,
+    "triangles": 1088,
+    "dracoBytes": 10008,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "bone",
+    "appearanceStyle": {
+      "color": "#e3d7b5",
+      "roughness": 0.7
+    },
+    "displaySystem": "skeletal"
+  },
+  {
+    "id": "ZA_59d242d16a1238",
+    "conceptId": "",
+    "nameEn": "Left Fifth metatarsal bone",
+    "sourceNodeName": "Fifth metatarsal bone.l",
+    "sourcePath": "SkeletalSystem100.fbx/RootNode/Bones of lower limb.g/Bones of free part of lower limb.g/Bones of foot.g/Metatarsal bones.g/Fifth metatarsal bone.l",
+    "sourceFile": "SkeletalSystem100.fbx",
+    "sourceMaterialNames": [
+      "Bone.001",
+      "Cartilage.001"
+    ],
+    "system": "skeletal",
+    "meshIds": [
+      "ZA_59d242d16a1238"
+    ],
+    "bounds": [
+      [
+        0.10093513712842603,
+        0.00988726669121781,
+        -0.014038237321404403
+      ],
+      [
+        0.13795910746814127,
+        0.041058376627563516,
+        0.05969466182332476
+      ]
+    ],
+    "vertices": 449,
+    "triangles": 894,
+    "dracoBytes": 8229,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "bone",
+    "appearanceStyle": {
+      "color": "#e3d7b5",
+      "roughness": 0.7
+    },
+    "displaySystem": "skeletal"
+  },
+  {
+    "id": "ZA_90b650aa920e38",
+    "conceptId": "",
+    "nameEn": "Left Second metatarsal bone",
+    "sourceNodeName": "Second metatarsal bone.l",
+    "sourcePath": "SkeletalSystem100.fbx/RootNode/Bones of lower limb.g/Bones of free part of lower limb.g/Bones of foot.g/Metatarsal bones.g/Second metatarsal bone.l",
+    "sourceFile": "SkeletalSystem100.fbx",
+    "sourceMaterialNames": [
+      "Cartilage.001",
+      "Bone.001"
+    ],
+    "system": "skeletal",
+    "meshIds": [
+      "ZA_90b650aa920e38"
+    ],
+    "bounds": [
+      [
+        0.08074901011362083,
+        0.013528797007744986,
+        0.014697341636916161
+      ],
+      [
+        0.09813740259526318,
+        0.0634397215940054,
+        0.08515408943671444
+      ]
+    ],
+    "vertices": 347,
+    "triangles": 690,
+    "dracoBytes": 6402,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "bone",
+    "appearanceStyle": {
+      "color": "#e3d7b5",
+      "roughness": 0.7
+    },
+    "displaySystem": "skeletal"
+  },
+  {
+    "id": "ZA_634f1624a6cfc8",
+    "conceptId": "",
+    "nameEn": "Left Third metatarsal bone",
+    "sourceNodeName": "Third metatarsal bone.l",
+    "sourcePath": "SkeletalSystem100.fbx/RootNode/Bones of lower limb.g/Bones of free part of lower limb.g/Bones of foot.g/Metatarsal bones.g/Third metatarsal bone.l",
+    "sourceFile": "SkeletalSystem100.fbx",
+    "sourceMaterialNames": [
+      "Bone.001",
+      "Cartilage.001"
+    ],
+    "system": "skeletal",
+    "meshIds": [
+      "ZA_634f1624a6cfc8"
+    ],
+    "bounds": [
+      [
+        0.08914402827394728,
+        0.01341891524612396,
+        0.01355315654151109
+      ],
+      [
+        0.11222231994267302,
+        0.05786098115880806,
+        0.08130760371960932
+      ]
+    ],
+    "vertices": 409,
+    "triangles": 814,
+    "dracoBytes": 7516,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "bone",
+    "appearanceStyle": {
+      "color": "#e3d7b5",
+      "roughness": 0.7
+    },
+    "displaySystem": "skeletal"
+  },
+  {
+    "id": "ZA_023f5b3daffdf0",
+    "conceptId": "",
+    "nameEn": "Left Fourth metatarsal bone",
+    "sourceNodeName": "Fourth metatarsal bone.l",
+    "sourcePath": "SkeletalSystem100.fbx/RootNode/Bones of lower limb.g/Bones of free part of lower limb.g/Bones of foot.g/Metatarsal bones.g/Fourth metatarsal bone.l",
+    "sourceFile": "SkeletalSystem100.fbx",
+    "sourceMaterialNames": [
+      "Bone.001",
+      "Cartilage.001"
+    ],
+    "system": "skeletal",
+    "meshIds": [
+      "ZA_023f5b3daffdf0"
+    ],
+    "bounds": [
+      [
+        0.09434928911250622,
+        0.012411052124038638,
+        0.0036659123097595313
+      ],
+      [
+        0.1242211676189231,
+        0.04938211013043201,
+        0.07218475069813321
+      ]
+    ],
+    "vertices": 419,
+    "triangles": 834,
+    "dracoBytes": 7695,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "bone",
+    "appearanceStyle": {
+      "color": "#e3d7b5",
+      "roughness": 0.7
+    },
+    "displaySystem": "skeletal"
+  },
+  {
+    "id": "ZA_56b75ce32239a1",
+    "conceptId": "",
+    "nameEn": "Left Distal phalanx of fifth finger of foot",
+    "sourceNodeName": "Distal phalanx of fifth finger of foot.l",
+    "sourcePath": "SkeletalSystem100.fbx/RootNode/Bones of lower limb.g/Bones of free part of lower limb.g/Bones of foot.g/Phalanges of foot.g/Distal phalanx of fifth finger of foot.l",
+    "sourceFile": "SkeletalSystem100.fbx",
+    "sourceMaterialNames": [
+      "Bone-8.001",
+      "Cartilage.001"
+    ],
+    "system": "skeletal",
+    "meshIds": [
+      "ZA_56b75ce32239a1"
+    ],
+    "bounds": [
+      [
+        0.13852771589160695,
+        0.009203170876322796,
+        0.08558517865482522
+      ],
+      [
+        0.1464164584706115,
+        0.014837488300189097,
+        0.09651328726326015
+      ]
+    ],
+    "vertices": 120,
+    "triangles": 236,
+    "dracoBytes": 2337,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "bone",
+    "appearanceStyle": {
+      "color": "#e3d7b5",
+      "roughness": 0.7
+    },
+    "displaySystem": "skeletal"
+  },
+  {
+    "id": "ZA_1b5ce866b031c8",
+    "conceptId": "",
+    "nameEn": "Left Distal phalanx of first finger of foot",
+    "sourceNodeName": "Distal phalanx of first finger of foot.l",
+    "sourcePath": "SkeletalSystem100.fbx/RootNode/Bones of lower limb.g/Bones of free part of lower limb.g/Bones of foot.g/Phalanges of foot.g/Distal phalanx of first finger of foot.l",
+    "sourceFile": "SkeletalSystem100.fbx",
+    "sourceMaterialNames": [
+      "Bone-8.001",
+      "Cartilage.001"
+    ],
+    "system": "skeletal",
+    "meshIds": [
+      "ZA_1b5ce866b031c8"
+    ],
+    "bounds": [
+      [
+        0.06963678420705981,
+        0.009948190618072533,
+        0.10771153037489746
+      ],
+      [
+        0.09042908624412485,
+        0.02141723204913834,
+        0.13462219776587628
+      ]
+    ],
+    "vertices": 235,
+    "triangles": 466,
+    "dracoBytes": 4449,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "bone",
+    "appearanceStyle": {
+      "color": "#e3d7b5",
+      "roughness": 0.7
+    },
+    "displaySystem": "skeletal"
+  },
+  {
+    "id": "ZA_f12b826c9b899e",
+    "conceptId": "",
+    "nameEn": "Left Distal phalanx of fourth finger of foot",
+    "sourceNodeName": "Distal phalanx of fourth finger of foot.l",
+    "sourcePath": "SkeletalSystem100.fbx/RootNode/Bones of lower limb.g/Bones of free part of lower limb.g/Bones of foot.g/Phalanges of foot.g/Distal phalanx of fourth finger of foot.l",
+    "sourceFile": "SkeletalSystem100.fbx",
+    "sourceMaterialNames": [
+      "Bone-8.001",
+      "Cartilage.001"
+    ],
+    "system": "skeletal",
+    "meshIds": [
+      "ZA_f12b826c9b899e"
+    ],
+    "bounds": [
+      [
+        0.12778303459049126,
+        0.009239204265104366,
+        0.10372736359487508
+      ],
+      [
+        0.13657231883833928,
+        0.016571738162309696,
+        0.11540334537707754
+      ]
+    ],
+    "vertices": 141,
+    "triangles": 278,
+    "dracoBytes": 2724,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "bone",
+    "appearanceStyle": {
+      "color": "#e3d7b5",
+      "roughness": 0.7
+    },
+    "displaySystem": "skeletal"
+  },
+  {
+    "id": "ZA_e2244752b31b60",
+    "conceptId": "",
+    "nameEn": "Left Distal phalanx of second finger of foot",
+    "sourceNodeName": "Distal phalanx of second finger of foot.l",
+    "sourcePath": "SkeletalSystem100.fbx/RootNode/Bones of lower limb.g/Bones of free part of lower limb.g/Bones of foot.g/Phalanges of foot.g/Distal phalanx of second finger of foot.l",
+    "sourceFile": "SkeletalSystem100.fbx",
+    "sourceMaterialNames": [
+      "Bone-8.001",
+      "Cartilage.001"
+    ],
+    "system": "skeletal",
+    "meshIds": [
+      "ZA_e2244752b31b60"
+    ],
+    "bounds": [
+      [
+        0.09870922160076663,
+        0.009462937810058409,
+        0.12364150828412815
+      ],
+      [
+        0.10889415555664839,
+        0.017046350156370745,
+        0.13730808505707012
+      ]
+    ],
+    "vertices": 120,
+    "triangles": 236,
+    "dracoBytes": 2351,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "bone",
+    "appearanceStyle": {
+      "color": "#e3d7b5",
+      "roughness": 0.7
+    },
+    "displaySystem": "skeletal"
+  },
+  {
+    "id": "ZA_07ddd589031b1e",
+    "conceptId": "",
+    "nameEn": "Left Distal phalanx of third finger of foot",
+    "sourceNodeName": "Distal phalanx of third finger of foot.l",
+    "sourcePath": "SkeletalSystem100.fbx/RootNode/Bones of lower limb.g/Bones of free part of lower limb.g/Bones of foot.g/Phalanges of foot.g/Distal phalanx of third finger of foot.l",
+    "sourceFile": "SkeletalSystem100.fbx",
+    "sourceMaterialNames": [
+      "Bone-8.001",
+      "Cartilage.001"
+    ],
+    "system": "skeletal",
+    "meshIds": [
+      "ZA_07ddd589031b1e"
+    ],
+    "bounds": [
+      [
+        0.11437459847921116,
+        0.009477558780382004,
+        0.11827974024112181
+      ],
+      [
+        0.12322285843364594,
+        0.01564135796571469,
+        0.1302749373393439
+      ]
+    ],
+    "vertices": 161,
+    "triangles": 318,
+    "dracoBytes": 3092,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "bone",
+    "appearanceStyle": {
+      "color": "#e3d7b5",
+      "roughness": 0.7
+    },
+    "displaySystem": "skeletal"
+  },
+  {
+    "id": "ZA_d2e702ae69f101",
+    "conceptId": "",
+    "nameEn": "Left Middle phalanx of second finger of foot",
+    "sourceNodeName": "Middle phalanx of second finger of foot.l",
+    "sourcePath": "SkeletalSystem100.fbx/RootNode/Bones of lower limb.g/Bones of free part of lower limb.g/Bones of foot.g/Phalanges of foot.g/Middle phalanx of second finger of foot.l",
+    "sourceFile": "SkeletalSystem100.fbx",
+    "sourceMaterialNames": [
+      "Cartilage.001",
+      "Bone-7.001"
+    ],
+    "system": "skeletal",
+    "meshIds": [
+      "ZA_d2e702ae69f101"
+    ],
+    "bounds": [
+      [
+        0.09483507922723639,
+        0.01184233658109131,
+        0.10894282049976263
+      ],
+      [
+        0.10716065247491377,
+        0.02092603917440539,
+        0.1265699017068508
+      ]
+    ],
+    "vertices": 193,
+    "triangles": 382,
+    "dracoBytes": 3683,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "bone",
+    "appearanceStyle": {
+      "color": "#e3d7b5",
+      "roughness": 0.7
+    },
+    "displaySystem": "skeletal"
+  },
+  {
+    "id": "ZA_f1f67dfdd6c437",
+    "conceptId": "",
+    "nameEn": "Left Middle phalanx of third finger of foot",
+    "sourceNodeName": "Middle phalanx of third finger of foot.l",
+    "sourcePath": "SkeletalSystem100.fbx/RootNode/Bones of lower limb.g/Bones of free part of lower limb.g/Bones of foot.g/Phalanges of foot.g/Middle phalanx of third finger of foot.l",
+    "sourceFile": "SkeletalSystem100.fbx",
+    "sourceMaterialNames": [
+      "Cartilage.001",
+      "Bone-7.001"
+    ],
+    "system": "skeletal",
+    "meshIds": [
+      "ZA_f1f67dfdd6c437"
+    ],
+    "bounds": [
+      [
+        0.11054732551866353,
+        0.010965383266751587,
+        0.10339887085410844
+      ],
+      [
+        0.12165477853785105,
+        0.019264939692901644,
+        0.12083693938699752
+      ]
+    ],
+    "vertices": 202,
+    "triangles": 400,
+    "dracoBytes": 3843,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "bone",
+    "appearanceStyle": {
+      "color": "#e3d7b5",
+      "roughness": 0.7
+    },
+    "displaySystem": "skeletal"
+  },
+  {
+    "id": "ZA_a6984647039177",
+    "conceptId": "",
+    "nameEn": "Left Middle phalanx of fourth finger of foot",
+    "sourceNodeName": "Middle phalanx of fourth finger of foot.l",
+    "sourcePath": "SkeletalSystem100.fbx/RootNode/Bones of lower limb.g/Bones of free part of lower limb.g/Bones of foot.g/Phalanges of foot.g/Middle phalanx of fourth finger of foot.l",
+    "sourceFile": "SkeletalSystem100.fbx",
+    "sourceMaterialNames": [
+      "Cartilage.001",
+      "Bone-7.001"
+    ],
+    "system": "skeletal",
+    "meshIds": [
+      "ZA_a6984647039177"
+    ],
+    "bounds": [
+      [
+        0.12432037932050241,
+        0.009819088900989013,
+        0.09228333145887013
+      ],
+      [
+        0.1354609587684631,
+        0.018155515902851905,
+        0.10633729202612613
+      ]
+    ],
+    "vertices": 226,
+    "triangles": 448,
+    "dracoBytes": 4291,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "bone",
+    "appearanceStyle": {
+      "color": "#e3d7b5",
+      "roughness": 0.7
+    },
+    "displaySystem": "skeletal"
+  },
+  {
+    "id": "ZA_fb0266ded458bd",
+    "conceptId": "",
+    "nameEn": "Left Middle phalanx of fifth finger of foot",
+    "sourceNodeName": "Middle phalanx of fifth finger of foot.l",
+    "sourcePath": "SkeletalSystem100.fbx/RootNode/Bones of lower limb.g/Bones of free part of lower limb.g/Bones of foot.g/Phalanges of foot.g/Middle phalanx of fifth finger of foot.l",
+    "sourceFile": "SkeletalSystem100.fbx",
+    "sourceMaterialNames": [
+      "Cartilage.001",
+      "Bone-7.001"
+    ],
+    "system": "skeletal",
+    "meshIds": [
+      "ZA_fb0266ded458bd"
+    ],
+    "bounds": [
+      [
+        0.13682789185673425,
+        0.00957563971155974,
+        0.07977458117866174
+      ],
+      [
+        0.14542389689450294,
+        0.01617822395870139,
+        0.08756443381311568
+      ]
+    ],
+    "vertices": 110,
+    "triangles": 216,
+    "dracoBytes": 2167,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "bone",
+    "appearanceStyle": {
+      "color": "#e3d7b5",
+      "roughness": 0.7
+    },
+    "displaySystem": "skeletal"
+  },
+  {
+    "id": "ZA_344a0cbda783d5",
+    "conceptId": "",
+    "nameEn": "Left Proximal phalanx of first finger of foot",
+    "sourceNodeName": "Proximal phalanx of first finger of foot.l",
+    "sourcePath": "SkeletalSystem100.fbx/RootNode/Bones of lower limb.g/Bones of free part of lower limb.g/Bones of foot.g/Phalanges of foot.g/Proximal phalanx of first finger of foot.l",
+    "sourceFile": "SkeletalSystem100.fbx",
+    "sourceMaterialNames": [
+      "Bone-6.001",
+      "Cartilage.001"
+    ],
+    "system": "skeletal",
+    "meshIds": [
+      "ZA_344a0cbda783d5"
+    ],
+    "bounds": [
+      [
+        0.06089172483409398,
+        0.011326396456256991,
+        0.0799206511566263
+      ],
+      [
+        0.08703817949676541,
+        0.029058174791049406,
+        0.11444143993836711
+      ]
+    ],
+    "vertices": 268,
+    "triangles": 532,
+    "dracoBytes": 5051,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "bone",
+    "appearanceStyle": {
+      "color": "#e3d7b5",
+      "roughness": 0.7
+    },
+    "displaySystem": "skeletal"
+  },
+  {
+    "id": "ZA_c912e8de133ce5",
+    "conceptId": "",
+    "nameEn": "Left Proximal phalanx of second finger of foot",
+    "sourceNodeName": "Proximal phalanx of second finger of foot.l",
+    "sourcePath": "SkeletalSystem100.fbx/RootNode/Bones of lower limb.g/Bones of free part of lower limb.g/Bones of foot.g/Phalanges of foot.g/Proximal phalanx of second finger of foot.l",
+    "sourceFile": "SkeletalSystem100.fbx",
+    "sourceMaterialNames": [
+      "Bone-6.001",
+      "Cartilage.001"
+    ],
+    "system": "skeletal",
+    "meshIds": [
+      "ZA_c912e8de133ce5"
+    ],
+    "bounds": [
+      [
+        0.08660423672026116,
+        0.013031111795198778,
+        0.08244574079498769
+      ],
+      [
+        0.10446779983034249,
+        0.025983642614798824,
+        0.11182733776055284
+      ]
+    ],
+    "vertices": 215,
+    "triangles": 426,
+    "dracoBytes": 4036,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "bone",
+    "appearanceStyle": {
+      "color": "#e3d7b5",
+      "roughness": 0.7
+    },
+    "displaySystem": "skeletal"
+  },
+  {
+    "id": "ZA_daef6eb051ab25",
+    "conceptId": "",
+    "nameEn": "Left Proximal phalanx of third finger of foot",
+    "sourceNodeName": "Proximal phalanx of third finger of foot.l",
+    "sourcePath": "SkeletalSystem100.fbx/RootNode/Bones of lower limb.g/Bones of free part of lower limb.g/Bones of foot.g/Phalanges of foot.g/Proximal phalanx of third finger of foot.l",
+    "sourceFile": "SkeletalSystem100.fbx",
+    "sourceMaterialNames": [
+      "Bone-6.001",
+      "Cartilage.001"
+    ],
+    "system": "skeletal",
+    "meshIds": [
+      "ZA_daef6eb051ab25"
+    ],
+    "bounds": [
+      [
+        0.10241048048191832,
+        0.012156913591032327,
+        0.07608260625951342
+      ],
+      [
+        0.11880276943944654,
+        0.024133919896288072,
+        0.10629681148885815
+      ]
+    ],
+    "vertices": 232,
+    "triangles": 460,
+    "dracoBytes": 4350,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "bone",
+    "appearanceStyle": {
+      "color": "#e3d7b5",
+      "roughness": 0.7
+    },
+    "displaySystem": "skeletal"
+  },
+  {
+    "id": "ZA_85153069eb6316",
+    "conceptId": "",
+    "nameEn": "Left Proximal phalanx of fourth finger of foot",
+    "sourceNodeName": "Proximal phalanx of fourth finger of foot.l",
+    "sourcePath": "SkeletalSystem100.fbx/RootNode/Bones of lower limb.g/Bones of free part of lower limb.g/Bones of foot.g/Phalanges of foot.g/Proximal phalanx of fourth finger of foot.l",
+    "sourceFile": "SkeletalSystem100.fbx",
+    "sourceMaterialNames": [
+      "Bone-6.001",
+      "Cartilage.001"
+    ],
+    "system": "skeletal",
+    "meshIds": [
+      "ZA_85153069eb6316"
+    ],
+    "bounds": [
+      [
+        0.11410624326050098,
+        0.009965717553069542,
+        0.06846065010352427
+      ],
+      [
+        0.1322092286318253,
+        0.02372312951201261,
+        0.0944550348514656
+      ]
+    ],
+    "vertices": 232,
+    "triangles": 460,
+    "dracoBytes": 4371,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "bone",
+    "appearanceStyle": {
+      "color": "#e3d7b5",
+      "roughness": 0.7
+    },
+    "displaySystem": "skeletal"
+  },
+  {
+    "id": "ZA_834c802e5d3a11",
+    "conceptId": "",
+    "nameEn": "Left Proximal phalanx of fifth finger of foot",
+    "sourceNodeName": "Proximal phalanx of fifth finger of foot.l",
+    "sourcePath": "SkeletalSystem100.fbx/RootNode/Bones of lower limb.g/Bones of free part of lower limb.g/Bones of foot.g/Phalanges of foot.g/Proximal phalanx of fifth finger of foot.l",
+    "sourceFile": "SkeletalSystem100.fbx",
+    "sourceMaterialNames": [
+      "Bone-6.001",
+      "Cartilage.001"
+    ],
+    "system": "skeletal",
+    "meshIds": [
+      "ZA_834c802e5d3a11"
+    ],
+    "bounds": [
+      [
+        0.1262969695735608,
+        0.009700127046657315,
+        0.05501714494498367
+      ],
+      [
+        0.14463830574224498,
+        0.02014550126767252,
+        0.08179869490470854
+      ]
+    ],
+    "vertices": 260,
+    "triangles": 516,
+    "dracoBytes": 4864,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "bone",
+    "appearanceStyle": {
+      "color": "#e3d7b5",
+      "roughness": 0.7
+    },
+    "displaySystem": "skeletal"
+  },
+  {
+    "id": "ZA_b85e8bb96b12a7",
+    "conceptId": "",
+    "nameEn": "Left Lateral patellar retinaculum",
+    "sourceNodeName": "Lateral patellar retinaculum.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Anterior compartment of thigh.g/Lateral patellar retinaculum.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Ligament.001"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_b85e8bb96b12a7"
+    ],
+    "bounds": [
+      [
+        0.10224464238102808,
+        0.4352793919987029,
+        -0.039087604309293617
+      ],
+      [
+        0.11610748476435066,
+        0.45816520596312416,
+        0.009865500344162679
+      ]
+    ],
+    "vertices": 76,
+    "triangles": 148,
+    "dracoBytes": 1487,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "ligament-fascia",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "connective"
+  },
+  {
+    "id": "ZA_69eba49e63b3b2",
+    "conceptId": "",
+    "nameEn": "Left Rectus femoris muscle",
+    "sourceNodeName": "Rectus femoris muscle.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Anterior compartment of thigh.g/Rectus femoris muscle.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Biarticular",
+      "Tendon"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_69eba49e63b3b2"
+    ],
+    "bounds": [
+      [
+        0.06670676184556398,
+        0.37047884230490674,
+        -0.009070691983067465
+      ],
+      [
+        0.1483188756318491,
+        0.9158068615175998,
+        0.06026974115276179
+      ]
+    ],
+    "vertices": 4509,
+    "triangles": 8834,
+    "dracoBytes": 112048,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular",
+    "hasAuthoredTendonMask": true,
+    "tendonSurface": {
+      "method": "original-fbx-material-faces-planar-display-refinement",
+      "sourceMaterialName": "Tendon",
+      "sourceTendonTriangles": 3354,
+      "renderTendonTriangles": 3912,
+      "boundarySegmentCount": 94,
+      "maskAttribute": "_TENDON_MASK",
+      "edgeAttribute": "_TENDON_EDGE",
+      "distanceMetric": "euclidean-to-source-boundary-segments",
+      "distanceCapM": 0.02,
+      "recommendedDisplayFeatherM": 0.003,
+      "positiveTendonDistanceP90M": 0.019999999552965164,
+      "maxTendonSampleDistanceM": 0.019999999552965164,
+      "refinedSourceTriangles": 169,
+      "sourceFaceProvenanceFile": "render-face-source-provenance.npz"
+    },
+    "sourceTriangles": 8276
+  },
+  {
+    "id": "ZA_c66f441f691b77",
+    "conceptId": "",
+    "nameEn": "Left Vastus lateralis muscle",
+    "sourceNodeName": "Vastus lateralis muscle.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Anterior compartment of thigh.g/Vastus lateralis muscle.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Extension",
+      "Tendon"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_c66f441f691b77"
+    ],
+    "bounds": [
+      [
+        0.08493616835191357,
+        0.38361624819816703,
+        -0.03573548492860621
+      ],
+      [
+        0.1589912435825898,
+        0.841007521272411,
+        0.04347815535005548
+      ]
+    ],
+    "vertices": 5135,
+    "triangles": 10056,
+    "dracoBytes": 127915,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular",
+    "hasAuthoredTendonMask": true,
+    "tendonSurface": {
+      "method": "original-fbx-material-faces-planar-display-refinement",
+      "sourceMaterialName": "Tendon",
+      "sourceTendonTriangles": 1103,
+      "renderTendonTriangles": 1803,
+      "boundarySegmentCount": 107,
+      "maskAttribute": "_TENDON_MASK",
+      "edgeAttribute": "_TENDON_EDGE",
+      "distanceMetric": "euclidean-to-source-boundary-segments",
+      "distanceCapM": 0.02,
+      "recommendedDisplayFeatherM": 0.003,
+      "positiveTendonDistanceP90M": 0.019999999552965164,
+      "maxTendonSampleDistanceM": 0.019999999552965164,
+      "refinedSourceTriangles": 202,
+      "sourceFaceProvenanceFile": "render-face-source-provenance.npz"
+    },
+    "sourceTriangles": 9356
+  },
+  {
+    "id": "ZA_829368d506d278",
+    "conceptId": "",
+    "nameEn": "Left Vastus medialis muscle",
+    "sourceNodeName": "Vastus medialis muscle.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Anterior compartment of thigh.g/Vastus medialis muscle.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Tendon",
+      "Extension"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_829368d506d278"
+    ],
+    "bounds": [
+      [
+        0.0336102243664223,
+        0.38490887177742666,
+        -0.019495094065008094
+      ],
+      [
+        0.10521414042752177,
+        0.7928095584537579,
+        0.04899056907944205
+      ]
+    ],
+    "vertices": 3962,
+    "triangles": 7546,
+    "dracoBytes": 96713,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular",
+    "hasAuthoredTendonMask": true,
+    "tendonSurface": {
+      "method": "original-fbx-material-faces-planar-display-refinement",
+      "sourceMaterialName": "Tendon",
+      "sourceTendonTriangles": 658,
+      "renderTendonTriangles": 1744,
+      "boundarySegmentCount": 186,
+      "maskAttribute": "_TENDON_MASK",
+      "edgeAttribute": "_TENDON_EDGE",
+      "distanceMetric": "euclidean-to-source-boundary-segments",
+      "distanceCapM": 0.02,
+      "recommendedDisplayFeatherM": 0.003,
+      "positiveTendonDistanceP90M": 0.007081714924424887,
+      "maxTendonSampleDistanceM": 0.014064890332520008,
+      "refinedSourceTriangles": 308,
+      "sourceFaceProvenanceFile": "render-face-source-provenance.npz"
+    },
+    "sourceTriangles": 6460
+  },
+  {
+    "id": "ZA_9b95ed7ceab626",
+    "conceptId": "",
+    "nameEn": "Left Vastus intermedius muscle",
+    "sourceNodeName": "Vastus intermedius muscle.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Anterior compartment of thigh.g/Vastus intermedius muscle.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Tendon",
+      "Extension"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_9b95ed7ceab626"
+    ],
+    "bounds": [
+      [
+        0.07646429221011503,
+        0.3985511785596675,
+        -0.009702614822973677
+      ],
+      [
+        0.1330911920467848,
+        0.8069481629396497,
+        0.03804524009197215
+      ]
+    ],
+    "vertices": 3420,
+    "triangles": 6656,
+    "dracoBytes": 84875,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular",
+    "hasAuthoredTendonMask": true,
+    "tendonSurface": {
+      "method": "original-fbx-material-faces-planar-display-refinement",
+      "sourceMaterialName": "Tendon",
+      "sourceTendonTriangles": 1860,
+      "renderTendonTriangles": 2352,
+      "boundarySegmentCount": 98,
+      "maskAttribute": "_TENDON_MASK",
+      "edgeAttribute": "_TENDON_EDGE",
+      "distanceMetric": "euclidean-to-source-boundary-segments",
+      "distanceCapM": 0.02,
+      "recommendedDisplayFeatherM": 0.003,
+      "positiveTendonDistanceP90M": 0.019999999552965164,
+      "maxTendonSampleDistanceM": 0.019999999552965164,
+      "refinedSourceTriangles": 149,
+      "sourceFaceProvenanceFile": "render-face-source-provenance.npz"
+    },
+    "sourceTriangles": 6164
+  },
+  {
+    "id": "ZA_483c65b82e2c6d",
+    "conceptId": "",
+    "nameEn": "Left Sartorius muscle",
+    "sourceNodeName": "Sartorius muscle.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Anterior compartment of thigh.g/Sartorius muscle.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Tendon",
+      "Adductor"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_483c65b82e2c6d"
+    ],
+    "bounds": [
+      [
+        0.021288561845876054,
+        0.34875820875320146,
+        -0.03260347764300575
+      ],
+      [
+        0.12449224310042735,
+        0.9479949130097493,
+        0.05754533185640822
+      ]
+    ],
+    "vertices": 2768,
+    "triangles": 5396,
+    "dracoBytes": 68460,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular",
+    "hasAuthoredTendonMask": true,
+    "tendonSurface": {
+      "method": "original-fbx-material-faces-planar-display-refinement",
+      "sourceMaterialName": "Tendon",
+      "sourceTendonTriangles": 1879,
+      "renderTendonTriangles": 2309,
+      "boundarySegmentCount": 69,
+      "maskAttribute": "_TENDON_MASK",
+      "edgeAttribute": "_TENDON_EDGE",
+      "distanceMetric": "euclidean-to-source-boundary-segments",
+      "distanceCapM": 0.02,
+      "recommendedDisplayFeatherM": 0.003,
+      "positiveTendonDistanceP90M": 0.019999999552965164,
+      "maxTendonSampleDistanceM": 0.019999999552965164,
+      "refinedSourceTriangles": 123,
+      "sourceFaceProvenanceFile": "render-face-source-provenance.npz"
+    },
+    "sourceTriangles": 4966
+  },
+  {
+    "id": "ZA_691d450f19a054",
+    "conceptId": "",
+    "nameEn": "Left Medial patellar retinaculum",
+    "sourceNodeName": "Medial patellar retinaculum.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Anterior compartment of thigh.g/Medial patellar retinaculum.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Ligament.001"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_691d450f19a054"
+    ],
+    "bounds": [
+      [
+        0.031837294951545386,
+        0.4411922028725598,
+        -0.03442541354996905
+      ],
+      [
+        0.06461029027225094,
+        0.45486511445094746,
+        0.011363237469015868
+      ]
+    ],
+    "vertices": 94,
+    "triangles": 184,
+    "dracoBytes": 1818,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "ligament-fascia",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "connective"
+  },
+  {
+    "id": "ZA_1be9cefbf9d8fa",
+    "conceptId": "",
+    "nameEn": "Left Long head of biceps femoris",
+    "sourceNodeName": "Long head of biceps femoris.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Posterior compartment of thigh.g/Long head of biceps femoris.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Tendon",
+      "Flexion"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_1be9cefbf9d8fa"
+    ],
+    "bounds": [
+      [
+        0.05005222521799985,
+        0.3947710082635201,
+        -0.07661903372789196
+      ],
+      [
+        0.12829731344859865,
+        0.8201771310170949,
+        -0.020791689636380565
+      ]
+    ],
+    "vertices": 4105,
+    "triangles": 7944,
+    "dracoBytes": 101847,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular",
+    "hasAuthoredTendonMask": true,
+    "tendonSurface": {
+      "method": "original-fbx-material-faces-planar-display-refinement",
+      "sourceMaterialName": "Tendon",
+      "sourceTendonTriangles": 1841,
+      "renderTendonTriangles": 2527,
+      "boundarySegmentCount": 139,
+      "maskAttribute": "_TENDON_MASK",
+      "edgeAttribute": "_TENDON_EDGE",
+      "distanceMetric": "euclidean-to-source-boundary-segments",
+      "distanceCapM": 0.02,
+      "recommendedDisplayFeatherM": 0.003,
+      "positiveTendonDistanceP90M": 0.019999999552965164,
+      "maxTendonSampleDistanceM": 0.019999999552965164,
+      "refinedSourceTriangles": 208,
+      "sourceFaceProvenanceFile": "render-face-source-provenance.npz"
+    },
+    "sourceTriangles": 7258
+  },
+  {
+    "id": "ZA_d61488e0ad5cd1",
+    "conceptId": "",
+    "nameEn": "Left Short head of biceps femoris",
+    "sourceNodeName": "Short head of biceps femoris.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Posterior compartment of thigh.g/Short head of biceps femoris.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Tendon",
+      "Flexion"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_d61488e0ad5cd1"
+    ],
+    "bounds": [
+      [
+        0.08667532819292062,
+        0.40320354586856644,
+        -0.05609432757518418
+      ],
+      [
+        0.12352163228978191,
+        0.7045524725056969,
+        -0.014214230885506551
+      ]
+    ],
+    "vertices": 1360,
+    "triangles": 2656,
+    "dracoBytes": 34379,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular",
+    "hasAuthoredTendonMask": true,
+    "tendonSurface": {
+      "method": "original-fbx-material-faces-planar-display-refinement",
+      "sourceMaterialName": "Tendon",
+      "sourceTendonTriangles": 422,
+      "renderTendonTriangles": 602,
+      "boundarySegmentCount": 32,
+      "maskAttribute": "_TENDON_MASK",
+      "edgeAttribute": "_TENDON_EDGE",
+      "distanceMetric": "euclidean-to-source-boundary-segments",
+      "distanceCapM": 0.02,
+      "recommendedDisplayFeatherM": 0.003,
+      "positiveTendonDistanceP90M": 0.019999999552965164,
+      "maxTendonSampleDistanceM": 0.019999999552965164,
+      "refinedSourceTriangles": 52,
+      "sourceFaceProvenanceFile": "render-face-source-provenance.npz"
+    },
+    "sourceTriangles": 2476
+  },
+  {
+    "id": "ZA_b748f69834b799",
+    "conceptId": "",
+    "nameEn": "Left Semimembranosus muscle",
+    "sourceNodeName": "Semimembranosus muscle.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Posterior compartment of thigh.g/Semimembranosus muscle.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Tendon",
+      "Flexion"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_b748f69834b799"
+    ],
+    "bounds": [
+      [
+        0.014993272282635353,
+        0.3853596903915241,
+        -0.06919895002264281
+      ],
+      [
+        0.07876737656969804,
+        0.8030713607229093,
+        -0.014070933888941255
+      ]
+    ],
+    "vertices": 4112,
+    "triangles": 7958,
+    "dracoBytes": 102056,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular",
+    "hasAuthoredTendonMask": true,
+    "tendonSurface": {
+      "method": "original-fbx-material-faces-planar-display-refinement",
+      "sourceMaterialName": "Tendon",
+      "sourceTendonTriangles": 2047,
+      "renderTendonTriangles": 2563,
+      "boundarySegmentCount": 129,
+      "maskAttribute": "_TENDON_MASK",
+      "edgeAttribute": "_TENDON_EDGE",
+      "distanceMetric": "euclidean-to-source-boundary-segments",
+      "distanceCapM": 0.02,
+      "recommendedDisplayFeatherM": 0.003,
+      "positiveTendonDistanceP90M": 0.019999999552965164,
+      "maxTendonSampleDistanceM": 0.019999999552965164,
+      "refinedSourceTriangles": 154,
+      "sourceFaceProvenanceFile": "render-face-source-provenance.npz"
+    },
+    "sourceTriangles": 7442
+  },
+  {
+    "id": "ZA_6c4242ac60aeb9",
+    "conceptId": "",
+    "nameEn": "Left Semitendinosus muscle",
+    "sourceNodeName": "Semitendinosus muscle.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Posterior compartment of thigh.g/Semitendinosus muscle.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Tendon",
+      "Flexion"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_6c4242ac60aeb9"
+    ],
+    "bounds": [
+      [
+        0.032736754239549276,
+        0.3514637258990259,
+        -0.07553292767173395
+      ],
+      [
+        0.06875226268335964,
+        0.8114025554823584,
+        -0.01729525274730713
+      ]
+    ],
+    "vertices": 2379,
+    "triangles": 4622,
+    "dracoBytes": 59107,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular",
+    "hasAuthoredTendonMask": true,
+    "tendonSurface": {
+      "method": "original-fbx-material-faces-planar-display-refinement",
+      "sourceMaterialName": "Tendon",
+      "sourceTendonTriangles": 2172,
+      "renderTendonTriangles": 2478,
+      "boundarySegmentCount": 68,
+      "maskAttribute": "_TENDON_MASK",
+      "edgeAttribute": "_TENDON_EDGE",
+      "distanceMetric": "euclidean-to-source-boundary-segments",
+      "distanceCapM": 0.02,
+      "recommendedDisplayFeatherM": 0.003,
+      "positiveTendonDistanceP90M": 0.019999999552965164,
+      "maxTendonSampleDistanceM": 0.019999999552965164,
+      "refinedSourceTriangles": 92,
+      "sourceFaceProvenanceFile": "render-face-source-provenance.npz"
+    },
+    "sourceTriangles": 4316
+  },
+  {
+    "id": "ZA_9621c33470c590",
+    "conceptId": "",
+    "nameEn": "Left Adductor magnus",
+    "sourceNodeName": "Adductor magnus.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Medial compartment of thigh.g/Adductor magnus.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Tendon",
+      "Adductor"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_9621c33470c590"
+    ],
+    "bounds": [
+      [
+        0.012756547720855976,
+        0.46262964389956424,
+        -0.035652533845592076
+      ],
+      [
+        0.11034041596740525,
+        0.8203808241888726,
+        0.01677637147305033
+      ]
+    ],
+    "vertices": 5194,
+    "triangles": 9776,
+    "dracoBytes": 125651,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular",
+    "hasAuthoredTendonMask": true,
+    "tendonSurface": {
+      "method": "original-fbx-material-faces-planar-display-refinement",
+      "sourceMaterialName": "Tendon",
+      "sourceTendonTriangles": 4207,
+      "renderTendonTriangles": 5791,
+      "boundarySegmentCount": 305,
+      "maskAttribute": "_TENDON_MASK",
+      "edgeAttribute": "_TENDON_EDGE",
+      "distanceMetric": "euclidean-to-source-boundary-segments",
+      "distanceCapM": 0.02,
+      "recommendedDisplayFeatherM": 0.003,
+      "positiveTendonDistanceP90M": 0.019999999552965164,
+      "maxTendonSampleDistanceM": 0.019999999552965164,
+      "refinedSourceTriangles": 482,
+      "sourceFaceProvenanceFile": "render-face-source-provenance.npz"
+    },
+    "sourceTriangles": 8192
+  },
+  {
+    "id": "ZA_18b5b01153d72a",
+    "conceptId": "",
+    "nameEn": "Left (Adductor minimus)",
+    "sourceNodeName": "(Adductor minimus).l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Medial compartment of thigh.g/Adductor magnus.l/(Adductor minimus).l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Adductor"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_18b5b01153d72a"
+    ],
+    "bounds": [
+      [
+        0.018619238491304292,
+        0.7251192645516744,
+        -0.01378567953462011
+      ],
+      [
+        0.09873493662541495,
+        0.8294766584134174,
+        0.027546825739057524
+      ]
+    ],
+    "vertices": 476,
+    "triangles": 948,
+    "dracoBytes": 8717,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular"
+  },
+  {
+    "id": "ZA_c1a514dd0e96f2",
+    "conceptId": "",
+    "nameEn": "Left Adductor longus",
+    "sourceNodeName": "Adductor longus.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Medial compartment of thigh.g/Adductor longus.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Adductor",
+      "Tendon"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_c1a514dd0e96f2"
+    ],
+    "bounds": [
+      [
+        0.011796361717562886,
+        0.5768002928771889,
+        -0.0068830383522362195
+      ],
+      [
+        0.09486161073140015,
+        0.8416120107219389,
+        0.05294182981560579
+      ]
+    ],
+    "vertices": 2069,
+    "triangles": 4036,
+    "dracoBytes": 52153,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular",
+    "hasAuthoredTendonMask": true,
+    "tendonSurface": {
+      "method": "original-fbx-material-faces-planar-display-refinement",
+      "sourceMaterialName": "Tendon",
+      "sourceTendonTriangles": 689,
+      "renderTendonTriangles": 1011,
+      "boundarySegmentCount": 53,
+      "maskAttribute": "_TENDON_MASK",
+      "edgeAttribute": "_TENDON_EDGE",
+      "distanceMetric": "euclidean-to-source-boundary-segments",
+      "distanceCapM": 0.02,
+      "recommendedDisplayFeatherM": 0.003,
+      "positiveTendonDistanceP90M": 0.019999999552965164,
+      "maxTendonSampleDistanceM": 0.019999999552965164,
+      "refinedSourceTriangles": 91,
+      "sourceFaceProvenanceFile": "render-face-source-provenance.npz"
+    },
+    "sourceTriangles": 3714
+  },
+  {
+    "id": "ZA_0ef3a993f6db87",
+    "conceptId": "",
+    "nameEn": "Left Pectineus muscle",
+    "sourceNodeName": "Pectineus muscle.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Medial compartment of thigh.g/Pectineus muscle.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Tendon",
+      "External rotation"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_0ef3a993f6db87"
+    ],
+    "bounds": [
+      [
+        0.015786918981985493,
+        0.7333045638647789,
+        -0.004610975830639607
+      ],
+      [
+        0.09856673251510432,
+        0.864547458014641,
+        0.055967694228811746
+      ]
+    ],
+    "vertices": 1401,
+    "triangles": 2534,
+    "dracoBytes": 33575,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular",
+    "hasAuthoredTendonMask": true,
+    "tendonSurface": {
+      "method": "original-fbx-material-faces-planar-display-refinement",
+      "sourceMaterialName": "Tendon",
+      "sourceTendonTriangles": 864,
+      "renderTendonTriangles": 1446,
+      "boundarySegmentCount": 136,
+      "maskAttribute": "_TENDON_MASK",
+      "edgeAttribute": "_TENDON_EDGE",
+      "distanceMetric": "euclidean-to-source-boundary-segments",
+      "distanceCapM": 0.02,
+      "recommendedDisplayFeatherM": 0.003,
+      "positiveTendonDistanceP90M": 0.008202576078474522,
+      "maxTendonSampleDistanceM": 0.014199241995811462,
+      "refinedSourceTriangles": 170,
+      "sourceFaceProvenanceFile": "render-face-source-provenance.npz"
+    },
+    "sourceTriangles": 1952
+  },
+  {
+    "id": "ZA_d00c5065186826",
+    "conceptId": "",
+    "nameEn": "Left Adductor brevis",
+    "sourceNodeName": "Adductor brevis.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Medial compartment of thigh.g/Adductor brevis.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Adductor"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_d00c5065186826"
+    ],
+    "bounds": [
+      [
+        0.019472892274514094,
+        0.6655156803957926,
+        -0.008769914943240928
+      ],
+      [
+        0.09852376455798188,
+        0.8418013261436326,
+        0.038997961468263044
+      ]
+    ],
+    "vertices": 1064,
+    "triangles": 2132,
+    "dracoBytes": 19124,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular"
+  },
+  {
+    "id": "ZA_d2a998c04db45b",
+    "conceptId": "",
+    "nameEn": "Left Gracilis muscle",
+    "sourceNodeName": "Gracilis muscle.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Medial compartment of thigh.g/Gracilis muscle.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Tendon",
+      "Adductor"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_d2a998c04db45b"
+    ],
+    "bounds": [
+      [
+        0.009621605156814414,
+        0.34347604922468195,
+        -0.04814282135071318
+      ],
+      [
+        0.06267739312496358,
+        0.8370552947800107,
+        0.04258583056260175
+      ]
+    ],
+    "vertices": 2684,
+    "triangles": 5220,
+    "dracoBytes": 66801,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular",
+    "hasAuthoredTendonMask": true,
+    "tendonSurface": {
+      "method": "original-fbx-material-faces-planar-display-refinement",
+      "sourceMaterialName": "Tendon",
+      "sourceTendonTriangles": 1858,
+      "renderTendonTriangles": 2266,
+      "boundarySegmentCount": 72,
+      "maskAttribute": "_TENDON_MASK",
+      "edgeAttribute": "_TENDON_EDGE",
+      "distanceMetric": "euclidean-to-source-boundary-segments",
+      "distanceCapM": 0.02,
+      "recommendedDisplayFeatherM": 0.003,
+      "positiveTendonDistanceP90M": 0.019999999552965164,
+      "maxTendonSampleDistanceM": 0.019999999552965164,
+      "refinedSourceTriangles": 122,
+      "sourceFaceProvenanceFile": "render-face-source-provenance.npz"
+    },
+    "sourceTriangles": 4812
+  },
+  {
+    "id": "ZA_735066ee365a62",
+    "conceptId": "",
+    "nameEn": "Left Obturator externus",
+    "sourceNodeName": "Obturator externus.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Medial compartment of thigh.g/Obturator externus.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "External rotation"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_735066ee365a62"
+    ],
+    "bounds": [
+      [
+        0.023989527736237682,
+        0.8153827583088399,
+        -0.03176051232851537
+      ],
+      [
+        0.12353504825997284,
+        0.8462980926541307,
+        0.02641570840160255
+      ]
+    ],
+    "vertices": 582,
+    "triangles": 1156,
+    "dracoBytes": 10661,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular"
+  },
+  {
+    "id": "ZA_30c8b2672570e2",
+    "conceptId": "",
+    "nameEn": "Left Extensor digitorum longus",
+    "sourceNodeName": "Extensor digitorum longus.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Anterior compartment of leg.g/Extensor digitorum longus.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Extensor extremities",
+      "Tendon"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_30c8b2672570e2"
+    ],
+    "bounds": [
+      [
+        0.08720430452128838,
+        0.09074457160010323,
+        -0.045356337467571416
+      ],
+      [
+        0.11957536316583901,
+        0.4186822170664126,
+        -0.012271428348577034
+      ]
+    ],
+    "vertices": 1686,
+    "triangles": 3302,
+    "dracoBytes": 42438,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular",
+    "hasAuthoredTendonMask": true,
+    "tendonSurface": {
+      "method": "original-fbx-material-faces-planar-display-refinement",
+      "sourceMaterialName": "Tendon",
+      "sourceTendonTriangles": 454,
+      "renderTendonTriangles": 580,
+      "boundarySegmentCount": 26,
+      "maskAttribute": "_TENDON_MASK",
+      "edgeAttribute": "_TENDON_EDGE",
+      "distanceMetric": "euclidean-to-source-boundary-segments",
+      "distanceCapM": 0.02,
+      "recommendedDisplayFeatherM": 0.003,
+      "positiveTendonDistanceP90M": 0.019999999552965164,
+      "maxTendonSampleDistanceM": 0.019999999552965164,
+      "refinedSourceTriangles": 41,
+      "sourceFaceProvenanceFile": "render-face-source-provenance.npz"
+    },
+    "sourceTriangles": 3176
+  },
+  {
+    "id": "ZA_47aef35eb359a1",
+    "conceptId": "",
+    "nameEn": "Left Tendon of extensor digitorum longus",
+    "sourceNodeName": "Tendon of extensor digitorum longus.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Anterior compartment of leg.g/Extensor digitorum longus.l/Tendon of extensor digitorum longus.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Tendon"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_47aef35eb359a1"
+    ],
+    "bounds": [
+      [
+        0.08709374535086825,
+        0.012796127097773842,
+        -0.01820798708091691
+      ],
+      [
+        0.1441848089288955,
+        0.09488918893425602,
+        0.1262997392680485
+      ]
+    ],
+    "vertices": 2640,
+    "triangles": 5184,
+    "dracoBytes": 65708,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "tendon",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "connective",
+    "hasAuthoredTendonMask": true,
+    "tendonSurface": {
+      "method": "original-fbx-material-faces-planar-display-refinement",
+      "sourceMaterialName": "Tendon",
+      "sourceTendonTriangles": 5184,
+      "renderTendonTriangles": 5184,
+      "boundarySegmentCount": 0,
+      "maskAttribute": "_TENDON_MASK",
+      "edgeAttribute": "_TENDON_EDGE",
+      "distanceMetric": "euclidean-to-source-boundary-segments",
+      "distanceCapM": 0.02,
+      "recommendedDisplayFeatherM": 0.003,
+      "positiveTendonDistanceP90M": 0.019999999552965164,
+      "maxTendonSampleDistanceM": 0.019999999552965164,
+      "refinedSourceTriangles": 0,
+      "sourceFaceProvenanceFile": "render-face-source-provenance.npz"
+    },
+    "sourceTriangles": 5184
+  },
+  {
+    "id": "ZA_77b30145a281e5",
+    "conceptId": "",
+    "nameEn": "Left Tibialis anterior muscle",
+    "sourceNodeName": "Tibialis anterior muscle.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Anterior compartment of leg.g/Tibialis anterior muscle.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Tendon",
+      "Flexion hand/foot"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_77b30145a281e5"
+    ],
+    "bounds": [
+      [
+        0.0566741973764749,
+        0.04225743324714589,
+        -0.03487878173958088
+      ],
+      [
+        0.11748940030474385,
+        0.4111182937713872,
+        0.038795683606259034
+      ]
+    ],
+    "vertices": 1821,
+    "triangles": 3612,
+    "dracoBytes": 46301,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular",
+    "hasAuthoredTendonMask": true,
+    "tendonSurface": {
+      "method": "original-fbx-material-faces-planar-display-refinement",
+      "sourceMaterialName": "Tendon",
+      "sourceTendonTriangles": 925,
+      "renderTendonTriangles": 1011,
+      "boundarySegmentCount": 17,
+      "maskAttribute": "_TENDON_MASK",
+      "edgeAttribute": "_TENDON_EDGE",
+      "distanceMetric": "euclidean-to-source-boundary-segments",
+      "distanceCapM": 0.02,
+      "recommendedDisplayFeatherM": 0.003,
+      "positiveTendonDistanceP90M": 0.019999999552965164,
+      "maxTendonSampleDistanceM": 0.019999999552965164,
+      "refinedSourceTriangles": 24,
+      "sourceFaceProvenanceFile": "render-face-source-provenance.npz"
+    },
+    "sourceTriangles": 3526
+  },
+  {
+    "id": "ZA_4b124108cbcccb",
+    "conceptId": "",
+    "nameEn": "Left Fibularis tertius muscle",
+    "sourceNodeName": "Fibularis tertius muscle.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Anterior compartment of leg.g/Fibularis tertius muscle.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Extension hand/foot",
+      "Tendon"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_4b124108cbcccb"
+    ],
+    "bounds": [
+      [
+        0.09265011021350335,
+        0.03244995976666511,
+        -0.04157136670425546
+      ],
+      [
+        0.11810491006474798,
+        0.15530390618420092,
+        0.01371745464687761
+      ]
+    ],
+    "vertices": 337,
+    "triangles": 642,
+    "dracoBytes": 8628,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular",
+    "hasAuthoredTendonMask": true,
+    "tendonSurface": {
+      "method": "original-fbx-material-faces-planar-display-refinement",
+      "sourceMaterialName": "Tendon",
+      "sourceTendonTriangles": 360,
+      "renderTendonTriangles": 416,
+      "boundarySegmentCount": 14,
+      "maskAttribute": "_TENDON_MASK",
+      "edgeAttribute": "_TENDON_EDGE",
+      "distanceMetric": "euclidean-to-source-boundary-segments",
+      "distanceCapM": 0.02,
+      "recommendedDisplayFeatherM": 0.003,
+      "positiveTendonDistanceP90M": 0.019999999552965164,
+      "maxTendonSampleDistanceM": 0.019999999552965164,
+      "refinedSourceTriangles": 18,
+      "sourceFaceProvenanceFile": "render-face-source-provenance.npz"
+    },
+    "sourceTriangles": 586
+  },
+  {
+    "id": "ZA_0fc9e68a0e330c",
+    "conceptId": "",
+    "nameEn": "Left Extensor hallucis longus",
+    "sourceNodeName": "Extensor hallucis longus.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Anterior compartment of leg.g/Extensor hallucis longus.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Extensor extremities",
+      "Tendon"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_0fc9e68a0e330c"
+    ],
+    "bounds": [
+      [
+        0.06888302283152567,
+        0.023878941297855203,
+        -0.041527720079507564
+      ],
+      [
+        0.11160403362323017,
+        0.3043830643108291,
+        0.1002115279751974
+      ]
+    ],
+    "vertices": 1236,
+    "triangles": 2430,
+    "dracoBytes": 31214,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular",
+    "hasAuthoredTendonMask": true,
+    "tendonSurface": {
+      "method": "original-fbx-material-faces-planar-display-refinement",
+      "sourceMaterialName": "Tendon",
+      "sourceTendonTriangles": 1041,
+      "renderTendonTriangles": 1109,
+      "boundarySegmentCount": 19,
+      "maskAttribute": "_TENDON_MASK",
+      "edgeAttribute": "_TENDON_EDGE",
+      "distanceMetric": "euclidean-to-source-boundary-segments",
+      "distanceCapM": 0.02,
+      "recommendedDisplayFeatherM": 0.003,
+      "positiveTendonDistanceP90M": 0.019999999552965164,
+      "maxTendonSampleDistanceM": 0.019999999552965164,
+      "refinedSourceTriangles": 22,
+      "sourceFaceProvenanceFile": "render-face-source-provenance.npz"
+    },
+    "sourceTriangles": 2362
+  },
+  {
+    "id": "ZA_86538331dc5eda",
+    "conceptId": "",
+    "nameEn": "Left Fibularis longus muscle",
+    "sourceNodeName": "Fibularis longus muscle.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Lateral compartment of leg.g/Fibularis longus muscle.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "External rotation",
+      "Tendon"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_86538331dc5eda"
+    ],
+    "bounds": [
+      [
+        0.07629367368101725,
+        0.02885223580904636,
+        -0.06375246969236968
+      ],
+      [
+        0.13505102429377752,
+        0.40800724884185924,
+        0.025902962686466916
+      ]
+    ],
+    "vertices": 2844,
+    "triangles": 5686,
+    "dracoBytes": 71287,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular",
+    "hasAuthoredTendonMask": true,
+    "tendonSurface": {
+      "method": "original-fbx-material-faces-planar-display-refinement",
+      "sourceMaterialName": "Tendon",
+      "sourceTendonTriangles": 1965,
+      "renderTendonTriangles": 2129,
+      "boundarySegmentCount": 23,
+      "maskAttribute": "_TENDON_MASK",
+      "edgeAttribute": "_TENDON_EDGE",
+      "distanceMetric": "euclidean-to-source-boundary-segments",
+      "distanceCapM": 0.02,
+      "recommendedDisplayFeatherM": 0.003,
+      "positiveTendonDistanceP90M": 0.019999999552965164,
+      "maxTendonSampleDistanceM": 0.019999999552965164,
+      "refinedSourceTriangles": 48,
+      "sourceFaceProvenanceFile": "render-face-source-provenance.npz"
+    },
+    "sourceTriangles": 5522
+  },
+  {
+    "id": "ZA_bac0b2a83b2cbf",
+    "conceptId": "",
+    "nameEn": "Left Fibularis brevis muscle",
+    "sourceNodeName": "Fibularis brevis muscle.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Lateral compartment of leg.g/Fibularis brevis muscle.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Tendon",
+      "Extension hand/foot"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_bac0b2a83b2cbf"
+    ],
+    "bounds": [
+      [
+        0.09101823835035859,
+        0.02578416915313605,
+        -0.06551939818364397
+      ],
+      [
+        0.11942230223396402,
+        0.2946961634065202,
+        -0.010760328373620566
+      ]
+    ],
+    "vertices": 1850,
+    "triangles": 3652,
+    "dracoBytes": 46624,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular",
+    "hasAuthoredTendonMask": true,
+    "tendonSurface": {
+      "method": "original-fbx-material-faces-planar-display-refinement",
+      "sourceMaterialName": "Tendon",
+      "sourceTendonTriangles": 1212,
+      "renderTendonTriangles": 1418,
+      "boundarySegmentCount": 24,
+      "maskAttribute": "_TENDON_MASK",
+      "edgeAttribute": "_TENDON_EDGE",
+      "distanceMetric": "euclidean-to-source-boundary-segments",
+      "distanceCapM": 0.02,
+      "recommendedDisplayFeatherM": 0.003,
+      "positiveTendonDistanceP90M": 0.019999999552965164,
+      "maxTendonSampleDistanceM": 0.019999999552965164,
+      "refinedSourceTriangles": 61,
+      "sourceFaceProvenanceFile": "render-face-source-provenance.npz"
+    },
+    "sourceTriangles": 3446
+  },
+  {
+    "id": "ZA_43269c97a9ba30",
+    "conceptId": "",
+    "nameEn": "Left Lateral head of gastrocnemius",
+    "sourceNodeName": "Lateral head of gastrocnemius.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Posterior compartment of leg.g/Superficial part of posterior compartment of leg.g/Lateral head of gastrocnemius.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Biarticular",
+      "Tendon"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_43269c97a9ba30"
+    ],
+    "bounds": [
+      [
+        0.08050910083053864,
+        0.22010229944016216,
+        -0.10642216031800374
+      ],
+      [
+        0.13460766963226928,
+        0.4894227638395503,
+        -0.028514889488976465
+      ]
+    ],
+    "vertices": 2691,
+    "triangles": 5220,
+    "dracoBytes": 67453,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular",
+    "hasAuthoredTendonMask": true,
+    "tendonSurface": {
+      "method": "original-fbx-material-faces-planar-display-refinement",
+      "sourceMaterialName": "Tendon",
+      "sourceTendonTriangles": 1095,
+      "renderTendonTriangles": 1407,
+      "boundarySegmentCount": 81,
+      "maskAttribute": "_TENDON_MASK",
+      "edgeAttribute": "_TENDON_EDGE",
+      "distanceMetric": "euclidean-to-source-boundary-segments",
+      "distanceCapM": 0.02,
+      "recommendedDisplayFeatherM": 0.003,
+      "positiveTendonDistanceP90M": 0.019999999552965164,
+      "maxTendonSampleDistanceM": 0.019999999552965164,
+      "refinedSourceTriangles": 95,
+      "sourceFaceProvenanceFile": "render-face-source-provenance.npz"
+    },
+    "sourceTriangles": 4908
+  },
+  {
+    "id": "ZA_b63729e4444867",
+    "conceptId": "",
+    "nameEn": "Left Medial head of gastrocnemius",
+    "sourceNodeName": "Medial head of gastrocnemius.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Posterior compartment of leg.g/Superficial part of posterior compartment of leg.g/Medial head of gastrocnemius.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Biarticular",
+      "Tendon"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_b63729e4444867"
+    ],
+    "bounds": [
+      [
+        0.034752803831448735,
+        0.20647605991098103,
+        -0.10408553350265379
+      ],
+      [
+        0.08589961309605355,
+        0.5061280844491423,
+        -0.01808328349062969
+      ]
+    ],
+    "vertices": 3528,
+    "triangles": 6848,
+    "dracoBytes": 88111,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular",
+    "hasAuthoredTendonMask": true,
+    "tendonSurface": {
+      "method": "original-fbx-material-faces-planar-display-refinement",
+      "sourceMaterialName": "Tendon",
+      "sourceTendonTriangles": 2106,
+      "renderTendonTriangles": 2492,
+      "boundarySegmentCount": 96,
+      "maskAttribute": "_TENDON_MASK",
+      "edgeAttribute": "_TENDON_EDGE",
+      "distanceMetric": "euclidean-to-source-boundary-segments",
+      "distanceCapM": 0.02,
+      "recommendedDisplayFeatherM": 0.003,
+      "positiveTendonDistanceP90M": 0.019999999552965164,
+      "maxTendonSampleDistanceM": 0.019999999552965164,
+      "refinedSourceTriangles": 120,
+      "sourceFaceProvenanceFile": "render-face-source-provenance.npz"
+    },
+    "sourceTriangles": 6462
+  },
+  {
+    "id": "ZA_a2558c29118936",
+    "conceptId": "",
+    "nameEn": "Left Calcaneal tendon",
+    "sourceNodeName": "Calcaneal tendon.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Posterior compartment of leg.g/Superficial part of posterior compartment of leg.g/Calcaneal tendon.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Tendon"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_a2558c29118936"
+    ],
+    "bounds": [
+      [
+        0.052266774801317986,
+        0.025155930149378492,
+        -0.09218174983621669
+      ],
+      [
+        0.11536845848185497,
+        0.2452820377800199,
+        -0.06496630325613521
+      ]
+    ],
+    "vertices": 2193,
+    "triangles": 4377,
+    "dracoBytes": 56136,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "tendon",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "connective",
+    "hasAuthoredTendonMask": true,
+    "tendonSurface": {
+      "method": "original-fbx-material-faces-planar-display-refinement",
+      "sourceMaterialName": "Tendon",
+      "sourceTendonTriangles": 4377,
+      "renderTendonTriangles": 4377,
+      "boundarySegmentCount": 0,
+      "maskAttribute": "_TENDON_MASK",
+      "edgeAttribute": "_TENDON_EDGE",
+      "distanceMetric": "euclidean-to-source-boundary-segments",
+      "distanceCapM": 0.02,
+      "recommendedDisplayFeatherM": 0.003,
+      "positiveTendonDistanceP90M": 0.019999999552965164,
+      "maxTendonSampleDistanceM": 0.019999999552965164,
+      "refinedSourceTriangles": 0,
+      "sourceFaceProvenanceFile": "render-face-source-provenance.npz"
+    },
+    "sourceTriangles": 4377
+  },
+  {
+    "id": "ZA_92eb0f1bfdc066",
+    "conceptId": "",
+    "nameEn": "Left Soleus muscle",
+    "sourceNodeName": "Soleus muscle.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Posterior compartment of leg.g/Superficial part of posterior compartment of leg.g/Soleus muscle.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Tendon",
+      "Extension hand/foot"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_92eb0f1bfdc066"
+    ],
+    "bounds": [
+      [
+        0.04368408733844446,
+        0.13375602056194352,
+        -0.07900315318306876
+      ],
+      [
+        0.12881729945879064,
+        0.40950873715181385,
+        -0.02375853982546682
+      ]
+    ],
+    "vertices": 3582,
+    "triangles": 7050,
+    "dracoBytes": 90621,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular",
+    "hasAuthoredTendonMask": true,
+    "tendonSurface": {
+      "method": "original-fbx-material-faces-planar-display-refinement",
+      "sourceMaterialName": "Tendon",
+      "sourceTendonTriangles": 437,
+      "renderTendonTriangles": 713,
+      "boundarySegmentCount": 65,
+      "maskAttribute": "_TENDON_MASK",
+      "edgeAttribute": "_TENDON_EDGE",
+      "distanceMetric": "euclidean-to-source-boundary-segments",
+      "distanceCapM": 0.02,
+      "recommendedDisplayFeatherM": 0.003,
+      "positiveTendonDistanceP90M": 0.019526654854416847,
+      "maxTendonSampleDistanceM": 0.019999999552965164,
+      "refinedSourceTriangles": 85,
+      "sourceFaceProvenanceFile": "render-face-source-provenance.npz"
+    },
+    "sourceTriangles": 6774
+  },
+  {
+    "id": "ZA_4e0a4d1ba57e6b",
+    "conceptId": "",
+    "nameEn": "Left Plantaris muscle",
+    "sourceNodeName": "Plantaris muscle.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Posterior compartment of leg.g/Superficial part of posterior compartment of leg.g/Plantaris muscle.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Biarticular",
+      "Tendon"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_4e0a4d1ba57e6b"
+    ],
+    "bounds": [
+      [
+        0.049712393719968315,
+        0.028150172802367947,
+        -0.08529078224880321
+      ],
+      [
+        0.10461311429683462,
+        0.5104856304459112,
+        -0.0056318550250351596
+      ]
+    ],
+    "vertices": 2460,
+    "triangles": 4854,
+    "dracoBytes": 61342,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular",
+    "hasAuthoredTendonMask": true,
+    "tendonSurface": {
+      "method": "original-fbx-material-faces-planar-display-refinement",
+      "sourceMaterialName": "Tendon",
+      "sourceTendonTriangles": 2525,
+      "renderTendonTriangles": 2681,
+      "boundarySegmentCount": 31,
+      "maskAttribute": "_TENDON_MASK",
+      "edgeAttribute": "_TENDON_EDGE",
+      "distanceMetric": "euclidean-to-source-boundary-segments",
+      "distanceCapM": 0.02,
+      "recommendedDisplayFeatherM": 0.003,
+      "positiveTendonDistanceP90M": 0.019999999552965164,
+      "maxTendonSampleDistanceM": 0.019999999552965164,
+      "refinedSourceTriangles": 47,
+      "sourceFaceProvenanceFile": "render-face-source-provenance.npz"
+    },
+    "sourceTriangles": 4698
+  },
+  {
+    "id": "ZA_bb54a9a8c1bed8",
+    "conceptId": "",
+    "nameEn": "Left Flexor digitorum longus",
+    "sourceNodeName": "Flexor digitorum longus.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Posterior compartment of leg.g/Deep part of posterior compartment of leg.g/Flexor digitorum longus.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Tendon",
+      "Flexion fingers"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_bb54a9a8c1bed8"
+    ],
+    "bounds": [
+      [
+        0.04875233764225298,
+        0.007785439597638888,
+        -0.06473416703604488
+      ],
+      [
+        0.14325411744421004,
+        0.3514025721803954,
+        0.12841785703672415
+      ]
+    ],
+    "vertices": 3528,
+    "triangles": 6978,
+    "dracoBytes": 88563,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular",
+    "hasAuthoredTendonMask": true,
+    "tendonSurface": {
+      "method": "original-fbx-material-faces-planar-display-refinement",
+      "sourceMaterialName": "Tendon",
+      "sourceTendonTriangles": 3922,
+      "renderTendonTriangles": 4064,
+      "boundarySegmentCount": 34,
+      "maskAttribute": "_TENDON_MASK",
+      "edgeAttribute": "_TENDON_EDGE",
+      "distanceMetric": "euclidean-to-source-boundary-segments",
+      "distanceCapM": 0.02,
+      "recommendedDisplayFeatherM": 0.003,
+      "positiveTendonDistanceP90M": 0.019999999552965164,
+      "maxTendonSampleDistanceM": 0.019999999552965164,
+      "refinedSourceTriangles": 42,
+      "sourceFaceProvenanceFile": "render-face-source-provenance.npz"
+    },
+    "sourceTriangles": 6836
+  },
+  {
+    "id": "ZA_a8694e095e0205",
+    "conceptId": "",
+    "nameEn": "Left Popliteus muscle",
+    "sourceNodeName": "Popliteus muscle.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Posterior compartment of leg.g/Deep part of posterior compartment of leg.g/Popliteus muscle.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "External rotation",
+      "Tendon"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_a8694e095e0205"
+    ],
+    "bounds": [
+      [
+        0.057877983109199144,
+        0.3399454916162078,
+        -0.06269026801088827
+      ],
+      [
+        0.11705547620098375,
+        0.46508956957859376,
+        -0.02615293407986923
+      ]
+    ],
+    "vertices": 732,
+    "triangles": 1366,
+    "dracoBytes": 18194,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular",
+    "hasAuthoredTendonMask": true,
+    "tendonSurface": {
+      "method": "original-fbx-material-faces-planar-display-refinement",
+      "sourceMaterialName": "Tendon",
+      "sourceTendonTriangles": 325,
+      "renderTendonTriangles": 559,
+      "boundarySegmentCount": 49,
+      "maskAttribute": "_TENDON_MASK",
+      "edgeAttribute": "_TENDON_EDGE",
+      "distanceMetric": "euclidean-to-source-boundary-segments",
+      "distanceCapM": 0.02,
+      "recommendedDisplayFeatherM": 0.003,
+      "positiveTendonDistanceP90M": 0.0158186424523592,
+      "maxTendonSampleDistanceM": 0.019999999552965164,
+      "refinedSourceTriangles": 69,
+      "sourceFaceProvenanceFile": "render-face-source-provenance.npz"
+    },
+    "sourceTriangles": 1132
+  },
+  {
+    "id": "ZA_65504c18cc93e2",
+    "conceptId": "",
+    "nameEn": "Left Tibialis posterior muscle",
+    "sourceNodeName": "Tibialis posterior muscle.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Posterior compartment of leg.g/Deep part of posterior compartment of leg.g/Tibialis posterior muscle.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Tendon",
+      "Extension hand/foot"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_65504c18cc93e2"
+    ],
+    "bounds": [
+      [
+        0.04898096390993949,
+        0.03886624741172474,
+        -0.05797010969985578
+      ],
+      [
+        0.1079020322587121,
+        0.38265157787503545,
+        0.02320655657096055
+      ]
+    ],
+    "vertices": 2775,
+    "triangles": 5566,
+    "dracoBytes": 69973,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular",
+    "hasAuthoredTendonMask": true,
+    "tendonSurface": {
+      "method": "original-fbx-material-faces-planar-display-refinement",
+      "sourceMaterialName": "Tendon",
+      "sourceTendonTriangles": 2880,
+      "renderTendonTriangles": 2920,
+      "boundarySegmentCount": 14,
+      "maskAttribute": "_TENDON_MASK",
+      "edgeAttribute": "_TENDON_EDGE",
+      "distanceMetric": "euclidean-to-source-boundary-segments",
+      "distanceCapM": 0.02,
+      "recommendedDisplayFeatherM": 0.003,
+      "positiveTendonDistanceP90M": 0.019999999552965164,
+      "maxTendonSampleDistanceM": 0.019999999552965164,
+      "refinedSourceTriangles": 11,
+      "sourceFaceProvenanceFile": "render-face-source-provenance.npz"
+    },
+    "sourceTriangles": 5526
+  },
+  {
+    "id": "ZA_7dd521d3191ee4",
+    "conceptId": "",
+    "nameEn": "Left Flexor hallucis longus",
+    "sourceNodeName": "Flexor hallucis longus.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Posterior compartment of leg.g/Deep part of posterior compartment of leg.g/Flexor hallucis longus.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Flexion fingers",
+      "Tendon"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_7dd521d3191ee4"
+    ],
+    "bounds": [
+      [
+        0.05820908494727868,
+        0.008544620460085249,
+        -0.06724917556509494
+      ],
+      [
+        0.11480682595233845,
+        0.3262084021785636,
+        0.11751132374734807
+      ]
+    ],
+    "vertices": 3064,
+    "triangles": 6052,
+    "dracoBytes": 76897,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular",
+    "hasAuthoredTendonMask": true,
+    "tendonSurface": {
+      "method": "original-fbx-material-faces-planar-display-refinement",
+      "sourceMaterialName": "Tendon",
+      "sourceTendonTriangles": 2124,
+      "renderTendonTriangles": 2298,
+      "boundarySegmentCount": 36,
+      "maskAttribute": "_TENDON_MASK",
+      "edgeAttribute": "_TENDON_EDGE",
+      "distanceMetric": "euclidean-to-source-boundary-segments",
+      "distanceCapM": 0.02,
+      "recommendedDisplayFeatherM": 0.003,
+      "positiveTendonDistanceP90M": 0.019999999552965164,
+      "maxTendonSampleDistanceM": 0.019999999552965164,
+      "refinedSourceTriangles": 53,
+      "sourceFaceProvenanceFile": "render-face-source-provenance.npz"
+    },
+    "sourceTriangles": 5878
+  },
+  {
+    "id": "ZA_452dbceecd2bf7",
+    "conceptId": "",
+    "nameEn": "Left Abductor digiti minimi of foot",
+    "sourceNodeName": "Abductor digiti minimi of foot.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Muscles of foot.g/Abductor digiti minimi of foot.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Abductor"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_452dbceecd2bf7"
+    ],
+    "bounds": [
+      [
+        0.0684093845457676,
+        0.010193390158193911,
+        -0.06856417038065317
+      ],
+      [
+        0.13936814896411273,
+        0.026712863486458835,
+        0.058882277793746295
+      ]
+    ],
+    "vertices": 640,
+    "triangles": 1280,
+    "dracoBytes": 11555,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular"
+  },
+  {
+    "id": "ZA_a4dc4916ed9a94",
+    "conceptId": "",
+    "nameEn": "Left Abductor hallucis",
+    "sourceNodeName": "Abductor hallucis.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Muscles of foot.g/Abductor hallucis.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Tendon",
+      "Abductor"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_a4dc4916ed9a94"
+    ],
+    "bounds": [
+      [
+        0.05512584292176482,
+        0.014434954737549958,
+        -0.060503717189169685
+      ],
+      [
+        0.07554649604026571,
+        0.0413698900524266,
+        0.08471762590542262
+      ]
+    ],
+    "vertices": 1062,
+    "triangles": 1964,
+    "dracoBytes": 25950,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular",
+    "hasAuthoredTendonMask": true,
+    "tendonSurface": {
+      "method": "original-fbx-material-faces-planar-display-refinement",
+      "sourceMaterialName": "Tendon",
+      "sourceTendonTriangles": 924,
+      "renderTendonTriangles": 1200,
+      "boundarySegmentCount": 76,
+      "maskAttribute": "_TENDON_MASK",
+      "edgeAttribute": "_TENDON_EDGE",
+      "distanceMetric": "euclidean-to-source-boundary-segments",
+      "distanceCapM": 0.02,
+      "recommendedDisplayFeatherM": 0.003,
+      "positiveTendonDistanceP90M": 0.019999999552965164,
+      "maxTendonSampleDistanceM": 0.019999999552965164,
+      "refinedSourceTriangles": 85,
+      "sourceFaceProvenanceFile": "render-face-source-provenance.npz"
+    },
+    "sourceTriangles": 1688
+  },
+  {
+    "id": "ZA_20b36ffbb28683",
+    "conceptId": "",
+    "nameEn": "Left Extensor digitorum brevis",
+    "sourceNodeName": "Extensor digitorum brevis.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Muscles of foot.g/Extensor digitorum brevis.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Extensor extremities",
+      "Tendon"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_20b36ffbb28683"
+    ],
+    "bounds": [
+      [
+        0.0906230562332167,
+        0.015249922700113036,
+        -0.036840631412657886
+      ],
+      [
+        0.13345866127095962,
+        0.07397094587515278,
+        0.11722050761922159
+      ]
+    ],
+    "vertices": 2035,
+    "triangles": 3672,
+    "dracoBytes": 48478,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular",
+    "hasAuthoredTendonMask": true,
+    "tendonSurface": {
+      "method": "original-fbx-material-faces-planar-display-refinement",
+      "sourceMaterialName": "Tendon",
+      "sourceTendonTriangles": 452,
+      "renderTendonTriangles": 940,
+      "boundarySegmentCount": 178,
+      "maskAttribute": "_TENDON_MASK",
+      "edgeAttribute": "_TENDON_EDGE",
+      "distanceMetric": "euclidean-to-source-boundary-segments",
+      "distanceCapM": 0.02,
+      "recommendedDisplayFeatherM": 0.001031,
+      "positiveTendonDistanceP90M": 0.002062437357380986,
+      "maxTendonSampleDistanceM": 0.002998450305312872,
+      "refinedSourceTriangles": 149,
+      "sourceFaceProvenanceFile": "render-face-source-provenance.npz"
+    },
+    "sourceTriangles": 3184
+  },
+  {
+    "id": "ZA_d404f523fc5d40",
+    "conceptId": "",
+    "nameEn": "Left Extensor hallucis brevis",
+    "sourceNodeName": "Extensor hallucis brevis.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Muscles of foot.g/Extensor hallucis brevis.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Extensor extremities",
+      "Tendon"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_d404f523fc5d40"
+    ],
+    "bounds": [
+      [
+        0.06754183520284401,
+        0.02714558672792079,
+        -0.0296971542804194
+      ],
+      [
+        0.10142302500932306,
+        0.07506942915797078,
+        0.09213964788317201
+      ]
+    ],
+    "vertices": 604,
+    "triangles": 1180,
+    "dracoBytes": 15557,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular",
+    "hasAuthoredTendonMask": true,
+    "tendonSurface": {
+      "method": "original-fbx-material-faces-planar-display-refinement",
+      "sourceMaterialName": "Tendon",
+      "sourceTendonTriangles": 396,
+      "renderTendonTriangles": 458,
+      "boundarySegmentCount": 12,
+      "maskAttribute": "_TENDON_MASK",
+      "edgeAttribute": "_TENDON_EDGE",
+      "distanceMetric": "euclidean-to-source-boundary-segments",
+      "distanceCapM": 0.02,
+      "recommendedDisplayFeatherM": 0.003,
+      "positiveTendonDistanceP90M": 0.019999999552965164,
+      "maxTendonSampleDistanceM": 0.019999999552965164,
+      "refinedSourceTriangles": 19,
+      "sourceFaceProvenanceFile": "render-face-source-provenance.npz"
+    },
+    "sourceTriangles": 1118
+  },
+  {
+    "id": "ZA_3b16349cc5dea2",
+    "conceptId": "",
+    "nameEn": "Left Dorsal interossei muscles of foot",
+    "sourceNodeName": "Dorsal interossei muscles of foot.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Muscles of foot.g/Dorsal interossei muscles of foot.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Abductor"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_3b16349cc5dea2"
+    ],
+    "bounds": [
+      [
+        0.07609370300903824,
+        0.017552526325963443,
+        0.016883666103895436
+      ],
+      [
+        0.12742360335319994,
+        0.054417720296236774,
+        0.08908269459353942
+      ]
+    ],
+    "vertices": 975,
+    "triangles": 1946,
+    "dracoBytes": 17761,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular"
+  },
+  {
+    "id": "ZA_abf46eed96892a",
+    "conceptId": "",
+    "nameEn": "Left Flexor digitorum brevis",
+    "sourceNodeName": "Flexor digitorum brevis.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Muscles of foot.g/Flexor digitorum brevis.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Tendon",
+      "Flexion fingers"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_abf46eed96892a"
+    ],
+    "bounds": [
+      [
+        0.06512458369911936,
+        0.006932035345787399,
+        -0.06843120194055094
+      ],
+      [
+        0.14360621435943913,
+        0.026943186372145114,
+        0.11955237010030505
+      ]
+    ],
+    "vertices": 2009,
+    "triangles": 3764,
+    "dracoBytes": 49030,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular",
+    "hasAuthoredTendonMask": true,
+    "tendonSurface": {
+      "method": "original-fbx-material-faces-planar-display-refinement",
+      "sourceMaterialName": "Tendon",
+      "sourceTendonTriangles": 1972,
+      "renderTendonTriangles": 2512,
+      "boundarySegmentCount": 128,
+      "maskAttribute": "_TENDON_MASK",
+      "edgeAttribute": "_TENDON_EDGE",
+      "distanceMetric": "euclidean-to-source-boundary-segments",
+      "distanceCapM": 0.02,
+      "recommendedDisplayFeatherM": 0.003,
+      "positiveTendonDistanceP90M": 0.019999999552965164,
+      "maxTendonSampleDistanceM": 0.019999999552965164,
+      "refinedSourceTriangles": 163,
+      "sourceFaceProvenanceFile": "render-face-source-provenance.npz"
+    },
+    "sourceTriangles": 3224
+  },
+  {
+    "id": "ZA_4625d8b58b3b37",
+    "conceptId": "",
+    "nameEn": "Left Flexor digiti minimi of foot",
+    "sourceNodeName": "Flexor digiti minimi of foot.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Muscles of foot.g/Flexor digiti minimi of foot.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Flexion fingers"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_4625d8b58b3b37"
+    ],
+    "bounds": [
+      [
+        0.10548485436858371,
+        0.008853814732122146,
+        -0.0056301797111824835
+      ],
+      [
+        0.13852280235169886,
+        0.027216357838198424,
+        0.06711108310239935
+      ]
+    ],
+    "vertices": 230,
+    "triangles": 464,
+    "dracoBytes": 4296,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular"
+  },
+  {
+    "id": "ZA_24bd7fcfa9a9e5",
+    "conceptId": "",
+    "nameEn": "Left Lumbrical muscles of foot",
+    "sourceNodeName": "Lumbrical muscles of foot.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Muscles of foot.g/Lumbrical muscles of foot.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Flexion fingers"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_24bd7fcfa9a9e5"
+    ],
+    "bounds": [
+      [
+        0.07279105057101379,
+        0.012944185078546437,
+        -0.005459951597956256
+      ],
+      [
+        0.08848262733040546,
+        0.03316979083136417,
+        0.08849874168629322
+      ]
+    ],
+    "vertices": 207,
+    "triangles": 418,
+    "dracoBytes": 3856,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular"
+  },
+  {
+    "id": "ZA_d633501877c0ed",
+    "conceptId": "",
+    "nameEn": "Left (Opponens digiti minimi muscle of foot)",
+    "sourceNodeName": "(Opponens digiti minimi muscle of foot).l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Muscles of foot.g/(Opponens digiti minimi muscle of foot).l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Adductor"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_d633501877c0ed"
+    ],
+    "bounds": [
+      [
+        0.10563659010131396,
+        0.015597345745572446,
+        -0.004513094070158044
+      ],
+      [
+        0.12821585340219865,
+        0.027166416585219278,
+        0.03877332848347523
+      ]
+    ],
+    "vertices": 120,
+    "triangles": 236,
+    "dracoBytes": 2318,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular"
+  },
+  {
+    "id": "ZA_765a6f7e99a15f",
+    "conceptId": "",
+    "nameEn": "Left Plantar interossei muscles",
+    "sourceNodeName": "Plantar interossei muscles.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Muscles of foot.g/Plantar interossei muscles.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Adductor"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_765a6f7e99a15f"
+    ],
+    "bounds": [
+      [
+        0.09355445647911267,
+        0.015565620969551884,
+        0.012427794632147177
+      ],
+      [
+        0.1365395210971796,
+        0.04186137158036939,
+        0.0842147084675921
+      ]
+    ],
+    "vertices": 627,
+    "triangles": 1242,
+    "dracoBytes": 11411,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular"
+  },
+  {
+    "id": "ZA_3a3b05c4cd4c56",
+    "conceptId": "",
+    "nameEn": "Left Quadratus plantae muscle",
+    "sourceNodeName": "Quadratus plantae muscle.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Muscles of foot.g/Quadratus plantae muscle.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Flexion fingers"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_3a3b05c4cd4c56"
+    ],
+    "bounds": [
+      [
+        0.0661654409998905,
+        0.017378396867668143,
+        -0.062006070787668455
+      ],
+      [
+        0.10176632169131272,
+        0.03438284159172506,
+        0.014798679989184587
+      ]
+    ],
+    "vertices": 590,
+    "triangles": 1176,
+    "dracoBytes": 10855,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular"
+  },
+  {
+    "id": "ZA_56cd004d7e4663",
+    "conceptId": "",
+    "nameEn": "Left Medial head of flexor hallucis brevis",
+    "sourceNodeName": "Medial head of flexor hallucis brevis.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Muscles of foot.g/Flexor hallucis brevis.g/Medial head of flexor hallucis brevis.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Flexion fingers"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_56cd004d7e4663"
+    ],
+    "bounds": [
+      [
+        0.05914290300930651,
+        0.010821462075583701,
+        0.003970935478689315
+      ],
+      [
+        0.07213602720778237,
+        0.050588506785292114,
+        0.08730107915078346
+      ]
+    ],
+    "vertices": 259,
+    "triangles": 514,
+    "dracoBytes": 4804,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular"
+  },
+  {
+    "id": "ZA_4b5ac88d474008",
+    "conceptId": "",
+    "nameEn": "Left Lateral head of flexor hallucis brevis",
+    "sourceNodeName": "Lateral head of flexor hallucis brevis.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Muscles of foot.g/Flexor hallucis brevis.g/Lateral head of flexor hallucis brevis.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Flexion fingers"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_4b5ac88d474008"
+    ],
+    "bounds": [
+      [
+        0.06001652868204536,
+        0.008879428701422309,
+        0.006027164067980952
+      ],
+      [
+        0.08089590070303324,
+        0.047381738158200515,
+        0.08730556557234963
+      ]
+    ],
+    "vertices": 481,
+    "triangles": 966,
+    "dracoBytes": 8827,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular"
+  },
+  {
+    "id": "ZA_0d4456176e7ee9",
+    "conceptId": "",
+    "nameEn": "Left Oblique head of adductor hallucis",
+    "sourceNodeName": "Oblique head of adductor hallucis.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Muscles of foot.g/Adductor hallucis.g/Oblique head of adductor hallucis.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Adductor"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_0d4456176e7ee9"
+    ],
+    "bounds": [
+      [
+        0.07656583227912102,
+        0.014184797387883174,
+        0.0011166865783848578
+      ],
+      [
+        0.1045857202843826,
+        0.044282923224920785,
+        0.06791503853035859
+      ]
+    ],
+    "vertices": 463,
+    "triangles": 904,
+    "dracoBytes": 8470,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular"
+  },
+  {
+    "id": "ZA_e00255edc1e5c6",
+    "conceptId": "",
+    "nameEn": "Left Transverse head of adductor hallucis",
+    "sourceNodeName": "Transverse head of adductor hallucis.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Muscles of foot.g/Adductor hallucis.g/Transverse head of adductor hallucis.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Adductor"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_e00255edc1e5c6"
+    ],
+    "bounds": [
+      [
+        0.07660214336957498,
+        0.014536216769093824,
+        0.05053564725147883
+      ],
+      [
+        0.12477169077081467,
+        0.02198359039070955,
+        0.07290936231866739
+      ]
+    ],
+    "vertices": 181,
+    "triangles": 366,
+    "dracoBytes": 3445,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular"
+  },
+  {
+    "id": "ZA_6a1e88294f849c",
+    "conceptId": "",
+    "nameEn": "Left Iliacus muscle",
+    "sourceNodeName": "Iliacus muscle.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Iliopsoas muscle.g/Iliacus muscle.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Flexion",
+      "Tendon"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_6a1e88294f849c"
+    ],
+    "bounds": [
+      [
+        0.06259160162838386,
+        0.7721768861884096,
+        -0.03742059239753968
+      ],
+      [
+        0.11873349844883496,
+        1.0037602214466406,
+        0.04880001484655084
+      ]
+    ],
+    "vertices": 2325,
+    "triangles": 4564,
+    "dracoBytes": 58754,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular",
+    "hasAuthoredTendonMask": true,
+    "tendonSurface": {
+      "method": "original-fbx-material-faces-planar-display-refinement",
+      "sourceMaterialName": "Tendon",
+      "sourceTendonTriangles": 505,
+      "renderTendonTriangles": 715,
+      "boundarySegmentCount": 41,
+      "maskAttribute": "_TENDON_MASK",
+      "edgeAttribute": "_TENDON_EDGE",
+      "distanceMetric": "euclidean-to-source-boundary-segments",
+      "distanceCapM": 0.02,
+      "recommendedDisplayFeatherM": 0.003,
+      "positiveTendonDistanceP90M": 0.019999999552965164,
+      "maxTendonSampleDistanceM": 0.019999999552965164,
+      "refinedSourceTriangles": 64,
+      "sourceFaceProvenanceFile": "render-face-source-provenance.npz"
+    },
+    "sourceTriangles": 4354
+  },
+  {
+    "id": "ZA_f9d21448fdcb43",
+    "conceptId": "",
+    "nameEn": "Left Psoas major",
+    "sourceNodeName": "Psoas major.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Iliopsoas muscle.g/Psoas major.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Tendon",
+      "Flexion"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_f9d21448fdcb43"
+    ],
+    "bounds": [
+      [
+        0.008164792482715027,
+        0.7755418507564849,
+        -0.04105040169200938
+      ],
+      [
+        0.10800027844037402,
+        1.1554843391163876,
+        0.037032840176399615
+      ]
+    ],
+    "vertices": 2831,
+    "triangles": 5592,
+    "dracoBytes": 71216,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular",
+    "hasAuthoredTendonMask": true,
+    "tendonSurface": {
+      "method": "original-fbx-material-faces-planar-display-refinement",
+      "sourceMaterialName": "Tendon",
+      "sourceTendonTriangles": 889,
+      "renderTendonTriangles": 1007,
+      "boundarySegmentCount": 29,
+      "maskAttribute": "_TENDON_MASK",
+      "edgeAttribute": "_TENDON_EDGE",
+      "distanceMetric": "euclidean-to-source-boundary-segments",
+      "distanceCapM": 0.02,
+      "recommendedDisplayFeatherM": 0.003,
+      "positiveTendonDistanceP90M": 0.019999999552965164,
+      "maxTendonSampleDistanceM": 0.019999999552965164,
+      "refinedSourceTriangles": 36,
+      "sourceFaceProvenanceFile": "render-face-source-provenance.npz"
+    },
+    "sourceTriangles": 5474
+  },
+  {
+    "id": "ZA_8b56aa8f1b8f32",
+    "conceptId": "",
+    "nameEn": "Left Gluteus medius muscle",
+    "sourceNodeName": "Gluteus medius muscle.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Superficial gluteal muscles.g/Gluteus medius muscle.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Abductor",
+      "Tendon"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_8b56aa8f1b8f32"
+    ],
+    "bounds": [
+      [
+        0.060727245885781087,
+        0.8291367364209615,
+        -0.06969967856722073
+      ],
+      [
+        0.14982983219532425,
+        0.9971647598346763,
+        0.021907090613337576
+      ]
+    ],
+    "vertices": 2867,
+    "triangles": 5526,
+    "dracoBytes": 72104,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular",
+    "hasAuthoredTendonMask": true,
+    "tendonSurface": {
+      "method": "original-fbx-material-faces-planar-display-refinement",
+      "sourceMaterialName": "Tendon",
+      "sourceTendonTriangles": 802,
+      "renderTendonTriangles": 1152,
+      "boundarySegmentCount": 102,
+      "maskAttribute": "_TENDON_MASK",
+      "edgeAttribute": "_TENDON_EDGE",
+      "distanceMetric": "euclidean-to-source-boundary-segments",
+      "distanceCapM": 0.02,
+      "recommendedDisplayFeatherM": 0.003,
+      "positiveTendonDistanceP90M": 0.019999999552965164,
+      "maxTendonSampleDistanceM": 0.019999999552965164,
+      "refinedSourceTriangles": 105,
+      "sourceFaceProvenanceFile": "render-face-source-provenance.npz"
+    },
+    "sourceTriangles": 5176
+  },
+  {
+    "id": "ZA_e3fd96a6efee72",
+    "conceptId": "",
+    "nameEn": "Left Gluteus maximus muscle",
+    "sourceNodeName": "Gluteus maximus muscle.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Superficial gluteal muscles.g/Gluteus maximus muscle.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Extension"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_e3fd96a6efee72"
+    ],
+    "bounds": [
+      [
+        0.0013563471546982075,
+        0.7097153790148074,
+        -0.11192699659696746
+      ],
+      [
+        0.14676192609580385,
+        0.9792015121501129,
+        -0.014898020016532404
+      ]
+    ],
+    "vertices": 1663,
+    "triangles": 3326,
+    "dracoBytes": 29626,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular"
+  },
+  {
+    "id": "ZA_7d920f3225ed25",
+    "conceptId": "",
+    "nameEn": "Left Gluteus minimus muscle",
+    "sourceNodeName": "Gluteus minimus muscle.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Superficial gluteal muscles.g/Gluteus minimus muscle.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Abductor"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_7d920f3225ed25"
+    ],
+    "bounds": [
+      [
+        0.06751778847429163,
+        0.8337499712823876,
+        -0.03952997027260608
+      ],
+      [
+        0.15034379940646078,
+        0.9682524199770399,
+        0.021243512756747216
+      ]
+    ],
+    "vertices": 3130,
+    "triangles": 6250,
+    "dracoBytes": 55409,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular"
+  },
+  {
+    "id": "ZA_4e4c360cf24ef9",
+    "conceptId": "",
+    "nameEn": "Left Tensor fasciae latae",
+    "sourceNodeName": "Tensor fasciae latae.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Superficial gluteal muscles.g/Tensor fasciae latae.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Abductor",
+      "Tendon"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_4e4c360cf24ef9"
+    ],
+    "bounds": [
+      [
+        0.11295441127478631,
+        0.803078632215657,
+        0.012813247374225654
+      ],
+      [
+        0.15210096694925845,
+        0.9645944923977207,
+        0.048017875030342994
+      ]
+    ],
+    "vertices": 1129,
+    "triangles": 2156,
+    "dracoBytes": 28405,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular",
+    "hasAuthoredTendonMask": true,
+    "tendonSurface": {
+      "method": "original-fbx-material-faces-planar-display-refinement",
+      "sourceMaterialName": "Tendon",
+      "sourceTendonTriangles": 275,
+      "renderTendonTriangles": 569,
+      "boundarySegmentCount": 49,
+      "maskAttribute": "_TENDON_MASK",
+      "edgeAttribute": "_TENDON_EDGE",
+      "distanceMetric": "euclidean-to-source-boundary-segments",
+      "distanceCapM": 0.02,
+      "recommendedDisplayFeatherM": 0.003,
+      "positiveTendonDistanceP90M": 0.007862202823162079,
+      "maxTendonSampleDistanceM": 0.01060242485255003,
+      "refinedSourceTriangles": 86,
+      "sourceFaceProvenanceFile": "render-face-source-provenance.npz"
+    },
+    "sourceTriangles": 1862
+  },
+  {
+    "id": "ZA_5776b80250cec8",
+    "conceptId": "",
+    "nameEn": "Left Iliotibial tract",
+    "sourceNodeName": "Iliotibial tract.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Superficial gluteal muscles.g/Tensor fasciae latae.l/Iliotibial tract.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Tendon"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_5776b80250cec8"
+    ],
+    "bounds": [
+      [
+        0.0897577384962058,
+        0.3924244564086813,
+        -0.05350405227611385
+      ],
+      [
+        0.16117198764911383,
+        0.9976755764501842,
+        0.02813047828350366
+      ]
+    ],
+    "vertices": 24298,
+    "triangles": 48612,
+    "dracoBytes": 599611,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular",
+    "hasAuthoredTendonMask": true,
+    "tendonSurface": {
+      "method": "original-fbx-material-faces-planar-display-refinement",
+      "sourceMaterialName": "Tendon",
+      "sourceTendonTriangles": 48612,
+      "renderTendonTriangles": 48612,
+      "boundarySegmentCount": 0,
+      "maskAttribute": "_TENDON_MASK",
+      "edgeAttribute": "_TENDON_EDGE",
+      "distanceMetric": "euclidean-to-source-boundary-segments",
+      "distanceCapM": 0.02,
+      "recommendedDisplayFeatherM": 0.003,
+      "positiveTendonDistanceP90M": 0.019999999552965164,
+      "maxTendonSampleDistanceM": 0.019999999552965164,
+      "refinedSourceTriangles": 0,
+      "sourceFaceProvenanceFile": "render-face-source-provenance.npz"
+    },
+    "sourceTriangles": 48612
+  },
+  {
+    "id": "ZA_302456633c42e3",
+    "conceptId": "",
+    "nameEn": "Left Piriformis muscle",
+    "sourceNodeName": "Piriformis muscle.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Deep gluteal muscles.g/Piriformis muscle.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Abductor"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_302456633c42e3"
+    ],
+    "bounds": [
+      [
+        0.02374320043797315,
+        0.8561850369047742,
+        -0.07405542994804348
+      ],
+      [
+        0.13371632445205212,
+        0.9192554151468498,
+        -0.014766759599371047
+      ]
+    ],
+    "vertices": 755,
+    "triangles": 1500,
+    "dracoBytes": 13781,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular"
+  },
+  {
+    "id": "ZA_3bb29478aec91c",
+    "conceptId": "",
+    "nameEn": "Left Quadratus femoris muscle",
+    "sourceNodeName": "Quadratus femoris muscle.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Deep gluteal muscles.g/Quadratus femoris muscle.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "External rotation"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_3bb29478aec91c"
+    ],
+    "bounds": [
+      [
+        0.053947005309686206,
+        0.7929767024534532,
+        -0.039854574683096174
+      ],
+      [
+        0.12240081719882713,
+        0.8386993744953315,
+        -0.02373601700727689
+      ]
+    ],
+    "vertices": 825,
+    "triangles": 1646,
+    "dracoBytes": 15079,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular"
+  },
+  {
+    "id": "ZA_1e6cf6b8d7cf51",
+    "conceptId": "",
+    "nameEn": "Left Inferior gemellus muscle",
+    "sourceNodeName": "Inferior gemellus muscle.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Deep gluteal muscles.g/Inferior gemellus muscle.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Tendon",
+      "Internal rotator"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_1e6cf6b8d7cf51"
+    ],
+    "bounds": [
+      [
+        0.054055615200632866,
+        0.8298403769335139,
+        -0.06342167193180152
+      ],
+      [
+        0.1268710794083189,
+        0.8530387956464308,
+        -0.009119420595408014
+      ]
+    ],
+    "vertices": 602,
+    "triangles": 1110,
+    "dracoBytes": 14899,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular",
+    "hasAuthoredTendonMask": true,
+    "tendonSurface": {
+      "method": "original-fbx-material-faces-planar-display-refinement",
+      "sourceMaterialName": "Tendon",
+      "sourceTendonTriangles": 435,
+      "renderTendonTriangles": 569,
+      "boundarySegmentCount": 45,
+      "maskAttribute": "_TENDON_MASK",
+      "edgeAttribute": "_TENDON_EDGE",
+      "distanceMetric": "euclidean-to-source-boundary-segments",
+      "distanceCapM": 0.02,
+      "recommendedDisplayFeatherM": 0.003,
+      "positiveTendonDistanceP90M": 0.008708581328392029,
+      "maxTendonSampleDistanceM": 0.013705085963010788,
+      "refinedSourceTriangles": 39,
+      "sourceFaceProvenanceFile": "render-face-source-provenance.npz"
+    },
+    "sourceTriangles": 976
+  },
+  {
+    "id": "ZA_b5ae28487c1322",
+    "conceptId": "",
+    "nameEn": "Left Obturator internus",
+    "sourceNodeName": "Obturator internus.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Deep gluteal muscles.g/Obturator internus.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Tendon",
+      "Internal rotator"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_b5ae28487c1322"
+    ],
+    "bounds": [
+      [
+        0.020931791037926327,
+        0.8184571624550607,
+        -0.05788419883122055
+      ],
+      [
+        0.11864497328789728,
+        0.8782434946125328,
+        0.02370963260696871
+      ]
+    ],
+    "vertices": 1965,
+    "triangles": 3846,
+    "dracoBytes": 50120,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular",
+    "hasAuthoredTendonMask": true,
+    "tendonSurface": {
+      "method": "original-fbx-material-faces-planar-display-refinement",
+      "sourceMaterialName": "Tendon",
+      "sourceTendonTriangles": 1026,
+      "renderTendonTriangles": 1112,
+      "boundarySegmentCount": 40,
+      "maskAttribute": "_TENDON_MASK",
+      "edgeAttribute": "_TENDON_EDGE",
+      "distanceMetric": "euclidean-to-source-boundary-segments",
+      "distanceCapM": 0.02,
+      "recommendedDisplayFeatherM": 0.003,
+      "positiveTendonDistanceP90M": 0.019999999552965164,
+      "maxTendonSampleDistanceM": 0.019999999552965164,
+      "refinedSourceTriangles": 27,
+      "sourceFaceProvenanceFile": "render-face-source-provenance.npz"
+    },
+    "sourceTriangles": 3760
+  },
+  {
+    "id": "ZA_e448b3053d1945",
+    "conceptId": "",
+    "nameEn": "Left Superior gemellus muscle",
+    "sourceNodeName": "Superior gemellus muscle.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Deep gluteal muscles.g/Superior gemellus muscle.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Tendon",
+      "Internal rotator"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_e448b3053d1945"
+    ],
+    "bounds": [
+      [
+        0.04288747484426434,
+        0.8482557533331946,
+        -0.05403638901666413
+      ],
+      [
+        0.12639925720902462,
+        0.8754301941558054,
+        -0.008313044018378655
+      ]
+    ],
+    "vertices": 276,
+    "triangles": 496,
+    "dracoBytes": 6862,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular",
+    "hasAuthoredTendonMask": true,
+    "tendonSurface": {
+      "method": "original-fbx-material-faces-planar-display-refinement",
+      "sourceMaterialName": "Tendon",
+      "sourceTendonTriangles": 142,
+      "renderTendonTriangles": 234,
+      "boundarySegmentCount": 26,
+      "maskAttribute": "_TENDON_MASK",
+      "edgeAttribute": "_TENDON_EDGE",
+      "distanceMetric": "euclidean-to-source-boundary-segments",
+      "distanceCapM": 0.02,
+      "recommendedDisplayFeatherM": 0.002432,
+      "positiveTendonDistanceP90M": 0.004864733200520277,
+      "maxTendonSampleDistanceM": 0.006886138580739498,
+      "refinedSourceTriangles": 27,
+      "sourceFaceProvenanceFile": "render-face-source-provenance.npz"
+    },
+    "sourceTriangles": 404
+  }
+]

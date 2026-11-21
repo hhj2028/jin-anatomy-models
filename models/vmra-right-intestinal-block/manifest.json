@@ -1,0 +1,80 @@
+{
+  "sourceUrl": "https://github.com/LluisV/Z-Anatomy/tree/PC-Version/Resources/Models/FBX",
+  "license": "CC BY-SA 4.0; supplied BodyParts3D upstream attribution retained",
+  "licenseSourceUrl": "https://github.com/Z-Anatomy/Models-of-human-anatomy",
+  "attribution": "Z-Anatomy - The libre 3D atlas of anatomy; BodyParts3D - The Database Center for Life Science; additional model-specific credits in ATTRIBUTION.txt and meshes.json",
+  "dataset": "VMRA source-derived right intestinal block",
+  "datasetId": "vmra-right-intestinal-block",
+  "anatomicalRepresentation": "source-derived-surface",
+  "geometryMeshCount": 23,
+  "structureCount": 23,
+  "triangleCount": 170636,
+  "totalGlbBytes": 4153608,
+  "geometryFile": "meshes.json",
+  "structuresFile": "structures.json",
+  "coordinates": {
+    "units": "metres",
+    "up": "+Y",
+    "front": "+Z",
+    "left": "+X",
+    "bounds": [
+      [
+        -0.10347872972488403,
+        0.8795409202575684,
+        -0.011008894070982933
+      ],
+      [
+        0.10926621407270432,
+        1.1628340482711792,
+        0.08806435763835907
+      ]
+    ],
+    "sourceToApp": "Original shared frame with recorded local source-derived field"
+  },
+  "chunks": [
+    {
+      "file": "right-intestinal-block.glb",
+      "system": "visceral",
+      "bytes": 4153608,
+      "meshCount": 23,
+      "meshIds": [
+        "VMRA_RLQ_ZA_00d42af6524b4e",
+        "VMRA_ASCENDING_COLON_01",
+        "VMRA_RLQ_ZA_05a452c7b17a0a",
+        "VMRA_RLQ_ZA_0ce2b6e767db7b",
+        "VMRA_RLQ_ZA_1ecdcf3f0d7c84",
+        "VMRA_RLQ_ZA_2e38bc8b4196f9",
+        "VMRA_RLQ_ZA_36ca5c9701a784",
+        "VMRA_RLQ_ZA_48016fbbd40880",
+        "VMRA_RLQ_ZA_4a205da0da49e4",
+        "VMRA_RLQ_ZA_4aa0606a2626d4",
+        "VMRA_APPENDIX_01",
+        "VMRA_RLQ_ZA_76bbd35c754f86",
+        "VMRA_RLQ_ZA_87fe83238319a6",
+        "VMRA_RLQ_ZA_8814235835dbe9",
+        "VMRA_RLQ_ZA_9a40d49059188b",
+        "VMRA_RLQ_ZA_b1139d2bc8922b",
+        "VMRA_JEJUNUM_01",
+        "VMRA_RLQ_ZA_c82d9152540e4e",
+        "VMRA_RLQ_ZA_c8834cf6d085b1",
+        "VMRA_RLQ_ZA_e0b7c6631b26ca",
+        "VMRA_RLQ_ZA_f23a29a2a3a1ec",
+        "VMRA_RLQ_ZA_f95c73abe3b64a",
+        "VMRA_RLQ_ZA_feb117702045eb"
+      ],
+      "sha256": "f7771252eb5b81c6d4e4b10b33d2d1b569347a34503c50c447dc993cc9d3ec48"
+    }
+  ],
+  "provenanceFile": "source-provenance.json",
+  "modifications": "One shared smooth local field applied to complete source intestinal and attached vascular/node/peritoneal surfaces; original topology, source UVs and material records retained. Separate derived IDs; original files unchanged.",
+  "limitations": [
+    "Educational source-derived body-model accommodation; not measured individual anatomy or clinical registration.",
+    "Native anterior-wall residual: ascending colon max sampled depth 0.986 mm over 1.118 cm2; greater omentum max sampled depth 1.937 mm over 1.542 cm2. These are retained model interpenetrations, not physiological contacts.",
+    "Existing source jejunal and vascular self-contact defects remain. Newly counted face-pair identities are confined to existing contact patches; no isolated new fold was identified.",
+    "Local shape and caliber change under the field: appendix volume ratio approximately 0.495 and appendicular artery approximately 0.511. Original dimensional or clinical caliber accuracy is not claimed.",
+    "Ascending colon is a double-wall source surface; appendix and jejunal ray chords do not establish anatomical wall thickness.",
+    "No new terminal branches, complete ileal/caecal compartment, or exact segment boundary is inferred from source names. Original superior anorectal artery remains fixed outside this field."
+  ],
+  "reviewStatus": "accepted-for-bounded-educational-composition",
+  "acceptedForBoundedEducationalComposition": true
+}

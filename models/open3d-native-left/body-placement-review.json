@@ -1,0 +1,2792 @@
+{
+  "acceptedForBodyPlacement": true,
+  "acceptedForBoundedEducationalComposition": true,
+  "sourceDatasetId": "open3d-native-left",
+  "assetPin": {
+    "path": "anatomy-research/unified-body-v45/full-body-anatomy-review/accepted-bone-package/native-left-bones.glb",
+    "bytes": 1254144,
+    "sha256": "36916a5c9319373cb878d5d58e66baf8d1b89614baa7999cd302a38de74a5600"
+  },
+  "retainedAll16CandidatePin": {
+    "path": "anatomy-research/unified-body-v45/full-body-anatomy-review/bone-package/native-left-bones.glb",
+    "bytes": 1955408,
+    "sha256": "a7bdcb1f8ff1389a736171f137b862b464827aa06311b156b12e67bba0dd7171"
+  },
+  "bodySnapshotPin": {
+    "path": "anatomy-research/unified-body-v45/full-body-anatomy-review/current-composed-body.json",
+    "bytes": 1880254,
+    "sha256": "d775c6379db0042e5c474602f04e0f0c0a600eb8599769b33193cc222e8bb7fb"
+  },
+  "regionTablePin": {
+    "path": "vmra-anatomy/dist/body-bone-regions.js",
+    "bytes": 5720,
+    "sha256": "c27a833be3b6dcee87eef737ce0a7878ccbc02dde3e31aa0523514cc68cc54e5"
+  },
+  "inputReviewPins": [
+    {
+      "path": "anatomy-research/unified-body-v45/full-body-anatomy-review/bilateral-bone-review.json",
+      "bytes": 78594,
+      "sha256": "0ec552a74081f02fe07638b6e4113086d5934ab7eca1f03d9c054a845e802165"
+    },
+    {
+      "path": "anatomy-research/unified-body-v45/full-body-anatomy-review/bone-context-audit.json",
+      "bytes": 762278,
+      "sha256": "df6d7a1da1b55540b9cdb8d822b345026bddf29e5e838cda1008e7f09a86225a"
+    },
+    {
+      "path": "anatomy-research/unified-body-v45/full-body-anatomy-review/non-crossing-containment.json",
+      "bytes": 102648,
+      "sha256": "2ab28f2eb9dc71366871c63f6378e5d082c236866d1af6335aa0a43d0b0734ce"
+    },
+    {
+      "path": "anatomy-research/unified-body-v45/full-body-anatomy-review/source-interface-classification-evidence.json",
+      "bytes": 167405,
+      "sha256": "a9f63dd794d402279a57af9345db831ac5f8abfa10a1f409d02eea471ddeb83a"
+    }
+  ],
+  "acceptedPhysicalIds": [
+    "VMRA_NATIVE_LEFT_O3D_025acb3eb4f4c3",
+    "VMRA_NATIVE_LEFT_O3D_11991810878b71",
+    "VMRA_NATIVE_LEFT_O3D_12566afc8ac71c",
+    "VMRA_NATIVE_LEFT_O3D_2dd47663fd9252",
+    "VMRA_NATIVE_LEFT_O3D_529cd1e2ec44af",
+    "VMRA_NATIVE_LEFT_O3D_5f2e3583be1966",
+    "VMRA_NATIVE_LEFT_O3D_8bddca95bf4356",
+    "VMRA_NATIVE_LEFT_O3D_ce73e88b02db18",
+    "VMRA_NATIVE_LEFT_O3D_d0e1cb2dc7975a",
+    "VMRA_NATIVE_LEFT_O3D_de2781bd871d9d",
+    "VMRA_NATIVE_LEFT_O3D_f3428a581f4473"
+  ],
+  "heldPhysicalIds": [
+    "VMRA_NATIVE_LEFT_O3D_bdeed62ca62ce3",
+    "VMRA_NATIVE_LEFT_O3D_40fd32157ec646",
+    "VMRA_NATIVE_LEFT_O3D_5a07a20979d0db",
+    "VMRA_NATIVE_LEFT_O3D_9a2751274683b9",
+    "VMRA_NATIVE_LEFT_O3D_ae8a20d45461be"
+  ],
+  "scope": {
+    "leftRibsPresent": [
+      2,
+      3,
+      4,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "leftRibsHeld": [
+      1,
+      5,
+      6
+    ],
+    "otherLeftBonesPresent": [
+      "humerus",
+      "scapula"
+    ],
+    "canonicalRibsStatus": "partial",
+    "genericRibStatus": "partial",
+    "individualNewBoneScope": "one complete original surface"
+  },
+  "validationSummary": {
+    "sourceBones": 16,
+    "acceptedBones": 11,
+    "heldBones": 5,
+    "acceptedSourceTriangles": 47812,
+    "acceptedSourceVertices": 26376,
+    "allCandidateVsBodyPotentialPairs": 470,
+    "allCandidateVsBodyCrossingPairs": 77,
+    "fullRetainedBodyPhysicalCount": 1079,
+    "acceptedVsBodyPotentialPairs": 316,
+    "acceptedVsBodyStrictBoundsExclusions": 11553,
+    "acceptedVsBodyCrossingPairs": 54,
+    "acceptedVsBodyTriangleCrossings": 4335,
+    "acceptedMutualPairsTested": 27,
+    "acceptedMutualTriangleCrossings": 0,
+    "zeroCrossingContainmentPairsChecked": 262,
+    "unexpectedWholeComponentContainments": 0,
+    "originalDecodedAttributesIndicesAndResolvedMaterialsVerified": true,
+    "identityTransforms": true,
+    "mirroredOrMovedVertices": 0,
+    "originalCurrentRightPhysicalReplacements": 0
+  },
+  "perBoneVerdicts": [
+    {
+      "id": "VMRA_NATIVE_LEFT_O3D_bdeed62ca62ce3",
+      "sourceOriginalMeshId": "O3D_bdeed62ca62ce3",
+      "rightReferenceMeshId": "O3D_7c7436abc4f31a",
+      "nameEn": "Left clavicle",
+      "accepted": false,
+      "reviewedPotentialPairs": 25,
+      "crossingTargetPairs": 1,
+      "strictTrianglePairCount": 87,
+      "wholeSourceComponentProof": {
+        "component": 0,
+        "sourceFaceCount": 4942,
+        "sourceVertexCount": 2670,
+        "sourceFaceIndexSha256": "b540f9d06c42c56fac19d777e902e3de93e77693f193ac295a589cfa4342b281",
+        "sourceVertexIndexSha256": "c0c34f949334577919f51e74372196a9e35195b1809e1becdb9048fd910bbf0a",
+        "positiveXMinimumM": 0.010205760598182678,
+        "proposedPhysicalId": "VMRA_NATIVE_LEFT_O3D_bdeed62ca62ce3",
+        "nameEn": "Left clavicle"
+      },
+      "contextPairs": [
+        {
+          "candidateId": "VMRA_NATIVE_LEFT_O3D_bdeed62ca62ce3",
+          "targetId": "O3D_b525419755cb57",
+          "targetName": "Right Subclavian vein",
+          "targetSystem": "venous",
+          "intersectingTrianglePairs": 87,
+          "sourceTrianglesIntersecting": 57,
+          "targetTrianglesIntersecting": 31,
+          "targetWatertight": false,
+          "boneWatertight": true,
+          "targetSamplesInsideBone": 31,
+          "targetSampleBoneDepthMm": {
+            "count": 31,
+            "min": 0.006341941098604959,
+            "median": 0.7665076001189721,
+            "p95": 2.071902977306445,
+            "max": 2.6238629763286654
+          },
+          "maximumDepthPointM": [
+            0.013085134327411652,
+            1.3972113529841106,
+            0.027596555029352505
+          ]
+        }
+      ],
+      "reason": "Held: actual left-course source subclavian vein O3D_b525419755cb57 enters clavicle; 87 strict triangle pairs, sampled depth 2.623863 mm. The Right source display label is a bilateral aggregate and does not dismiss this collision."
+    },
+    {
+      "id": "VMRA_NATIVE_LEFT_O3D_40fd32157ec646",
+      "sourceOriginalMeshId": "O3D_40fd32157ec646",
+      "rightReferenceMeshId": "O3D_0432208a152acf",
+      "nameEn": "Left hip bone",
+      "accepted": false,
+      "reviewedPotentialPairs": 51,
+      "crossingTargetPairs": 7,
+      "strictTrianglePairCount": 1836,
+      "wholeSourceComponentProof": {
+        "component": 0,
+        "sourceFaceCount": 11062,
+        "sourceVertexCount": 6247,
+        "sourceFaceIndexSha256": "7f8f3f3b1cad7a6f3a5c697f814ce0c852a1285ac8bb5d539e32c0542bcd0baa",
+        "sourceVertexIndexSha256": "d374daa3117732ed51c1e19dec7e2169bcdec02ff13e9887fced30ea1805570b",
+        "positiveXMinimumM": 0.0029217153787612915,
+        "proposedPhysicalId": "VMRA_NATIVE_LEFT_O3D_40fd32157ec646",
+        "nameEn": "Left hip bone"
+      },
+      "contextPairs": [
+        {
+          "candidateId": "VMRA_NATIVE_LEFT_O3D_40fd32157ec646",
+          "targetId": "O3D_5a0ec649eef65d",
+          "targetName": "Interpubic disc",
+          "targetSystem": "connective",
+          "intersectingTrianglePairs": 269,
+          "sourceTrianglesIntersecting": 70,
+          "targetTrianglesIntersecting": 196,
+          "targetWatertight": true,
+          "boneWatertight": true,
+          "targetSamplesInsideBone": 2208,
+          "targetSampleBoneDepthMm": {
+            "count": 2208,
+            "min": 0.0005145166133419486,
+            "median": 0.6774018959377239,
+            "p95": 1.8879391040461253,
+            "max": 2.593634621446202
+          },
+          "maximumDepthPointM": [
+            0.008043196983635426,
+            0.8283536434173584,
+            0.02264135517179966
+          ],
+          "boneSamplesInsideClosedTarget": 175,
+          "boneSampleTargetDepthMm": {
+            "count": 175,
+            "min": 0.020867948956685277,
+            "median": 0.6521382946506089,
+            "p95": 1.5327779332734244,
+            "max": 2.439672513055971
+          }
+        },
+        {
+          "candidateId": "VMRA_NATIVE_LEFT_O3D_40fd32157ec646",
+          "targetId": "O3D_360041b6610976",
+          "targetName": "Right Iliocostalis lumborum muscle",
+          "targetSystem": "muscular",
+          "intersectingTrianglePairs": 68,
+          "sourceTrianglesIntersecting": 36,
+          "targetTrianglesIntersecting": 30,
+          "targetWatertight": false,
+          "boneWatertight": true,
+          "targetSamplesInsideBone": 43,
+          "targetSampleBoneDepthMm": {
+            "count": 43,
+            "min": 0.013465413856983011,
+            "median": 0.6507510969700596,
+            "p95": 1.5320972527230583,
+            "max": 1.5746196328414017
+          },
+          "maximumDepthPointM": [
+            0.05719352513551712,
+            0.9873186349868774,
+            -0.05992969870567322
+          ]
+        },
+        {
+          "candidateId": "VMRA_NATIVE_LEFT_O3D_40fd32157ec646",
+          "targetId": "O3D_d42e756ad3a441",
+          "targetName": "Right Art cart of hip bone pubis",
+          "targetSystem": "connective",
+          "intersectingTrianglePairs": 785,
+          "sourceTrianglesIntersecting": 98,
+          "targetTrianglesIntersecting": 599,
+          "targetWatertight": true,
+          "boneWatertight": true,
+          "targetSamplesInsideBone": 1449,
+          "targetSampleBoneDepthMm": {
+            "count": 1449,
+            "min": 0.00014773587366776397,
+            "median": 0.04374166131228908,
+            "p95": 0.11468311598506858,
+            "max": 0.1899479891075466
+          },
+          "maximumDepthPointM": [
+            0.003894006833434105,
+            0.837796688079834,
+            0.03281605988740921
+          ],
+          "boneSamplesInsideClosedTarget": 48,
+          "boneSampleTargetDepthMm": {
+            "count": 48,
+            "min": 0.019581737158000146,
+            "median": 0.09123977310031824,
+            "p95": 0.21350339022142087,
+            "max": 0.22200724507995667
+          }
+        },
+        {
+          "candidateId": "VMRA_NATIVE_LEFT_O3D_40fd32157ec646",
+          "targetId": "O3D_fd40ea2f09fd60",
+          "targetName": "Art cart of sacroiliac joint on sacrum",
+          "targetSystem": "connective",
+          "intersectingTrianglePairs": 4,
+          "sourceTrianglesIntersecting": 2,
+          "targetTrianglesIntersecting": 2,
+          "targetWatertight": true,
+          "boneWatertight": true,
+          "targetSamplesInsideBone": 0,
+          "targetSampleBoneDepthMm": {
+            "count": 0
+          },
+          "maximumDepthPointM": null,
+          "boneSamplesInsideClosedTarget": 0,
+          "boneSampleTargetDepthMm": {
+            "count": 0
+          }
+        },
+        {
+          "candidateId": "VMRA_NATIVE_LEFT_O3D_40fd32157ec646",
+          "targetId": "O3D_749d102a9d737e",
+          "targetName": "Sup, Inf, Ant, Post, Pubic ligaments",
+          "targetSystem": "connective",
+          "intersectingTrianglePairs": 223,
+          "sourceTrianglesIntersecting": 97,
+          "targetTrianglesIntersecting": 106,
+          "targetWatertight": true,
+          "boneWatertight": true,
+          "targetSamplesInsideBone": 157,
+          "targetSampleBoneDepthMm": {
+            "count": 157,
+            "min": 0.004525794225006499,
+            "median": 0.8371769397580219,
+            "p95": 2.007128641474575,
+            "max": 2.3170792427840157
+          },
+          "maximumDepthPointM": [
+            0.009441307745873928,
+            0.8245974183082581,
+            0.020427044481039047
+          ],
+          "boneSamplesInsideClosedTarget": 47,
+          "boneSampleTargetDepthMm": {
+            "count": 47,
+            "min": 0.06774817250266285,
+            "median": 0.38685672506358637,
+            "p95": 1.3501888916706253,
+            "max": 1.9646210423133612
+          }
+        },
+        {
+          "candidateId": "VMRA_NATIVE_LEFT_O3D_40fd32157ec646",
+          "targetId": "O3D_1019069c74393b",
+          "targetName": "Corpus cavernosum of penis",
+          "targetSystem": "reproductive",
+          "intersectingTrianglePairs": 195,
+          "sourceTrianglesIntersecting": 73,
+          "targetTrianglesIntersecting": 121,
+          "targetWatertight": true,
+          "boneWatertight": true,
+          "targetSamplesInsideBone": 340,
+          "targetSampleBoneDepthMm": {
+            "count": 340,
+            "min": 0.002336565553221574,
+            "median": 0.5742934413068373,
+            "p95": 1.2470053917122994,
+            "max": 1.511058867361369
+          },
+          "maximumDepthPointM": [
+            0.02265041321516037,
+            0.8083090782165527,
+            -0.002588219940662384
+          ],
+          "boneSamplesInsideClosedTarget": 129,
+          "boneSampleTargetDepthMm": {
+            "count": 129,
+            "min": 0.0018003250366505998,
+            "median": 0.6791045314324742,
+            "p95": 1.3466087862424656,
+            "max": 1.4742525083831042
+          }
+        },
+        {
+          "candidateId": "VMRA_NATIVE_LEFT_O3D_40fd32157ec646",
+          "targetId": "VMRA_DESCENDING_SIGMOID_COLON_01",
+          "targetName": "Descending and sigmoid colon",
+          "targetSystem": "visceral",
+          "intersectingTrianglePairs": 292,
+          "sourceTrianglesIntersecting": 93,
+          "targetTrianglesIntersecting": 168,
+          "targetWatertight": true,
+          "boneWatertight": true,
+          "targetSamplesInsideBone": 422,
+          "targetSampleBoneDepthMm": {
+            "count": 422,
+            "min": 0.0013949293472442419,
+            "median": 1.359845220050351,
+            "p95": 3.1679365241343502,
+            "max": 3.661420816009863
+          },
+          "maximumDepthPointM": [
+            0.06747619807720184,
+            0.9097726345062256,
+            -0.008712388575077057
+          ],
+          "boneSamplesInsideClosedTarget": 50,
+          "boneSampleTargetDepthMm": {
+            "count": 50,
+            "min": 0.0009132500437446576,
+            "median": 0.2830919865711824,
+            "p95": 0.5796465936226568,
+            "max": 0.6331127221540548
+          }
+        }
+      ],
+      "reason": "Held: current descending/sigmoid bowel VMRA_DESCENDING_SIGMOID_COLON_01 enters hip bone; 292 strict pairs, sampled depth 3.661421 mm. Left iliopsoas and associated bowel/vessels/nerves require a coherent later review."
+    },
+    {
+      "id": "VMRA_NATIVE_LEFT_O3D_529cd1e2ec44af",
+      "sourceOriginalMeshId": "O3D_529cd1e2ec44af",
+      "rightReferenceMeshId": "O3D_51d578370516da",
+      "nameEn": "Left humerus",
+      "accepted": true,
+      "reviewedPotentialPairs": 0,
+      "crossingTargetPairs": 0,
+      "strictTrianglePairCount": 0,
+      "wholeSourceComponentProof": {
+        "component": 0,
+        "sourceFaceCount": 8448,
+        "sourceVertexCount": 4561,
+        "sourceFaceIndexSha256": "c709d16d02a2a5a05ae960259e93cee5e6b123603c40cb96a9fa63e958cad073",
+        "sourceVertexIndexSha256": "90b5d8458cdf53a9058896f0a8965a0c0de43a25599bc1f9b1b6bb36b4ecbe00",
+        "positiveXMinimumM": 0.14526425302028656,
+        "proposedPhysicalId": "VMRA_NATIVE_LEFT_O3D_529cd1e2ec44af",
+        "nameEn": "Left humerus"
+      },
+      "contextPairs": [],
+      "reason": "Accepted: complete original left source bone; no strict crossings or whole-component containment against the frozen current body; no candidate bone mutual crossings."
+    },
+    {
+      "id": "VMRA_NATIVE_LEFT_O3D_025acb3eb4f4c3",
+      "sourceOriginalMeshId": "O3D_025acb3eb4f4c3",
+      "rightReferenceMeshId": "O3D_729df736695dda",
+      "nameEn": "Left tenth rib",
+      "accepted": true,
+      "reviewedPotentialPairs": 51,
+      "crossingTargetPairs": 6,
+      "strictTrianglePairCount": 490,
+      "wholeSourceComponentProof": {
+        "component": 0,
+        "sourceFaceCount": 3796,
+        "sourceVertexCount": 2125,
+        "sourceFaceIndexSha256": "03d9427094285be8a570e52ec1a37d79055acd056cb2e38c8fa746974f1d436a",
+        "sourceVertexIndexSha256": "871ac722256b643eec797b364e7df89c779af1234473292b9e9be1ceff75e53d",
+        "positiveXMinimumM": 0.016720548272132874,
+        "proposedPhysicalId": "VMRA_NATIVE_LEFT_O3D_025acb3eb4f4c3",
+        "nameEn": "Left rib (10th)"
+      },
+      "contextPairs": [
+        {
+          "candidateId": "VMRA_NATIVE_LEFT_O3D_025acb3eb4f4c3",
+          "targetId": "O3D_c564c66f201924",
+          "targetName": "Anulus fibrosus",
+          "targetSystem": "connective",
+          "intersectingTrianglePairs": 40,
+          "sourceTrianglesIntersecting": 17,
+          "targetTrianglesIntersecting": 21,
+          "targetWatertight": true,
+          "boneWatertight": true,
+          "targetSamplesInsideBone": 8,
+          "targetSampleBoneDepthMm": {
+            "count": 8,
+            "min": 0.06438068640555862,
+            "median": 0.20913288405360025,
+            "p95": 0.33219670959451686,
+            "max": 0.35424720330333304
+          },
+          "maximumDepthPointM": [
+            0.017270850017666817,
+            1.222463607788086,
+            -0.04286341369152069
+          ],
+          "boneSamplesInsideClosedTarget": 12,
+          "boneSampleTargetDepthMm": {
+            "count": 12,
+            "min": 0.052261696901465766,
+            "median": 0.1846869631663882,
+            "p95": 0.3655224084395123,
+            "max": 0.38557598758226597
+          }
+        },
+        {
+          "candidateId": "VMRA_NATIVE_LEFT_O3D_025acb3eb4f4c3",
+          "targetId": "O3D_68066de05dbc5b",
+          "targetName": "Costal cartilage",
+          "targetSystem": "connective",
+          "intersectingTrianglePairs": 172,
+          "sourceTrianglesIntersecting": 60,
+          "targetTrianglesIntersecting": 105,
+          "targetWatertight": true,
+          "boneWatertight": true,
+          "targetSamplesInsideBone": 114,
+          "targetSampleBoneDepthMm": {
+            "count": 114,
+            "min": 0.005212622592514797,
+            "median": 0.139132766819745,
+            "p95": 0.4464007418693427,
+            "max": 0.5303311260376684
+          },
+          "maximumDepthPointM": [
+            0.12000109255313873,
+            1.0762921571731567,
+            0.016836300492286682
+          ],
+          "boneSamplesInsideClosedTarget": 47,
+          "boneSampleTargetDepthMm": {
+            "count": 47,
+            "min": 0.01879925343139145,
+            "median": 0.15109386636547453,
+            "p95": 0.5062423759121737,
+            "max": 0.5370507390899311
+          }
+        },
+        {
+          "candidateId": "VMRA_NATIVE_LEFT_O3D_025acb3eb4f4c3",
+          "targetId": "O3D_9c52f9f1fb8ba0",
+          "targetName": "Right Levatores costarum breves",
+          "targetSystem": "muscular",
+          "intersectingTrianglePairs": 83,
+          "sourceTrianglesIntersecting": 22,
+          "targetTrianglesIntersecting": 57,
+          "targetWatertight": true,
+          "boneWatertight": true,
+          "targetSamplesInsideBone": 92,
+          "targetSampleBoneDepthMm": {
+            "count": 92,
+            "min": 0.004302702327072829,
+            "median": 0.25670368064206317,
+            "p95": 0.6238081820145418,
+            "max": 0.6794371441717826
+          },
+          "maximumDepthPointM": [
+            0.060793258249759674,
+            1.1886554956436157,
+            -0.08334622532129288
+          ],
+          "boneSamplesInsideClosedTarget": 19,
+          "boneSampleTargetDepthMm": {
+            "count": 19,
+            "min": 0.062098254370755675,
+            "median": 0.26438553638328943,
+            "p95": 0.603729251109304,
+            "max": 0.6892618578032035
+          }
+        },
+        {
+          "candidateId": "VMRA_NATIVE_LEFT_O3D_025acb3eb4f4c3",
+          "targetId": "O3D_c7b9f5dc40f4cb",
+          "targetName": "Right Levatores costarum longi",
+          "targetSystem": "muscular",
+          "intersectingTrianglePairs": 51,
+          "sourceTrianglesIntersecting": 18,
+          "targetTrianglesIntersecting": 32,
+          "targetWatertight": false,
+          "boneWatertight": true,
+          "targetSamplesInsideBone": 46,
+          "targetSampleBoneDepthMm": {
+            "count": 46,
+            "min": 0.0025660239469384484,
+            "median": 0.15883840542638705,
+            "p95": 0.47509578776136613,
+            "max": 0.5099442983121187
+          },
+          "maximumDepthPointM": [
+            0.06219491362571716,
+            1.1877601146697998,
+            -0.08391153067350388
+          ]
+        },
+        {
+          "candidateId": "VMRA_NATIVE_LEFT_O3D_025acb3eb4f4c3",
+          "targetId": "O3D_360041b6610976",
+          "targetName": "Right Iliocostalis lumborum muscle",
+          "targetSystem": "muscular",
+          "intersectingTrianglePairs": 87,
+          "sourceTrianglesIntersecting": 66,
+          "targetTrianglesIntersecting": 18,
+          "targetWatertight": false,
+          "boneWatertight": true,
+          "targetSamplesInsideBone": 10,
+          "targetSampleBoneDepthMm": {
+            "count": 10,
+            "min": 0.08936754106037435,
+            "median": 0.23268711396015834,
+            "p95": 0.9679091834557226,
+            "max": 1.1315501149073521
+          },
+          "maximumDepthPointM": [
+            0.07562067359685898,
+            1.1727745930353801,
+            -0.08030600845813751
+          ]
+        },
+        {
+          "candidateId": "VMRA_NATIVE_LEFT_O3D_025acb3eb4f4c3",
+          "targetId": "ZA_3b5abb7437a2b8",
+          "targetName": "Diaphragm",
+          "targetSystem": "muscular",
+          "intersectingTrianglePairs": 57,
+          "sourceTrianglesIntersecting": 36,
+          "targetTrianglesIntersecting": 19,
+          "targetWatertight": true,
+          "boneWatertight": true,
+          "targetSamplesInsideBone": 16,
+          "targetSampleBoneDepthMm": {
+            "count": 16,
+            "min": 0.10584857433957398,
+            "median": 0.5818460353342744,
+            "p95": 1.3375718619361359,
+            "max": 1.4267511073389874
+          },
+          "maximumDepthPointM": [
+            0.12118241687615712,
+            1.0804221232732136,
+            0.015534276763598124
+          ],
+          "boneSamplesInsideClosedTarget": 53,
+          "boneSampleTargetDepthMm": {
+            "count": 53,
+            "min": 0.03850857843535955,
+            "median": 0.8312763522222562,
+            "p95": 1.738172752913473,
+            "max": 1.9711672416997412
+          }
+        }
+      ],
+      "reason": "Accepted with disclosed source-model attachment/joint residuals: contacts are limited to posterior rib muscles, costal cartilage/disc interfaces and, for lower ribs, the original Z diaphragm costal/posterior attachment. No blood vessel, nerve, hollow organ or other bone crossing is present. Not an exact enthesis model."
+    },
+    {
+      "id": "VMRA_NATIVE_LEFT_O3D_ce73e88b02db18",
+      "sourceOriginalMeshId": "O3D_ce73e88b02db18",
+      "rightReferenceMeshId": "O3D_30e605fc81a7a4",
+      "nameEn": "Left eleventh rib",
+      "accepted": true,
+      "reviewedPotentialPairs": 33,
+      "crossingTargetPairs": 7,
+      "strictTrianglePairCount": 601,
+      "wholeSourceComponentProof": {
+        "component": 0,
+        "sourceFaceCount": 2288,
+        "sourceVertexCount": 1280,
+        "sourceFaceIndexSha256": "5fda9adac94c0d05444492e635616776d2bcdda483f815cd15e08f5052e59d18",
+        "sourceVertexIndexSha256": "24ce3a71f18b05e7471f8c052363c243f6b03748b58b9588adcd14c4e1bd4f08",
+        "positiveXMinimumM": 0.020084962248802185,
+        "proposedPhysicalId": "VMRA_NATIVE_LEFT_O3D_ce73e88b02db18",
+        "nameEn": "Left rib (11th)"
+      },
+      "contextPairs": [
+        {
+          "candidateId": "VMRA_NATIVE_LEFT_O3D_ce73e88b02db18",
+          "targetId": "O3D_68066de05dbc5b",
+          "targetName": "Costal cartilage",
+          "targetSystem": "connective",
+          "intersectingTrianglePairs": 116,
+          "sourceTrianglesIntersecting": 30,
+          "targetTrianglesIntersecting": 82,
+          "targetWatertight": true,
+          "boneWatertight": true,
+          "targetSamplesInsideBone": 251,
+          "targetSampleBoneDepthMm": {
+            "count": 251,
+            "min": 0.0008869455622060575,
+            "median": 0.19578331520245024,
+            "p95": 0.3614039925485152,
+            "max": 0.39258967664429806
+          },
+          "maximumDepthPointM": [
+            0.11342287063598633,
+            1.061496376991272,
+            -0.0012170635163784027
+          ],
+          "boneSamplesInsideClosedTarget": 32,
+          "boneSampleTargetDepthMm": {
+            "count": 32,
+            "min": 0.04913731533787582,
+            "median": 0.22828970737883475,
+            "p95": 0.38470305866998733,
+            "max": 0.42291701406449983
+          }
+        },
+        {
+          "candidateId": "VMRA_NATIVE_LEFT_O3D_ce73e88b02db18",
+          "targetId": "O3D_9c52f9f1fb8ba0",
+          "targetName": "Right Levatores costarum breves",
+          "targetSystem": "muscular",
+          "intersectingTrianglePairs": 67,
+          "sourceTrianglesIntersecting": 26,
+          "targetTrianglesIntersecting": 40,
+          "targetWatertight": true,
+          "boneWatertight": true,
+          "targetSamplesInsideBone": 61,
+          "targetSampleBoneDepthMm": {
+            "count": 61,
+            "min": 0.001875188195756291,
+            "median": 0.1593893142448936,
+            "p95": 0.40137020605005874,
+            "max": 0.45370876460333437
+          },
+          "maximumDepthPointM": [
+            0.05657106886307398,
+            1.1625765164693196,
+            -0.0776589314142863
+          ],
+          "boneSamplesInsideClosedTarget": 22,
+          "boneSampleTargetDepthMm": {
+            "count": 22,
+            "min": 0.025768877006313716,
+            "median": 0.19908462438532223,
+            "p95": 0.4361540805543071,
+            "max": 0.4616522587128928
+          }
+        },
+        {
+          "candidateId": "VMRA_NATIVE_LEFT_O3D_ce73e88b02db18",
+          "targetId": "O3D_c7b9f5dc40f4cb",
+          "targetName": "Right Levatores costarum longi",
+          "targetSystem": "muscular",
+          "intersectingTrianglePairs": 69,
+          "sourceTrianglesIntersecting": 27,
+          "targetTrianglesIntersecting": 40,
+          "targetWatertight": false,
+          "boneWatertight": true,
+          "targetSamplesInsideBone": 111,
+          "targetSampleBoneDepthMm": {
+            "count": 111,
+            "min": 0.00956541996904738,
+            "median": 0.7795127394035882,
+            "p95": 1.2083893308047653,
+            "max": 1.3107396374216913
+          },
+          "maximumDepthPointM": [
+            0.060503944754600525,
+            1.1590203046798706,
+            -0.07710086554288864
+          ]
+        },
+        {
+          "candidateId": "VMRA_NATIVE_LEFT_O3D_ce73e88b02db18",
+          "targetId": "O3D_360041b6610976",
+          "targetName": "Right Iliocostalis lumborum muscle",
+          "targetSystem": "muscular",
+          "intersectingTrianglePairs": 116,
+          "sourceTrianglesIntersecting": 64,
+          "targetTrianglesIntersecting": 38,
+          "targetWatertight": false,
+          "boneWatertight": true,
+          "targetSamplesInsideBone": 33,
+          "targetSampleBoneDepthMm": {
+            "count": 33,
+            "min": 0.023439213532305728,
+            "median": 0.7414164424916998,
+            "p95": 1.6365023188231285,
+            "max": 2.0573417662470694
+          },
+          "maximumDepthPointM": [
+            0.06277114897966385,
+            1.1440993547439575,
+            -0.07468340545892715
+          ]
+        },
+        {
+          "candidateId": "VMRA_NATIVE_LEFT_O3D_ce73e88b02db18",
+          "targetId": "O3D_5fe7a0d06fe3f9",
+          "targetName": "Right Iliocostalis thoracis muscle",
+          "targetSystem": "muscular",
+          "intersectingTrianglePairs": 73,
+          "sourceTrianglesIntersecting": 35,
+          "targetTrianglesIntersecting": 37,
+          "targetWatertight": true,
+          "boneWatertight": true,
+          "targetSamplesInsideBone": 42,
+          "targetSampleBoneDepthMm": {
+            "count": 42,
+            "min": 0.003849320435292023,
+            "median": 0.19670772675541853,
+            "p95": 0.5853089666538508,
+            "max": 0.611033129795819
+          },
+          "maximumDepthPointM": [
+            0.055998233457406364,
+            1.1480101346969604,
+            -0.07594351222117741
+          ],
+          "boneSamplesInsideClosedTarget": 28,
+          "boneSampleTargetDepthMm": {
+            "count": 28,
+            "min": 0.01692765155014373,
+            "median": 0.23134996306983002,
+            "p95": 0.6064872381911459,
+            "max": 0.6273900595844036
+          }
+        },
+        {
+          "candidateId": "VMRA_NATIVE_LEFT_O3D_ce73e88b02db18",
+          "targetId": "O3D_8fd366deb726e3",
+          "targetName": "Right Longissimus thoracis muscle",
+          "targetSystem": "muscular",
+          "intersectingTrianglePairs": 50,
+          "sourceTrianglesIntersecting": 28,
+          "targetTrianglesIntersecting": 19,
+          "targetWatertight": true,
+          "boneWatertight": true,
+          "targetSamplesInsideBone": 13,
+          "targetSampleBoneDepthMm": {
+            "count": 13,
+            "min": 0.040609460435443674,
+            "median": 0.87980469759423,
+            "p95": 1.3388353441548955,
+            "max": 1.4522934629930833
+          },
+          "maximumDepthPointM": [
+            0.046085948745409645,
+            1.1594573259353638,
+            -0.07402098923921585
+          ],
+          "boneSamplesInsideClosedTarget": 33,
+          "boneSampleTargetDepthMm": {
+            "count": 33,
+            "min": 0.05859865558279326,
+            "median": 0.7866655481098612,
+            "p95": 1.4050021981621135,
+            "max": 1.4681860282353758
+          }
+        },
+        {
+          "candidateId": "VMRA_NATIVE_LEFT_O3D_ce73e88b02db18",
+          "targetId": "ZA_3b5abb7437a2b8",
+          "targetName": "Diaphragm",
+          "targetSystem": "muscular",
+          "intersectingTrianglePairs": 110,
+          "sourceTrianglesIntersecting": 60,
+          "targetTrianglesIntersecting": 47,
+          "targetWatertight": true,
+          "boneWatertight": true,
+          "targetSamplesInsideBone": 34,
+          "targetSampleBoneDepthMm": {
+            "count": 34,
+            "min": 0.008054797062006427,
+            "median": 0.17348697079577435,
+            "p95": 0.426575437798409,
+            "max": 0.5195602174627888
+          },
+          "maximumDepthPointM": [
+            0.11210817098617554,
+            1.0747218132019043,
+            -0.009414851665496826
+          ],
+          "boneSamplesInsideClosedTarget": 55,
+          "boneSampleTargetDepthMm": {
+            "count": 55,
+            "min": 0.006008246904397226,
+            "median": 0.17653487183498814,
+            "p95": 0.5366738208967146,
+            "max": 0.5903982862546622
+          }
+        }
+      ],
+      "reason": "Accepted with disclosed source-model attachment/joint residuals: contacts are limited to posterior rib muscles, costal cartilage/disc interfaces and, for lower ribs, the original Z diaphragm costal/posterior attachment. No blood vessel, nerve, hollow organ or other bone crossing is present. Not an exact enthesis model."
+    },
+    {
+      "id": "VMRA_NATIVE_LEFT_O3D_f3428a581f4473",
+      "sourceOriginalMeshId": "O3D_f3428a581f4473",
+      "rightReferenceMeshId": "O3D_0d8c85afd5d8a6",
+      "nameEn": "Left twelfth rib",
+      "accepted": true,
+      "reviewedPotentialPairs": 22,
+      "crossingTargetPairs": 7,
+      "strictTrianglePairCount": 591,
+      "wholeSourceComponentProof": {
+        "component": 0,
+        "sourceFaceCount": 1248,
+        "sourceVertexCount": 733,
+        "sourceFaceIndexSha256": "5f95b69466fd03c7c7e6ff221c6564152b05a13afa12a8b265c71defa2c61d31",
+        "sourceVertexIndexSha256": "ba5ee9d3da3d17897fd512de3b77d499df87526be1335780624588f5cbc7c9b4",
+        "positiveXMinimumM": 0.021481357514858246,
+        "proposedPhysicalId": "VMRA_NATIVE_LEFT_O3D_f3428a581f4473",
+        "nameEn": "Left rib (12th)"
+      },
+      "contextPairs": [
+        {
+          "candidateId": "VMRA_NATIVE_LEFT_O3D_f3428a581f4473",
+          "targetId": "O3D_68066de05dbc5b",
+          "targetName": "Costal cartilage",
+          "targetSystem": "connective",
+          "intersectingTrianglePairs": 138,
+          "sourceTrianglesIntersecting": 20,
+          "targetTrianglesIntersecting": 115,
+          "targetWatertight": true,
+          "boneWatertight": true,
+          "targetSamplesInsideBone": 742,
+          "targetSampleBoneDepthMm": {
+            "count": 742,
+            "min": 0.0002610126450494998,
+            "median": 0.30990296719678323,
+            "p95": 0.6817211331085072,
+            "max": 0.8287567544115596
+          },
+          "maximumDepthPointM": [
+            0.0817997008562088,
+            1.058105707168579,
+            -0.03717667485276858
+          ],
+          "boneSamplesInsideClosedTarget": 34,
+          "boneSampleTargetDepthMm": {
+            "count": 34,
+            "min": 0.056161639908923935,
+            "median": 0.4145511409125998,
+            "p95": 0.8253096940118325,
+            "max": 0.9829496374960038
+          }
+        },
+        {
+          "candidateId": "VMRA_NATIVE_LEFT_O3D_f3428a581f4473",
+          "targetId": "O3D_9c52f9f1fb8ba0",
+          "targetName": "Right Levatores costarum breves",
+          "targetSystem": "muscular",
+          "intersectingTrianglePairs": 52,
+          "sourceTrianglesIntersecting": 11,
+          "targetTrianglesIntersecting": 34,
+          "targetWatertight": true,
+          "boneWatertight": true,
+          "targetSamplesInsideBone": 95,
+          "targetSampleBoneDepthMm": {
+            "count": 95,
+            "min": 0.01357669176226756,
+            "median": 0.8999745977741596,
+            "p95": 1.2928050828544415,
+            "max": 1.389835562117629
+          },
+          "maximumDepthPointM": [
+            0.04616878181695938,
+            1.1259220838546753,
+            -0.06280803680419922
+          ],
+          "boneSamplesInsideClosedTarget": 4,
+          "boneSampleTargetDepthMm": {
+            "count": 4,
+            "min": 0.11564685623385046,
+            "median": 0.16668683922718297,
+            "p95": 0.38059806714505096,
+            "max": 0.415899251004836
+          }
+        },
+        {
+          "candidateId": "VMRA_NATIVE_LEFT_O3D_f3428a581f4473",
+          "targetId": "O3D_c7b9f5dc40f4cb",
+          "targetName": "Right Levatores costarum longi",
+          "targetSystem": "muscular",
+          "intersectingTrianglePairs": 34,
+          "sourceTrianglesIntersecting": 13,
+          "targetTrianglesIntersecting": 19,
+          "targetWatertight": false,
+          "boneWatertight": true,
+          "targetSamplesInsideBone": 19,
+          "targetSampleBoneDepthMm": {
+            "count": 19,
+            "min": 0.0018094004040581791,
+            "median": 0.4966954934877884,
+            "p95": 0.9686802548694932,
+            "max": 0.9863936674602874
+          },
+          "maximumDepthPointM": [
+            0.043721236288547516,
+            1.1263772249221802,
+            -0.06284458935260773
+          ]
+        },
+        {
+          "candidateId": "VMRA_NATIVE_LEFT_O3D_f3428a581f4473",
+          "targetId": "O3D_360041b6610976",
+          "targetName": "Right Iliocostalis lumborum muscle",
+          "targetSystem": "muscular",
+          "intersectingTrianglePairs": 100,
+          "sourceTrianglesIntersecting": 55,
+          "targetTrianglesIntersecting": 39,
+          "targetWatertight": false,
+          "boneWatertight": true,
+          "targetSamplesInsideBone": 38,
+          "targetSampleBoneDepthMm": {
+            "count": 38,
+            "min": 0.012774200539463322,
+            "median": 1.219365807929314,
+            "p95": 2.332100824678647,
+            "max": 2.461280975248565
+          },
+          "maximumDepthPointM": [
+            0.06031219909588496,
+            1.1008952061335247,
+            -0.0643753024439017
+          ]
+        },
+        {
+          "candidateId": "VMRA_NATIVE_LEFT_O3D_f3428a581f4473",
+          "targetId": "O3D_5fe7a0d06fe3f9",
+          "targetName": "Right Iliocostalis thoracis muscle",
+          "targetSystem": "muscular",
+          "intersectingTrianglePairs": 58,
+          "sourceTrianglesIntersecting": 10,
+          "targetTrianglesIntersecting": 46,
+          "targetWatertight": true,
+          "boneWatertight": true,
+          "targetSamplesInsideBone": 86,
+          "targetSampleBoneDepthMm": {
+            "count": 86,
+            "min": 0.03018769537520098,
+            "median": 0.6558899189733567,
+            "p95": 1.1483065463424438,
+            "max": 1.2731708501848429
+          },
+          "maximumDepthPointM": [
+            0.044511400163173676,
+            1.1247022151947021,
+            -0.06347319483757019
+          ],
+          "boneSamplesInsideClosedTarget": 9,
+          "boneSampleTargetDepthMm": {
+            "count": 9,
+            "min": 0.07304947039005685,
+            "median": 0.4602237590878746,
+            "p95": 1.0667246657646392,
+            "max": 1.2301747158384555
+          }
+        },
+        {
+          "candidateId": "VMRA_NATIVE_LEFT_O3D_f3428a581f4473",
+          "targetId": "O3D_8fd366deb726e3",
+          "targetName": "Right Longissimus thoracis muscle",
+          "targetSystem": "muscular",
+          "intersectingTrianglePairs": 14,
+          "sourceTrianglesIntersecting": 4,
+          "targetTrianglesIntersecting": 8,
+          "targetWatertight": true,
+          "boneWatertight": true,
+          "targetSamplesInsideBone": 3,
+          "targetSampleBoneDepthMm": {
+            "count": 3,
+            "min": 0.006475501390240227,
+            "median": 0.21088067763140944,
+            "p95": 0.4925268972778596,
+            "max": 0.5238209216830207
+          },
+          "maximumDepthPointM": [
+            0.03695607930421829,
+            1.1294327974319458,
+            -0.05709495395421982
+          ],
+          "boneSamplesInsideClosedTarget": 1,
+          "boneSampleTargetDepthMm": {
+            "count": 1,
+            "min": 0.03840297772614173,
+            "median": 0.03840297772614173,
+            "p95": 0.03840297772614173,
+            "max": 0.03840297772614173
+          }
+        },
+        {
+          "candidateId": "VMRA_NATIVE_LEFT_O3D_f3428a581f4473",
+          "targetId": "ZA_3b5abb7437a2b8",
+          "targetName": "Diaphragm",
+          "targetSystem": "muscular",
+          "intersectingTrianglePairs": 195,
+          "sourceTrianglesIntersecting": 101,
+          "targetTrianglesIntersecting": 84,
+          "targetWatertight": true,
+          "boneWatertight": true,
+          "targetSamplesInsideBone": 93,
+          "targetSampleBoneDepthMm": {
+            "count": 93,
+            "min": 0.019205571720817244,
+            "median": 1.0851922727126622,
+            "p95": 1.9902910231936928,
+            "max": 2.192070008435002
+          },
+          "maximumDepthPointM": [
+            0.03562114139397939,
+            1.1391104459762573,
+            -0.0436910813053449
+          ],
+          "boneSamplesInsideClosedTarget": 205,
+          "boneSampleTargetDepthMm": {
+            "count": 205,
+            "min": 0.004316087262978688,
+            "median": 1.130639926526691,
+            "p95": 1.9908171056889412,
+            "max": 2.24471848626897
+          }
+        }
+      ],
+      "reason": "Accepted with disclosed source-model attachment/joint residuals: contacts are limited to posterior rib muscles, costal cartilage/disc interfaces and, for lower ribs, the original Z diaphragm costal/posterior attachment. No blood vessel, nerve, hollow organ or other bone crossing is present. Not an exact enthesis model."
+    },
+    {
+      "id": "VMRA_NATIVE_LEFT_O3D_5a07a20979d0db",
+      "sourceOriginalMeshId": "O3D_5a07a20979d0db",
+      "rightReferenceMeshId": "O3D_51e8dd76018b0f",
+      "nameEn": "Left rib (1st)",
+      "accepted": false,
+      "reviewedPotentialPairs": 21,
+      "crossingTargetPairs": 5,
+      "strictTrianglePairCount": 496,
+      "wholeSourceComponentProof": {
+        "component": 0,
+        "sourceFaceCount": 1972,
+        "sourceVertexCount": 1118,
+        "sourceFaceIndexSha256": "d003813e6e6902fd6482c930686a2fce328b9709aae5e1bb71fcfe93a92b3cca",
+        "sourceVertexIndexSha256": "f553f9bade0e73f9d7c4bae68b5dd0764addd584f145b80093788b8ab84ef5b8",
+        "positiveXMinimumM": 0.01678965985774994,
+        "proposedPhysicalId": "VMRA_NATIVE_LEFT_O3D_5a07a20979d0db",
+        "nameEn": "Left rib (1st)"
+      },
+      "contextPairs": [
+        {
+          "candidateId": "VMRA_NATIVE_LEFT_O3D_5a07a20979d0db",
+          "targetId": "O3D_68066de05dbc5b",
+          "targetName": "Costal cartilage",
+          "targetSystem": "connective",
+          "intersectingTrianglePairs": 251,
+          "sourceTrianglesIntersecting": 77,
+          "targetTrianglesIntersecting": 161,
+          "targetWatertight": true,
+          "boneWatertight": true,
+          "targetSamplesInsideBone": 193,
+          "targetSampleBoneDepthMm": {
+            "count": 193,
+            "min": 0.0015015843038013138,
+            "median": 0.1725678234982766,
+            "p95": 0.526955377905029,
+            "max": 0.7477780180168707
+          },
+          "maximumDepthPointM": [
+            0.04234431187311808,
+            1.396047592163086,
+            0.03141490121682485
+          ],
+          "boneSamplesInsideClosedTarget": 64,
+          "boneSampleTargetDepthMm": {
+            "count": 64,
+            "min": 0.02526193595483629,
+            "median": 0.21815923387910238,
+            "p95": 0.6604282385732038,
+            "max": 0.9195102732071665
+          }
+        },
+        {
+          "candidateId": "VMRA_NATIVE_LEFT_O3D_5a07a20979d0db",
+          "targetId": "O3D_9c52f9f1fb8ba0",
+          "targetName": "Right Levatores costarum breves",
+          "targetSystem": "muscular",
+          "intersectingTrianglePairs": 67,
+          "sourceTrianglesIntersecting": 23,
+          "targetTrianglesIntersecting": 42,
+          "targetWatertight": true,
+          "boneWatertight": true,
+          "targetSamplesInsideBone": 95,
+          "targetSampleBoneDepthMm": {
+            "count": 95,
+            "min": 0.009021075788661771,
+            "median": 0.26982112671150754,
+            "p95": 0.5159848349641721,
+            "max": 0.5609603993004579
+          },
+          "maximumDepthPointM": [
+            0.04175347089767456,
+            1.4419066905975342,
+            -0.027006052434444427
+          ],
+          "boneSamplesInsideClosedTarget": 11,
+          "boneSampleTargetDepthMm": {
+            "count": 11,
+            "min": 0.1119855275253503,
+            "median": 0.31735304833260913,
+            "p95": 0.5484912662094253,
+            "max": 0.5808281702799126
+          }
+        },
+        {
+          "candidateId": "VMRA_NATIVE_LEFT_O3D_5a07a20979d0db",
+          "targetId": "O3D_5fe7a0d06fe3f9",
+          "targetName": "Right Iliocostalis thoracis muscle",
+          "targetSystem": "muscular",
+          "intersectingTrianglePairs": 31,
+          "sourceTrianglesIntersecting": 8,
+          "targetTrianglesIntersecting": 20,
+          "targetWatertight": true,
+          "boneWatertight": true,
+          "targetSamplesInsideBone": 22,
+          "targetSampleBoneDepthMm": {
+            "count": 22,
+            "min": 0.012436837202514407,
+            "median": 0.49137483295739626,
+            "p95": 1.3135668560364313,
+            "max": 1.341164049620232
+          },
+          "maximumDepthPointM": [
+            0.04628553241491318,
+            1.438510537147522,
+            -0.02731572836637497
+          ],
+          "boneSamplesInsideClosedTarget": 4,
+          "boneSampleTargetDepthMm": {
+            "count": 4,
+            "min": 0.24723289382524105,
+            "median": 0.4534203845212021,
+            "p95": 0.8029947186636828,
+            "max": 0.8461314019961431
+          }
+        },
+        {
+          "candidateId": "VMRA_NATIVE_LEFT_O3D_5a07a20979d0db",
+          "targetId": "O3D_8fd366deb726e3",
+          "targetName": "Right Longissimus thoracis muscle",
+          "targetSystem": "muscular",
+          "intersectingTrianglePairs": 22,
+          "sourceTrianglesIntersecting": 8,
+          "targetTrianglesIntersecting": 11,
+          "targetWatertight": true,
+          "boneWatertight": true,
+          "targetSamplesInsideBone": 8,
+          "targetSampleBoneDepthMm": {
+            "count": 8,
+            "min": 0.192568512880376,
+            "median": 0.45657846745576347,
+            "p95": 0.8422643509327773,
+            "max": 0.9878288670462452
+          },
+          "maximumDepthPointM": [
+            0.04326675087213516,
+            1.4413880109786987,
+            -0.028762005269527435
+          ],
+          "boneSamplesInsideClosedTarget": 3,
+          "boneSampleTargetDepthMm": {
+            "count": 3,
+            "min": 0.007481109859132256,
+            "median": 0.025346779216397036,
+            "p95": 0.3060643586172137,
+            "max": 0.33725520077286003
+          }
+        },
+        {
+          "candidateId": "VMRA_NATIVE_LEFT_O3D_5a07a20979d0db",
+          "targetId": "O3D_b525419755cb57",
+          "targetName": "Right Subclavian vein",
+          "targetSystem": "venous",
+          "intersectingTrianglePairs": 125,
+          "sourceTrianglesIntersecting": 55,
+          "targetTrianglesIntersecting": 66,
+          "targetWatertight": false,
+          "boneWatertight": true,
+          "targetSamplesInsideBone": 100,
+          "targetSampleBoneDepthMm": {
+            "count": 100,
+            "min": 0.031694980222518314,
+            "median": 0.35351788719923616,
+            "p95": 1.1105115775181063,
+            "max": 1.3766055104881019
+          },
+          "maximumDepthPointM": [
+            0.050402335822582245,
+            1.4061405658721924,
+            0.014836819842457771
+          ]
+        }
+      ],
+      "reason": "Held: actual left-course source subclavian vein O3D_b525419755cb57 enters first rib; 125 strict pairs, sampled depth 1.376606 mm. Not a normal vein-bone attachment."
+    },
+    {
+      "id": "VMRA_NATIVE_LEFT_O3D_12566afc8ac71c",
+      "sourceOriginalMeshId": "O3D_12566afc8ac71c",
+      "rightReferenceMeshId": "O3D_4236788925f1d4",
+      "nameEn": "Left second rib",
+      "accepted": true,
+      "reviewedPotentialPairs": 23,
+      "crossingTargetPairs": 6,
+      "strictTrianglePairCount": 247,
+      "wholeSourceComponentProof": {
+        "component": 0,
+        "sourceFaceCount": 3022,
+        "sourceVertexCount": 1709,
+        "sourceFaceIndexSha256": "da1bc7e64ab1c4b76f9b82659cb2f5806e234ca32dac64881a7c11d84810d827",
+        "sourceVertexIndexSha256": "77b1e822f73355c8ccbd497c4f5cbabd2e868545c812e967c589d11f41304e7c",
+        "positiveXMinimumM": 0.01612696796655655,
+        "proposedPhysicalId": "VMRA_NATIVE_LEFT_O3D_12566afc8ac71c",
+        "nameEn": "Left rib (2nd)"
+      },
+      "contextPairs": [
+        {
+          "candidateId": "VMRA_NATIVE_LEFT_O3D_12566afc8ac71c",
+          "targetId": "O3D_c564c66f201924",
+          "targetName": "Anulus fibrosus",
+          "targetSystem": "connective",
+          "intersectingTrianglePairs": 18,
+          "sourceTrianglesIntersecting": 7,
+          "targetTrianglesIntersecting": 10,
+          "targetWatertight": true,
+          "boneWatertight": true,
+          "targetSamplesInsideBone": 2,
+          "targetSampleBoneDepthMm": {
+            "count": 2,
+            "min": 0.042940801609682125,
+            "median": 0.11236109760882537,
+            "p95": 0.1748393640080543,
+            "max": 0.18178139360796863
+          },
+          "maximumDepthPointM": [
+            0.016394825652241707,
+            1.4244743585586548,
+            -0.02898722141981125
+          ],
+          "boneSamplesInsideClosedTarget": 2,
+          "boneSampleTargetDepthMm": {
+            "count": 2,
+            "min": 0.07889512419324135,
+            "median": 0.09023540995228072,
+            "p95": 0.10044166713541615,
+            "max": 0.10157569571132008
+          }
+        },
+        {
+          "candidateId": "VMRA_NATIVE_LEFT_O3D_12566afc8ac71c",
+          "targetId": "O3D_68066de05dbc5b",
+          "targetName": "Costal cartilage",
+          "targetSystem": "connective",
+          "intersectingTrianglePairs": 27,
+          "sourceTrianglesIntersecting": 8,
+          "targetTrianglesIntersecting": 16,
+          "targetWatertight": true,
+          "boneWatertight": true,
+          "targetSamplesInsideBone": 6,
+          "targetSampleBoneDepthMm": {
+            "count": 6,
+            "min": 0.010345924621704158,
+            "median": 0.037409794564448026,
+            "p95": 0.06583742253595196,
+            "max": 0.06967186145678006
+          },
+          "maximumDepthPointM": [
+            0.04230928421020508,
+            1.3564170598983765,
+            0.06207129110892614
+          ],
+          "boneSamplesInsideClosedTarget": 1,
+          "boneSampleTargetDepthMm": {
+            "count": 1,
+            "min": 0.10597901419728363,
+            "median": 0.10597901419728363,
+            "p95": 0.10597901419728363,
+            "max": 0.10597901419728363
+          }
+        },
+        {
+          "candidateId": "VMRA_NATIVE_LEFT_O3D_12566afc8ac71c",
+          "targetId": "O3D_9c52f9f1fb8ba0",
+          "targetName": "Right Levatores costarum breves",
+          "targetSystem": "muscular",
+          "intersectingTrianglePairs": 62,
+          "sourceTrianglesIntersecting": 14,
+          "targetTrianglesIntersecting": 48,
+          "targetWatertight": true,
+          "boneWatertight": true,
+          "targetSamplesInsideBone": 103,
+          "targetSampleBoneDepthMm": {
+            "count": 103,
+            "min": 0.004207657366140288,
+            "median": 0.8089279158064424,
+            "p95": 2.460266672158724,
+            "max": 3.0524466800524883
+          },
+          "maximumDepthPointM": [
+            0.043504940966765084,
+            1.4317707220713298,
+            -0.042862546940644584
+          ],
+          "boneSamplesInsideClosedTarget": 13,
+          "boneSampleTargetDepthMm": {
+            "count": 13,
+            "min": 0.015748400789562494,
+            "median": 0.2708479987435861,
+            "p95": 0.9653729308612898,
+            "max": 1.0087037746639043
+          }
+        },
+        {
+          "candidateId": "VMRA_NATIVE_LEFT_O3D_12566afc8ac71c",
+          "targetId": "O3D_c7b9f5dc40f4cb",
+          "targetName": "Right Levatores costarum longi",
+          "targetSystem": "muscular",
+          "intersectingTrianglePairs": 48,
+          "sourceTrianglesIntersecting": 16,
+          "targetTrianglesIntersecting": 31,
+          "targetWatertight": false,
+          "boneWatertight": true,
+          "targetSamplesInsideBone": 80,
+          "targetSampleBoneDepthMm": {
+            "count": 80,
+            "min": 0.06581128588944256,
+            "median": 0.861941185237401,
+            "p95": 1.9791678960544874,
+            "max": 2.1477123910653244
+          },
+          "maximumDepthPointM": [
+            0.04945582151412964,
+            1.429829478263855,
+            -0.04247273877263069
+          ]
+        },
+        {
+          "candidateId": "VMRA_NATIVE_LEFT_O3D_12566afc8ac71c",
+          "targetId": "O3D_5fe7a0d06fe3f9",
+          "targetName": "Right Iliocostalis thoracis muscle",
+          "targetSystem": "muscular",
+          "intersectingTrianglePairs": 67,
+          "sourceTrianglesIntersecting": 28,
+          "targetTrianglesIntersecting": 38,
+          "targetWatertight": true,
+          "boneWatertight": true,
+          "targetSamplesInsideBone": 44,
+          "targetSampleBoneDepthMm": {
+            "count": 44,
+            "min": 0.051783731215237064,
+            "median": 1.1173060596162814,
+            "p95": 2.378147138833537,
+            "max": 2.4928735704041074
+          },
+          "maximumDepthPointM": [
+            0.05889083196719488,
+            1.4262009064356487,
+            -0.04083380103111267
+          ],
+          "boneSamplesInsideClosedTarget": 33,
+          "boneSampleTargetDepthMm": {
+            "count": 33,
+            "min": 0.033292754892958874,
+            "median": 0.6975327014460391,
+            "p95": 1.443116685818511,
+            "max": 1.5291601348671808
+          }
+        },
+        {
+          "candidateId": "VMRA_NATIVE_LEFT_O3D_12566afc8ac71c",
+          "targetId": "O3D_8fd366deb726e3",
+          "targetName": "Right Longissimus thoracis muscle",
+          "targetSystem": "muscular",
+          "intersectingTrianglePairs": 25,
+          "sourceTrianglesIntersecting": 9,
+          "targetTrianglesIntersecting": 13,
+          "targetWatertight": true,
+          "boneWatertight": true,
+          "targetSamplesInsideBone": 22,
+          "targetSampleBoneDepthMm": {
+            "count": 22,
+            "min": 0.08179534296863049,
+            "median": 0.8972563218845755,
+            "p95": 1.5615764594974433,
+            "max": 1.5737505144116
+          },
+          "maximumDepthPointM": [
+            0.05224481225013733,
+            1.4296774864196777,
+            -0.04190381243824959
+          ],
+          "boneSamplesInsideClosedTarget": 2,
+          "boneSampleTargetDepthMm": {
+            "count": 2,
+            "min": 0.07528138146933512,
+            "median": 0.26963243655580993,
+            "p95": 0.44454838613363723,
+            "max": 0.46398349164228475
+          }
+        }
+      ],
+      "reason": "Accepted with disclosed source-model attachment/joint residuals: contacts are limited to posterior rib muscles, costal cartilage/disc interfaces and, for lower ribs, the original Z diaphragm costal/posterior attachment. No blood vessel, nerve, hollow organ or other bone crossing is present. Not an exact enthesis model."
+    },
+    {
+      "id": "VMRA_NATIVE_LEFT_O3D_d0e1cb2dc7975a",
+      "sourceOriginalMeshId": "O3D_d0e1cb2dc7975a",
+      "rightReferenceMeshId": "O3D_d272794bbf886a",
+      "nameEn": "Left third rib",
+      "accepted": true,
+      "reviewedPotentialPairs": 27,
+      "crossingTargetPairs": 4,
+      "strictTrianglePairCount": 285,
+      "wholeSourceComponentProof": {
+        "component": 0,
+        "sourceFaceCount": 3906,
+        "sourceVertexCount": 2187,
+        "sourceFaceIndexSha256": "c29a6abea0b7230eb44aebe1b5a05a797e21713707c0c83ee3621317dc71d805",
+        "sourceVertexIndexSha256": "9378e281a21c8112dd38f9ef353cde5d6551bf0f2092d6b52faa40824191062d",
+        "positiveXMinimumM": 0.015992678701877594,
+        "proposedPhysicalId": "VMRA_NATIVE_LEFT_O3D_d0e1cb2dc7975a",
+        "nameEn": "Left rib (3rd)"
+      },
+      "contextPairs": [
+        {
+          "candidateId": "VMRA_NATIVE_LEFT_O3D_d0e1cb2dc7975a",
+          "targetId": "O3D_9c52f9f1fb8ba0",
+          "targetName": "Right Levatores costarum breves",
+          "targetSystem": "muscular",
+          "intersectingTrianglePairs": 80,
+          "sourceTrianglesIntersecting": 22,
+          "targetTrianglesIntersecting": 54,
+          "targetWatertight": true,
+          "boneWatertight": true,
+          "targetSamplesInsideBone": 96,
+          "targetSampleBoneDepthMm": {
+            "count": 96,
+            "min": 0.0049033732773212605,
+            "median": 0.16436409369837982,
+            "p95": 0.37452633368311516,
+            "max": 0.4044585989565819
+          },
+          "maximumDepthPointM": [
+            0.05541229993104935,
+            1.410007158915202,
+            -0.058639129002889
+          ],
+          "boneSamplesInsideClosedTarget": 13,
+          "boneSampleTargetDepthMm": {
+            "count": 13,
+            "min": 0.02258338473364488,
+            "median": 0.25223740045562126,
+            "p95": 0.3893897026118861,
+            "max": 0.43361036345726145
+          }
+        },
+        {
+          "candidateId": "VMRA_NATIVE_LEFT_O3D_d0e1cb2dc7975a",
+          "targetId": "O3D_c7b9f5dc40f4cb",
+          "targetName": "Right Levatores costarum longi",
+          "targetSystem": "muscular",
+          "intersectingTrianglePairs": 70,
+          "sourceTrianglesIntersecting": 30,
+          "targetTrianglesIntersecting": 38,
+          "targetWatertight": false,
+          "boneWatertight": true,
+          "targetSamplesInsideBone": 61,
+          "targetSampleBoneDepthMm": {
+            "count": 61,
+            "min": 0.039655292831586995,
+            "median": 0.7760118865998179,
+            "p95": 1.5394983948499688,
+            "max": 1.7615813977913815
+          },
+          "maximumDepthPointM": [
+            0.0617872029542923,
+            1.4081742763519287,
+            -0.05857371538877487
+          ]
+        },
+        {
+          "candidateId": "VMRA_NATIVE_LEFT_O3D_d0e1cb2dc7975a",
+          "targetId": "O3D_5fe7a0d06fe3f9",
+          "targetName": "Right Iliocostalis thoracis muscle",
+          "targetSystem": "muscular",
+          "intersectingTrianglePairs": 106,
+          "sourceTrianglesIntersecting": 45,
+          "targetTrianglesIntersecting": 59,
+          "targetWatertight": true,
+          "boneWatertight": true,
+          "targetSamplesInsideBone": 130,
+          "targetSampleBoneDepthMm": {
+            "count": 130,
+            "min": 0.009693098225569168,
+            "median": 0.9685686680343801,
+            "p95": 1.7485639259088446,
+            "max": 1.9113154820341476
+          },
+          "maximumDepthPointM": [
+            0.06949702153603236,
+            1.4049499034881592,
+            -0.06024634465575218
+          ],
+          "boneSamplesInsideClosedTarget": 66,
+          "boneSampleTargetDepthMm": {
+            "count": 66,
+            "min": 0.006682793598300051,
+            "median": 0.7102160743323187,
+            "p95": 1.4108717347089033,
+            "max": 1.5295120375109998
+          }
+        },
+        {
+          "candidateId": "VMRA_NATIVE_LEFT_O3D_d0e1cb2dc7975a",
+          "targetId": "O3D_8fd366deb726e3",
+          "targetName": "Right Longissimus thoracis muscle",
+          "targetSystem": "muscular",
+          "intersectingTrianglePairs": 29,
+          "sourceTrianglesIntersecting": 14,
+          "targetTrianglesIntersecting": 15,
+          "targetWatertight": true,
+          "boneWatertight": true,
+          "targetSamplesInsideBone": 13,
+          "targetSampleBoneDepthMm": {
+            "count": 13,
+            "min": 0.061734783680951553,
+            "median": 0.7960664995495194,
+            "p95": 1.4169611690218353,
+            "max": 1.5617304332908635
+          },
+          "maximumDepthPointM": [
+            0.05500979721546173,
+            1.4070371389389038,
+            -0.0595671720802784
+          ],
+          "boneSamplesInsideClosedTarget": 7,
+          "boneSampleTargetDepthMm": {
+            "count": 7,
+            "min": 0.014053671544404607,
+            "median": 0.29292515212089787,
+            "p95": 0.8844050281733691,
+            "max": 1.1052840663455834
+          }
+        }
+      ],
+      "reason": "Accepted with disclosed source-model attachment/joint residuals: contacts are limited to posterior rib muscles, costal cartilage/disc interfaces and, for lower ribs, the original Z diaphragm costal/posterior attachment. No blood vessel, nerve, hollow organ or other bone crossing is present. Not an exact enthesis model."
+    },
+    {
+      "id": "VMRA_NATIVE_LEFT_O3D_11991810878b71",
+      "sourceOriginalMeshId": "O3D_11991810878b71",
+      "rightReferenceMeshId": "O3D_8e3a0b2cf52b6d",
+      "nameEn": "Left fourth rib",
+      "accepted": true,
+      "reviewedPotentialPairs": 28,
+      "crossingTargetPairs": 6,
+      "strictTrianglePairCount": 444,
+      "wholeSourceComponentProof": {
+        "component": 0,
+        "sourceFaceCount": 4772,
+        "sourceVertexCount": 2659,
+        "sourceFaceIndexSha256": "3b8e92c3019c52958b8d70c7bc10d381382c92f50b4c671488ad8c3474e2a595",
+        "sourceVertexIndexSha256": "addf287bc698e31da7c7843dc3036a6aefcf1b15c815d37aae5647b8c8926136",
+        "positiveXMinimumM": 0.014571815729141235,
+        "proposedPhysicalId": "VMRA_NATIVE_LEFT_O3D_11991810878b71",
+        "nameEn": "Left rib (4th)"
+      },
+      "contextPairs": [
+        {
+          "candidateId": "VMRA_NATIVE_LEFT_O3D_11991810878b71",
+          "targetId": "O3D_c564c66f201924",
+          "targetName": "Anulus fibrosus",
+          "targetSystem": "connective",
+          "intersectingTrianglePairs": 6,
+          "sourceTrianglesIntersecting": 6,
+          "targetTrianglesIntersecting": 1,
+          "targetWatertight": true,
+          "boneWatertight": true,
+          "targetSamplesInsideBone": 0,
+          "targetSampleBoneDepthMm": {
+            "count": 0
+          },
+          "maximumDepthPointM": null,
+          "boneSamplesInsideClosedTarget": 1,
+          "boneSampleTargetDepthMm": {
+            "count": 1,
+            "min": 0.01492173736775618,
+            "median": 0.01492173736775618,
+            "p95": 0.01492173736775618,
+            "max": 0.01492173736775618
+          }
+        },
+        {
+          "candidateId": "VMRA_NATIVE_LEFT_O3D_11991810878b71",
+          "targetId": "O3D_68066de05dbc5b",
+          "targetName": "Costal cartilage",
+          "targetSystem": "connective",
+          "intersectingTrianglePairs": 152,
+          "sourceTrianglesIntersecting": 57,
+          "targetTrianglesIntersecting": 95,
+          "targetWatertight": true,
+          "boneWatertight": true,
+          "targetSamplesInsideBone": 111,
+          "targetSampleBoneDepthMm": {
+            "count": 111,
+            "min": 0.0018845168059522163,
+            "median": 0.11691707391913754,
+            "p95": 0.24104526606532503,
+            "max": 0.3055987532015972
+          },
+          "maximumDepthPointM": [
+            0.06548371911048889,
+            1.2928484678268433,
+            0.0871792733669281
+          ],
+          "boneSamplesInsideClosedTarget": 41,
+          "boneSampleTargetDepthMm": {
+            "count": 41,
+            "min": 0.014156237043471066,
+            "median": 0.17410608729511112,
+            "p95": 0.3052346020001268,
+            "max": 0.3151840114678579
+          }
+        },
+        {
+          "candidateId": "VMRA_NATIVE_LEFT_O3D_11991810878b71",
+          "targetId": "O3D_9c52f9f1fb8ba0",
+          "targetName": "Right Levatores costarum breves",
+          "targetSystem": "muscular",
+          "intersectingTrianglePairs": 67,
+          "sourceTrianglesIntersecting": 27,
+          "targetTrianglesIntersecting": 39,
+          "targetWatertight": true,
+          "boneWatertight": true,
+          "targetSamplesInsideBone": 55,
+          "targetSampleBoneDepthMm": {
+            "count": 55,
+            "min": 0.004421291653528266,
+            "median": 0.10838499841617066,
+            "p95": 0.1774074029144723,
+            "max": 0.27093176921820694
+          },
+          "maximumDepthPointM": [
+            0.050783880054950714,
+            1.3882436752319336,
+            -0.07185842096805573
+          ],
+          "boneSamplesInsideClosedTarget": 13,
+          "boneSampleTargetDepthMm": {
+            "count": 13,
+            "min": 0.011737070888074406,
+            "median": 0.13487560942293064,
+            "p95": 0.20140112873758861,
+            "max": 0.2052362089718703
+          }
+        },
+        {
+          "candidateId": "VMRA_NATIVE_LEFT_O3D_11991810878b71",
+          "targetId": "O3D_c7b9f5dc40f4cb",
+          "targetName": "Right Levatores costarum longi",
+          "targetSystem": "muscular",
+          "intersectingTrianglePairs": 68,
+          "sourceTrianglesIntersecting": 26,
+          "targetTrianglesIntersecting": 38,
+          "targetWatertight": false,
+          "boneWatertight": true,
+          "targetSamplesInsideBone": 45,
+          "targetSampleBoneDepthMm": {
+            "count": 45,
+            "min": 0.01507246570400053,
+            "median": 0.3096403419439262,
+            "p95": 0.49534253936865236,
+            "max": 0.6886529606140452
+          },
+          "maximumDepthPointM": [
+            0.05517037212848663,
+            1.3873614072799683,
+            -0.07174724340438843
+          ]
+        },
+        {
+          "candidateId": "VMRA_NATIVE_LEFT_O3D_11991810878b71",
+          "targetId": "O3D_5fe7a0d06fe3f9",
+          "targetName": "Right Iliocostalis thoracis muscle",
+          "targetSystem": "muscular",
+          "intersectingTrianglePairs": 114,
+          "sourceTrianglesIntersecting": 55,
+          "targetTrianglesIntersecting": 56,
+          "targetWatertight": true,
+          "boneWatertight": true,
+          "targetSamplesInsideBone": 99,
+          "targetSampleBoneDepthMm": {
+            "count": 99,
+            "min": 0.027287104483941803,
+            "median": 1.4093793782890647,
+            "p95": 2.5267782959924467,
+            "max": 2.7229781997388476
+          },
+          "maximumDepthPointM": [
+            0.07742917289336522,
+            1.376030405362447,
+            -0.07150819152593613
+          ],
+          "boneSamplesInsideClosedTarget": 104,
+          "boneSampleTargetDepthMm": {
+            "count": 104,
+            "min": 0.08825958861068747,
+            "median": 1.17958261770274,
+            "p95": 2.058917752655542,
+            "max": 2.1759598302662826
+          }
+        },
+        {
+          "candidateId": "VMRA_NATIVE_LEFT_O3D_11991810878b71",
+          "targetId": "O3D_8fd366deb726e3",
+          "targetName": "Right Longissimus thoracis muscle",
+          "targetSystem": "muscular",
+          "intersectingTrianglePairs": 37,
+          "sourceTrianglesIntersecting": 20,
+          "targetTrianglesIntersecting": 11,
+          "targetWatertight": true,
+          "boneWatertight": true,
+          "targetSamplesInsideBone": 8,
+          "targetSampleBoneDepthMm": {
+            "count": 8,
+            "min": 0.013499936696412917,
+            "median": 0.20815191909576525,
+            "p95": 0.747031790019782,
+            "max": 0.7534037707634098
+          },
+          "maximumDepthPointM": [
+            0.058945827186107635,
+            1.3834534883499146,
+            -0.07374991476535797
+          ],
+          "boneSamplesInsideClosedTarget": 8,
+          "boneSampleTargetDepthMm": {
+            "count": 8,
+            "min": 0.044671021855099004,
+            "median": 0.20137534308524924,
+            "p95": 0.4340566724905949,
+            "max": 0.47998091481538957
+          }
+        }
+      ],
+      "reason": "Accepted with disclosed source-model attachment/joint residuals: contacts are limited to posterior rib muscles, costal cartilage/disc interfaces and, for lower ribs, the original Z diaphragm costal/posterior attachment. No blood vessel, nerve, hollow organ or other bone crossing is present. Not an exact enthesis model."
+    },
+    {
+      "id": "VMRA_NATIVE_LEFT_O3D_9a2751274683b9",
+      "sourceOriginalMeshId": "O3D_9a2751274683b9",
+      "rightReferenceMeshId": "O3D_a7bb1c97572a94",
+      "nameEn": "Left rib (5th)",
+      "accepted": false,
+      "reviewedPotentialPairs": 28,
+      "crossingTargetPairs": 5,
+      "strictTrianglePairCount": 352,
+      "wholeSourceComponentProof": {
+        "component": 0,
+        "sourceFaceCount": 4048,
+        "sourceVertexCount": 2230,
+        "sourceFaceIndexSha256": "cd1539ade468beb2c2dad71af31f47448108eef9bb8736a162a0f094c7f9e7fe",
+        "sourceVertexIndexSha256": "15c7f9f1616efd4192089d1fb05a6ebc1b5fca865e4ddea1ad8b0737924e9389",
+        "positiveXMinimumM": 0.01533573865890503,
+        "proposedPhysicalId": "VMRA_NATIVE_LEFT_O3D_9a2751274683b9",
+        "nameEn": "Left rib (5th)"
+      },
+      "contextPairs": [
+        {
+          "candidateId": "VMRA_NATIVE_LEFT_O3D_9a2751274683b9",
+          "targetId": "O3D_68066de05dbc5b",
+          "targetName": "Costal cartilage",
+          "targetSystem": "connective",
+          "intersectingTrianglePairs": 18,
+          "sourceTrianglesIntersecting": 8,
+          "targetTrianglesIntersecting": 6,
+          "targetWatertight": true,
+          "boneWatertight": true,
+          "targetSamplesInsideBone": 2,
+          "targetSampleBoneDepthMm": {
+            "count": 2,
+            "min": 0.0077761919561013535,
+            "median": 0.011417197400382627,
+            "p95": 0.01469410230023577,
+            "max": 0.0150582028446639
+          },
+          "maximumDepthPointM": [
+            0.08186275760332744,
+            1.2519149382909138,
+            0.10106431444485982
+          ],
+          "boneSamplesInsideClosedTarget": 1,
+          "boneSampleTargetDepthMm": {
+            "count": 1,
+            "min": 0.04591884178376292,
+            "median": 0.04591884178376292,
+            "p95": 0.04591884178376292,
+            "max": 0.04591884178376292
+          }
+        },
+        {
+          "candidateId": "VMRA_NATIVE_LEFT_O3D_9a2751274683b9",
+          "targetId": "O3D_9c52f9f1fb8ba0",
+          "targetName": "Right Levatores costarum breves",
+          "targetSystem": "muscular",
+          "intersectingTrianglePairs": 71,
+          "sourceTrianglesIntersecting": 32,
+          "targetTrianglesIntersecting": 39,
+          "targetWatertight": true,
+          "boneWatertight": true,
+          "targetSamplesInsideBone": 73,
+          "targetSampleBoneDepthMm": {
+            "count": 73,
+            "min": 0.000890497280747287,
+            "median": 0.3493241992056248,
+            "p95": 0.9309807730501841,
+            "max": 1.0075761399023455
+          },
+          "maximumDepthPointM": [
+            0.05481959134340286,
+            1.3568036556243896,
+            -0.07815840343634288
+          ],
+          "boneSamplesInsideClosedTarget": 31,
+          "boneSampleTargetDepthMm": {
+            "count": 31,
+            "min": 0.019648166738971913,
+            "median": 0.4242838608743044,
+            "p95": 0.8766133166352863,
+            "max": 0.9895873644584005
+          }
+        },
+        {
+          "candidateId": "VMRA_NATIVE_LEFT_O3D_9a2751274683b9",
+          "targetId": "O3D_c7b9f5dc40f4cb",
+          "targetName": "Right Levatores costarum longi",
+          "targetSystem": "muscular",
+          "intersectingTrianglePairs": 75,
+          "sourceTrianglesIntersecting": 28,
+          "targetTrianglesIntersecting": 46,
+          "targetWatertight": false,
+          "boneWatertight": true,
+          "targetSamplesInsideBone": 89,
+          "targetSampleBoneDepthMm": {
+            "count": 89,
+            "min": 0.010357097971873803,
+            "median": 0.5568467705126259,
+            "p95": 0.9476782226597009,
+            "max": 0.9860973338780732
+          },
+          "maximumDepthPointM": [
+            0.06655935943126678,
+            1.3540165424346924,
+            -0.08095066249370575
+          ]
+        },
+        {
+          "candidateId": "VMRA_NATIVE_LEFT_O3D_9a2751274683b9",
+          "targetId": "O3D_5fe7a0d06fe3f9",
+          "targetName": "Right Iliocostalis thoracis muscle",
+          "targetSystem": "muscular",
+          "intersectingTrianglePairs": 165,
+          "sourceTrianglesIntersecting": 76,
+          "targetTrianglesIntersecting": 88,
+          "targetWatertight": true,
+          "boneWatertight": true,
+          "targetSamplesInsideBone": 221,
+          "targetSampleBoneDepthMm": {
+            "count": 221,
+            "min": 0.0199166394888558,
+            "median": 2.2251085503580144,
+            "p95": 4.344424148647428,
+            "max": 4.710911876835078
+          },
+          "maximumDepthPointM": [
+            0.0858369842171669,
+            1.3437104225158691,
+            -0.07984530180692673
+          ],
+          "boneSamplesInsideClosedTarget": 104,
+          "boneSampleTargetDepthMm": {
+            "count": 104,
+            "min": 0.039923966208916965,
+            "median": 1.0035506347027674,
+            "p95": 2.2394976364817563,
+            "max": 2.5585878711444154
+          }
+        },
+        {
+          "candidateId": "VMRA_NATIVE_LEFT_O3D_9a2751274683b9",
+          "targetId": "O3D_8fd366deb726e3",
+          "targetName": "Right Longissimus thoracis muscle",
+          "targetSystem": "muscular",
+          "intersectingTrianglePairs": 23,
+          "sourceTrianglesIntersecting": 5,
+          "targetTrianglesIntersecting": 15,
+          "targetWatertight": true,
+          "boneWatertight": true,
+          "targetSamplesInsideBone": 17,
+          "targetSampleBoneDepthMm": {
+            "count": 17,
+            "min": 0.04402959094952145,
+            "median": 0.6312648837406969,
+            "p95": 1.2412580729420875,
+            "max": 1.4974654166823385
+          },
+          "maximumDepthPointM": [
+            0.06652513891458511,
+            1.3516724109649658,
+            -0.08139427751302719
+          ],
+          "boneSamplesInsideClosedTarget": 3,
+          "boneSampleTargetDepthMm": {
+            "count": 3,
+            "min": 0.20701482047342437,
+            "median": 0.47726706682124936,
+            "p95": 0.7114513217777485,
+            "max": 0.7374717945506929
+          }
+        }
+      ],
+      "reason": "Held conservatively: original source iliocostalis thoracis bulk penetrates the fifth rib interior; 165 strict pairs, sampled depth 4.710926 mm. Source identity does not establish an acceptable insertion surface."
+    },
+    {
+      "id": "VMRA_NATIVE_LEFT_O3D_ae8a20d45461be",
+      "sourceOriginalMeshId": "O3D_ae8a20d45461be",
+      "rightReferenceMeshId": "O3D_84d581d0704dc3",
+      "nameEn": "Left rib (6th)",
+      "accepted": false,
+      "reviewedPotentialPairs": 29,
+      "crossingTargetPairs": 5,
+      "strictTrianglePairCount": 434,
+      "wholeSourceComponentProof": {
+        "component": 0,
+        "sourceFaceCount": 4098,
+        "sourceVertexCount": 2254,
+        "sourceFaceIndexSha256": "0ee4954ab263cfc6cdad00cf2fb9cac41df367f6171068236cc25a8dd9d1fa0b",
+        "sourceVertexIndexSha256": "60c0343ae8bb427842557a7d9b4d582ec8c13f37835eee09cb18ab2442dfd100",
+        "positiveXMinimumM": 0.014699816703796387,
+        "proposedPhysicalId": "VMRA_NATIVE_LEFT_O3D_ae8a20d45461be",
+        "nameEn": "Left rib (6th)"
+      },
+      "contextPairs": [
+        {
+          "candidateId": "VMRA_NATIVE_LEFT_O3D_ae8a20d45461be",
+          "targetId": "O3D_9c52f9f1fb8ba0",
+          "targetName": "Right Levatores costarum breves",
+          "targetSystem": "muscular",
+          "intersectingTrianglePairs": 34,
+          "sourceTrianglesIntersecting": 14,
+          "targetTrianglesIntersecting": 14,
+          "targetWatertight": true,
+          "boneWatertight": true,
+          "targetSamplesInsideBone": 7,
+          "targetSampleBoneDepthMm": {
+            "count": 7,
+            "min": 0.0011268368045387594,
+            "median": 0.014440781153081905,
+            "p95": 0.036544630724731166,
+            "max": 0.039869781008042025
+          },
+          "maximumDepthPointM": [
+            0.05637793987989426,
+            1.3286669254302979,
+            -0.08993922919034958
+          ],
+          "boneSamplesInsideClosedTarget": 4,
+          "boneSampleTargetDepthMm": {
+            "count": 4,
+            "min": 0.010986392214688546,
+            "median": 0.024335628956890773,
+            "p95": 0.02781351874005053,
+            "max": 0.027903927926144323
+          }
+        },
+        {
+          "candidateId": "VMRA_NATIVE_LEFT_O3D_ae8a20d45461be",
+          "targetId": "O3D_c7b9f5dc40f4cb",
+          "targetName": "Right Levatores costarum longi",
+          "targetSystem": "muscular",
+          "intersectingTrianglePairs": 102,
+          "sourceTrianglesIntersecting": 43,
+          "targetTrianglesIntersecting": 57,
+          "targetWatertight": false,
+          "boneWatertight": true,
+          "targetSamplesInsideBone": 90,
+          "targetSampleBoneDepthMm": {
+            "count": 90,
+            "min": 0.006200630084183234,
+            "median": 0.3468347837551211,
+            "p95": 0.6768890787508828,
+            "max": 0.8118423033368658
+          },
+          "maximumDepthPointM": [
+            0.059882357716560364,
+            1.3257044553756714,
+            -0.09137719869613647
+          ]
+        },
+        {
+          "candidateId": "VMRA_NATIVE_LEFT_O3D_ae8a20d45461be",
+          "targetId": "O3D_360041b6610976",
+          "targetName": "Right Iliocostalis lumborum muscle",
+          "targetSystem": "muscular",
+          "intersectingTrianglePairs": 25,
+          "sourceTrianglesIntersecting": 8,
+          "targetTrianglesIntersecting": 10,
+          "targetWatertight": false,
+          "boneWatertight": true,
+          "targetSamplesInsideBone": 8,
+          "targetSampleBoneDepthMm": {
+            "count": 8,
+            "min": 0.06924490781014195,
+            "median": 0.18207026178719155,
+            "p95": 0.6953037525938667,
+            "max": 0.7292291434355813
+          },
+          "maximumDepthPointM": [
+            0.09986533969640732,
+            1.3040510813395183,
+            -0.083642082909743
+          ]
+        },
+        {
+          "candidateId": "VMRA_NATIVE_LEFT_O3D_ae8a20d45461be",
+          "targetId": "O3D_5fe7a0d06fe3f9",
+          "targetName": "Right Iliocostalis thoracis muscle",
+          "targetSystem": "muscular",
+          "intersectingTrianglePairs": 207,
+          "sourceTrianglesIntersecting": 83,
+          "targetTrianglesIntersecting": 119,
+          "targetWatertight": true,
+          "boneWatertight": true,
+          "targetSamplesInsideBone": 224,
+          "targetSampleBoneDepthMm": {
+            "count": 224,
+            "min": 0.00639532643579696,
+            "median": 1.6705282796347811,
+            "p95": 4.520106569079873,
+            "max": 5.006789772079478
+          },
+          "maximumDepthPointM": [
+            0.08048889289299647,
+            1.3154979546864827,
+            -0.08858094861110051
+          ],
+          "boneSamplesInsideClosedTarget": 101,
+          "boneSampleTargetDepthMm": {
+            "count": 101,
+            "min": 0.05771075830816907,
+            "median": 0.7743790675230421,
+            "p95": 1.8520320248369804,
+            "max": 2.601003231293791
+          }
+        },
+        {
+          "candidateId": "VMRA_NATIVE_LEFT_O3D_ae8a20d45461be",
+          "targetId": "O3D_8fd366deb726e3",
+          "targetName": "Right Longissimus thoracis muscle",
+          "targetSystem": "muscular",
+          "intersectingTrianglePairs": 66,
+          "sourceTrianglesIntersecting": 33,
+          "targetTrianglesIntersecting": 29,
+          "targetWatertight": true,
+          "boneWatertight": true,
+          "targetSamplesInsideBone": 29,
+          "targetSampleBoneDepthMm": {
+            "count": 29,
+            "min": 0.01696325764978261,
+            "median": 0.4176834242184804,
+            "p95": 0.8415332684981738,
+            "max": 0.8968962749451632
+          },
+          "maximumDepthPointM": [
+            0.06369509547948837,
+            1.3168336153030396,
+            -0.09482884407043457
+          ],
+          "boneSamplesInsideClosedTarget": 32,
+          "boneSampleTargetDepthMm": {
+            "count": 32,
+            "min": 0.0032100760529128786,
+            "median": 0.4189599256060222,
+            "p95": 0.8260206304233895,
+            "max": 0.9266622115118659
+          }
+        }
+      ],
+      "reason": "Held conservatively: original source iliocostalis thoracis bulk penetrates the sixth rib interior; 207 strict pairs, sampled depth 5.006842 mm. Source identity does not establish an acceptable insertion surface."
+    },
+    {
+      "id": "VMRA_NATIVE_LEFT_O3D_8bddca95bf4356",
+      "sourceOriginalMeshId": "O3D_8bddca95bf4356",
+      "rightReferenceMeshId": "O3D_1056282f5791ed",
+      "nameEn": "Left seventh rib",
+      "accepted": true,
+      "reviewedPotentialPairs": 33,
+      "crossingTargetPairs": 6,
+      "strictTrianglePairCount": 486,
+      "wholeSourceComponentProof": {
+        "component": 0,
+        "sourceFaceCount": 3550,
+        "sourceVertexCount": 1982,
+        "sourceFaceIndexSha256": "e7f48bcef326f37f8ae21a167f7260a58fdbbdd34b6f2c87edb803e5370d9351",
+        "sourceVertexIndexSha256": "1549988f42246250b4b5a5cb978f65ce7242fa6266e46d40fe770a8596d0859f",
+        "positiveXMinimumM": 0.01580718159675598,
+        "proposedPhysicalId": "VMRA_NATIVE_LEFT_O3D_8bddca95bf4356",
+        "nameEn": "Left rib (7th)"
+      },
+      "contextPairs": [
+        {
+          "candidateId": "VMRA_NATIVE_LEFT_O3D_8bddca95bf4356",
+          "targetId": "O3D_68066de05dbc5b",
+          "targetName": "Costal cartilage",
+          "targetSystem": "connective",
+          "intersectingTrianglePairs": 199,
+          "sourceTrianglesIntersecting": 58,
+          "targetTrianglesIntersecting": 132,
+          "targetWatertight": true,
+          "boneWatertight": true,
+          "targetSamplesInsideBone": 136,
+          "targetSampleBoneDepthMm": {
+            "count": 136,
+            "min": 0.0005416123929069313,
+            "median": 0.08995962322909844,
+            "p95": 0.2545811514724196,
+            "max": 0.3653870242555135
+          },
+          "maximumDepthPointM": [
+            0.10991307596365611,
+            1.1902588605880737,
+            0.0824224849541982
+          ],
+          "boneSamplesInsideClosedTarget": 34,
+          "boneSampleTargetDepthMm": {
+            "count": 34,
+            "min": 0.004334751114185822,
+            "median": 0.10775614959994492,
+            "p95": 0.3082269842001349,
+            "max": 0.4498192574137514
+          }
+        },
+        {
+          "candidateId": "VMRA_NATIVE_LEFT_O3D_8bddca95bf4356",
+          "targetId": "O3D_9c52f9f1fb8ba0",
+          "targetName": "Right Levatores costarum breves",
+          "targetSystem": "muscular",
+          "intersectingTrianglePairs": 66,
+          "sourceTrianglesIntersecting": 22,
+          "targetTrianglesIntersecting": 44,
+          "targetWatertight": true,
+          "boneWatertight": true,
+          "targetSamplesInsideBone": 87,
+          "targetSampleBoneDepthMm": {
+            "count": 87,
+            "min": 0.0027554857798839797,
+            "median": 0.19150112113874362,
+            "p95": 0.6587717909327281,
+            "max": 0.7870567031427629
+          },
+          "maximumDepthPointM": [
+            0.06285106390714645,
+            1.2900478839874268,
+            -0.09131776541471481
+          ],
+          "boneSamplesInsideClosedTarget": 10,
+          "boneSampleTargetDepthMm": {
+            "count": 10,
+            "min": 0.035891913756334784,
+            "median": 0.3912054743215892,
+            "p95": 0.7236458192594163,
+            "max": 0.7450498601490393
+          }
+        },
+        {
+          "candidateId": "VMRA_NATIVE_LEFT_O3D_8bddca95bf4356",
+          "targetId": "O3D_c7b9f5dc40f4cb",
+          "targetName": "Right Levatores costarum longi",
+          "targetSystem": "muscular",
+          "intersectingTrianglePairs": 44,
+          "sourceTrianglesIntersecting": 18,
+          "targetTrianglesIntersecting": 26,
+          "targetWatertight": false,
+          "boneWatertight": true,
+          "targetSamplesInsideBone": 23,
+          "targetSampleBoneDepthMm": {
+            "count": 23,
+            "min": 0.008087863470054269,
+            "median": 0.22422605921039673,
+            "p95": 0.46256453431589006,
+            "max": 0.47301786703363685
+          },
+          "maximumDepthPointM": [
+            0.06684006750583649,
+            1.2884496450424194,
+            -0.0928008183836937
+          ]
+        },
+        {
+          "candidateId": "VMRA_NATIVE_LEFT_O3D_8bddca95bf4356",
+          "targetId": "O3D_360041b6610976",
+          "targetName": "Right Iliocostalis lumborum muscle",
+          "targetSystem": "muscular",
+          "intersectingTrianglePairs": 46,
+          "sourceTrianglesIntersecting": 26,
+          "targetTrianglesIntersecting": 15,
+          "targetWatertight": false,
+          "boneWatertight": true,
+          "targetSamplesInsideBone": 11,
+          "targetSampleBoneDepthMm": {
+            "count": 11,
+            "min": 0.020941204808545624,
+            "median": 0.2859349919077188,
+            "p95": 0.6823608376748498,
+            "max": 0.7218566668637386
+          },
+          "maximumDepthPointM": [
+            0.0965517486135165,
+            1.2708852291107178,
+            -0.08924969534079234
+          ]
+        },
+        {
+          "candidateId": "VMRA_NATIVE_LEFT_O3D_8bddca95bf4356",
+          "targetId": "O3D_5fe7a0d06fe3f9",
+          "targetName": "Right Iliocostalis thoracis muscle",
+          "targetSystem": "muscular",
+          "intersectingTrianglePairs": 104,
+          "sourceTrianglesIntersecting": 41,
+          "targetTrianglesIntersecting": 43,
+          "targetWatertight": true,
+          "boneWatertight": true,
+          "targetSamplesInsideBone": 35,
+          "targetSampleBoneDepthMm": {
+            "count": 35,
+            "min": 0.01801826854881636,
+            "median": 0.19140014118680015,
+            "p95": 0.38647031289615164,
+            "max": 0.5148392118631807
+          },
+          "maximumDepthPointM": [
+            0.08140166848897934,
+            1.2862056096394856,
+            -0.09392903993527095
+          ],
+          "boneSamplesInsideClosedTarget": 36,
+          "boneSampleTargetDepthMm": {
+            "count": 36,
+            "min": 0.013627992776505948,
+            "median": 0.20547134462840266,
+            "p95": 0.3981982933254608,
+            "max": 0.48844691972090104
+          }
+        },
+        {
+          "candidateId": "VMRA_NATIVE_LEFT_O3D_8bddca95bf4356",
+          "targetId": "O3D_8fd366deb726e3",
+          "targetName": "Right Longissimus thoracis muscle",
+          "targetSystem": "muscular",
+          "intersectingTrianglePairs": 27,
+          "sourceTrianglesIntersecting": 11,
+          "targetTrianglesIntersecting": 15,
+          "targetWatertight": true,
+          "boneWatertight": true,
+          "targetSamplesInsideBone": 7,
+          "targetSampleBoneDepthMm": {
+            "count": 7,
+            "min": 0.12592984262973683,
+            "median": 0.2782428872808148,
+            "p95": 1.2040849523639963,
+            "max": 1.310148957722797
+          },
+          "maximumDepthPointM": [
+            0.06841183453798294,
+            1.281734585762024,
+            -0.0932023823261261
+          ],
+          "boneSamplesInsideClosedTarget": 6,
+          "boneSampleTargetDepthMm": {
+            "count": 6,
+            "min": 0.18360334023766847,
+            "median": 0.4327951586669007,
+            "p95": 0.813978489747912,
+            "max": 0.9034367153333835
+          }
+        }
+      ],
+      "reason": "Accepted with disclosed source-model attachment/joint residuals: contacts are limited to posterior rib muscles, costal cartilage/disc interfaces and, for lower ribs, the original Z diaphragm costal/posterior attachment. No blood vessel, nerve, hollow organ or other bone crossing is present. Not an exact enthesis model."
+    },
+    {
+      "id": "VMRA_NATIVE_LEFT_O3D_de2781bd871d9d",
+      "sourceOriginalMeshId": "O3D_de2781bd871d9d",
+      "rightReferenceMeshId": "O3D_4d4e85342a6c0a",
+      "nameEn": "Left eighth rib",
+      "accepted": true,
+      "reviewedPotentialPairs": 43,
+      "crossingTargetPairs": 6,
+      "strictTrianglePairCount": 624,
+      "wholeSourceComponentProof": {
+        "component": 0,
+        "sourceFaceCount": 3904,
+        "sourceVertexCount": 2160,
+        "sourceFaceIndexSha256": "7e83d651c42bfedac7d287c5fb08affdcde44e6845242ff01c6836c657b90fc2",
+        "sourceVertexIndexSha256": "e95de8777e0d66841ffccafb9b1d4e8053836bf564ccac10615645fdf6c98527",
+        "positiveXMinimumM": 0.016334474086761475,
+        "proposedPhysicalId": "VMRA_NATIVE_LEFT_O3D_de2781bd871d9d",
+        "nameEn": "Left rib (8th)"
+      },
+      "contextPairs": [
+        {
+          "candidateId": "VMRA_NATIVE_LEFT_O3D_de2781bd871d9d",
+          "targetId": "O3D_68066de05dbc5b",
+          "targetName": "Costal cartilage",
+          "targetSystem": "connective",
+          "intersectingTrianglePairs": 205,
+          "sourceTrianglesIntersecting": 62,
+          "targetTrianglesIntersecting": 122,
+          "targetWatertight": true,
+          "boneWatertight": true,
+          "targetSamplesInsideBone": 124,
+          "targetSampleBoneDepthMm": {
+            "count": 124,
+            "min": 0.0007086523802962098,
+            "median": 0.09444157272264778,
+            "p95": 0.29326833500889343,
+            "max": 0.40099210158742343
+          },
+          "maximumDepthPointM": [
+            0.1152513176202774,
+            1.1369954744974773,
+            0.06003267069657644
+          ],
+          "boneSamplesInsideClosedTarget": 49,
+          "boneSampleTargetDepthMm": {
+            "count": 49,
+            "min": 0.016604529291734456,
+            "median": 0.1337619555541515,
+            "p95": 0.3260714980659929,
+            "max": 0.41653858371273444
+          }
+        },
+        {
+          "candidateId": "VMRA_NATIVE_LEFT_O3D_de2781bd871d9d",
+          "targetId": "O3D_9c52f9f1fb8ba0",
+          "targetName": "Right Levatores costarum breves",
+          "targetSystem": "muscular",
+          "intersectingTrianglePairs": 118,
+          "sourceTrianglesIntersecting": 35,
+          "targetTrianglesIntersecting": 82,
+          "targetWatertight": true,
+          "boneWatertight": true,
+          "targetSamplesInsideBone": 236,
+          "targetSampleBoneDepthMm": {
+            "count": 236,
+            "min": 0.002709922847009109,
+            "median": 0.41086587276795616,
+            "p95": 1.459521963538554,
+            "max": 1.6805073472468894
+          },
+          "maximumDepthPointM": [
+            0.057749820252259575,
+            1.2643684943517048,
+            -0.09099810322125752
+          ],
+          "boneSamplesInsideClosedTarget": 47,
+          "boneSampleTargetDepthMm": {
+            "count": 47,
+            "min": 0.0668070555038221,
+            "median": 0.7068173912295499,
+            "p95": 1.3601020082194364,
+            "max": 1.5080931961391992
+          }
+        },
+        {
+          "candidateId": "VMRA_NATIVE_LEFT_O3D_de2781bd871d9d",
+          "targetId": "O3D_c7b9f5dc40f4cb",
+          "targetName": "Right Levatores costarum longi",
+          "targetSystem": "muscular",
+          "intersectingTrianglePairs": 97,
+          "sourceTrianglesIntersecting": 34,
+          "targetTrianglesIntersecting": 61,
+          "targetWatertight": false,
+          "boneWatertight": true,
+          "targetSamplesInsideBone": 112,
+          "targetSampleBoneDepthMm": {
+            "count": 112,
+            "min": 0.0014488014180814824,
+            "median": 0.26827650619401366,
+            "p95": 0.766503955359434,
+            "max": 0.9478026721376286
+          },
+          "maximumDepthPointM": [
+            0.06363190710544586,
+            1.2597566843032837,
+            -0.09286097437143326
+          ]
+        },
+        {
+          "candidateId": "VMRA_NATIVE_LEFT_O3D_de2781bd871d9d",
+          "targetId": "O3D_360041b6610976",
+          "targetName": "Right Iliocostalis lumborum muscle",
+          "targetSystem": "muscular",
+          "intersectingTrianglePairs": 56,
+          "sourceTrianglesIntersecting": 32,
+          "targetTrianglesIntersecting": 21,
+          "targetWatertight": false,
+          "boneWatertight": true,
+          "targetSamplesInsideBone": 19,
+          "targetSampleBoneDepthMm": {
+            "count": 19,
+            "min": 0.04786066752146376,
+            "median": 0.2899026627846702,
+            "p95": 0.6035979148923993,
+            "max": 0.6563382781568904
+          },
+          "maximumDepthPointM": [
+            0.10068247963984807,
+            1.2273138364156086,
+            -0.07872418065865834
+          ]
+        },
+        {
+          "candidateId": "VMRA_NATIVE_LEFT_O3D_de2781bd871d9d",
+          "targetId": "O3D_5fe7a0d06fe3f9",
+          "targetName": "Right Iliocostalis thoracis muscle",
+          "targetSystem": "muscular",
+          "intersectingTrianglePairs": 119,
+          "sourceTrianglesIntersecting": 43,
+          "targetTrianglesIntersecting": 37,
+          "targetWatertight": true,
+          "boneWatertight": true,
+          "targetSamplesInsideBone": 20,
+          "targetSampleBoneDepthMm": {
+            "count": 20,
+            "min": 0.01572995211969466,
+            "median": 0.09958975413902767,
+            "p95": 0.2164164900671003,
+            "max": 0.3582526861380962
+          },
+          "maximumDepthPointM": [
+            0.07908116529385249,
+            1.2502859433492024,
+            -0.09553603827953339
+          ],
+          "boneSamplesInsideClosedTarget": 29,
+          "boneSampleTargetDepthMm": {
+            "count": 29,
+            "min": 0.011031932908575483,
+            "median": 0.09648640532291423,
+            "p95": 0.260575489417328,
+            "max": 0.4248632673850336
+          }
+        },
+        {
+          "candidateId": "VMRA_NATIVE_LEFT_O3D_de2781bd871d9d",
+          "targetId": "O3D_8fd366deb726e3",
+          "targetName": "Right Longissimus thoracis muscle",
+          "targetSystem": "muscular",
+          "intersectingTrianglePairs": 29,
+          "sourceTrianglesIntersecting": 13,
+          "targetTrianglesIntersecting": 14,
+          "targetWatertight": true,
+          "boneWatertight": true,
+          "targetSamplesInsideBone": 13,
+          "targetSampleBoneDepthMm": {
+            "count": 13,
+            "min": 0.06572892952614781,
+            "median": 0.5382923064910978,
+            "p95": 1.1579515528353987,
+            "max": 1.2286576476537503
+          },
+          "maximumDepthPointM": [
+            0.06353244930505753,
+            1.2516450881958008,
+            -0.09206385910511017
+          ],
+          "boneSamplesInsideClosedTarget": 7,
+          "boneSampleTargetDepthMm": {
+            "count": 7,
+            "min": 0.036985549270446456,
+            "median": 0.2663302210097068,
+            "p95": 0.6800770581032133,
+            "max": 0.7574365809522597
+          }
+        }
+      ],
+      "reason": "Accepted with disclosed source-model attachment/joint residuals: contacts are limited to posterior rib muscles, costal cartilage/disc interfaces and, for lower ribs, the original Z diaphragm costal/posterior attachment. No blood vessel, nerve, hollow organ or other bone crossing is present. Not an exact enthesis model."
+    },
+    {
+      "id": "VMRA_NATIVE_LEFT_O3D_5f2e3583be1966",
+      "sourceOriginalMeshId": "O3D_5f2e3583be1966",
+      "rightReferenceMeshId": "O3D_cd57752b68ea2a",
+      "nameEn": "Left ninth rib",
+      "accepted": true,
+      "reviewedPotentialPairs": 48,
+      "crossingTargetPairs": 6,
+      "strictTrianglePairCount": 567,
+      "wholeSourceComponentProof": {
+        "component": 0,
+        "sourceFaceCount": 3698,
+        "sourceVertexCount": 2051,
+        "sourceFaceIndexSha256": "539dfdb0b188ebc458169059b5bd81fdb8940e78aee1292d86257237bb884f99",
+        "sourceVertexIndexSha256": "c0b593b16540b37b38407a5eaffb9f616bdeddcf719cd7346676f9a75ee448c9",
+        "positiveXMinimumM": 0.016909673810005188,
+        "proposedPhysicalId": "VMRA_NATIVE_LEFT_O3D_5f2e3583be1966",
+        "nameEn": "Left rib (9th)"
+      },
+      "contextPairs": [
+        {
+          "candidateId": "VMRA_NATIVE_LEFT_O3D_5f2e3583be1966",
+          "targetId": "O3D_68066de05dbc5b",
+          "targetName": "Costal cartilage",
+          "targetSystem": "connective",
+          "intersectingTrianglePairs": 151,
+          "sourceTrianglesIntersecting": 51,
+          "targetTrianglesIntersecting": 95,
+          "targetWatertight": true,
+          "boneWatertight": true,
+          "targetSamplesInsideBone": 211,
+          "targetSampleBoneDepthMm": {
+            "count": 211,
+            "min": 0.0007565743292644857,
+            "median": 0.37563004092659263,
+            "p95": 0.730303298941307,
+            "max": 0.9338867307519952
+          },
+          "maximumDepthPointM": [
+            0.12128311395645142,
+            1.1071867942810059,
+            0.030959539115428925
+          ],
+          "boneSamplesInsideClosedTarget": 91,
+          "boneSampleTargetDepthMm": {
+            "count": 91,
+            "min": 0.0029509270449255528,
+            "median": 0.4083145121201425,
+            "p95": 0.6976936794210826,
+            "max": 0.8090516914768203
+          }
+        },
+        {
+          "candidateId": "VMRA_NATIVE_LEFT_O3D_5f2e3583be1966",
+          "targetId": "O3D_9c52f9f1fb8ba0",
+          "targetName": "Right Levatores costarum breves",
+          "targetSystem": "muscular",
+          "intersectingTrianglePairs": 58,
+          "sourceTrianglesIntersecting": 22,
+          "targetTrianglesIntersecting": 36,
+          "targetWatertight": true,
+          "boneWatertight": true,
+          "targetSamplesInsideBone": 45,
+          "targetSampleBoneDepthMm": {
+            "count": 45,
+            "min": 0.004515036013162419,
+            "median": 0.2564684211008011,
+            "p95": 0.4937043709515836,
+            "max": 0.5774538618679632
+          },
+          "maximumDepthPointM": [
+            0.05230226367712021,
+            1.2340806325276692,
+            -0.08741524070501328
+          ],
+          "boneSamplesInsideClosedTarget": 23,
+          "boneSampleTargetDepthMm": {
+            "count": 23,
+            "min": 0.025471795703100823,
+            "median": 0.2613153028251764,
+            "p95": 0.5048137980474949,
+            "max": 0.5902329504269693
+          }
+        },
+        {
+          "candidateId": "VMRA_NATIVE_LEFT_O3D_5f2e3583be1966",
+          "targetId": "O3D_c7b9f5dc40f4cb",
+          "targetName": "Right Levatores costarum longi",
+          "targetSystem": "muscular",
+          "intersectingTrianglePairs": 62,
+          "sourceTrianglesIntersecting": 20,
+          "targetTrianglesIntersecting": 42,
+          "targetWatertight": false,
+          "boneWatertight": true,
+          "targetSamplesInsideBone": 102,
+          "targetSampleBoneDepthMm": {
+            "count": 102,
+            "min": 0.006331969784554016,
+            "median": 0.4016988966421583,
+            "p95": 1.0693084188226587,
+            "max": 1.1528794486482514
+          },
+          "maximumDepthPointM": [
+            0.06411312520503998,
+            1.2264118194580078,
+            -0.09075561165809631
+          ]
+        },
+        {
+          "candidateId": "VMRA_NATIVE_LEFT_O3D_5f2e3583be1966",
+          "targetId": "O3D_360041b6610976",
+          "targetName": "Right Iliocostalis lumborum muscle",
+          "targetSystem": "muscular",
+          "intersectingTrianglePairs": 116,
+          "sourceTrianglesIntersecting": 73,
+          "targetTrianglesIntersecting": 35,
+          "targetWatertight": false,
+          "boneWatertight": true,
+          "targetSamplesInsideBone": 36,
+          "targetSampleBoneDepthMm": {
+            "count": 36,
+            "min": 0.05429487669524929,
+            "median": 0.7227309564438654,
+            "p95": 2.456721869656546,
+            "max": 2.751773524458309
+          },
+          "maximumDepthPointM": [
+            0.08407706767320633,
+            1.2054081757863362,
+            -0.08590612063805263
+          ]
+        },
+        {
+          "candidateId": "VMRA_NATIVE_LEFT_O3D_5f2e3583be1966",
+          "targetId": "O3D_5fe7a0d06fe3f9",
+          "targetName": "Right Iliocostalis thoracis muscle",
+          "targetSystem": "muscular",
+          "intersectingTrianglePairs": 136,
+          "sourceTrianglesIntersecting": 57,
+          "targetTrianglesIntersecting": 49,
+          "targetWatertight": true,
+          "boneWatertight": true,
+          "targetSamplesInsideBone": 33,
+          "targetSampleBoneDepthMm": {
+            "count": 33,
+            "min": 0.009189141342409661,
+            "median": 0.18098815929917425,
+            "p95": 0.46535741630752014,
+            "max": 0.6033669512187372
+          },
+          "maximumDepthPointM": [
+            0.07066049426794052,
+            1.2236804564793904,
+            -0.09237989286581676
+          ],
+          "boneSamplesInsideClosedTarget": 49,
+          "boneSampleTargetDepthMm": {
+            "count": 49,
+            "min": 0.0016891593220986587,
+            "median": 0.19717973139502204,
+            "p95": 0.5681567877993354,
+            "max": 0.7177169927071249
+          }
+        },
+        {
+          "candidateId": "VMRA_NATIVE_LEFT_O3D_5f2e3583be1966",
+          "targetId": "ZA_3b5abb7437a2b8",
+          "targetName": "Diaphragm",
+          "targetSystem": "muscular",
+          "intersectingTrianglePairs": 44,
+          "sourceTrianglesIntersecting": 28,
+          "targetTrianglesIntersecting": 15,
+          "targetWatertight": true,
+          "boneWatertight": true,
+          "targetSamplesInsideBone": 11,
+          "targetSampleBoneDepthMm": {
+            "count": 11,
+            "min": 0.15615125241196876,
+            "median": 0.6177453456675692,
+            "p95": 0.9345228874821461,
+            "max": 0.9996017560815967
+          },
+          "maximumDepthPointM": [
+            0.1206202358007431,
+            1.1102854013442993,
+            0.03160814940929413
+          ],
+          "boneSamplesInsideClosedTarget": 43,
+          "boneSampleTargetDepthMm": {
+            "count": 43,
+            "min": 0.024268219732557793,
+            "median": 0.6292944708277368,
+            "p95": 1.1880565662440328,
+            "max": 1.2391396631207166
+          }
+        }
+      ],
+      "reason": "Accepted with disclosed source-model attachment/joint residuals: contacts are limited to posterior rib muscles, costal cartilage/disc interfaces and, for lower ribs, the original Z diaphragm costal/posterior attachment. No blood vessel, nerve, hollow organ or other bone crossing is present. Not an exact enthesis model."
+    },
+    {
+      "id": "VMRA_NATIVE_LEFT_O3D_2dd47663fd9252",
+      "sourceOriginalMeshId": "O3D_2dd47663fd9252",
+      "rightReferenceMeshId": "O3D_0b76a292ebe35b",
+      "nameEn": "Left scapula",
+      "accepted": true,
+      "reviewedPotentialPairs": 8,
+      "crossingTargetPairs": 0,
+      "strictTrianglePairCount": 0,
+      "wholeSourceComponentProof": {
+        "component": 0,
+        "sourceFaceCount": 9180,
+        "sourceVertexCount": 4929,
+        "sourceFaceIndexSha256": "817fd2db3d05d8f958de350100e2ee21416c46dbdca39bb549c530a969a2b4de",
+        "sourceVertexIndexSha256": "9fc17ef09c7f80cb138970a6b8c0742cff0ee06d882bf65fa598f74cab6b7f17",
+        "positiveXMinimumM": 0.06020423769950867,
+        "proposedPhysicalId": "VMRA_NATIVE_LEFT_O3D_2dd47663fd9252",
+        "nameEn": "Left scapula"
+      },
+      "contextPairs": [],
+      "reason": "Accepted: complete original left source bone; no strict crossings or whole-component containment against the frozen current body; no candidate bone mutual crossings."
+    }
+  ],
+  "limitations": [
+    "This educational composition adds eleven intact original left bone components. It is not a complete left skeleton, limb, head/neck or measured whole-human atlas.",
+    "No mirroring, coordinate transform, triangle slicing, source anatomical deformation or new inferred bone surface is used. Original right physical IDs and raw datasets remain untouched.",
+    "The retained rib interfaces are not collision-free: original posterior muscle attachment and cartilage/joint surface overlaps remain. The largest retained sampled muscle-to-bone overlap is 3.052447 mm at second rib / levatores costarum breves.",
+    "The existing Z diaphragm contacts ribs 9–12 at costal/posterior attachment regions. Sampled depths are respectively 0.999602, 1.426751, 0.519560 and 2.192070 mm. Original Z rib comparisons already have related residuals of 1.487783, 1.919304, 0.940294 and 1.889180 mm; shared ancestry does not establish exact interface registration.",
+    "These are accepted as disclosed bounded source-model attachment residuals for gross educational viewing, not as measured entheses, physiological tissue fusion, clinical segmentation or exact layer separation.",
+    "Clavicle, hip, first/fifth/sixth ribs remain held. Ribs as a canonical group must stay partial; only available numbered source bones are represented.",
+    "The source Humerus and Scapula components establish intact left bones and their original shared frame only. Left forearm/hand and shoulder soft-tissue completion is not inferred.",
+    "Triangle crossing counts and finite contained vertex/centroid depth samples are reproducible diagnostics, not continuous volume overlap or global Hausdorff bounds.",
+    "Some original retained Right-labelled muscle and vein nodes contain both sides. Source names and physical extent are distinct; new left bone names are independently supported by complete positive-X source components.",
+    "Original material, normal, UV and resolved texture/image values are preserved. Mixed original licensing and attribution notices are included; no new licence is granted."
+  ],
+  "requiredCreditFiles": [
+    "ATTRIBUTION.txt",
+    "ORIGINAL_open3d-muscles-thorax-abdomen_ATTRIBUTION.txt"
+  ],
+  "scientificFigures": [
+    {
+      "path": "anatomy-research/unified-body-v45/full-body-anatomy-review/bone-interface-sections.png",
+      "bytes": 654532,
+      "sha256": "24f479f7efe1951bfd097606e7cc6c9d6ad26c83693fd57ef23a74926d0bc341"
+    },
+    {
+      "path": "anatomy-research/unified-body-v45/full-body-anatomy-review/rib-iliocostalis-projection.png",
+      "bytes": 1074090,
+      "sha256": "a71a8e18f688f6436d96de54f4a3c670b553fd19cb91015cfb79505330995f4e"
+    }
+  ],
+  "reviewInterpretation": "Bounded educational composition decision, not measured anatomical accuracy or a blanket zero-collision assertion.",
+  "fullResearchReviewPin": {
+    "path": "anatomy-research/unified-body-v45/full-body-anatomy-review/final-bone-acceptance.json",
+    "bytes": 719769,
+    "sha256": "b37f7685999cba8aac9805ee12ec4d0551ce4d6e70b53dfe41cb0574d8802cc3"
+  }
+}

@@ -1,0 +1,30 @@
+Inferior mesenteric plexus · Illustrative reconstruction
+VMRA Anatomy Studio (2026).
+CC-BY-SA-4.0 · https://creativecommons.org/licenses/by-sa/4.0/
+New illustrative nerve surfaces follow external corridors derived from original inferior mesenteric, left-colic and sigmoid arterial surfaces. Neural departures toward the composed compound bowel wall, thread positions, thickness and junctions are authored. This is not measured nerve segmentation. Original anatomical files remain unchanged.
+Representative regional sympathetic contribution toward the descending and sigmoid regions of one intact compound bowel surface. Exact nerve fibers, caliber, complete innervation and a sharp internal territorial boundary are not measured or claimed. Upstream neural connections, pelvic parasympathetic pathways and intramural branches are not represented.
+
+Geometry sources:
+Z-Anatomy — The libre 3D atlas of anatomy — Gauthier Kervyn, Marcin Zielinski, Lluis Vinent
+https://github.com/Z-Anatomy/Models-of-human-anatomy
+CC-BY-SA-4.0 · https://creativecommons.org/licenses/by-sa/4.0/
+Source arterial and intestinal geometry underlying the geometric guides and organ-facing approach. The composed intestinal surfaces include the recorded VMRA source-derived accommodation.
+
+BodyParts3D — The Database Center for Life Science
+https://lifesciencedb.jp/bp3d/
+CC-BY-SA-2.1-JP · https://creativecommons.org/licenses/by-sa/2.1/jp/
+Upstream attribution notice retained as supplied by Z-Anatomy.
+
+Anatomical references:
+Nerves of the Abdomen — UAMS Department of Neuroscience
+https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/nerve-tables/nerves-of-the-abdomen/
+Gross anatomical relationships only; no figures or extensive text copied.
+
+Characterisation of parasympathetic ascending nerves in human colon — Johnson et al.
+https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2022.1072002/full
+Gross relationship evidence only; no microscopic geometry or images copied.
+
+Anatomical characterization and visualization of the left dominant inferior mesenteric ganglionated plexus for nerve sparing colorectal surgery — Yaguchi and Kawashima
+https://www.nature.com/articles/s41598-026-39814-8
+Factual anatomical relationships only; no article artwork, specimen images or restricted derivatives used.
+

@@ -1,0 +1,569 @@
+{
+  "purpose": "Read-only validation of source bilateral aggregates; no model geometry created or modified",
+  "pairedSourceBoneCount": 16,
+  "allPairsHaveEqualVertexCountsOnEachSide": true,
+  "allRightSourceComponentBoundsWithin1mmOfSkeleton": true,
+  "maxBoundsDifferenceMetres": 1.4200806617736816e-05,
+  "structures": [
+    {
+      "sourceName": "Clavicle",
+      "sourceId": "O3D_bdeed62ca62ce3",
+      "sourceVertexCount": 5340,
+      "negativeXVertexCount": 2670,
+      "positiveXVertexCount": 2670,
+      "sourceWholeBounds": [
+        [
+          -0.14995618164539337,
+          1.3902572393417358,
+          -0.053988195955753326
+        ],
+        [
+          0.14995618164539337,
+          1.4230512380599976,
+          0.04750301316380501
+        ]
+      ],
+      "negativeXVerticesBounds": [
+        [
+          -0.14995618164539337,
+          1.3902572393417358,
+          -0.053988195955753326
+        ],
+        [
+          -0.010205775499343872,
+          1.4230438470840454,
+          0.04750201106071472
+        ]
+      ],
+      "correspondingSkeletonSourceName": "Clavicle.r",
+      "correspondingSkeletonId": "O3D_7c7436abc4f31a",
+      "boundsDifferenceMetres": 1.0728836059570312e-05,
+      "interpretation": "Original torso mesh combines bilateral bone geometry. Its right-side source vertices match the original overview right bone in the shared coordinate frame. The bilateral torso bone was omitted wholesale; no vertices were cropped/exported from this validation."
+    },
+    {
+      "sourceName": "Hip bone",
+      "sourceId": "O3D_40fd32157ec646",
+      "sourceVertexCount": 12494,
+      "negativeXVertexCount": 6247,
+      "positiveXVertexCount": 6247,
+      "sourceWholeBounds": [
+        [
+          -0.13483551144599915,
+          0.7980076670646667,
+          -0.0859820693731308
+        ],
+        [
+          0.13483551144599915,
+          1.0113475322723389,
+          0.05567369982600212
+        ]
+      ],
+      "negativeXVerticesBounds": [
+        [
+          -0.13483551144599915,
+          0.7980076670646667,
+          -0.0859820693731308
+        ],
+        [
+          -0.0029217302799224854,
+          1.0113511085510254,
+          0.055676281452178955
+        ]
+      ],
+      "correspondingSkeletonSourceName": "Hip bone.r",
+      "correspondingSkeletonId": "O3D_0432208a152acf",
+      "boundsDifferenceMetres": 4.738569259643555e-06,
+      "interpretation": "Original torso mesh combines bilateral bone geometry. Its right-side source vertices match the original overview right bone in the shared coordinate frame. The bilateral torso bone was omitted wholesale; no vertices were cropped/exported from this validation."
+    },
+    {
+      "sourceName": "Humerus",
+      "sourceId": "O3D_529cd1e2ec44af",
+      "sourceVertexCount": 9122,
+      "negativeXVertexCount": 4561,
+      "positiveXVertexCount": 4561,
+      "sourceWholeBounds": [
+        [
+          -0.24787671864032745,
+          1.0877516269683838,
+          -0.057386770844459534
+        ],
+        [
+          0.24787671864032745,
+          1.4049270153045654,
+          -0.00573301687836647
+        ]
+      ],
+      "negativeXVerticesBounds": [
+        [
+          -0.24787671864032745,
+          1.0877516269683838,
+          -0.057386770844459534
+        ],
+        [
+          -0.14526426792144775,
+          1.4049394130706787,
+          -0.005732551217079163
+        ]
+      ],
+      "correspondingSkeletonSourceName": "Humerus.r",
+      "correspondingSkeletonId": "O3D_51d578370516da",
+      "boundsDifferenceMetres": 1.239776611328125e-05,
+      "interpretation": "Original torso mesh combines bilateral bone geometry. Its right-side source vertices match the original overview right bone in the shared coordinate frame. The bilateral torso bone was omitted wholesale; no vertices were cropped/exported from this validation."
+    },
+    {
+      "sourceName": "Rib (10th)",
+      "sourceId": "O3D_025acb3eb4f4c3",
+      "sourceVertexCount": 4250,
+      "negativeXVertexCount": 2125,
+      "positiveXVertexCount": 2125,
+      "sourceWholeBounds": [
+        [
+          -0.1316351741552353,
+          1.072798728942871,
+          -0.08485627174377441
+        ],
+        [
+          0.1316351741552353,
+          1.2300821542739868,
+          0.024013053625822067
+        ]
+      ],
+      "negativeXVerticesBounds": [
+        [
+          -0.1316351741552353,
+          1.072798728942871,
+          -0.08485627174377441
+        ],
+        [
+          -0.01672055572271347,
+          1.2300891876220703,
+          0.0240161269903183
+        ]
+      ],
+      "correspondingSkeletonSourceName": "Rib (10th).r",
+      "correspondingSkeletonId": "O3D_729df736695dda",
+      "boundsDifferenceMetres": 1.1816620826721191e-05,
+      "interpretation": "Original torso mesh combines bilateral bone geometry. Its right-side source vertices match the original overview right bone in the shared coordinate frame. The bilateral torso bone was omitted wholesale; no vertices were cropped/exported from this validation."
+    },
+    {
+      "sourceName": "Rib (11th)",
+      "sourceId": "O3D_ce73e88b02db18",
+      "sourceVertexCount": 2560,
+      "negativeXVertexCount": 1280,
+      "positiveXVertexCount": 1280,
+      "sourceWholeBounds": [
+        [
+          -0.11969877779483795,
+          1.0596880912780762,
+          -0.07852477580308914
+        ],
+        [
+          0.11969877779483795,
+          1.1899040937423706,
+          0.0016855783760547638
+        ]
+      ],
+      "negativeXVerticesBounds": [
+        [
+          -0.11969877779483795,
+          1.0596880912780762,
+          -0.07852477580308914
+        ],
+        [
+          -0.020084962248802185,
+          1.1899006366729736,
+          0.001683562994003296
+        ]
+      ],
+      "correspondingSkeletonSourceName": "Rib (11th).r",
+      "correspondingSkeletonId": "O3D_30e605fc81a7a4",
+      "boundsDifferenceMetres": 5.289912223815918e-06,
+      "interpretation": "Original torso mesh combines bilateral bone geometry. Its right-side source vertices match the original overview right bone in the shared coordinate frame. The bilateral torso bone was omitted wholesale; no vertices were cropped/exported from this validation."
+    },
+    {
+      "sourceName": "Rib (12th)",
+      "sourceId": "O3D_f3428a581f4473",
+      "sourceVertexCount": 1466,
+      "negativeXVertexCount": 733,
+      "positiveXVertexCount": 733,
+      "sourceWholeBounds": [
+        [
+          -0.08564835041761398,
+          1.056557059288025,
+          -0.06822995841503143
+        ],
+        [
+          0.08564835041761398,
+          1.1541571617126465,
+          -0.022009462118148804
+        ]
+      ],
+      "negativeXVerticesBounds": [
+        [
+          -0.08564835041761398,
+          1.056557059288025,
+          -0.06822995841503143
+        ],
+        [
+          -0.021481357514858246,
+          1.1541615724563599,
+          -0.022005047649145126
+        ]
+      ],
+      "correspondingSkeletonSourceName": "Rib (12th).r",
+      "correspondingSkeletonId": "O3D_0d8c85afd5d8a6",
+      "boundsDifferenceMetres": 6.1318278312683105e-06,
+      "interpretation": "Original torso mesh combines bilateral bone geometry. Its right-side source vertices match the original overview right bone in the shared coordinate frame. The bilateral torso bone was omitted wholesale; no vertices were cropped/exported from this validation."
+    },
+    {
+      "sourceName": "Rib (1st)",
+      "sourceId": "O3D_5a07a20979d0db",
+      "sourceVertexCount": 2236,
+      "negativeXVertexCount": 1118,
+      "positiveXVertexCount": 1118,
+      "sourceWholeBounds": [
+        [
+          -0.07120504975318909,
+          1.38759446144104,
+          -0.03376103937625885
+        ],
+        [
+          0.07120504975318909,
+          1.4461297988891602,
+          0.03673252463340759
+        ]
+      ],
+      "negativeXVerticesBounds": [
+        [
+          -0.07120504975318909,
+          1.38759446144104,
+          -0.03376103937625885
+        ],
+        [
+          -0.016789667308330536,
+          1.4461301565170288,
+          0.03673556447029114
+        ]
+      ],
+      "correspondingSkeletonSourceName": "Rib (1st).r",
+      "correspondingSkeletonId": "O3D_51e8dd76018b0f",
+      "boundsDifferenceMetres": 3.039836883544922e-06,
+      "interpretation": "Original torso mesh combines bilateral bone geometry. Its right-side source vertices match the original overview right bone in the shared coordinate frame. The bilateral torso bone was omitted wholesale; no vertices were cropped/exported from this validation."
+    },
+    {
+      "sourceName": "Rib (2nd)",
+      "sourceId": "O3D_12566afc8ac71c",
+      "sourceVertexCount": 3418,
+      "negativeXVertexCount": 1709,
+      "positiveXVertexCount": 1709,
+      "sourceWholeBounds": [
+        [
+          -0.09958840906620026,
+          1.3457283973693848,
+          -0.049070414155721664
+        ],
+        [
+          0.09958840906620026,
+          1.4356662034988403,
+          0.06567146629095078
+        ]
+      ],
+      "negativeXVerticesBounds": [
+        [
+          -0.09958840906620026,
+          1.3457283973693848,
+          -0.049070414155721664
+        ],
+        [
+          -0.016126960515975952,
+          1.4356697797775269,
+          0.06567235291004181
+        ]
+      ],
+      "correspondingSkeletonSourceName": "Rib (2nd).r",
+      "correspondingSkeletonId": "O3D_4236788925f1d4",
+      "boundsDifferenceMetres": 6.67572021484375e-06,
+      "interpretation": "Original torso mesh combines bilateral bone geometry. Its right-side source vertices match the original overview right bone in the shared coordinate frame. The bilateral torso bone was omitted wholesale; no vertices were cropped/exported from this validation."
+    },
+    {
+      "sourceName": "Rib (3rd)",
+      "sourceId": "O3D_d0e1cb2dc7975a",
+      "sourceVertexCount": 4374,
+      "negativeXVertexCount": 2187,
+      "positiveXVertexCount": 2187,
+      "sourceWholeBounds": [
+        [
+          -0.11259480565786362,
+          1.3109841346740723,
+          -0.0626489594578743
+        ],
+        [
+          0.11259480565786362,
+          1.4161200523376465,
+          0.07597017288208008
+        ]
+      ],
+      "negativeXVerticesBounds": [
+        [
+          -0.11259480565786362,
+          1.3109841346740723,
+          -0.0626489594578743
+        ],
+        [
+          -0.01599268615245819,
+          1.4161220788955688,
+          0.07597260922193527
+        ]
+      ],
+      "correspondingSkeletonSourceName": "Rib (3rd).r",
+      "correspondingSkeletonId": "O3D_d272794bbf886a",
+      "boundsDifferenceMetres": 2.436339855194092e-06,
+      "interpretation": "Original torso mesh combines bilateral bone geometry. Its right-side source vertices match the original overview right bone in the shared coordinate frame. The bilateral torso bone was omitted wholesale; no vertices were cropped/exported from this validation."
+    },
+    {
+      "sourceName": "Rib (4th)",
+      "sourceId": "O3D_11991810878b71",
+      "sourceVertexCount": 5318,
+      "negativeXVertexCount": 2659,
+      "positiveXVertexCount": 2659,
+      "sourceWholeBounds": [
+        [
+          -0.1255813091993332,
+          1.2781308889389038,
+          -0.0768711119890213
+        ],
+        [
+          0.1255813091993332,
+          1.39429771900177,
+          0.09210039675235748
+        ]
+      ],
+      "negativeXVerticesBounds": [
+        [
+          -0.1255813091993332,
+          1.2781308889389038,
+          -0.0768711119890213
+        ],
+        [
+          -0.014571823179721832,
+          1.3942915201187134,
+          0.09210368990898132
+        ]
+      ],
+      "correspondingSkeletonSourceName": "Rib (4th).r",
+      "correspondingSkeletonId": "O3D_8e3a0b2cf52b6d",
+      "boundsDifferenceMetres": 4.0531158447265625e-06,
+      "interpretation": "Original torso mesh combines bilateral bone geometry. Its right-side source vertices match the original overview right bone in the shared coordinate frame. The bilateral torso bone was omitted wholesale; no vertices were cropped/exported from this validation."
+    },
+    {
+      "sourceName": "Rib (5th)",
+      "sourceId": "O3D_9a2751274683b9",
+      "sourceVertexCount": 4460,
+      "negativeXVertexCount": 2230,
+      "positiveXVertexCount": 2230,
+      "sourceWholeBounds": [
+        [
+          -0.1314731389284134,
+          1.2417621612548828,
+          -0.0868515744805336
+        ],
+        [
+          0.1314731389284134,
+          1.3682340383529663,
+          0.10158312320709229
+        ]
+      ],
+      "negativeXVerticesBounds": [
+        [
+          -0.1314731389284134,
+          1.2417621612548828,
+          -0.0868515744805336
+        ],
+        [
+          -0.015335716307163239,
+          1.36823570728302,
+          0.10159086436033249
+        ]
+      ],
+      "correspondingSkeletonSourceName": "Rib (5th).r",
+      "correspondingSkeletonId": "O3D_a7bb1c97572a94",
+      "boundsDifferenceMetres": 7.748603820800781e-06,
+      "interpretation": "Original torso mesh combines bilateral bone geometry. Its right-side source vertices match the original overview right bone in the shared coordinate frame. The bilateral torso bone was omitted wholesale; no vertices were cropped/exported from this validation."
+    },
+    {
+      "sourceName": "Rib (6th)",
+      "sourceId": "O3D_ae8a20d45461be",
+      "sourceVertexCount": 4508,
+      "negativeXVertexCount": 2254,
+      "positiveXVertexCount": 2254,
+      "sourceWholeBounds": [
+        [
+          -0.13896544277668,
+          1.2059780359268188,
+          -0.09717830270528793
+        ],
+        [
+          0.13896544277668,
+          1.3441962003707886,
+          0.09846003353595734
+        ]
+      ],
+      "negativeXVerticesBounds": [
+        [
+          -0.13896544277668,
+          1.2059780359268188,
+          -0.09717830270528793
+        ],
+        [
+          -0.014699824154376984,
+          1.3441885709762573,
+          0.09845734387636185
+        ]
+      ],
+      "correspondingSkeletonSourceName": "Rib (6th).r",
+      "correspondingSkeletonId": "O3D_84d581d0704dc3",
+      "boundsDifferenceMetres": 1.2874603271484375e-05,
+      "interpretation": "Original torso mesh combines bilateral bone geometry. Its right-side source vertices match the original overview right bone in the shared coordinate frame. The bilateral torso bone was omitted wholesale; no vertices were cropped/exported from this validation."
+    },
+    {
+      "sourceName": "Rib (7th)",
+      "sourceId": "O3D_8bddca95bf4356",
+      "sourceVertexCount": 3964,
+      "negativeXVertexCount": 1982,
+      "positiveXVertexCount": 1982,
+      "sourceWholeBounds": [
+        [
+          -0.14205653965473175,
+          1.171718716621399,
+          -0.09636828303337097
+        ],
+        [
+          0.14205653965473175,
+          1.315476655960083,
+          0.08474967628717422
+        ]
+      ],
+      "negativeXVerticesBounds": [
+        [
+          -0.14205653965473175,
+          1.171718716621399,
+          -0.09636828303337097
+        ],
+        [
+          -0.01580718159675598,
+          1.3154834508895874,
+          0.08475099503993988
+        ]
+      ],
+      "correspondingSkeletonSourceName": "Rib (7th).r",
+      "correspondingSkeletonId": "O3D_1056282f5791ed",
+      "boundsDifferenceMetres": 2.384185791015625e-06,
+      "interpretation": "Original torso mesh combines bilateral bone geometry. Its right-side source vertices match the original overview right bone in the shared coordinate frame. The bilateral torso bone was omitted wholesale; no vertices were cropped/exported from this validation."
+    },
+    {
+      "sourceName": "Rib (8th)",
+      "sourceId": "O3D_de2781bd871d9d",
+      "sourceVertexCount": 4320,
+      "negativeXVertexCount": 2160,
+      "positiveXVertexCount": 2160,
+      "sourceWholeBounds": [
+        [
+          -0.13549751043319702,
+          1.1357508897781372,
+          -0.09625270962715149
+        ],
+        [
+          0.13549751043319702,
+          1.2873934507369995,
+          0.06694382429122925
+        ]
+      ],
+      "negativeXVerticesBounds": [
+        [
+          -0.13549751043319702,
+          1.1357508897781372,
+          -0.09625270962715149
+        ],
+        [
+          -0.016334466636180878,
+          1.2874009609222412,
+          0.06694309413433075
+        ]
+      ],
+      "correspondingSkeletonSourceName": "Rib (8th).r",
+      "correspondingSkeletonId": "O3D_4d4e85342a6c0a",
+      "boundsDifferenceMetres": 8.702278137207031e-06,
+      "interpretation": "Original torso mesh combines bilateral bone geometry. Its right-side source vertices match the original overview right bone in the shared coordinate frame. The bilateral torso bone was omitted wholesale; no vertices were cropped/exported from this validation."
+    },
+    {
+      "sourceName": "Rib (9th)",
+      "sourceId": "O3D_5f2e3583be1966",
+      "sourceVertexCount": 4102,
+      "negativeXVertexCount": 2051,
+      "positiveXVertexCount": 2051,
+      "sourceWholeBounds": [
+        [
+          -0.13350901007652283,
+          1.1046252250671387,
+          -0.09325987100601196
+        ],
+        [
+          0.13350901007652283,
+          1.259643316268921,
+          0.039604686200618744
+        ]
+      ],
+      "negativeXVerticesBounds": [
+        [
+          -0.13350901007652283,
+          1.1046252250671387,
+          -0.09325987100601196
+        ],
+        [
+          -0.016909673810005188,
+          1.259640097618103,
+          0.03960534930229187
+        ]
+      ],
+      "correspondingSkeletonSourceName": "Rib (9th).r",
+      "correspondingSkeletonId": "O3D_cd57752b68ea2a",
+      "boundsDifferenceMetres": 3.2186508178710938e-06,
+      "interpretation": "Original torso mesh combines bilateral bone geometry. Its right-side source vertices match the original overview right bone in the shared coordinate frame. The bilateral torso bone was omitted wholesale; no vertices were cropped/exported from this validation."
+    },
+    {
+      "sourceName": "Scapula",
+      "sourceId": "O3D_2dd47663fd9252",
+      "sourceVertexCount": 9858,
+      "negativeXVertexCount": 4929,
+      "positiveXVertexCount": 4929,
+      "sourceWholeBounds": [
+        [
+          -0.1733742654323578,
+          1.254859209060669,
+          -0.11713336408138275
+        ],
+        [
+          0.1733742654323578,
+          1.418264389038086,
+          -0.002866320312023163
+        ]
+      ],
+      "negativeXVerticesBounds": [
+        [
+          -0.1733742654323578,
+          1.254859209060669,
+          -0.11713336408138275
+        ],
+        [
+          -0.06020425260066986,
+          1.4182541370391846,
+          -0.0028627589344978333
+        ]
+      ],
+      "correspondingSkeletonSourceName": "Scapula.r.",
+      "correspondingSkeletonId": "O3D_0b76a292ebe35b",
+      "boundsDifferenceMetres": 1.4200806617736816e-05,
+      "interpretation": "Original torso mesh combines bilateral bone geometry. Its right-side source vertices match the original overview right bone in the shared coordinate frame. The bilateral torso bone was omitted wholesale; no vertices were cropped/exported from this validation."
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "sourceUrl": "https://dbarchive.biosciencedbc.jp/en/bodyparts3d/download.html",
+  "licenseSourceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "BodyParts3D, © The Database Center for Life Science licensed under CC Attribution 4.0 International; registration context: Z-Anatomy, CC BY-SA 4.0. Full source notices retained in ORIGINAL_BP_ATTRIBUTION.txt and ORIGINAL_Z_ATTRIBUTION.txt.",
+  "dataset": "VMRA registered gastric arteries",
+  "datasetId": "vmra-gastric-arterial",
+  "license": "CC-BY-SA-4.0",
+  "sourceOriginalDatasetId": "bodyparts3d",
+  "materialPolicy": "tissue-profile",
+  "hasTextures": false,
+  "anatomicalRepresentation": "source-derived-surface",
+  "geometryMeshCount": 25,
+  "structureCount": 34,
+  "triangleCount": 22992,
+  "totalGlbBytes": 655572,
+  "geometryFile": "meshes.json",
+  "structuresFile": "structures.json",
+  "coordinates": {
+    "units": "metres",
+    "up": "+Y",
+    "front": "+Z",
+    "left": "+X",
+    "bounds": [
+      [
+        -0.10642234981060028,
+        1.0853818655014038,
+        -0.05109161511063576
+      ],
+      [
+        0.10070104897022247,
+        1.2338024377822876,
+        0.09023760259151459
+      ]
+    ]
+  },
+  "chunks": [
+    {
+      "file": "gastric-arteries.glb",
+      "system": "arterial",
+      "bytes": 627088,
+      "meshCount": 23,
+      "meshIds": [
+        "VMRA_GASTRIC_FJ1916",
+        "VMRA_GASTRIC_FJ3075",
+        "VMRA_GASTRIC_FJ3076",
+        "VMRA_GASTRIC_FJ3077",
+        "VMRA_GASTRIC_FJ3078",
+        "VMRA_GASTRIC_FJ3081",
+        "VMRA_GASTRIC_FJ3091",
+        "VMRA_GASTRIC_FJ3092",
+        "VMRA_GASTRIC_FJ3093",
+        "VMRA_GASTRIC_FJ3095",
+        "VMRA_GASTRIC_FJ3106",
+        "VMRA_GASTRIC_FJ3107",
+        "VMRA_GASTRIC_FJ3114",
+        "VMRA_GASTRIC_FJ3115",
+        "VMRA_GASTRIC_FJ3116",
+        "VMRA_GASTRIC_FJ3117",
+        "VMRA_GASTRIC_FJ3421",
+        "VMRA_GASTRIC_FJ3432",
+        "VMRA_GASTRIC_FJ3499",
+        "VMRA_GASTRIC_FJ3501",
+        "VMRA_GASTRIC_FJ3594",
+        "VMRA_GASTRIC_FJ3596",
+        "VMRA_GASTRIC_FJ3640"
+      ],
+      "sha256": "0e3aa85b5951acdd0c9bcb6ea3a052065cca3edcf356673664dcde786cb039c4"
+    },
+    {
+      "file": "pancreaticoduodenal-arteries.glb",
+      "system": "arterial",
+      "bytes": 28484,
+      "meshCount": 2,
+      "meshIds": [
+        "VMRA_GASTRIC_FJ3409",
+        "VMRA_GASTRIC_FJ3557"
+      ],
+      "sha256": "370027d44ab2862630f1cbefd0c27533a1ed43fbe7070ae141d28c9e6e1cea05"
+    }
+  ],
+  "provenanceFile": "source-provenance.json",
+  "modifications": "Registered positions and recomputed smooth geometry normals. Original physical element identities, triangle rows/corners, other attributes and material JSON retained. Neutral original materials are retained for provenance; the existing arterial appearanceStyle explicitly governs application color. Both source packages remain untouched. Anterior and posterior superior pancreaticoduodenal source surfaces were registered as a supplemental chunk; the previous 23 arterial surfaces are unchanged.",
+  "limitations": [
+    "Known current-body venous intersections remain in this registered surfaces.",
+    "This package does not establish clinical accuracy or complete gastric innervation."
+  ],
+  "sourceOriginalLicense": "CC-BY-4.0",
+  "sourceOriginalLicenseSourceUrl": "https://dbarchive.biosciencedbc.jp/en/bodyparts3d/lic.html",
+  "integrationStatus": "connected-body",
+  "supplementalProvenanceFiles": [
+    "pancreaticoduodenal-provenance.json"
+  ]
+}

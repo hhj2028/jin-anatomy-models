@@ -1,0 +1,10 @@
+Registered illustrative reauthoring of VMRA illustrative splenic plexus; CC BY-SA 4.0.
+Z-Anatomy — Gauthier Kervyn, Marcin Zielinski, Lluis Vinent.
+https://github.com/Z-Anatomy/Models-of-human-anatomy
+https://creativecommons.org/licenses/by-sa/4.0/
+BodyParts3D — The Database Center for Life Science; retain upstream CC BY-SA 2.1 Japan notice as supplied.
+
+Original v40 authored representation: exterior artery-derived illustrative support curves, artistic nerve bundle count/caliber/spacing, local schematic crosslinks and hilar stopping. Original source surfaces remain unchanged. No observed neural branch identities or measured nerve paths are claimed.
+Current body model: ordered reauthoring on pinned FJ3640 using actual open venous walls; three original terminals and connector arc relationships preserved. Prior failed trials remain documented separately. Actual exported float32 geometry passes its recorded wall checks, with local inter-path communication overlap disclosed; integrated as the same illustrative pathway identity in the connected body.
+
+Previously supplied anatomical relationship provenance: Verlinden et al., Innervation of the human spleen: A complete hilum-embedding approach, 2019, DOI 10.1016/j.bbi.2018.12.009. The original provenance uses this for the periarterial hilar relationship, not registered nerve coordinates. The registration does not add measured nerve anatomy.

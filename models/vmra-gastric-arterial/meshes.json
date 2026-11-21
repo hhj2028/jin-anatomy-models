@@ -1,0 +1,1504 @@
+[
+  {
+    "id": "VMRA_GASTRIC_FJ1916",
+    "conceptId": "FMA70447",
+    "representationId": "BP6172",
+    "nameEn": "Caudate lobe branch of right hepatic artery",
+    "system": "arterial",
+    "classificationMethod": "source element mapping",
+    "meshIds": [
+      "VMRA_GASTRIC_FJ1916"
+    ],
+    "bounds": [
+      [
+        -0.033757131546735764,
+        1.172392725944519,
+        0.024266615509986877
+      ],
+      [
+        -0.016120536252856255,
+        1.1846140623092651,
+        0.0361364372074604
+      ]
+    ],
+    "sourceBoundsMm": [
+      [
+        -33.012901306152344,
+        -141.66600036621094,
+        1106.719970703125
+      ],
+      [
+        -16.512399673461914,
+        -128.35899353027344,
+        1119.5699462890625
+      ]
+    ],
+    "vertices": 214,
+    "triangles": 362,
+    "sourceTriangles": 362,
+    "dracoRemovedDegenerateTriangles": 0,
+    "appearance": "artery",
+    "appearanceStyle": {
+      "color": "#bd4842",
+      "roughness": 0.58
+    },
+    "displaySystem": "arterial",
+    "sourceDatasetId": "vmra-gastric-arterial",
+    "sourceOriginalDatasetId": "bodyparts3d",
+    "sourceOriginalMeshId": "FJ1916",
+    "sourceNodeName": "VMRA_GASTRIC_FJ1916",
+    "anatomicalRepresentation": "source-derived-surface",
+    "anatomicalScope": {
+      "kind": "surface",
+      "label": "Caudate lobe branch of right hepatic artery",
+      "note": "Full selected BodyParts3D physical element under recorded shared registration. Source-derived coordinates; not measured anatomy. Other same-named source elements are not automatically duplicates."
+    },
+    "isMeasuredAnatomy": false,
+    "materialPolicy": "tissue-profile",
+    "preserveMaterial": false,
+    "geometry": "gastric-arteries.glb",
+    "chunk": "gastric-arteries.glb"
+  },
+  {
+    "id": "VMRA_GASTRIC_FJ3075",
+    "conceptId": "FMA70443",
+    "representationId": "BP8869",
+    "nameEn": "Anterior inferior segmental hepatic artery",
+    "system": "arterial",
+    "classificationMethod": "source element mapping",
+    "meshIds": [
+      "VMRA_GASTRIC_FJ3075"
+    ],
+    "bounds": [
+      [
+        -0.09359706938266754,
+        1.1482446193695068,
+        0.021111775189638138
+      ],
+      [
+        -0.04728582128882408,
+        1.21660315990448,
+        0.07555260509252548
+      ]
+    ],
+    "sourceBoundsMm": [
+      [
+        -84.44920349121094,
+        -174.97000122070312,
+        1082.9100341796875
+      ],
+      [
+        -43.753299713134766,
+        -132.4199981689453,
+        1152.4599609375
+      ]
+    ],
+    "vertices": 1244,
+    "triangles": 1666,
+    "sourceTriangles": 1666,
+    "dracoRemovedDegenerateTriangles": 0,
+    "appearance": "artery",
+    "appearanceStyle": {
+      "color": "#bd4842",
+      "roughness": 0.58
+    },
+    "displaySystem": "arterial",
+    "sourceDatasetId": "vmra-gastric-arterial",
+    "sourceOriginalDatasetId": "bodyparts3d",
+    "sourceOriginalMeshId": "FJ3075",
+    "sourceNodeName": "VMRA_GASTRIC_FJ3075",
+    "anatomicalRepresentation": "source-derived-surface",
+    "anatomicalScope": {
+      "kind": "surface",
+      "label": "Anterior inferior segmental hepatic artery",
+      "note": "Full selected BodyParts3D physical element under recorded shared registration. Source-derived coordinates; not measured anatomy. Other same-named source elements are not automatically duplicates."
+    },
+    "isMeasuredAnatomy": false,
+    "materialPolicy": "tissue-profile",
+    "preserveMaterial": false,
+    "geometry": "gastric-arteries.glb",
+    "chunk": "gastric-arteries.glb"
+  },
+  {
+    "id": "VMRA_GASTRIC_FJ3076",
+    "conceptId": "FMA70442",
+    "representationId": "BP9163",
+    "nameEn": "Anterior superior segmental hepatic artery",
+    "system": "arterial",
+    "classificationMethod": "source element mapping",
+    "meshIds": [
+      "VMRA_GASTRIC_FJ3076"
+    ],
+    "bounds": [
+      [
+        -0.08684437721967697,
+        1.172666072845459,
+        0.018058035522699356
+      ],
+      [
+        -0.018517034128308296,
+        1.2143645286560059,
+        0.04534199461340904
+      ]
+    ],
+    "sourceBoundsMm": [
+      [
+        -79.80819702148438,
+        -150.99400329589844,
+        1107.3499755859375
+      ],
+      [
+        -18.03969955444336,
+        -131.5749969482422,
+        1152.469970703125
+      ]
+    ],
+    "vertices": 459,
+    "triangles": 892,
+    "sourceTriangles": 892,
+    "dracoRemovedDegenerateTriangles": 0,
+    "appearance": "artery",
+    "appearanceStyle": {
+      "color": "#bd4842",
+      "roughness": 0.58
+    },
+    "displaySystem": "arterial",
+    "sourceDatasetId": "vmra-gastric-arterial",
+    "sourceOriginalDatasetId": "bodyparts3d",
+    "sourceOriginalMeshId": "FJ3076",
+    "sourceNodeName": "VMRA_GASTRIC_FJ3076",
+    "anatomicalRepresentation": "source-derived-surface",
+    "anatomicalScope": {
+      "kind": "surface",
+      "label": "Anterior superior segmental hepatic artery",
+      "note": "Full selected BodyParts3D physical element under recorded shared registration. Source-derived coordinates; not measured anatomy. Other same-named source elements are not automatically duplicates."
+    },
+    "isMeasuredAnatomy": false,
+    "materialPolicy": "tissue-profile",
+    "preserveMaterial": false,
+    "geometry": "gastric-arteries.glb",
+    "chunk": "gastric-arteries.glb"
+  },
+  {
+    "id": "VMRA_GASTRIC_FJ3077",
+    "conceptId": "FMA70455",
+    "representationId": "BP9178",
+    "nameEn": "Caudate lobe branch of left hepatic artery",
+    "system": "arterial",
+    "classificationMethod": "source element mapping",
+    "meshIds": [
+      "VMRA_GASTRIC_FJ3077"
+    ],
+    "bounds": [
+      [
+        -0.019780896604061127,
+        1.1783788204193115,
+        0.016004707664251328
+      ],
+      [
+        -0.00008376651385333389,
+        1.1985567808151245,
+        0.04810648784041405
+      ]
+    ],
+    "sourceBoundsMm": [
+      [
+        -18.4867000579834,
+        -153.7949981689453,
+        1112.2900390625
+      ],
+      [
+        1.9086699485778809,
+        -116.95700073242188,
+        1132.2900390625
+      ]
+    ],
+    "vertices": 250,
+    "triangles": 430,
+    "sourceTriangles": 430,
+    "dracoRemovedDegenerateTriangles": 0,
+    "appearance": "artery",
+    "appearanceStyle": {
+      "color": "#bd4842",
+      "roughness": 0.58
+    },
+    "displaySystem": "arterial",
+    "sourceDatasetId": "vmra-gastric-arterial",
+    "sourceOriginalDatasetId": "bodyparts3d",
+    "sourceOriginalMeshId": "FJ3077",
+    "sourceNodeName": "VMRA_GASTRIC_FJ3077",
+    "anatomicalRepresentation": "source-derived-surface",
+    "anatomicalScope": {
+      "kind": "surface",
+      "label": "Caudate lobe branch of left hepatic artery",
+      "note": "Full selected BodyParts3D physical element under recorded shared registration. Source-derived coordinates; not measured anatomy. Other same-named source elements are not automatically duplicates."
+    },
+    "isMeasuredAnatomy": false,
+    "materialPolicy": "tissue-profile",
+    "preserveMaterial": false,
+    "geometry": "gastric-arteries.glb",
+    "chunk": "gastric-arteries.glb"
+  },
+  {
+    "id": "VMRA_GASTRIC_FJ3078",
+    "conceptId": "FMA14771",
+    "representationId": "BP8522",
+    "nameEn": "Common hepatic artery",
+    "system": "arterial",
+    "classificationMethod": "source element mapping",
+    "meshIds": [
+      "VMRA_GASTRIC_FJ3078"
+    ],
+    "bounds": [
+      [
+        -0.015012971125543118,
+        1.1404755115509033,
+        0.027991311624646187
+      ],
+      [
+        0.00742746377363801,
+        1.1496312618255615,
+        0.04270309582352638
+      ]
+    ],
+    "sourceBoundsMm": [
+      [
+        -15.32229995727539,
+        -142.66900634765625,
+        1075.2099609375
+      ],
+      [
+        5.7906999588012695,
+        -126.89099884033203,
+        1085.4200439453125
+      ]
+    ],
+    "vertices": 184,
+    "triangles": 348,
+    "sourceTriangles": 348,
+    "dracoRemovedDegenerateTriangles": 0,
+    "appearance": "artery",
+    "appearanceStyle": {
+      "color": "#bd4842",
+      "roughness": 0.58
+    },
+    "displaySystem": "arterial",
+    "sourceDatasetId": "vmra-gastric-arterial",
+    "sourceOriginalDatasetId": "bodyparts3d",
+    "sourceOriginalMeshId": "FJ3078",
+    "sourceNodeName": "VMRA_GASTRIC_FJ3078",
+    "anatomicalRepresentation": "source-derived-surface",
+    "anatomicalScope": {
+      "kind": "surface",
+      "label": "Common hepatic artery",
+      "note": "Full selected BodyParts3D physical element under recorded shared registration. Source-derived coordinates; not measured anatomy. Other same-named source elements are not automatically duplicates."
+    },
+    "isMeasuredAnatomy": false,
+    "materialPolicy": "tissue-profile",
+    "preserveMaterial": false,
+    "geometry": "gastric-arteries.glb",
+    "chunk": "gastric-arteries.glb"
+  },
+  {
+    "id": "VMRA_GASTRIC_FJ3081",
+    "conceptId": "FMA14772",
+    "representationId": "BP8485",
+    "nameEn": "Hepatic artery proper",
+    "system": "arterial",
+    "classificationMethod": "source element mapping",
+    "meshIds": [
+      "VMRA_GASTRIC_FJ3081"
+    ],
+    "bounds": [
+      [
+        -0.022900978103280067,
+        1.1457797288894653,
+        0.037604399025440216
+      ],
+      [
+        -0.011069499887526035,
+        1.1770501136779785,
+        0.04589007422327995
+      ]
+    ],
+    "sourceBoundsMm": [
+      [
+        -22.417400360107422,
+        -151.45799255371094,
+        1081.530029296875
+      ],
+      [
+        -11.440699577331543,
+        -138.81500244140625,
+        1111.739990234375
+      ]
+    ],
+    "vertices": 181,
+    "triangles": 358,
+    "sourceTriangles": 358,
+    "dracoRemovedDegenerateTriangles": 0,
+    "appearance": "artery",
+    "appearanceStyle": {
+      "color": "#bd4842",
+      "roughness": 0.58
+    },
+    "displaySystem": "arterial",
+    "sourceDatasetId": "vmra-gastric-arterial",
+    "sourceOriginalDatasetId": "bodyparts3d",
+    "sourceOriginalMeshId": "FJ3081",
+    "sourceNodeName": "VMRA_GASTRIC_FJ3081",
+    "anatomicalRepresentation": "source-derived-surface",
+    "anatomicalScope": {
+      "kind": "surface",
+      "label": "Hepatic artery proper",
+      "note": "Full selected BodyParts3D physical element under recorded shared registration. Source-derived coordinates; not measured anatomy. Other same-named source elements are not automatically duplicates."
+    },
+    "isMeasuredAnatomy": false,
+    "materialPolicy": "tissue-profile",
+    "preserveMaterial": false,
+    "geometry": "gastric-arteries.glb",
+    "chunk": "gastric-arteries.glb"
+  },
+  {
+    "id": "VMRA_GASTRIC_FJ3091",
+    "conceptId": "FMA70452",
+    "representationId": "BP7851",
+    "nameEn": "Lateral superior segmental hepatic artery",
+    "system": "arterial",
+    "classificationMethod": "source element mapping",
+    "meshIds": [
+      "VMRA_GASTRIC_FJ3091"
+    ],
+    "bounds": [
+      [
+        -0.0010005523217841983,
+        1.1944456100463867,
+        0.026427963748574257
+      ],
+      [
+        0.05039023980498314,
+        1.2338024377822876,
+        0.05386868491768837
+      ]
+    ],
+    "sourceBoundsMm": [
+      [
+        2.1288700103759766,
+        -159.51499938964844,
+        1127.3599853515625
+      ],
+      [
+        57.44929885864258,
+        -128.5290069580078,
+        1163.5899658203125
+      ]
+    ],
+    "vertices": 341,
+    "triangles": 598,
+    "sourceTriangles": 598,
+    "dracoRemovedDegenerateTriangles": 0,
+    "appearance": "artery",
+    "appearanceStyle": {
+      "color": "#bd4842",
+      "roughness": 0.58
+    },
+    "displaySystem": "arterial",
+    "sourceDatasetId": "vmra-gastric-arterial",
+    "sourceOriginalDatasetId": "bodyparts3d",
+    "sourceOriginalMeshId": "FJ3091",
+    "sourceNodeName": "VMRA_GASTRIC_FJ3091",
+    "anatomicalRepresentation": "source-derived-surface",
+    "anatomicalScope": {
+      "kind": "surface",
+      "label": "Lateral superior segmental hepatic artery",
+      "note": "Full selected BodyParts3D physical element under recorded shared registration. Source-derived coordinates; not measured anatomy. Other same-named source elements are not automatically duplicates."
+    },
+    "isMeasuredAnatomy": false,
+    "materialPolicy": "tissue-profile",
+    "preserveMaterial": false,
+    "geometry": "gastric-arteries.glb",
+    "chunk": "gastric-arteries.glb"
+  },
+  {
+    "id": "VMRA_GASTRIC_FJ3092",
+    "conceptId": "FMA70453",
+    "representationId": "BP8814",
+    "nameEn": "Lateral inferior segmental hepatic artery",
+    "system": "arterial",
+    "classificationMethod": "source element mapping",
+    "meshIds": [
+      "VMRA_GASTRIC_FJ3092"
+    ],
+    "bounds": [
+      [
+        0.0017897537909448147,
+        1.1961899995803833,
+        0.05107766389846802
+      ],
+      [
+        0.04229694977402687,
+        1.2040501832962036,
+        0.0851956158876419
+      ]
+    ],
+    "sourceBoundsMm": [
+      [
+        5.373290061950684,
+        -190.92799377441406,
+        1122.8800048828125
+      ],
+      [
+        51.99789810180664,
+        -156.72900390625,
+        1133.93994140625
+      ]
+    ],
+    "vertices": 364,
+    "triangles": 618,
+    "sourceTriangles": 618,
+    "dracoRemovedDegenerateTriangles": 0,
+    "appearance": "artery",
+    "appearanceStyle": {
+      "color": "#bd4842",
+      "roughness": 0.58
+    },
+    "displaySystem": "arterial",
+    "sourceDatasetId": "vmra-gastric-arterial",
+    "sourceOriginalDatasetId": "bodyparts3d",
+    "sourceOriginalMeshId": "FJ3092",
+    "sourceNodeName": "VMRA_GASTRIC_FJ3092",
+    "anatomicalRepresentation": "source-derived-surface",
+    "anatomicalScope": {
+      "kind": "surface",
+      "label": "Lateral inferior segmental hepatic artery",
+      "note": "Full selected BodyParts3D physical element under recorded shared registration. Source-derived coordinates; not measured anatomy. Other same-named source elements are not automatically duplicates."
+    },
+    "isMeasuredAnatomy": false,
+    "materialPolicy": "tissue-profile",
+    "preserveMaterial": false,
+    "geometry": "gastric-arteries.glb",
+    "chunk": "gastric-arteries.glb"
+  },
+  {
+    "id": "VMRA_GASTRIC_FJ3093",
+    "conceptId": "FMA70452",
+    "representationId": "BP7851",
+    "nameEn": "Lateral superior segmental hepatic artery",
+    "system": "arterial",
+    "classificationMethod": "source element mapping",
+    "meshIds": [
+      "VMRA_GASTRIC_FJ3093"
+    ],
+    "bounds": [
+      [
+        0.017210258170962334,
+        1.1810263395309448,
+        0.04638596996665001
+      ],
+      [
+        0.04558652639389038,
+        1.2287847995758057,
+        0.09023760259151459
+      ]
+    ],
+    "sourceBoundsMm": [
+      [
+        25.414199829101562,
+        -198.52099609375,
+        1108.6600341796875
+      ],
+      [
+        56.60660171508789,
+        -151.20700073242188,
+        1156.6199951171875
+      ]
+    ],
+    "vertices": 460,
+    "triangles": 658,
+    "sourceTriangles": 658,
+    "dracoRemovedDegenerateTriangles": 0,
+    "appearance": "artery",
+    "appearanceStyle": {
+      "color": "#bd4842",
+      "roughness": 0.58
+    },
+    "displaySystem": "arterial",
+    "sourceDatasetId": "vmra-gastric-arterial",
+    "sourceOriginalDatasetId": "bodyparts3d",
+    "sourceOriginalMeshId": "FJ3093",
+    "sourceNodeName": "VMRA_GASTRIC_FJ3093",
+    "anatomicalRepresentation": "source-derived-surface",
+    "anatomicalScope": {
+      "kind": "surface",
+      "label": "Lateral superior segmental hepatic artery",
+      "note": "Full selected BodyParts3D physical element under recorded shared registration. Source-derived coordinates; not measured anatomy. Other same-named source elements are not automatically duplicates."
+    },
+    "isMeasuredAnatomy": false,
+    "materialPolicy": "tissue-profile",
+    "preserveMaterial": false,
+    "geometry": "gastric-arteries.glb",
+    "chunk": "gastric-arteries.glb"
+  },
+  {
+    "id": "VMRA_GASTRIC_FJ3095",
+    "conceptId": "FMA70457",
+    "representationId": "BP8671",
+    "nameEn": "Trunk of left hepatic artery",
+    "system": "arterial",
+    "classificationMethod": "source element mapping",
+    "meshIds": [
+      "VMRA_GASTRIC_FJ3095"
+    ],
+    "bounds": [
+      [
+        -0.022586124017834663,
+        1.172614336013794,
+        0.04138922318816185
+      ],
+      [
+        0.002056525554507971,
+        1.1978410482406616,
+        0.05419923737645149
+      ]
+    ],
+    "sourceBoundsMm": [
+      [
+        -22.03219985961914,
+        -159.79600524902344,
+        1107.239990234375
+      ],
+      [
+        5.2171502113342285,
+        -147.02200317382812,
+        1130.75
+      ]
+    ],
+    "vertices": 666,
+    "triangles": 1328,
+    "sourceTriangles": 1328,
+    "dracoRemovedDegenerateTriangles": 0,
+    "appearance": "artery",
+    "appearanceStyle": {
+      "color": "#bd4842",
+      "roughness": 0.58
+    },
+    "displaySystem": "arterial",
+    "sourceDatasetId": "vmra-gastric-arterial",
+    "sourceOriginalDatasetId": "bodyparts3d",
+    "sourceOriginalMeshId": "FJ3095",
+    "sourceNodeName": "VMRA_GASTRIC_FJ3095",
+    "anatomicalRepresentation": "source-derived-surface",
+    "anatomicalScope": {
+      "kind": "surface",
+      "label": "Trunk of left hepatic artery",
+      "note": "Full selected BodyParts3D physical element under recorded shared registration. Source-derived coordinates; not measured anatomy. Other same-named source elements are not automatically duplicates."
+    },
+    "isMeasuredAnatomy": false,
+    "materialPolicy": "tissue-profile",
+    "preserveMaterial": false,
+    "geometry": "gastric-arteries.glb",
+    "chunk": "gastric-arteries.glb"
+  },
+  {
+    "id": "VMRA_GASTRIC_FJ3106",
+    "conceptId": "FMA70450",
+    "representationId": "BP8177",
+    "nameEn": "Medial inferior segmental hepatic artery",
+    "system": "arterial",
+    "classificationMethod": "source element mapping",
+    "meshIds": [
+      "VMRA_GASTRIC_FJ3106"
+    ],
+    "bounds": [
+      [
+        -0.026996616274118423,
+        1.170790672302246,
+        0.05114774405956268
+      ],
+      [
+        0.0018258063355460763,
+        1.2063506841659546,
+        0.08967623859643936
+      ]
+    ],
+    "sourceBoundsMm": [
+      [
+        -22.305500030517578,
+        -196.0780029296875,
+        1102.25
+      ],
+      [
+        4.983399868011475,
+        -156.60699462890625,
+        1139.3599853515625
+      ]
+    ],
+    "vertices": 425,
+    "triangles": 754,
+    "sourceTriangles": 754,
+    "dracoRemovedDegenerateTriangles": 0,
+    "appearance": "artery",
+    "appearanceStyle": {
+      "color": "#bd4842",
+      "roughness": 0.58
+    },
+    "displaySystem": "arterial",
+    "sourceDatasetId": "vmra-gastric-arterial",
+    "sourceOriginalDatasetId": "bodyparts3d",
+    "sourceOriginalMeshId": "FJ3106",
+    "sourceNodeName": "VMRA_GASTRIC_FJ3106",
+    "anatomicalRepresentation": "source-derived-surface",
+    "anatomicalScope": {
+      "kind": "surface",
+      "label": "Medial inferior segmental hepatic artery",
+      "note": "Full selected BodyParts3D physical element under recorded shared registration. Source-derived coordinates; not measured anatomy. Other same-named source elements are not automatically duplicates."
+    },
+    "isMeasuredAnatomy": false,
+    "materialPolicy": "tissue-profile",
+    "preserveMaterial": false,
+    "geometry": "gastric-arteries.glb",
+    "chunk": "gastric-arteries.glb"
+  },
+  {
+    "id": "VMRA_GASTRIC_FJ3107",
+    "conceptId": "FMA70449",
+    "representationId": "BP8099",
+    "nameEn": "Medial superior segmental hepatic artery",
+    "system": "arterial",
+    "classificationMethod": "source element mapping",
+    "meshIds": [
+      "VMRA_GASTRIC_FJ3107"
+    ],
+    "bounds": [
+      [
+        -0.03728676214814186,
+        1.2005735635757446,
+        0.04195290431380272
+      ],
+      [
+        -0.013529361225664616,
+        1.2160308361053467,
+        0.06944479048252106
+      ]
+    ],
+    "sourceBoundsMm": [
+      [
+        -31.11039924621582,
+        -179.03900146484375,
+        1133.0400390625
+      ],
+      [
+        -8.168510437011719,
+        -150.98500061035156,
+        1148.3599853515625
+      ]
+    ],
+    "vertices": 496,
+    "triangles": 612,
+    "sourceTriangles": 612,
+    "dracoRemovedDegenerateTriangles": 0,
+    "appearance": "artery",
+    "appearanceStyle": {
+      "color": "#bd4842",
+      "roughness": 0.58
+    },
+    "displaySystem": "arterial",
+    "sourceDatasetId": "vmra-gastric-arterial",
+    "sourceOriginalDatasetId": "bodyparts3d",
+    "sourceOriginalMeshId": "FJ3107",
+    "sourceNodeName": "VMRA_GASTRIC_FJ3107",
+    "anatomicalRepresentation": "source-derived-surface",
+    "anatomicalScope": {
+      "kind": "surface",
+      "label": "Medial superior segmental hepatic artery",
+      "note": "Full selected BodyParts3D physical element under recorded shared registration. Source-derived coordinates; not measured anatomy. Other same-named source elements are not automatically duplicates."
+    },
+    "isMeasuredAnatomy": false,
+    "materialPolicy": "tissue-profile",
+    "preserveMaterial": false,
+    "geometry": "gastric-arteries.glb",
+    "chunk": "gastric-arteries.glb"
+  },
+  {
+    "id": "VMRA_GASTRIC_FJ3114",
+    "conceptId": "FMA70446",
+    "representationId": "BP8896",
+    "nameEn": "Posterior inferior segmental hepatic artery",
+    "system": "arterial",
+    "classificationMethod": "source element mapping",
+    "meshIds": [
+      "VMRA_GASTRIC_FJ3114"
+    ],
+    "bounds": [
+      [
+        -0.08749953657388687,
+        1.1315820217132568,
+        0.005330460146069527
+      ],
+      [
+        -0.028350315988063812,
+        1.178113579750061,
+        0.04299090802669525
+      ]
+    ],
+    "sourceBoundsMm": [
+      [
+        -82.23909759521484,
+        -148.6739959716797,
+        1069.0799560546875
+      ],
+      [
+        -27.333099365234375,
+        -113.20899963378906,
+        1114.0999755859375
+      ]
+    ],
+    "vertices": 479,
+    "triangles": 772,
+    "sourceTriangles": 772,
+    "dracoRemovedDegenerateTriangles": 0,
+    "appearance": "artery",
+    "appearanceStyle": {
+      "color": "#bd4842",
+      "roughness": 0.58
+    },
+    "displaySystem": "arterial",
+    "sourceDatasetId": "vmra-gastric-arterial",
+    "sourceOriginalDatasetId": "bodyparts3d",
+    "sourceOriginalMeshId": "FJ3114",
+    "sourceNodeName": "VMRA_GASTRIC_FJ3114",
+    "anatomicalRepresentation": "source-derived-surface",
+    "anatomicalScope": {
+      "kind": "surface",
+      "label": "Posterior inferior segmental hepatic artery",
+      "note": "Full selected BodyParts3D physical element under recorded shared registration. Source-derived coordinates; not measured anatomy. Other same-named source elements are not automatically duplicates."
+    },
+    "isMeasuredAnatomy": false,
+    "materialPolicy": "tissue-profile",
+    "preserveMaterial": false,
+    "geometry": "gastric-arteries.glb",
+    "chunk": "gastric-arteries.glb"
+  },
+  {
+    "id": "VMRA_GASTRIC_FJ3115",
+    "conceptId": "FMA70445",
+    "representationId": "BP8503",
+    "nameEn": "Posterior superior segmental hepatic artery",
+    "system": "arterial",
+    "classificationMethod": "source element mapping",
+    "meshIds": [
+      "VMRA_GASTRIC_FJ3115"
+    ],
+    "bounds": [
+      [
+        -0.10642234981060028,
+        1.1367974281311035,
+        -0.05109161511063576
+      ],
+      [
+        -0.01612056978046894,
+        1.1882240772247314,
+        0.03611636906862259
+      ]
+    ],
+    "sourceBoundsMm": [
+      [
+        -101.45800018310547,
+        -141.67300415039062,
+        1077.5
+      ],
+      [
+        -16.515600204467773,
+        -55.28340148925781,
+        1134.81005859375
+      ]
+    ],
+    "vertices": 1037,
+    "triangles": 1616,
+    "sourceTriangles": 1616,
+    "dracoRemovedDegenerateTriangles": 0,
+    "appearance": "artery",
+    "appearanceStyle": {
+      "color": "#bd4842",
+      "roughness": 0.58
+    },
+    "displaySystem": "arterial",
+    "sourceDatasetId": "vmra-gastric-arterial",
+    "sourceOriginalDatasetId": "bodyparts3d",
+    "sourceOriginalMeshId": "FJ3115",
+    "sourceNodeName": "VMRA_GASTRIC_FJ3115",
+    "anatomicalRepresentation": "source-derived-surface",
+    "anatomicalScope": {
+      "kind": "surface",
+      "label": "Posterior superior segmental hepatic artery",
+      "note": "Full selected BodyParts3D physical element under recorded shared registration. Source-derived coordinates; not measured anatomy. Other same-named source elements are not automatically duplicates."
+    },
+    "isMeasuredAnatomy": false,
+    "materialPolicy": "tissue-profile",
+    "preserveMaterial": false,
+    "geometry": "gastric-arteries.glb",
+    "chunk": "gastric-arteries.glb"
+  },
+  {
+    "id": "VMRA_GASTRIC_FJ3116",
+    "conceptId": "FMA70445",
+    "representationId": "BP8503",
+    "nameEn": "Posterior superior segmental hepatic artery",
+    "system": "arterial",
+    "classificationMethod": "source element mapping",
+    "meshIds": [
+      "VMRA_GASTRIC_FJ3116"
+    ],
+    "bounds": [
+      [
+        -0.09019619971513748,
+        1.173451542854309,
+        -0.04121517762541771
+      ],
+      [
+        -0.040513843297958374,
+        1.1960703134536743,
+        -0.004013550467789173
+      ]
+    ],
+    "sourceBoundsMm": [
+      [
+        -91.93060302734375,
+        -103.5719985961914,
+        1113.260009765625
+      ],
+      [
+        -45.30820083618164,
+        -66.71369934082031,
+        1139.010009765625
+      ]
+    ],
+    "vertices": 631,
+    "triangles": 814,
+    "sourceTriangles": 814,
+    "dracoRemovedDegenerateTriangles": 0,
+    "appearance": "artery",
+    "appearanceStyle": {
+      "color": "#bd4842",
+      "roughness": 0.58
+    },
+    "displaySystem": "arterial",
+    "sourceDatasetId": "vmra-gastric-arterial",
+    "sourceOriginalDatasetId": "bodyparts3d",
+    "sourceOriginalMeshId": "FJ3116",
+    "sourceNodeName": "VMRA_GASTRIC_FJ3116",
+    "anatomicalRepresentation": "source-derived-surface",
+    "anatomicalScope": {
+      "kind": "surface",
+      "label": "Posterior superior segmental hepatic artery",
+      "note": "Full selected BodyParts3D physical element under recorded shared registration. Source-derived coordinates; not measured anatomy. Other same-named source elements are not automatically duplicates."
+    },
+    "isMeasuredAnatomy": false,
+    "materialPolicy": "tissue-profile",
+    "preserveMaterial": false,
+    "geometry": "gastric-arteries.glb",
+    "chunk": "gastric-arteries.glb"
+  },
+  {
+    "id": "VMRA_GASTRIC_FJ3117",
+    "conceptId": "FMA70456",
+    "representationId": "BP8942",
+    "nameEn": "Trunk of right hepatic artery",
+    "system": "arterial",
+    "classificationMethod": "source element mapping",
+    "meshIds": [
+      "VMRA_GASTRIC_FJ3117"
+    ],
+    "bounds": [
+      [
+        -0.031113574281334877,
+        1.1726627349853516,
+        0.03963972628116608
+      ],
+      [
+        -0.018517447635531425,
+        1.1789764165878296,
+        0.04540139436721802
+      ]
+    ],
+    "sourceBoundsMm": [
+      [
+        -30.12929916381836,
+        -151.00100708007812,
+        1107.300048828125
+      ],
+      [
+        -18.02090072631836,
+        -145.2469940185547,
+        1113.1300048828125
+      ]
+    ],
+    "vertices": 223,
+    "triangles": 442,
+    "sourceTriangles": 442,
+    "dracoRemovedDegenerateTriangles": 0,
+    "appearance": "artery",
+    "appearanceStyle": {
+      "color": "#bd4842",
+      "roughness": 0.58
+    },
+    "displaySystem": "arterial",
+    "sourceDatasetId": "vmra-gastric-arterial",
+    "sourceOriginalDatasetId": "bodyparts3d",
+    "sourceOriginalMeshId": "FJ3117",
+    "sourceNodeName": "VMRA_GASTRIC_FJ3117",
+    "anatomicalRepresentation": "source-derived-surface",
+    "anatomicalScope": {
+      "kind": "surface",
+      "label": "Trunk of right hepatic artery",
+      "note": "Full selected BodyParts3D physical element under recorded shared registration. Source-derived coordinates; not measured anatomy. Other same-named source elements are not automatically duplicates."
+    },
+    "isMeasuredAnatomy": false,
+    "materialPolicy": "tissue-profile",
+    "preserveMaterial": false,
+    "geometry": "gastric-arteries.glb",
+    "chunk": "gastric-arteries.glb"
+  },
+  {
+    "id": "VMRA_GASTRIC_FJ3421",
+    "conceptId": "FMA14812",
+    "representationId": "BP10622",
+    "nameEn": "Celiac trunk",
+    "system": "arterial",
+    "classificationMethod": "source element mapping",
+    "meshIds": [
+      "VMRA_GASTRIC_FJ3421"
+    ],
+    "bounds": [
+      [
+        0.002635248703882098,
+        1.1358510255813599,
+        0.009689888916909695
+      ],
+      [
+        0.014651774428784847,
+        1.1481338739395142,
+        0.031858425587415695
+      ]
+    ],
+    "sourceBoundsMm": [
+      [
+        1.1040699481964111,
+        -130.78700256347656,
+        1077.6500244140625
+      ],
+      [
+        12.240300178527832,
+        -107.59400177001953,
+        1089.8299560546875
+      ]
+    ],
+    "vertices": 133,
+    "triangles": 238,
+    "sourceTriangles": 238,
+    "dracoRemovedDegenerateTriangles": 0,
+    "appearance": "artery",
+    "appearanceStyle": {
+      "color": "#bd4842",
+      "roughness": 0.58
+    },
+    "displaySystem": "arterial",
+    "sourceDatasetId": "vmra-gastric-arterial",
+    "sourceOriginalDatasetId": "bodyparts3d",
+    "sourceOriginalMeshId": "FJ3421",
+    "sourceNodeName": "VMRA_GASTRIC_FJ3421",
+    "anatomicalRepresentation": "source-derived-surface",
+    "anatomicalScope": {
+      "kind": "surface",
+      "label": "Celiac trunk",
+      "note": "Full selected BodyParts3D physical element under recorded shared registration. Source-derived coordinates; not measured anatomy. Other same-named source elements are not automatically duplicates."
+    },
+    "isMeasuredAnatomy": false,
+    "materialPolicy": "tissue-profile",
+    "preserveMaterial": false,
+    "geometry": "gastric-arteries.glb",
+    "chunk": "gastric-arteries.glb"
+  },
+  {
+    "id": "VMRA_GASTRIC_FJ3432",
+    "conceptId": "FMA76574",
+    "representationId": "BP10569",
+    "nameEn": "Trunk of gastroduodenal artery",
+    "system": "arterial",
+    "classificationMethod": "source element mapping",
+    "meshIds": [
+      "VMRA_GASTRIC_FJ3432"
+    ],
+    "bounds": [
+      [
+        -0.013028346002101898,
+        1.131834864616394,
+        0.03944914788007736
+      ],
+      [
+        -0.005185813643038273,
+        1.1434327363967896,
+        0.04395444318652153
+      ]
+    ],
+    "sourceBoundsMm": [
+      [
+        -11.35789966583252,
+        -141.3070068359375,
+        1065.0999755859375
+      ],
+      [
+        -5.860360145568848,
+        -135.84300231933594,
+        1078.1800537109375
+      ]
+    ],
+    "vertices": 119,
+    "triangles": 204,
+    "sourceTriangles": 204,
+    "dracoRemovedDegenerateTriangles": 0,
+    "appearance": "artery",
+    "appearanceStyle": {
+      "color": "#bd4842",
+      "roughness": 0.58
+    },
+    "displaySystem": "arterial",
+    "sourceDatasetId": "vmra-gastric-arterial",
+    "sourceOriginalDatasetId": "bodyparts3d",
+    "sourceOriginalMeshId": "FJ3432",
+    "sourceNodeName": "VMRA_GASTRIC_FJ3432",
+    "anatomicalRepresentation": "source-derived-surface",
+    "anatomicalScope": {
+      "kind": "surface",
+      "label": "Trunk of gastroduodenal artery",
+      "note": "Full selected BodyParts3D physical element under recorded shared registration. Source-derived coordinates; not measured anatomy. Other same-named source elements are not automatically duplicates."
+    },
+    "isMeasuredAnatomy": false,
+    "materialPolicy": "tissue-profile",
+    "preserveMaterial": false,
+    "geometry": "gastric-arteries.glb",
+    "chunk": "gastric-arteries.glb"
+  },
+  {
+    "id": "VMRA_GASTRIC_FJ3499",
+    "conceptId": "FMA14768",
+    "representationId": "BP10363",
+    "nameEn": "Left gastric artery",
+    "system": "arterial",
+    "classificationMethod": "source element mapping",
+    "meshIds": [
+      "VMRA_GASTRIC_FJ3499"
+    ],
+    "bounds": [
+      [
+        0.0064052012749016285,
+        1.143894910812378,
+        0.023128312081098557
+      ],
+      [
+        0.026335952803492546,
+        1.193580985069275,
+        0.07007458806037903
+      ]
+    ],
+    "sourceBoundsMm": [
+      [
+        4.93379020690918,
+        -169.48500061035156,
+        1080.9000244140625
+      ],
+      [
+        26.731599807739258,
+        -122.8010025024414,
+        1126.280029296875
+      ]
+    ],
+    "vertices": 578,
+    "triangles": 1100,
+    "sourceTriangles": 1100,
+    "dracoRemovedDegenerateTriangles": 0,
+    "appearance": "artery",
+    "appearanceStyle": {
+      "color": "#bd4842",
+      "roughness": 0.58
+    },
+    "displaySystem": "arterial",
+    "sourceDatasetId": "vmra-gastric-arterial",
+    "sourceOriginalDatasetId": "bodyparts3d",
+    "sourceOriginalMeshId": "FJ3499",
+    "sourceNodeName": "VMRA_GASTRIC_FJ3499",
+    "anatomicalRepresentation": "source-derived-surface",
+    "anatomicalScope": {
+      "kind": "surface",
+      "label": "Left gastric artery",
+      "note": "Full selected BodyParts3D physical element under recorded shared registration. Source-derived coordinates; not measured anatomy. Other same-named source elements are not automatically duplicates."
+    },
+    "isMeasuredAnatomy": false,
+    "materialPolicy": "tissue-profile",
+    "preserveMaterial": false,
+    "geometry": "gastric-arteries.glb",
+    "chunk": "gastric-arteries.glb"
+  },
+  {
+    "id": "VMRA_GASTRIC_FJ3501",
+    "conceptId": "FMA14796",
+    "representationId": "BP10607",
+    "nameEn": "Left gastro-epiploic artery",
+    "system": "arterial",
+    "classificationMethod": "source element mapping",
+    "meshIds": [
+      "VMRA_GASTRIC_FJ3501"
+    ],
+    "bounds": [
+      [
+        0.059829119592905045,
+        1.114229679107666,
+        0.008330518379807472
+      ],
+      [
+        0.09618094563484192,
+        1.156347393989563,
+        0.07254508882761002
+      ]
+    ],
+    "sourceBoundsMm": [
+      [
+        57.5614013671875,
+        -165.8159942626953,
+        1046.43994140625
+      ],
+      [
+        92.98490142822266,
+        -101.29000091552734,
+        1085.06005859375
+      ]
+    ],
+    "vertices": 1232,
+    "triangles": 2420,
+    "sourceTriangles": 2420,
+    "dracoRemovedDegenerateTriangles": 0,
+    "appearance": "artery",
+    "appearanceStyle": {
+      "color": "#bd4842",
+      "roughness": 0.58
+    },
+    "displaySystem": "arterial",
+    "sourceDatasetId": "vmra-gastric-arterial",
+    "sourceOriginalDatasetId": "bodyparts3d",
+    "sourceOriginalMeshId": "FJ3501",
+    "sourceNodeName": "VMRA_GASTRIC_FJ3501",
+    "anatomicalRepresentation": "source-derived-surface",
+    "anatomicalScope": {
+      "kind": "surface",
+      "label": "Left gastro-epiploic artery",
+      "note": "Full selected BodyParts3D physical element under recorded shared registration. Source-derived coordinates; not measured anatomy. Other same-named source elements are not automatically duplicates."
+    },
+    "isMeasuredAnatomy": false,
+    "materialPolicy": "tissue-profile",
+    "preserveMaterial": false,
+    "geometry": "gastric-arteries.glb",
+    "chunk": "gastric-arteries.glb"
+  },
+  {
+    "id": "VMRA_GASTRIC_FJ3594",
+    "conceptId": "FMA14776",
+    "representationId": "BP10564",
+    "nameEn": "Right gastric artery",
+    "system": "arterial",
+    "classificationMethod": "source element mapping",
+    "meshIds": [
+      "VMRA_GASTRIC_FJ3594"
+    ],
+    "bounds": [
+      [
+        -0.011964123696088791,
+        1.1421427726745605,
+        0.03739411011338234
+      ],
+      [
+        0.020482823252677917,
+        1.1571778059005737,
+        0.07089503854513168
+      ]
+    ],
+    "sourceBoundsMm": [
+      [
+        -12.45460033416748,
+        -169.4929962158203,
+        1076.18994140625
+      ],
+      [
+        21.536699295043945,
+        -137.63099670410156,
+        1089.5799560546875
+      ]
+    ],
+    "vertices": 267,
+    "triangles": 478,
+    "sourceTriangles": 478,
+    "dracoRemovedDegenerateTriangles": 0,
+    "appearance": "artery",
+    "appearanceStyle": {
+      "color": "#bd4842",
+      "roughness": 0.58
+    },
+    "displaySystem": "arterial",
+    "sourceDatasetId": "vmra-gastric-arterial",
+    "sourceOriginalDatasetId": "bodyparts3d",
+    "sourceOriginalMeshId": "FJ3594",
+    "sourceNodeName": "VMRA_GASTRIC_FJ3594",
+    "anatomicalRepresentation": "source-derived-surface",
+    "anatomicalScope": {
+      "kind": "surface",
+      "label": "Right gastric artery",
+      "note": "Full selected BodyParts3D physical element under recorded shared registration. Source-derived coordinates; not measured anatomy. Other same-named source elements are not automatically duplicates."
+    },
+    "isMeasuredAnatomy": false,
+    "materialPolicy": "tissue-profile",
+    "preserveMaterial": false,
+    "geometry": "gastric-arteries.glb",
+    "chunk": "gastric-arteries.glb"
+  },
+  {
+    "id": "VMRA_GASTRIC_FJ3596",
+    "conceptId": "FMA14781",
+    "representationId": "BP10590",
+    "nameEn": "Right gastro-epiploic artery",
+    "system": "arterial",
+    "classificationMethod": "source element mapping",
+    "meshIds": [
+      "VMRA_GASTRIC_FJ3596"
+    ],
+    "bounds": [
+      [
+        -0.01891796663403511,
+        1.1097426414489746,
+        0.04168221727013588
+      ],
+      [
+        0.060576945543289185,
+        1.1335258483886719,
+        0.08369334787130356
+      ]
+    ],
+    "sourceBoundsMm": [
+      [
+        -18.16029930114746,
+        -177.58799743652344,
+        1039.02001953125
+      ],
+      [
+        58.38140106201172,
+        -136.35499572753906,
+        1066.9300537109375
+      ]
+    ],
+    "vertices": 1890,
+    "triangles": 3694,
+    "sourceTriangles": 3694,
+    "dracoRemovedDegenerateTriangles": 0,
+    "appearance": "artery",
+    "appearanceStyle": {
+      "color": "#bd4842",
+      "roughness": 0.58
+    },
+    "displaySystem": "arterial",
+    "sourceDatasetId": "vmra-gastric-arterial",
+    "sourceOriginalDatasetId": "bodyparts3d",
+    "sourceOriginalMeshId": "FJ3596",
+    "sourceNodeName": "VMRA_GASTRIC_FJ3596",
+    "anatomicalRepresentation": "source-derived-surface",
+    "anatomicalScope": {
+      "kind": "surface",
+      "label": "Right gastro-epiploic artery",
+      "note": "Full selected BodyParts3D physical element under recorded shared registration. Source-derived coordinates; not measured anatomy. Other same-named source elements are not automatically duplicates."
+    },
+    "isMeasuredAnatomy": false,
+    "materialPolicy": "tissue-profile",
+    "preserveMaterial": false,
+    "geometry": "gastric-arteries.glb",
+    "chunk": "gastric-arteries.glb"
+  },
+  {
+    "id": "VMRA_GASTRIC_FJ3640",
+    "conceptId": "FMA14773",
+    "representationId": "BP8474",
+    "nameEn": "Splenic artery",
+    "system": "arterial",
+    "classificationMethod": "source element mapping",
+    "meshIds": [
+      "VMRA_GASTRIC_FJ3640"
+    ],
+    "bounds": [
+      [
+        0.006352419499307871,
+        1.139674425125122,
+        -0.012574451975524426
+      ],
+      [
+        0.10070104897022247,
+        1.1637407541275024,
+        0.03677336871623993
+      ]
+    ],
+    "sourceBoundsMm": [
+      [
+        4.6627302169799805,
+        -133.5780029296875,
+        1070.31005859375
+      ],
+      [
+        99.03739929199219,
+        -80.41809844970703,
+        1094.0999755859375
+      ]
+    ],
+    "vertices": 1273,
+    "triangles": 1742,
+    "sourceTriangles": 1742,
+    "dracoRemovedDegenerateTriangles": 0,
+    "appearance": "artery",
+    "appearanceStyle": {
+      "color": "#bd4842",
+      "roughness": 0.58
+    },
+    "displaySystem": "arterial",
+    "sourceDatasetId": "vmra-gastric-arterial",
+    "sourceOriginalDatasetId": "bodyparts3d",
+    "sourceOriginalMeshId": "FJ3640",
+    "sourceNodeName": "VMRA_GASTRIC_FJ3640",
+    "anatomicalRepresentation": "source-derived-surface",
+    "anatomicalScope": {
+      "kind": "surface",
+      "label": "Splenic artery",
+      "note": "Full selected BodyParts3D physical element under recorded shared registration. Source-derived coordinates; not measured anatomy. Other same-named source elements are not automatically duplicates."
+    },
+    "isMeasuredAnatomy": false,
+    "materialPolicy": "tissue-profile",
+    "preserveMaterial": false,
+    "geometry": "gastric-arteries.glb",
+    "chunk": "gastric-arteries.glb"
+  },
+  {
+    "id": "VMRA_GASTRIC_FJ3409",
+    "conceptId": "FMA14782",
+    "representationId": "BP10602",
+    "nameEn": "Anterior superior pancreaticoduodenal artery",
+    "system": "arterial",
+    "classificationMethod": "source element mapping",
+    "meshIds": [
+      "VMRA_GASTRIC_FJ3409"
+    ],
+    "bounds": [
+      [
+        -0.042286455631256104,
+        1.0853818655014038,
+        0.031800564378499985
+      ],
+      [
+        -0.010854227468371391,
+        1.1326875686645508,
+        0.0438937172293663
+      ]
+    ],
+    "sourceBoundsMm": [
+      [
+        -46.65620040893555,
+        -139.9810028076172,
+        1023.1400146484375
+      ],
+      [
+        -9.125980377197266,
+        -128.66600036621094,
+        1065.9599609375
+      ]
+    ],
+    "vertices": 287,
+    "triangles": 454,
+    "sourceTriangles": 454,
+    "dracoRemovedDegenerateTriangles": 0,
+    "appearance": "artery",
+    "appearanceStyle": {
+      "color": "#bd4842",
+      "roughness": 0.58
+    },
+    "displaySystem": "arterial",
+    "sourceDatasetId": "vmra-gastric-arterial",
+    "sourceOriginalDatasetId": "bodyparts3d",
+    "sourceOriginalMeshId": "FJ3409",
+    "sourceNodeName": "VMRA_GASTRIC_FJ3409",
+    "anatomicalRepresentation": "source-derived-surface",
+    "anatomicalScope": {
+      "kind": "surface",
+      "label": "Anterior superior pancreaticoduodenal artery",
+      "note": "Whole original named BodyParts3D surface under a shared source-to-current-body interpolation; not measured anatomy. Physical source contacts do not establish directed biological parentage."
+    },
+    "isMeasuredAnatomy": false,
+    "materialPolicy": "tissue-profile",
+    "preserveMaterial": false,
+    "geometry": "pancreaticoduodenal-arteries.glb",
+    "chunk": "pancreaticoduodenal-arteries.glb",
+    "nameKo": "앞위이자샘창자동맥"
+  },
+  {
+    "id": "VMRA_GASTRIC_FJ3557",
+    "conceptId": "FMA14784",
+    "representationId": "BP10574",
+    "nameEn": "Posterior superior pancreaticoduodenal artery",
+    "system": "arterial",
+    "classificationMethod": "source element mapping",
+    "meshIds": [
+      "VMRA_GASTRIC_FJ3557"
+    ],
+    "bounds": [
+      [
+        -0.032795317471027374,
+        1.0948959589004517,
+        0.015440326184034348
+      ],
+      [
+        -0.014453420415520668,
+        1.1311843395233154,
+        0.04201626405119896
+      ]
+    ],
+    "sourceBoundsMm": [
+      [
+        -35.45759963989258,
+        -138.88400268554688,
+        1031.68994140625
+      ],
+      [
+        -14.23330020904541,
+        -109.18800354003906,
+        1065.68994140625
+      ]
+    ],
+    "vertices": 278,
+    "triangles": 394,
+    "sourceTriangles": 394,
+    "dracoRemovedDegenerateTriangles": 0,
+    "appearance": "artery",
+    "appearanceStyle": {
+      "color": "#bd4842",
+      "roughness": 0.58
+    },
+    "displaySystem": "arterial",
+    "sourceDatasetId": "vmra-gastric-arterial",
+    "sourceOriginalDatasetId": "bodyparts3d",
+    "sourceOriginalMeshId": "FJ3557",
+    "sourceNodeName": "VMRA_GASTRIC_FJ3557",
+    "anatomicalRepresentation": "source-derived-surface",
+    "anatomicalScope": {
+      "kind": "surface",
+      "label": "Posterior superior pancreaticoduodenal artery",
+      "note": "Whole original named BodyParts3D surface under a shared source-to-current-body interpolation; not measured anatomy. Physical source contacts do not establish directed biological parentage."
+    },
+    "isMeasuredAnatomy": false,
+    "materialPolicy": "tissue-profile",
+    "preserveMaterial": false,
+    "geometry": "pancreaticoduodenal-arteries.glb",
+    "chunk": "pancreaticoduodenal-arteries.glb",
+    "nameKo": "뒤위이자샘창자동맥"
+  }
+]

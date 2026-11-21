@@ -1,0 +1,757 @@
+[
+  {
+    "id": "VMRA_NATIVE_LEFT_O3D_529cd1e2ec44af",
+    "nameEn": "Left humerus",
+    "conceptId": "",
+    "system": "skeletal",
+    "meshIds": [
+      "VMRA_NATIVE_LEFT_O3D_529cd1e2ec44af"
+    ],
+    "bounds": [
+      [
+        0.14526425302028656,
+        1.0877516269683838,
+        -0.057386770844459534
+      ],
+      [
+        0.24787671864032745,
+        1.4049394130706787,
+        -0.005732551217079163
+      ]
+    ],
+    "vertices": 4561,
+    "triangles": 8448,
+    "kind": "structure",
+    "sourceNodeName": "Humerus",
+    "sourceNodeIndex": 11,
+    "sourceMeshIndex": 11,
+    "sourceFile": "muscles-thorax-abdomen.glb",
+    "sourceParentName": "Bones",
+    "sourcePath": "Bones/Humerus",
+    "sourceMaterialNames": [
+      "Humerus"
+    ],
+    "sourceMaterialIndices": [
+      11
+    ],
+    "hasUV": true,
+    "hasBaseColorTexture": false,
+    "hasNormalTexture": true,
+    "sourceTextureIndices": [
+      11
+    ],
+    "license": "CC-BY-SA-4.0; UBC-derived muscle texture notices CC-BY-NC-SA-4.0",
+    "materialPolicy": "preserve-original",
+    "defaultVisible": true,
+    "geometry": "native-left-bones.glb",
+    "chunk": "native-left-bones.glb",
+    "sourceCanonicalIds": [],
+    "laterality": "left",
+    "elementId": "VMRA_NATIVE_LEFT_O3D_529cd1e2ec44af",
+    "meshId": "VMRA_NATIVE_LEFT_O3D_529cd1e2ec44af",
+    "sourceDatasetId": "open3d-native-left",
+    "sourceOriginalDatasetId": "open3d-muscles-thorax-abdomen",
+    "sourceOriginalMeshId": "O3D_529cd1e2ec44af",
+    "sourceComponentLaterality": "left",
+    "anatomicalRepresentation": "source-component-subset",
+    "anatomicalScope": {
+      "kind": "surface",
+      "label": "Left humerus",
+      "note": "One complete original disconnected anatomical left component; no reflected, sliced or moved source triangles."
+    },
+    "rightReferenceMeshId": "O3D_51d578370516da",
+    "nameKo": "왼쪽 위팔뼈",
+    "bodyRegionIds": [
+      "arm"
+    ],
+    "bodyPlacementStatus": "accepted-bounded-educational-source-interfaces",
+    "bodyPlacementReviewFile": "body-placement-review.json"
+  },
+  {
+    "id": "VMRA_NATIVE_LEFT_O3D_025acb3eb4f4c3",
+    "nameEn": "Left tenth rib",
+    "conceptId": "",
+    "system": "skeletal",
+    "meshIds": [
+      "VMRA_NATIVE_LEFT_O3D_025acb3eb4f4c3"
+    ],
+    "bounds": [
+      [
+        0.016720548272132874,
+        1.072798728942871,
+        -0.08485627174377441
+      ],
+      [
+        0.1316351741552353,
+        1.2300891876220703,
+        0.0240161269903183
+      ]
+    ],
+    "vertices": 2125,
+    "triangles": 3796,
+    "kind": "structure",
+    "sourceNodeName": "Rib (10th)",
+    "sourceNodeIndex": 18,
+    "sourceMeshIndex": 18,
+    "sourceFile": "muscles-thorax-abdomen.glb",
+    "sourceParentName": "Bones",
+    "sourcePath": "Bones/Rib (10th)",
+    "sourceMaterialNames": [
+      "10th_rib"
+    ],
+    "sourceMaterialIndices": [
+      18
+    ],
+    "hasUV": true,
+    "hasBaseColorTexture": false,
+    "hasNormalTexture": true,
+    "sourceTextureIndices": [
+      18
+    ],
+    "license": "CC-BY-SA-4.0; UBC-derived muscle texture notices CC-BY-NC-SA-4.0",
+    "materialPolicy": "preserve-original",
+    "defaultVisible": true,
+    "geometry": "native-left-bones.glb",
+    "chunk": "native-left-bones.glb",
+    "sourceCanonicalIds": [],
+    "laterality": "left",
+    "elementId": "VMRA_NATIVE_LEFT_O3D_025acb3eb4f4c3",
+    "meshId": "VMRA_NATIVE_LEFT_O3D_025acb3eb4f4c3",
+    "sourceDatasetId": "open3d-native-left",
+    "sourceOriginalDatasetId": "open3d-muscles-thorax-abdomen",
+    "sourceOriginalMeshId": "O3D_025acb3eb4f4c3",
+    "sourceComponentLaterality": "left",
+    "anatomicalRepresentation": "source-component-subset",
+    "anatomicalScope": {
+      "kind": "surface",
+      "label": "Left tenth rib",
+      "note": "One complete original disconnected anatomical left component; no reflected, sliced or moved source triangles."
+    },
+    "rightReferenceMeshId": "O3D_729df736695dda",
+    "nameKo": "왼쪽 제10갈비뼈",
+    "bodyRegionIds": [
+      "trunk",
+      "abdomen"
+    ],
+    "bodyPlacementStatus": "accepted-bounded-educational-source-interfaces",
+    "bodyPlacementReviewFile": "body-placement-review.json"
+  },
+  {
+    "id": "VMRA_NATIVE_LEFT_O3D_ce73e88b02db18",
+    "nameEn": "Left eleventh rib",
+    "conceptId": "",
+    "system": "skeletal",
+    "meshIds": [
+      "VMRA_NATIVE_LEFT_O3D_ce73e88b02db18"
+    ],
+    "bounds": [
+      [
+        0.020084962248802185,
+        1.0596880912780762,
+        -0.07852477580308914
+      ],
+      [
+        0.11969877779483795,
+        1.1899006366729736,
+        0.001683562994003296
+      ]
+    ],
+    "vertices": 1280,
+    "triangles": 2288,
+    "kind": "structure",
+    "sourceNodeName": "Rib (11th)",
+    "sourceNodeIndex": 19,
+    "sourceMeshIndex": 19,
+    "sourceFile": "muscles-thorax-abdomen.glb",
+    "sourceParentName": "Bones",
+    "sourcePath": "Bones/Rib (11th)",
+    "sourceMaterialNames": [
+      "11th_rib"
+    ],
+    "sourceMaterialIndices": [
+      19
+    ],
+    "hasUV": true,
+    "hasBaseColorTexture": false,
+    "hasNormalTexture": true,
+    "sourceTextureIndices": [
+      19
+    ],
+    "license": "CC-BY-SA-4.0; UBC-derived muscle texture notices CC-BY-NC-SA-4.0",
+    "materialPolicy": "preserve-original",
+    "defaultVisible": true,
+    "geometry": "native-left-bones.glb",
+    "chunk": "native-left-bones.glb",
+    "sourceCanonicalIds": [],
+    "laterality": "left",
+    "elementId": "VMRA_NATIVE_LEFT_O3D_ce73e88b02db18",
+    "meshId": "VMRA_NATIVE_LEFT_O3D_ce73e88b02db18",
+    "sourceDatasetId": "open3d-native-left",
+    "sourceOriginalDatasetId": "open3d-muscles-thorax-abdomen",
+    "sourceOriginalMeshId": "O3D_ce73e88b02db18",
+    "sourceComponentLaterality": "left",
+    "anatomicalRepresentation": "source-component-subset",
+    "anatomicalScope": {
+      "kind": "surface",
+      "label": "Left eleventh rib",
+      "note": "One complete original disconnected anatomical left component; no reflected, sliced or moved source triangles."
+    },
+    "rightReferenceMeshId": "O3D_30e605fc81a7a4",
+    "nameKo": "왼쪽 제11갈비뼈",
+    "bodyRegionIds": [
+      "trunk",
+      "abdomen"
+    ],
+    "bodyPlacementStatus": "accepted-bounded-educational-source-interfaces",
+    "bodyPlacementReviewFile": "body-placement-review.json"
+  },
+  {
+    "id": "VMRA_NATIVE_LEFT_O3D_f3428a581f4473",
+    "nameEn": "Left twelfth rib",
+    "conceptId": "",
+    "system": "skeletal",
+    "meshIds": [
+      "VMRA_NATIVE_LEFT_O3D_f3428a581f4473"
+    ],
+    "bounds": [
+      [
+        0.021481357514858246,
+        1.056557059288025,
+        -0.06822995841503143
+      ],
+      [
+        0.08564835041761398,
+        1.1541615724563599,
+        -0.022005047649145126
+      ]
+    ],
+    "vertices": 733,
+    "triangles": 1248,
+    "kind": "structure",
+    "sourceNodeName": "Rib (12th)",
+    "sourceNodeIndex": 20,
+    "sourceMeshIndex": 20,
+    "sourceFile": "muscles-thorax-abdomen.glb",
+    "sourceParentName": "Bones",
+    "sourcePath": "Bones/Rib (12th)",
+    "sourceMaterialNames": [
+      "12th_rib"
+    ],
+    "sourceMaterialIndices": [
+      20
+    ],
+    "hasUV": true,
+    "hasBaseColorTexture": false,
+    "hasNormalTexture": true,
+    "sourceTextureIndices": [
+      20
+    ],
+    "license": "CC-BY-SA-4.0; UBC-derived muscle texture notices CC-BY-NC-SA-4.0",
+    "materialPolicy": "preserve-original",
+    "defaultVisible": true,
+    "geometry": "native-left-bones.glb",
+    "chunk": "native-left-bones.glb",
+    "sourceCanonicalIds": [],
+    "laterality": "left",
+    "elementId": "VMRA_NATIVE_LEFT_O3D_f3428a581f4473",
+    "meshId": "VMRA_NATIVE_LEFT_O3D_f3428a581f4473",
+    "sourceDatasetId": "open3d-native-left",
+    "sourceOriginalDatasetId": "open3d-muscles-thorax-abdomen",
+    "sourceOriginalMeshId": "O3D_f3428a581f4473",
+    "sourceComponentLaterality": "left",
+    "anatomicalRepresentation": "source-component-subset",
+    "anatomicalScope": {
+      "kind": "surface",
+      "label": "Left twelfth rib",
+      "note": "One complete original disconnected anatomical left component; no reflected, sliced or moved source triangles."
+    },
+    "rightReferenceMeshId": "O3D_0d8c85afd5d8a6",
+    "nameKo": "왼쪽 제12갈비뼈",
+    "bodyRegionIds": [
+      "trunk",
+      "abdomen"
+    ],
+    "bodyPlacementStatus": "accepted-bounded-educational-source-interfaces",
+    "bodyPlacementReviewFile": "body-placement-review.json"
+  },
+  {
+    "id": "VMRA_NATIVE_LEFT_O3D_12566afc8ac71c",
+    "nameEn": "Left second rib",
+    "conceptId": "",
+    "system": "skeletal",
+    "meshIds": [
+      "VMRA_NATIVE_LEFT_O3D_12566afc8ac71c"
+    ],
+    "bounds": [
+      [
+        0.01612696796655655,
+        1.3457283973693848,
+        -0.049070414155721664
+      ],
+      [
+        0.09958840906620026,
+        1.4356697797775269,
+        0.06567235291004181
+      ]
+    ],
+    "vertices": 1709,
+    "triangles": 3022,
+    "kind": "structure",
+    "sourceNodeName": "Rib (2nd)",
+    "sourceNodeIndex": 22,
+    "sourceMeshIndex": 22,
+    "sourceFile": "muscles-thorax-abdomen.glb",
+    "sourceParentName": "Bones",
+    "sourcePath": "Bones/Rib (2nd)",
+    "sourceMaterialNames": [
+      "2nd_rib"
+    ],
+    "sourceMaterialIndices": [
+      22
+    ],
+    "hasUV": true,
+    "hasBaseColorTexture": false,
+    "hasNormalTexture": true,
+    "sourceTextureIndices": [
+      22
+    ],
+    "license": "CC-BY-SA-4.0; UBC-derived muscle texture notices CC-BY-NC-SA-4.0",
+    "materialPolicy": "preserve-original",
+    "defaultVisible": true,
+    "geometry": "native-left-bones.glb",
+    "chunk": "native-left-bones.glb",
+    "sourceCanonicalIds": [],
+    "laterality": "left",
+    "elementId": "VMRA_NATIVE_LEFT_O3D_12566afc8ac71c",
+    "meshId": "VMRA_NATIVE_LEFT_O3D_12566afc8ac71c",
+    "sourceDatasetId": "open3d-native-left",
+    "sourceOriginalDatasetId": "open3d-muscles-thorax-abdomen",
+    "sourceOriginalMeshId": "O3D_12566afc8ac71c",
+    "sourceComponentLaterality": "left",
+    "anatomicalRepresentation": "source-component-subset",
+    "anatomicalScope": {
+      "kind": "surface",
+      "label": "Left second rib",
+      "note": "One complete original disconnected anatomical left component; no reflected, sliced or moved source triangles."
+    },
+    "rightReferenceMeshId": "O3D_4236788925f1d4",
+    "nameKo": "왼쪽 제2갈비뼈",
+    "bodyRegionIds": [
+      "trunk"
+    ],
+    "bodyPlacementStatus": "accepted-bounded-educational-source-interfaces",
+    "bodyPlacementReviewFile": "body-placement-review.json"
+  },
+  {
+    "id": "VMRA_NATIVE_LEFT_O3D_d0e1cb2dc7975a",
+    "nameEn": "Left third rib",
+    "conceptId": "",
+    "system": "skeletal",
+    "meshIds": [
+      "VMRA_NATIVE_LEFT_O3D_d0e1cb2dc7975a"
+    ],
+    "bounds": [
+      [
+        0.015992678701877594,
+        1.3109841346740723,
+        -0.0626489594578743
+      ],
+      [
+        0.11259480565786362,
+        1.4161220788955688,
+        0.07597260922193527
+      ]
+    ],
+    "vertices": 2187,
+    "triangles": 3906,
+    "kind": "structure",
+    "sourceNodeName": "Rib (3rd)",
+    "sourceNodeIndex": 23,
+    "sourceMeshIndex": 23,
+    "sourceFile": "muscles-thorax-abdomen.glb",
+    "sourceParentName": "Bones",
+    "sourcePath": "Bones/Rib (3rd)",
+    "sourceMaterialNames": [
+      "3rd_rib"
+    ],
+    "sourceMaterialIndices": [
+      23
+    ],
+    "hasUV": true,
+    "hasBaseColorTexture": false,
+    "hasNormalTexture": true,
+    "sourceTextureIndices": [
+      23
+    ],
+    "license": "CC-BY-SA-4.0; UBC-derived muscle texture notices CC-BY-NC-SA-4.0",
+    "materialPolicy": "preserve-original",
+    "defaultVisible": true,
+    "geometry": "native-left-bones.glb",
+    "chunk": "native-left-bones.glb",
+    "sourceCanonicalIds": [],
+    "laterality": "left",
+    "elementId": "VMRA_NATIVE_LEFT_O3D_d0e1cb2dc7975a",
+    "meshId": "VMRA_NATIVE_LEFT_O3D_d0e1cb2dc7975a",
+    "sourceDatasetId": "open3d-native-left",
+    "sourceOriginalDatasetId": "open3d-muscles-thorax-abdomen",
+    "sourceOriginalMeshId": "O3D_d0e1cb2dc7975a",
+    "sourceComponentLaterality": "left",
+    "anatomicalRepresentation": "source-component-subset",
+    "anatomicalScope": {
+      "kind": "surface",
+      "label": "Left third rib",
+      "note": "One complete original disconnected anatomical left component; no reflected, sliced or moved source triangles."
+    },
+    "rightReferenceMeshId": "O3D_d272794bbf886a",
+    "nameKo": "왼쪽 제3갈비뼈",
+    "bodyRegionIds": [
+      "trunk"
+    ],
+    "bodyPlacementStatus": "accepted-bounded-educational-source-interfaces",
+    "bodyPlacementReviewFile": "body-placement-review.json"
+  },
+  {
+    "id": "VMRA_NATIVE_LEFT_O3D_11991810878b71",
+    "nameEn": "Left fourth rib",
+    "conceptId": "",
+    "system": "skeletal",
+    "meshIds": [
+      "VMRA_NATIVE_LEFT_O3D_11991810878b71"
+    ],
+    "bounds": [
+      [
+        0.014571815729141235,
+        1.2781308889389038,
+        -0.0768711119890213
+      ],
+      [
+        0.1255813091993332,
+        1.3942915201187134,
+        0.09210368990898132
+      ]
+    ],
+    "vertices": 2659,
+    "triangles": 4772,
+    "kind": "structure",
+    "sourceNodeName": "Rib (4th)",
+    "sourceNodeIndex": 24,
+    "sourceMeshIndex": 24,
+    "sourceFile": "muscles-thorax-abdomen.glb",
+    "sourceParentName": "Bones",
+    "sourcePath": "Bones/Rib (4th)",
+    "sourceMaterialNames": [
+      "4th_rib"
+    ],
+    "sourceMaterialIndices": [
+      24
+    ],
+    "hasUV": true,
+    "hasBaseColorTexture": false,
+    "hasNormalTexture": true,
+    "sourceTextureIndices": [
+      24
+    ],
+    "license": "CC-BY-SA-4.0; UBC-derived muscle texture notices CC-BY-NC-SA-4.0",
+    "materialPolicy": "preserve-original",
+    "defaultVisible": true,
+    "geometry": "native-left-bones.glb",
+    "chunk": "native-left-bones.glb",
+    "sourceCanonicalIds": [],
+    "laterality": "left",
+    "elementId": "VMRA_NATIVE_LEFT_O3D_11991810878b71",
+    "meshId": "VMRA_NATIVE_LEFT_O3D_11991810878b71",
+    "sourceDatasetId": "open3d-native-left",
+    "sourceOriginalDatasetId": "open3d-muscles-thorax-abdomen",
+    "sourceOriginalMeshId": "O3D_11991810878b71",
+    "sourceComponentLaterality": "left",
+    "anatomicalRepresentation": "source-component-subset",
+    "anatomicalScope": {
+      "kind": "surface",
+      "label": "Left fourth rib",
+      "note": "One complete original disconnected anatomical left component; no reflected, sliced or moved source triangles."
+    },
+    "rightReferenceMeshId": "O3D_8e3a0b2cf52b6d",
+    "nameKo": "왼쪽 제4갈비뼈",
+    "bodyRegionIds": [
+      "trunk"
+    ],
+    "bodyPlacementStatus": "accepted-bounded-educational-source-interfaces",
+    "bodyPlacementReviewFile": "body-placement-review.json"
+  },
+  {
+    "id": "VMRA_NATIVE_LEFT_O3D_8bddca95bf4356",
+    "nameEn": "Left seventh rib",
+    "conceptId": "",
+    "system": "skeletal",
+    "meshIds": [
+      "VMRA_NATIVE_LEFT_O3D_8bddca95bf4356"
+    ],
+    "bounds": [
+      [
+        0.01580718159675598,
+        1.171718716621399,
+        -0.09636828303337097
+      ],
+      [
+        0.14205653965473175,
+        1.3154834508895874,
+        0.08475099503993988
+      ]
+    ],
+    "vertices": 1982,
+    "triangles": 3550,
+    "kind": "structure",
+    "sourceNodeName": "Rib (7th)",
+    "sourceNodeIndex": 27,
+    "sourceMeshIndex": 27,
+    "sourceFile": "muscles-thorax-abdomen.glb",
+    "sourceParentName": "Bones",
+    "sourcePath": "Bones/Rib (7th)",
+    "sourceMaterialNames": [
+      "7th_rib"
+    ],
+    "sourceMaterialIndices": [
+      27
+    ],
+    "hasUV": true,
+    "hasBaseColorTexture": false,
+    "hasNormalTexture": true,
+    "sourceTextureIndices": [
+      27
+    ],
+    "license": "CC-BY-SA-4.0; UBC-derived muscle texture notices CC-BY-NC-SA-4.0",
+    "materialPolicy": "preserve-original",
+    "defaultVisible": true,
+    "geometry": "native-left-bones.glb",
+    "chunk": "native-left-bones.glb",
+    "sourceCanonicalIds": [],
+    "laterality": "left",
+    "elementId": "VMRA_NATIVE_LEFT_O3D_8bddca95bf4356",
+    "meshId": "VMRA_NATIVE_LEFT_O3D_8bddca95bf4356",
+    "sourceDatasetId": "open3d-native-left",
+    "sourceOriginalDatasetId": "open3d-muscles-thorax-abdomen",
+    "sourceOriginalMeshId": "O3D_8bddca95bf4356",
+    "sourceComponentLaterality": "left",
+    "anatomicalRepresentation": "source-component-subset",
+    "anatomicalScope": {
+      "kind": "surface",
+      "label": "Left seventh rib",
+      "note": "One complete original disconnected anatomical left component; no reflected, sliced or moved source triangles."
+    },
+    "rightReferenceMeshId": "O3D_1056282f5791ed",
+    "nameKo": "왼쪽 제7갈비뼈",
+    "bodyRegionIds": [
+      "trunk",
+      "abdomen"
+    ],
+    "bodyPlacementStatus": "accepted-bounded-educational-source-interfaces",
+    "bodyPlacementReviewFile": "body-placement-review.json"
+  },
+  {
+    "id": "VMRA_NATIVE_LEFT_O3D_de2781bd871d9d",
+    "nameEn": "Left eighth rib",
+    "conceptId": "",
+    "system": "skeletal",
+    "meshIds": [
+      "VMRA_NATIVE_LEFT_O3D_de2781bd871d9d"
+    ],
+    "bounds": [
+      [
+        0.016334474086761475,
+        1.1357508897781372,
+        -0.09625270962715149
+      ],
+      [
+        0.13549751043319702,
+        1.2874009609222412,
+        0.06694309413433075
+      ]
+    ],
+    "vertices": 2160,
+    "triangles": 3904,
+    "kind": "structure",
+    "sourceNodeName": "Rib (8th)",
+    "sourceNodeIndex": 28,
+    "sourceMeshIndex": 28,
+    "sourceFile": "muscles-thorax-abdomen.glb",
+    "sourceParentName": "Bones",
+    "sourcePath": "Bones/Rib (8th)",
+    "sourceMaterialNames": [
+      "8th_rib"
+    ],
+    "sourceMaterialIndices": [
+      28
+    ],
+    "hasUV": true,
+    "hasBaseColorTexture": false,
+    "hasNormalTexture": true,
+    "sourceTextureIndices": [
+      28
+    ],
+    "license": "CC-BY-SA-4.0; UBC-derived muscle texture notices CC-BY-NC-SA-4.0",
+    "materialPolicy": "preserve-original",
+    "defaultVisible": true,
+    "geometry": "native-left-bones.glb",
+    "chunk": "native-left-bones.glb",
+    "sourceCanonicalIds": [],
+    "laterality": "left",
+    "elementId": "VMRA_NATIVE_LEFT_O3D_de2781bd871d9d",
+    "meshId": "VMRA_NATIVE_LEFT_O3D_de2781bd871d9d",
+    "sourceDatasetId": "open3d-native-left",
+    "sourceOriginalDatasetId": "open3d-muscles-thorax-abdomen",
+    "sourceOriginalMeshId": "O3D_de2781bd871d9d",
+    "sourceComponentLaterality": "left",
+    "anatomicalRepresentation": "source-component-subset",
+    "anatomicalScope": {
+      "kind": "surface",
+      "label": "Left eighth rib",
+      "note": "One complete original disconnected anatomical left component; no reflected, sliced or moved source triangles."
+    },
+    "rightReferenceMeshId": "O3D_4d4e85342a6c0a",
+    "nameKo": "왼쪽 제8갈비뼈",
+    "bodyRegionIds": [
+      "trunk",
+      "abdomen"
+    ],
+    "bodyPlacementStatus": "accepted-bounded-educational-source-interfaces",
+    "bodyPlacementReviewFile": "body-placement-review.json"
+  },
+  {
+    "id": "VMRA_NATIVE_LEFT_O3D_5f2e3583be1966",
+    "nameEn": "Left ninth rib",
+    "conceptId": "",
+    "system": "skeletal",
+    "meshIds": [
+      "VMRA_NATIVE_LEFT_O3D_5f2e3583be1966"
+    ],
+    "bounds": [
+      [
+        0.016909673810005188,
+        1.1046252250671387,
+        -0.09325987100601196
+      ],
+      [
+        0.13350901007652283,
+        1.259640097618103,
+        0.03960534930229187
+      ]
+    ],
+    "vertices": 2051,
+    "triangles": 3698,
+    "kind": "structure",
+    "sourceNodeName": "Rib (9th)",
+    "sourceNodeIndex": 29,
+    "sourceMeshIndex": 29,
+    "sourceFile": "muscles-thorax-abdomen.glb",
+    "sourceParentName": "Bones",
+    "sourcePath": "Bones/Rib (9th)",
+    "sourceMaterialNames": [
+      "9th_rib"
+    ],
+    "sourceMaterialIndices": [
+      29
+    ],
+    "hasUV": true,
+    "hasBaseColorTexture": false,
+    "hasNormalTexture": true,
+    "sourceTextureIndices": [
+      29
+    ],
+    "license": "CC-BY-SA-4.0; UBC-derived muscle texture notices CC-BY-NC-SA-4.0",
+    "materialPolicy": "preserve-original",
+    "defaultVisible": true,
+    "geometry": "native-left-bones.glb",
+    "chunk": "native-left-bones.glb",
+    "sourceCanonicalIds": [],
+    "laterality": "left",
+    "elementId": "VMRA_NATIVE_LEFT_O3D_5f2e3583be1966",
+    "meshId": "VMRA_NATIVE_LEFT_O3D_5f2e3583be1966",
+    "sourceDatasetId": "open3d-native-left",
+    "sourceOriginalDatasetId": "open3d-muscles-thorax-abdomen",
+    "sourceOriginalMeshId": "O3D_5f2e3583be1966",
+    "sourceComponentLaterality": "left",
+    "anatomicalRepresentation": "source-component-subset",
+    "anatomicalScope": {
+      "kind": "surface",
+      "label": "Left ninth rib",
+      "note": "One complete original disconnected anatomical left component; no reflected, sliced or moved source triangles."
+    },
+    "rightReferenceMeshId": "O3D_cd57752b68ea2a",
+    "nameKo": "왼쪽 제9갈비뼈",
+    "bodyRegionIds": [
+      "trunk",
+      "abdomen"
+    ],
+    "bodyPlacementStatus": "accepted-bounded-educational-source-interfaces",
+    "bodyPlacementReviewFile": "body-placement-review.json"
+  },
+  {
+    "id": "VMRA_NATIVE_LEFT_O3D_2dd47663fd9252",
+    "nameEn": "Left scapula",
+    "conceptId": "",
+    "system": "skeletal",
+    "meshIds": [
+      "VMRA_NATIVE_LEFT_O3D_2dd47663fd9252"
+    ],
+    "bounds": [
+      [
+        0.06020423769950867,
+        1.254859209060669,
+        -0.11713336408138275
+      ],
+      [
+        0.1733742654323578,
+        1.4182541370391846,
+        -0.0028627589344978333
+      ]
+    ],
+    "vertices": 4929,
+    "triangles": 9180,
+    "kind": "structure",
+    "sourceNodeName": "Scapula",
+    "sourceNodeIndex": 31,
+    "sourceMeshIndex": 31,
+    "sourceFile": "muscles-thorax-abdomen.glb",
+    "sourceParentName": "Bones",
+    "sourcePath": "Bones/Scapula",
+    "sourceMaterialNames": [
+      "Scapula"
+    ],
+    "sourceMaterialIndices": [
+      31
+    ],
+    "hasUV": true,
+    "hasBaseColorTexture": false,
+    "hasNormalTexture": true,
+    "sourceTextureIndices": [
+      31
+    ],
+    "license": "CC-BY-SA-4.0; UBC-derived muscle texture notices CC-BY-NC-SA-4.0",
+    "materialPolicy": "preserve-original",
+    "defaultVisible": true,
+    "geometry": "native-left-bones.glb",
+    "chunk": "native-left-bones.glb",
+    "sourceCanonicalIds": [],
+    "laterality": "left",
+    "elementId": "VMRA_NATIVE_LEFT_O3D_2dd47663fd9252",
+    "meshId": "VMRA_NATIVE_LEFT_O3D_2dd47663fd9252",
+    "sourceDatasetId": "open3d-native-left",
+    "sourceOriginalDatasetId": "open3d-muscles-thorax-abdomen",
+    "sourceOriginalMeshId": "O3D_2dd47663fd9252",
+    "sourceComponentLaterality": "left",
+    "anatomicalRepresentation": "source-component-subset",
+    "anatomicalScope": {
+      "kind": "surface",
+      "label": "Left scapula",
+      "note": "One complete original disconnected anatomical left component; no reflected, sliced or moved source triangles."
+    },
+    "rightReferenceMeshId": "O3D_0b76a292ebe35b",
+    "nameKo": "왼쪽 어깨뼈",
+    "bodyRegionIds": [
+      "trunk",
+      "arm"
+    ],
+    "bodyPlacementStatus": "accepted-bounded-educational-source-interfaces",
+    "bodyPlacementReviewFile": "body-placement-review.json"
+  }
+]

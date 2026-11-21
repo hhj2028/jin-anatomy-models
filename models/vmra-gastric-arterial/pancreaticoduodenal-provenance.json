@@ -1,0 +1,75 @@
+{
+  "sourceDatasetId": "bodyparts3d",
+  "sourceUrl": "https://dbarchive.biosciencedbc.jp/en/bodyparts3d/download.html",
+  "sourceOriginalLicense": "CC-BY-4.0",
+  "derivativeLicense": "CC-BY-SA-4.0",
+  "anatomicalRepresentation": "source-derived-surface",
+  "isMeasuredAnatomy": false,
+  "acceptedForInstallation": true,
+  "method": "Shared organ-registration and exact-existing-parent correspondence displacement interpolation; source face rows/corners and materials retained, normals recomputed. Existing 23 gastric vessels unchanged.",
+  "sourcePins": [
+    {
+      "file": "bodyparts3d-arterial-01.glb",
+      "bytes": 9182208,
+      "sha256": "f11dd26f7fca7e8acc8c9043358d0651048f1a1c6df1dd24afb83757f6b739d4"
+    },
+    {
+      "file": "manifest.json",
+      "bytes": 25029,
+      "sha256": "607b9e954ba94b47ace118d1c2c932305707ed071fc7390cf0fd955616e1632a"
+    },
+    {
+      "file": "meshes.json",
+      "bytes": 1515918,
+      "sha256": "d8076089bc841590831068600f1804941f3762a047752cdc37c9553f722aedee"
+    }
+  ],
+  "assetPin": {
+    "file": "pancreaticoduodenal-arteries.glb",
+    "bytes": 28484,
+    "sha256": "370027d44ab2862630f1cbefd0c27533a1ed43fbe7070ae141d28c9e6e1cea05"
+  },
+  "registrationReportPin": {
+    "file": "registration-report.json",
+    "bytes": 88160,
+    "sha256": "110e4557abba48a2ab5069cb8c385e7c815a386da1377f0480a8ee8a1e63c8ca"
+  },
+  "scriptPin": {
+    "file": "build_registration.py",
+    "bytes": 21741,
+    "sha256": "0919abe726369dd40b4c8ea3dc15f9e48cdbbac8a3b54ce43911225463a2832f"
+  },
+  "objects": [
+    {
+      "id": "VMRA_GASTRIC_FJ3409",
+      "sourceId": "FJ3409",
+      "sourceTriangleRowsAndCornersExact": true,
+      "originalMaterialExact": true,
+      "maximumFloat32ErrorMm": 0.00005912941114516457
+    },
+    {
+      "id": "VMRA_GASTRIC_FJ3557",
+      "sourceId": "FJ3557",
+      "sourceTriangleRowsAndCornersExact": true,
+      "originalMaterialExact": true,
+      "maximumFloat32ErrorMm": 0.000059561338972002886
+    }
+  ],
+  "normalPolicy": "Smooth normals from exact coincident exported float32 vertices, remapped to original source corners",
+  "limitations": [
+    "Source-derived display coordinates, not measured anatomy.",
+    "Temporary contacts and organ penetration are reported; no universal zero-contact, caliber, or patent-lumen claim.",
+    "Source physical-contact inventory is undirected; missing inferior branches are not synthesized.",
+    "Current registered surfaces retain temporary organ contacts, including sampled posterior-branch pancreas depth up to 6.71 mm. New anterior-branch/GDA contact is not evidence of a source anatomical junction.",
+    "Named superior branches are included; a complete pancreaticoduodenal arcade and all organ-wall terminal distributions are not represented."
+  ],
+  "hierarchy": {
+    "group": "FMA70437",
+    "relation": "is-a",
+    "members": [
+      "FMA14782",
+      "FMA14784"
+    ],
+    "note": "Named members, not a separate common superior trunk."
+  }
+}

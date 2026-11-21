@@ -1,0 +1,1596 @@
+{
+  "originalSourceDatasetId": "z-anatomy",
+  "anatomicalRepresentation": "original-source-subset",
+  "sourceMetadataSHA256": "8995aa20f2d5eeb249bcec6579de3a695125a8ca1c7ece9875cf559a78f60ac6",
+  "chunkExtraction": [
+    {
+      "source": {
+        "path": "vmra-anatomy/dist/models/z-anatomy/z-anatomy-skeletal-01.glb",
+        "bytes": 9296100,
+        "sha256": "a5a9dda708cc7800793f5ae52a5506d3ad2cff57f4910bfc7a981f6f6580d17a"
+      },
+      "output": {
+        "path": "anatomy-research/bug-audit-2026-09-20/left-upper-limb-source-review/package/left-upper-limb-skeletal-00.glb",
+        "bytes": 1712172,
+        "sha256": "f2ce8256806c3de7c84643c8eb83e95171e06fd2dd1a40955c96739a13b85017"
+      },
+      "physicalIds": [
+        "ZA_ce6a17d9c00747",
+        "ZA_9c46e7edae0707",
+        "ZA_c7ae4e266153e3",
+        "ZA_1241974658cafe",
+        "ZA_dc471a2c386ddd",
+        "ZA_ce1801f30c2cbb",
+        "ZA_4da28f100a0658",
+        "ZA_a8f632fe02386f",
+        "ZA_879bf01f0a79ed",
+        "ZA_508c3e7cf3b84b",
+        "ZA_9c1cbdcdd05d8f",
+        "ZA_178defe6a5415a",
+        "ZA_47476f71e9d473",
+        "ZA_3b69cc0f9813f4",
+        "ZA_86bb10e628e0b8",
+        "ZA_d2c00db9ec1892",
+        "ZA_5c92377df949c8",
+        "ZA_9f968734ac66ff",
+        "ZA_6e889d484266db",
+        "ZA_1c31e5d96575ee",
+        "ZA_1181032b1151b8",
+        "ZA_78c7702818a9a9",
+        "ZA_f0ea80354d9073",
+        "ZA_7a3047e9f08eed",
+        "ZA_c53c0a9723fc62",
+        "ZA_5d8099f1ae33c4",
+        "ZA_b09cf40ed56ff5",
+        "ZA_8957719e6d4268",
+        "ZA_36f81d029c1093",
+        "ZA_9a7eb8f7c7b0fe",
+        "ZA_6b301783443349",
+        "ZA_c3d9e65793ac4e"
+      ],
+      "records": [
+        {
+          "physicalId": "ZA_ce6a17d9c00747",
+          "sourceNodeIndex": 151,
+          "sourceMeshIndex": 151,
+          "outputNodeIndex": 0,
+          "outputMeshIndex": 0
+        },
+        {
+          "physicalId": "ZA_9c46e7edae0707",
+          "sourceNodeIndex": 152,
+          "sourceMeshIndex": 152,
+          "outputNodeIndex": 1,
+          "outputMeshIndex": 1
+        },
+        {
+          "physicalId": "ZA_c7ae4e266153e3",
+          "sourceNodeIndex": 183,
+          "sourceMeshIndex": 183,
+          "outputNodeIndex": 2,
+          "outputMeshIndex": 2
+        },
+        {
+          "physicalId": "ZA_1241974658cafe",
+          "sourceNodeIndex": 184,
+          "sourceMeshIndex": 184,
+          "outputNodeIndex": 3,
+          "outputMeshIndex": 3
+        },
+        {
+          "physicalId": "ZA_dc471a2c386ddd",
+          "sourceNodeIndex": 185,
+          "sourceMeshIndex": 185,
+          "outputNodeIndex": 4,
+          "outputMeshIndex": 4
+        },
+        {
+          "physicalId": "ZA_ce1801f30c2cbb",
+          "sourceNodeIndex": 186,
+          "sourceMeshIndex": 186,
+          "outputNodeIndex": 5,
+          "outputMeshIndex": 5
+        },
+        {
+          "physicalId": "ZA_4da28f100a0658",
+          "sourceNodeIndex": 187,
+          "sourceMeshIndex": 187,
+          "outputNodeIndex": 6,
+          "outputMeshIndex": 6
+        },
+        {
+          "physicalId": "ZA_a8f632fe02386f",
+          "sourceNodeIndex": 188,
+          "sourceMeshIndex": 188,
+          "outputNodeIndex": 7,
+          "outputMeshIndex": 7
+        },
+        {
+          "physicalId": "ZA_879bf01f0a79ed",
+          "sourceNodeIndex": 189,
+          "sourceMeshIndex": 189,
+          "outputNodeIndex": 8,
+          "outputMeshIndex": 8
+        },
+        {
+          "physicalId": "ZA_508c3e7cf3b84b",
+          "sourceNodeIndex": 190,
+          "sourceMeshIndex": 190,
+          "outputNodeIndex": 9,
+          "outputMeshIndex": 9
+        },
+        {
+          "physicalId": "ZA_9c1cbdcdd05d8f",
+          "sourceNodeIndex": 191,
+          "sourceMeshIndex": 191,
+          "outputNodeIndex": 10,
+          "outputMeshIndex": 10
+        },
+        {
+          "physicalId": "ZA_178defe6a5415a",
+          "sourceNodeIndex": 192,
+          "sourceMeshIndex": 192,
+          "outputNodeIndex": 11,
+          "outputMeshIndex": 11
+        },
+        {
+          "physicalId": "ZA_47476f71e9d473",
+          "sourceNodeIndex": 193,
+          "sourceMeshIndex": 193,
+          "outputNodeIndex": 12,
+          "outputMeshIndex": 12
+        },
+        {
+          "physicalId": "ZA_3b69cc0f9813f4",
+          "sourceNodeIndex": 194,
+          "sourceMeshIndex": 194,
+          "outputNodeIndex": 13,
+          "outputMeshIndex": 13
+        },
+        {
+          "physicalId": "ZA_86bb10e628e0b8",
+          "sourceNodeIndex": 195,
+          "sourceMeshIndex": 195,
+          "outputNodeIndex": 14,
+          "outputMeshIndex": 14
+        },
+        {
+          "physicalId": "ZA_d2c00db9ec1892",
+          "sourceNodeIndex": 196,
+          "sourceMeshIndex": 196,
+          "outputNodeIndex": 15,
+          "outputMeshIndex": 15
+        },
+        {
+          "physicalId": "ZA_5c92377df949c8",
+          "sourceNodeIndex": 197,
+          "sourceMeshIndex": 197,
+          "outputNodeIndex": 16,
+          "outputMeshIndex": 16
+        },
+        {
+          "physicalId": "ZA_9f968734ac66ff",
+          "sourceNodeIndex": 198,
+          "sourceMeshIndex": 198,
+          "outputNodeIndex": 17,
+          "outputMeshIndex": 17
+        },
+        {
+          "physicalId": "ZA_6e889d484266db",
+          "sourceNodeIndex": 199,
+          "sourceMeshIndex": 199,
+          "outputNodeIndex": 18,
+          "outputMeshIndex": 18
+        },
+        {
+          "physicalId": "ZA_1c31e5d96575ee",
+          "sourceNodeIndex": 200,
+          "sourceMeshIndex": 200,
+          "outputNodeIndex": 19,
+          "outputMeshIndex": 19
+        },
+        {
+          "physicalId": "ZA_1181032b1151b8",
+          "sourceNodeIndex": 201,
+          "sourceMeshIndex": 201,
+          "outputNodeIndex": 20,
+          "outputMeshIndex": 20
+        },
+        {
+          "physicalId": "ZA_78c7702818a9a9",
+          "sourceNodeIndex": 202,
+          "sourceMeshIndex": 202,
+          "outputNodeIndex": 21,
+          "outputMeshIndex": 21
+        },
+        {
+          "physicalId": "ZA_f0ea80354d9073",
+          "sourceNodeIndex": 203,
+          "sourceMeshIndex": 203,
+          "outputNodeIndex": 22,
+          "outputMeshIndex": 22
+        },
+        {
+          "physicalId": "ZA_7a3047e9f08eed",
+          "sourceNodeIndex": 204,
+          "sourceMeshIndex": 204,
+          "outputNodeIndex": 23,
+          "outputMeshIndex": 23
+        },
+        {
+          "physicalId": "ZA_c53c0a9723fc62",
+          "sourceNodeIndex": 205,
+          "sourceMeshIndex": 205,
+          "outputNodeIndex": 24,
+          "outputMeshIndex": 24
+        },
+        {
+          "physicalId": "ZA_5d8099f1ae33c4",
+          "sourceNodeIndex": 206,
+          "sourceMeshIndex": 206,
+          "outputNodeIndex": 25,
+          "outputMeshIndex": 25
+        },
+        {
+          "physicalId": "ZA_b09cf40ed56ff5",
+          "sourceNodeIndex": 207,
+          "sourceMeshIndex": 207,
+          "outputNodeIndex": 26,
+          "outputMeshIndex": 26
+        },
+        {
+          "physicalId": "ZA_8957719e6d4268",
+          "sourceNodeIndex": 208,
+          "sourceMeshIndex": 208,
+          "outputNodeIndex": 27,
+          "outputMeshIndex": 27
+        },
+        {
+          "physicalId": "ZA_36f81d029c1093",
+          "sourceNodeIndex": 209,
+          "sourceMeshIndex": 209,
+          "outputNodeIndex": 28,
+          "outputMeshIndex": 28
+        },
+        {
+          "physicalId": "ZA_9a7eb8f7c7b0fe",
+          "sourceNodeIndex": 210,
+          "sourceMeshIndex": 210,
+          "outputNodeIndex": 29,
+          "outputMeshIndex": 29
+        },
+        {
+          "physicalId": "ZA_6b301783443349",
+          "sourceNodeIndex": 211,
+          "sourceMeshIndex": 211,
+          "outputNodeIndex": 30,
+          "outputMeshIndex": 30
+        },
+        {
+          "physicalId": "ZA_c3d9e65793ac4e",
+          "sourceNodeIndex": 212,
+          "sourceMeshIndex": 212,
+          "outputNodeIndex": 31,
+          "outputMeshIndex": 31
+        }
+      ],
+      "bytes": 1712172
+    },
+    {
+      "source": {
+        "path": "vmra-anatomy/dist/models/z-anatomy/z-anatomy-nervous-01.glb",
+        "bytes": 16861588,
+        "sha256": "3012da604eb98b0c50ddade134a10d3e678121d60576bd51b820c7eaf55181b8"
+      },
+      "output": {
+        "path": "anatomy-research/bug-audit-2026-09-20/left-upper-limb-source-review/package/left-upper-limb-nervous-04.glb",
+        "bytes": 1048900,
+        "sha256": "15f270276b29a5193fe52471f6bdc48ed459d57873158044394e0f6383400cfd"
+      },
+      "physicalIds": [
+        "ZA_ae3052720b5fed",
+        "ZA_57b50ef1267ccb",
+        "ZA_1d37b6a0104dad",
+        "ZA_cacf09de8b1c3d",
+        "ZA_c54b36db0493f4",
+        "ZA_a061a29f267f0d",
+        "ZA_1a5b675e7033ad",
+        "ZA_ac79657b7151b5",
+        "ZA_d184db687e127a",
+        "ZA_81fc9348dcfb61",
+        "ZA_581fc3ab620ed7",
+        "ZA_add6605baa8021",
+        "ZA_f483f9334899e4",
+        "ZA_a3beda93bb72dc",
+        "ZA_06bf0f499846a0",
+        "ZA_36abc308c7a82e",
+        "ZA_7e34f9ff64bc4b",
+        "ZA_19bf5f71fe6ed0",
+        "ZA_f6149a0430cf73",
+        "ZA_2446f52b0c1bac",
+        "ZA_8c936945a002b3",
+        "ZA_75404ef3ae591c",
+        "ZA_a539f855b4619e",
+        "ZA_10900e9b20403b",
+        "ZA_d0a9eed40b8b56",
+        "ZA_6e8704beca107a",
+        "ZA_cf5746a4fad080",
+        "ZA_2fbd3704c553aa",
+        "ZA_aa6d83946eef09",
+        "ZA_7ed6df914d04c6",
+        "ZA_60a85f612815fc",
+        "ZA_3edc3d0969a411",
+        "ZA_c7a39d11c7cc18",
+        "ZA_e1592d36654f8d",
+        "ZA_138f5045dc0699",
+        "ZA_5cfab958ec8319",
+        "ZA_54ee80e8b30139",
+        "ZA_0cf82e402c84a2",
+        "ZA_a48e1298264a7f",
+        "ZA_20687f4b2580a0",
+        "ZA_f2fc78b10c110e",
+        "ZA_92d56aa7244129",
+        "ZA_024bb396b6ef39",
+        "ZA_aa3e2fb12660ed",
+        "ZA_0640f07768a6bf",
+        "ZA_c5f70a44043551",
+        "ZA_110f281d35c94b",
+        "ZA_51ee9aab84a53d",
+        "ZA_24ec731fcc32b1",
+        "ZA_c18a2ec0c55610",
+        "ZA_b73108fe51220c",
+        "ZA_b38f9ed4c8486f",
+        "ZA_a6f1bb82df725d"
+      ],
+      "records": [
+        {
+          "physicalId": "ZA_ae3052720b5fed",
+          "sourceNodeIndex": 350,
+          "sourceMeshIndex": 350,
+          "outputNodeIndex": 0,
+          "outputMeshIndex": 0
+        },
+        {
+          "physicalId": "ZA_57b50ef1267ccb",
+          "sourceNodeIndex": 351,
+          "sourceMeshIndex": 351,
+          "outputNodeIndex": 1,
+          "outputMeshIndex": 1
+        },
+        {
+          "physicalId": "ZA_1d37b6a0104dad",
+          "sourceNodeIndex": 352,
+          "sourceMeshIndex": 352,
+          "outputNodeIndex": 2,
+          "outputMeshIndex": 2
+        },
+        {
+          "physicalId": "ZA_cacf09de8b1c3d",
+          "sourceNodeIndex": 353,
+          "sourceMeshIndex": 353,
+          "outputNodeIndex": 3,
+          "outputMeshIndex": 3
+        },
+        {
+          "physicalId": "ZA_c54b36db0493f4",
+          "sourceNodeIndex": 354,
+          "sourceMeshIndex": 354,
+          "outputNodeIndex": 4,
+          "outputMeshIndex": 4
+        },
+        {
+          "physicalId": "ZA_a061a29f267f0d",
+          "sourceNodeIndex": 355,
+          "sourceMeshIndex": 355,
+          "outputNodeIndex": 5,
+          "outputMeshIndex": 5
+        },
+        {
+          "physicalId": "ZA_1a5b675e7033ad",
+          "sourceNodeIndex": 356,
+          "sourceMeshIndex": 356,
+          "outputNodeIndex": 6,
+          "outputMeshIndex": 6
+        },
+        {
+          "physicalId": "ZA_ac79657b7151b5",
+          "sourceNodeIndex": 360,
+          "sourceMeshIndex": 360,
+          "outputNodeIndex": 7,
+          "outputMeshIndex": 7
+        },
+        {
+          "physicalId": "ZA_d184db687e127a",
+          "sourceNodeIndex": 361,
+          "sourceMeshIndex": 361,
+          "outputNodeIndex": 8,
+          "outputMeshIndex": 8
+        },
+        {
+          "physicalId": "ZA_81fc9348dcfb61",
+          "sourceNodeIndex": 362,
+          "sourceMeshIndex": 362,
+          "outputNodeIndex": 9,
+          "outputMeshIndex": 9
+        },
+        {
+          "physicalId": "ZA_581fc3ab620ed7",
+          "sourceNodeIndex": 366,
+          "sourceMeshIndex": 366,
+          "outputNodeIndex": 10,
+          "outputMeshIndex": 10
+        },
+        {
+          "physicalId": "ZA_add6605baa8021",
+          "sourceNodeIndex": 367,
+          "sourceMeshIndex": 367,
+          "outputNodeIndex": 11,
+          "outputMeshIndex": 11
+        },
+        {
+          "physicalId": "ZA_f483f9334899e4",
+          "sourceNodeIndex": 368,
+          "sourceMeshIndex": 368,
+          "outputNodeIndex": 12,
+          "outputMeshIndex": 12
+        },
+        {
+          "physicalId": "ZA_a3beda93bb72dc",
+          "sourceNodeIndex": 372,
+          "sourceMeshIndex": 372,
+          "outputNodeIndex": 13,
+          "outputMeshIndex": 13
+        },
+        {
+          "physicalId": "ZA_06bf0f499846a0",
+          "sourceNodeIndex": 373,
+          "sourceMeshIndex": 373,
+          "outputNodeIndex": 14,
+          "outputMeshIndex": 14
+        },
+        {
+          "physicalId": "ZA_36abc308c7a82e",
+          "sourceNodeIndex": 374,
+          "sourceMeshIndex": 374,
+          "outputNodeIndex": 15,
+          "outputMeshIndex": 15
+        },
+        {
+          "physicalId": "ZA_7e34f9ff64bc4b",
+          "sourceNodeIndex": 376,
+          "sourceMeshIndex": 376,
+          "outputNodeIndex": 16,
+          "outputMeshIndex": 16
+        },
+        {
+          "physicalId": "ZA_19bf5f71fe6ed0",
+          "sourceNodeIndex": 378,
+          "sourceMeshIndex": 378,
+          "outputNodeIndex": 17,
+          "outputMeshIndex": 17
+        },
+        {
+          "physicalId": "ZA_f6149a0430cf73",
+          "sourceNodeIndex": 380,
+          "sourceMeshIndex": 380,
+          "outputNodeIndex": 18,
+          "outputMeshIndex": 18
+        },
+        {
+          "physicalId": "ZA_2446f52b0c1bac",
+          "sourceNodeIndex": 383,
+          "sourceMeshIndex": 383,
+          "outputNodeIndex": 19,
+          "outputMeshIndex": 19
+        },
+        {
+          "physicalId": "ZA_8c936945a002b3",
+          "sourceNodeIndex": 384,
+          "sourceMeshIndex": 384,
+          "outputNodeIndex": 20,
+          "outputMeshIndex": 20
+        },
+        {
+          "physicalId": "ZA_75404ef3ae591c",
+          "sourceNodeIndex": 388,
+          "sourceMeshIndex": 388,
+          "outputNodeIndex": 21,
+          "outputMeshIndex": 21
+        },
+        {
+          "physicalId": "ZA_a539f855b4619e",
+          "sourceNodeIndex": 389,
+          "sourceMeshIndex": 389,
+          "outputNodeIndex": 22,
+          "outputMeshIndex": 22
+        },
+        {
+          "physicalId": "ZA_10900e9b20403b",
+          "sourceNodeIndex": 390,
+          "sourceMeshIndex": 390,
+          "outputNodeIndex": 23,
+          "outputMeshIndex": 23
+        },
+        {
+          "physicalId": "ZA_d0a9eed40b8b56",
+          "sourceNodeIndex": 399,
+          "sourceMeshIndex": 399,
+          "outputNodeIndex": 24,
+          "outputMeshIndex": 24
+        },
+        {
+          "physicalId": "ZA_6e8704beca107a",
+          "sourceNodeIndex": 400,
+          "sourceMeshIndex": 400,
+          "outputNodeIndex": 25,
+          "outputMeshIndex": 25
+        },
+        {
+          "physicalId": "ZA_cf5746a4fad080",
+          "sourceNodeIndex": 401,
+          "sourceMeshIndex": 401,
+          "outputNodeIndex": 26,
+          "outputMeshIndex": 26
+        },
+        {
+          "physicalId": "ZA_2fbd3704c553aa",
+          "sourceNodeIndex": 402,
+          "sourceMeshIndex": 402,
+          "outputNodeIndex": 27,
+          "outputMeshIndex": 27
+        },
+        {
+          "physicalId": "ZA_aa6d83946eef09",
+          "sourceNodeIndex": 403,
+          "sourceMeshIndex": 403,
+          "outputNodeIndex": 28,
+          "outputMeshIndex": 28
+        },
+        {
+          "physicalId": "ZA_7ed6df914d04c6",
+          "sourceNodeIndex": 404,
+          "sourceMeshIndex": 404,
+          "outputNodeIndex": 29,
+          "outputMeshIndex": 29
+        },
+        {
+          "physicalId": "ZA_60a85f612815fc",
+          "sourceNodeIndex": 405,
+          "sourceMeshIndex": 405,
+          "outputNodeIndex": 30,
+          "outputMeshIndex": 30
+        },
+        {
+          "physicalId": "ZA_3edc3d0969a411",
+          "sourceNodeIndex": 406,
+          "sourceMeshIndex": 406,
+          "outputNodeIndex": 31,
+          "outputMeshIndex": 31
+        },
+        {
+          "physicalId": "ZA_c7a39d11c7cc18",
+          "sourceNodeIndex": 409,
+          "sourceMeshIndex": 409,
+          "outputNodeIndex": 32,
+          "outputMeshIndex": 32
+        },
+        {
+          "physicalId": "ZA_e1592d36654f8d",
+          "sourceNodeIndex": 410,
+          "sourceMeshIndex": 410,
+          "outputNodeIndex": 33,
+          "outputMeshIndex": 33
+        },
+        {
+          "physicalId": "ZA_138f5045dc0699",
+          "sourceNodeIndex": 411,
+          "sourceMeshIndex": 411,
+          "outputNodeIndex": 34,
+          "outputMeshIndex": 34
+        },
+        {
+          "physicalId": "ZA_5cfab958ec8319",
+          "sourceNodeIndex": 415,
+          "sourceMeshIndex": 415,
+          "outputNodeIndex": 35,
+          "outputMeshIndex": 35
+        },
+        {
+          "physicalId": "ZA_54ee80e8b30139",
+          "sourceNodeIndex": 416,
+          "sourceMeshIndex": 416,
+          "outputNodeIndex": 36,
+          "outputMeshIndex": 36
+        },
+        {
+          "physicalId": "ZA_0cf82e402c84a2",
+          "sourceNodeIndex": 417,
+          "sourceMeshIndex": 417,
+          "outputNodeIndex": 37,
+          "outputMeshIndex": 37
+        },
+        {
+          "physicalId": "ZA_a48e1298264a7f",
+          "sourceNodeIndex": 427,
+          "sourceMeshIndex": 427,
+          "outputNodeIndex": 38,
+          "outputMeshIndex": 38
+        },
+        {
+          "physicalId": "ZA_20687f4b2580a0",
+          "sourceNodeIndex": 428,
+          "sourceMeshIndex": 428,
+          "outputNodeIndex": 39,
+          "outputMeshIndex": 39
+        },
+        {
+          "physicalId": "ZA_f2fc78b10c110e",
+          "sourceNodeIndex": 429,
+          "sourceMeshIndex": 429,
+          "outputNodeIndex": 40,
+          "outputMeshIndex": 40
+        },
+        {
+          "physicalId": "ZA_92d56aa7244129",
+          "sourceNodeIndex": 430,
+          "sourceMeshIndex": 430,
+          "outputNodeIndex": 41,
+          "outputMeshIndex": 41
+        },
+        {
+          "physicalId": "ZA_024bb396b6ef39",
+          "sourceNodeIndex": 431,
+          "sourceMeshIndex": 431,
+          "outputNodeIndex": 42,
+          "outputMeshIndex": 42
+        },
+        {
+          "physicalId": "ZA_aa3e2fb12660ed",
+          "sourceNodeIndex": 432,
+          "sourceMeshIndex": 432,
+          "outputNodeIndex": 43,
+          "outputMeshIndex": 43
+        },
+        {
+          "physicalId": "ZA_0640f07768a6bf",
+          "sourceNodeIndex": 433,
+          "sourceMeshIndex": 433,
+          "outputNodeIndex": 44,
+          "outputMeshIndex": 44
+        },
+        {
+          "physicalId": "ZA_c5f70a44043551",
+          "sourceNodeIndex": 434,
+          "sourceMeshIndex": 434,
+          "outputNodeIndex": 45,
+          "outputMeshIndex": 45
+        },
+        {
+          "physicalId": "ZA_110f281d35c94b",
+          "sourceNodeIndex": 435,
+          "sourceMeshIndex": 435,
+          "outputNodeIndex": 46,
+          "outputMeshIndex": 46
+        },
+        {
+          "physicalId": "ZA_51ee9aab84a53d",
+          "sourceNodeIndex": 437,
+          "sourceMeshIndex": 437,
+          "outputNodeIndex": 47,
+          "outputMeshIndex": 47
+        },
+        {
+          "physicalId": "ZA_24ec731fcc32b1",
+          "sourceNodeIndex": 439,
+          "sourceMeshIndex": 439,
+          "outputNodeIndex": 48,
+          "outputMeshIndex": 48
+        },
+        {
+          "physicalId": "ZA_c18a2ec0c55610",
+          "sourceNodeIndex": 444,
+          "sourceMeshIndex": 444,
+          "outputNodeIndex": 49,
+          "outputMeshIndex": 49
+        },
+        {
+          "physicalId": "ZA_b73108fe51220c",
+          "sourceNodeIndex": 445,
+          "sourceMeshIndex": 445,
+          "outputNodeIndex": 50,
+          "outputMeshIndex": 50
+        },
+        {
+          "physicalId": "ZA_b38f9ed4c8486f",
+          "sourceNodeIndex": 446,
+          "sourceMeshIndex": 446,
+          "outputNodeIndex": 51,
+          "outputMeshIndex": 51
+        },
+        {
+          "physicalId": "ZA_a6f1bb82df725d",
+          "sourceNodeIndex": 447,
+          "sourceMeshIndex": 447,
+          "outputNodeIndex": 52,
+          "outputMeshIndex": 52
+        }
+      ],
+      "bytes": 1048900
+    },
+    {
+      "source": {
+        "path": "vmra-anatomy/dist/models/z-anatomy/z-anatomy-arterial-01.glb",
+        "bytes": 9535012,
+        "sha256": "1cd5433926d4f281a944aa742f5019b28f0c05aab47b461854caa2497c1627e2"
+      },
+      "output": {
+        "path": "anatomy-research/bug-audit-2026-09-20/left-upper-limb-source-review/package/left-upper-limb-arterial-05.glb",
+        "bytes": 399396,
+        "sha256": "fd56a9a59726999a7b7c4f9cbb7f871da37307888caf1d5c95b1d0e806087a60"
+      },
+      "physicalIds": [
+        "ZA_a0fdc4cb9ebe3a",
+        "ZA_997ce372d2ad95",
+        "ZA_a4a3108573b3a7",
+        "ZA_16fc4de3c8c210",
+        "ZA_444a59e0b4cc5b",
+        "ZA_d726025377dcb1",
+        "ZA_b230536b99cf74",
+        "ZA_5288766012b700",
+        "ZA_d4cf2458ebcd4b",
+        "ZA_5e2c08a4e4aa2d",
+        "ZA_27c0bb6e65de3b",
+        "ZA_abf3919b3c91d1",
+        "ZA_2de89e94942345",
+        "ZA_4c44fef1173868",
+        "ZA_917823e7946e4d",
+        "ZA_c88449a9f5f5c9",
+        "ZA_11ce3c191eb840",
+        "ZA_f81f57c3131e34",
+        "ZA_c33467ab9c2605",
+        "ZA_03e787cd272f0a",
+        "ZA_a00f9dae07331c",
+        "ZA_dc0f651b212505",
+        "ZA_3729357f9106a7",
+        "ZA_4a036cc0fbbd97",
+        "ZA_84e901dc13a019",
+        "ZA_02d9b124a939a3",
+        "ZA_4c7b66d68cf039",
+        "ZA_3076c7d77fae9c",
+        "ZA_50e61cc6f2a57e",
+        "ZA_0632001c7df295",
+        "ZA_114760ab7470bf",
+        "ZA_41a47e399e9374",
+        "ZA_6998f8d7ad5741"
+      ],
+      "records": [
+        {
+          "physicalId": "ZA_a0fdc4cb9ebe3a",
+          "sourceNodeIndex": 197,
+          "sourceMeshIndex": 197,
+          "outputNodeIndex": 0,
+          "outputMeshIndex": 0
+        },
+        {
+          "physicalId": "ZA_997ce372d2ad95",
+          "sourceNodeIndex": 199,
+          "sourceMeshIndex": 199,
+          "outputNodeIndex": 1,
+          "outputMeshIndex": 1
+        },
+        {
+          "physicalId": "ZA_a4a3108573b3a7",
+          "sourceNodeIndex": 208,
+          "sourceMeshIndex": 208,
+          "outputNodeIndex": 2,
+          "outputMeshIndex": 2
+        },
+        {
+          "physicalId": "ZA_16fc4de3c8c210",
+          "sourceNodeIndex": 209,
+          "sourceMeshIndex": 209,
+          "outputNodeIndex": 3,
+          "outputMeshIndex": 3
+        },
+        {
+          "physicalId": "ZA_444a59e0b4cc5b",
+          "sourceNodeIndex": 210,
+          "sourceMeshIndex": 210,
+          "outputNodeIndex": 4,
+          "outputMeshIndex": 4
+        },
+        {
+          "physicalId": "ZA_d726025377dcb1",
+          "sourceNodeIndex": 211,
+          "sourceMeshIndex": 211,
+          "outputNodeIndex": 5,
+          "outputMeshIndex": 5
+        },
+        {
+          "physicalId": "ZA_b230536b99cf74",
+          "sourceNodeIndex": 212,
+          "sourceMeshIndex": 212,
+          "outputNodeIndex": 6,
+          "outputMeshIndex": 6
+        },
+        {
+          "physicalId": "ZA_5288766012b700",
+          "sourceNodeIndex": 213,
+          "sourceMeshIndex": 213,
+          "outputNodeIndex": 7,
+          "outputMeshIndex": 7
+        },
+        {
+          "physicalId": "ZA_d4cf2458ebcd4b",
+          "sourceNodeIndex": 214,
+          "sourceMeshIndex": 214,
+          "outputNodeIndex": 8,
+          "outputMeshIndex": 8
+        },
+        {
+          "physicalId": "ZA_5e2c08a4e4aa2d",
+          "sourceNodeIndex": 215,
+          "sourceMeshIndex": 215,
+          "outputNodeIndex": 9,
+          "outputMeshIndex": 9
+        },
+        {
+          "physicalId": "ZA_27c0bb6e65de3b",
+          "sourceNodeIndex": 216,
+          "sourceMeshIndex": 216,
+          "outputNodeIndex": 10,
+          "outputMeshIndex": 10
+        },
+        {
+          "physicalId": "ZA_abf3919b3c91d1",
+          "sourceNodeIndex": 217,
+          "sourceMeshIndex": 217,
+          "outputNodeIndex": 11,
+          "outputMeshIndex": 11
+        },
+        {
+          "physicalId": "ZA_2de89e94942345",
+          "sourceNodeIndex": 218,
+          "sourceMeshIndex": 218,
+          "outputNodeIndex": 12,
+          "outputMeshIndex": 12
+        },
+        {
+          "physicalId": "ZA_4c44fef1173868",
+          "sourceNodeIndex": 219,
+          "sourceMeshIndex": 219,
+          "outputNodeIndex": 13,
+          "outputMeshIndex": 13
+        },
+        {
+          "physicalId": "ZA_917823e7946e4d",
+          "sourceNodeIndex": 220,
+          "sourceMeshIndex": 220,
+          "outputNodeIndex": 14,
+          "outputMeshIndex": 14
+        },
+        {
+          "physicalId": "ZA_c88449a9f5f5c9",
+          "sourceNodeIndex": 221,
+          "sourceMeshIndex": 221,
+          "outputNodeIndex": 15,
+          "outputMeshIndex": 15
+        },
+        {
+          "physicalId": "ZA_11ce3c191eb840",
+          "sourceNodeIndex": 222,
+          "sourceMeshIndex": 222,
+          "outputNodeIndex": 16,
+          "outputMeshIndex": 16
+        },
+        {
+          "physicalId": "ZA_f81f57c3131e34",
+          "sourceNodeIndex": 223,
+          "sourceMeshIndex": 223,
+          "outputNodeIndex": 17,
+          "outputMeshIndex": 17
+        },
+        {
+          "physicalId": "ZA_c33467ab9c2605",
+          "sourceNodeIndex": 224,
+          "sourceMeshIndex": 224,
+          "outputNodeIndex": 18,
+          "outputMeshIndex": 18
+        },
+        {
+          "physicalId": "ZA_03e787cd272f0a",
+          "sourceNodeIndex": 225,
+          "sourceMeshIndex": 225,
+          "outputNodeIndex": 19,
+          "outputMeshIndex": 19
+        },
+        {
+          "physicalId": "ZA_a00f9dae07331c",
+          "sourceNodeIndex": 226,
+          "sourceMeshIndex": 226,
+          "outputNodeIndex": 20,
+          "outputMeshIndex": 20
+        },
+        {
+          "physicalId": "ZA_dc0f651b212505",
+          "sourceNodeIndex": 227,
+          "sourceMeshIndex": 227,
+          "outputNodeIndex": 21,
+          "outputMeshIndex": 21
+        },
+        {
+          "physicalId": "ZA_3729357f9106a7",
+          "sourceNodeIndex": 228,
+          "sourceMeshIndex": 228,
+          "outputNodeIndex": 22,
+          "outputMeshIndex": 22
+        },
+        {
+          "physicalId": "ZA_4a036cc0fbbd97",
+          "sourceNodeIndex": 229,
+          "sourceMeshIndex": 229,
+          "outputNodeIndex": 23,
+          "outputMeshIndex": 23
+        },
+        {
+          "physicalId": "ZA_84e901dc13a019",
+          "sourceNodeIndex": 230,
+          "sourceMeshIndex": 230,
+          "outputNodeIndex": 24,
+          "outputMeshIndex": 24
+        },
+        {
+          "physicalId": "ZA_02d9b124a939a3",
+          "sourceNodeIndex": 231,
+          "sourceMeshIndex": 231,
+          "outputNodeIndex": 25,
+          "outputMeshIndex": 25
+        },
+        {
+          "physicalId": "ZA_4c7b66d68cf039",
+          "sourceNodeIndex": 232,
+          "sourceMeshIndex": 232,
+          "outputNodeIndex": 26,
+          "outputMeshIndex": 26
+        },
+        {
+          "physicalId": "ZA_3076c7d77fae9c",
+          "sourceNodeIndex": 233,
+          "sourceMeshIndex": 233,
+          "outputNodeIndex": 27,
+          "outputMeshIndex": 27
+        },
+        {
+          "physicalId": "ZA_50e61cc6f2a57e",
+          "sourceNodeIndex": 234,
+          "sourceMeshIndex": 234,
+          "outputNodeIndex": 28,
+          "outputMeshIndex": 28
+        },
+        {
+          "physicalId": "ZA_0632001c7df295",
+          "sourceNodeIndex": 235,
+          "sourceMeshIndex": 235,
+          "outputNodeIndex": 29,
+          "outputMeshIndex": 29
+        },
+        {
+          "physicalId": "ZA_114760ab7470bf",
+          "sourceNodeIndex": 236,
+          "sourceMeshIndex": 236,
+          "outputNodeIndex": 30,
+          "outputMeshIndex": 30
+        },
+        {
+          "physicalId": "ZA_41a47e399e9374",
+          "sourceNodeIndex": 237,
+          "sourceMeshIndex": 237,
+          "outputNodeIndex": 31,
+          "outputMeshIndex": 31
+        },
+        {
+          "physicalId": "ZA_6998f8d7ad5741",
+          "sourceNodeIndex": 238,
+          "sourceMeshIndex": 238,
+          "outputNodeIndex": 32,
+          "outputMeshIndex": 32
+        }
+      ],
+      "bytes": 399396
+    },
+    {
+      "source": {
+        "path": "vmra-anatomy/dist/models/z-anatomy/z-anatomy-venous-01.glb",
+        "bytes": 4651496,
+        "sha256": "9def16383bbf851ec74b0196c79c83b17f0c3a1ab80b3273aee3644ebade962a"
+      },
+      "output": {
+        "path": "anatomy-research/bug-audit-2026-09-20/left-upper-limb-source-review/package/left-upper-limb-venous-09.glb",
+        "bytes": 394972,
+        "sha256": "8f6720a78a7acdc6bb12820b19b8c0c894195004bc69d3ff326ff86bb762dd0d"
+      },
+      "physicalIds": [
+        "ZA_c1db7c3c36db6c",
+        "ZA_ef4cdccf17092a",
+        "ZA_c2ba11ed6cc586",
+        "ZA_048b4879928bde",
+        "ZA_31cf3d7da7b551",
+        "ZA_6f77c465a1fedf",
+        "ZA_5dcb6395f6ab54",
+        "ZA_cfa48b1793358e",
+        "ZA_18013973a1b806",
+        "ZA_14f9014b540cf8",
+        "ZA_f4fe3589704f88",
+        "ZA_bbcf01c61f856d",
+        "ZA_2f4e941dfb042c",
+        "ZA_0b86167d4d8eb3",
+        "ZA_a28d3b3b6faa98",
+        "ZA_cef7975a14f503",
+        "ZA_552e85b7a1410c",
+        "ZA_49eb1617aabb96",
+        "ZA_b61509dee156b8"
+      ],
+      "records": [
+        {
+          "physicalId": "ZA_c1db7c3c36db6c",
+          "sourceNodeIndex": 55,
+          "sourceMeshIndex": 55,
+          "outputNodeIndex": 0,
+          "outputMeshIndex": 0
+        },
+        {
+          "physicalId": "ZA_ef4cdccf17092a",
+          "sourceNodeIndex": 56,
+          "sourceMeshIndex": 56,
+          "outputNodeIndex": 1,
+          "outputMeshIndex": 1
+        },
+        {
+          "physicalId": "ZA_c2ba11ed6cc586",
+          "sourceNodeIndex": 57,
+          "sourceMeshIndex": 57,
+          "outputNodeIndex": 2,
+          "outputMeshIndex": 2
+        },
+        {
+          "physicalId": "ZA_048b4879928bde",
+          "sourceNodeIndex": 58,
+          "sourceMeshIndex": 58,
+          "outputNodeIndex": 3,
+          "outputMeshIndex": 3
+        },
+        {
+          "physicalId": "ZA_31cf3d7da7b551",
+          "sourceNodeIndex": 59,
+          "sourceMeshIndex": 59,
+          "outputNodeIndex": 4,
+          "outputMeshIndex": 4
+        },
+        {
+          "physicalId": "ZA_6f77c465a1fedf",
+          "sourceNodeIndex": 60,
+          "sourceMeshIndex": 60,
+          "outputNodeIndex": 5,
+          "outputMeshIndex": 5
+        },
+        {
+          "physicalId": "ZA_5dcb6395f6ab54",
+          "sourceNodeIndex": 61,
+          "sourceMeshIndex": 61,
+          "outputNodeIndex": 6,
+          "outputMeshIndex": 6
+        },
+        {
+          "physicalId": "ZA_cfa48b1793358e",
+          "sourceNodeIndex": 62,
+          "sourceMeshIndex": 62,
+          "outputNodeIndex": 7,
+          "outputMeshIndex": 7
+        },
+        {
+          "physicalId": "ZA_18013973a1b806",
+          "sourceNodeIndex": 63,
+          "sourceMeshIndex": 63,
+          "outputNodeIndex": 8,
+          "outputMeshIndex": 8
+        },
+        {
+          "physicalId": "ZA_14f9014b540cf8",
+          "sourceNodeIndex": 64,
+          "sourceMeshIndex": 64,
+          "outputNodeIndex": 9,
+          "outputMeshIndex": 9
+        },
+        {
+          "physicalId": "ZA_f4fe3589704f88",
+          "sourceNodeIndex": 65,
+          "sourceMeshIndex": 65,
+          "outputNodeIndex": 10,
+          "outputMeshIndex": 10
+        },
+        {
+          "physicalId": "ZA_bbcf01c61f856d",
+          "sourceNodeIndex": 66,
+          "sourceMeshIndex": 66,
+          "outputNodeIndex": 11,
+          "outputMeshIndex": 11
+        },
+        {
+          "physicalId": "ZA_2f4e941dfb042c",
+          "sourceNodeIndex": 67,
+          "sourceMeshIndex": 67,
+          "outputNodeIndex": 12,
+          "outputMeshIndex": 12
+        },
+        {
+          "physicalId": "ZA_0b86167d4d8eb3",
+          "sourceNodeIndex": 68,
+          "sourceMeshIndex": 68,
+          "outputNodeIndex": 13,
+          "outputMeshIndex": 13
+        },
+        {
+          "physicalId": "ZA_a28d3b3b6faa98",
+          "sourceNodeIndex": 69,
+          "sourceMeshIndex": 69,
+          "outputNodeIndex": 14,
+          "outputMeshIndex": 14
+        },
+        {
+          "physicalId": "ZA_cef7975a14f503",
+          "sourceNodeIndex": 70,
+          "sourceMeshIndex": 70,
+          "outputNodeIndex": 15,
+          "outputMeshIndex": 15
+        },
+        {
+          "physicalId": "ZA_552e85b7a1410c",
+          "sourceNodeIndex": 71,
+          "sourceMeshIndex": 71,
+          "outputNodeIndex": 16,
+          "outputMeshIndex": 16
+        },
+        {
+          "physicalId": "ZA_49eb1617aabb96",
+          "sourceNodeIndex": 72,
+          "sourceMeshIndex": 72,
+          "outputNodeIndex": 17,
+          "outputMeshIndex": 17
+        },
+        {
+          "physicalId": "ZA_b61509dee156b8",
+          "sourceNodeIndex": 73,
+          "sourceMeshIndex": 73,
+          "outputNodeIndex": 18,
+          "outputMeshIndex": 18
+        }
+      ],
+      "bytes": 394972
+    },
+    {
+      "source": {
+        "path": "vmra-anatomy/dist/models/z-anatomy/z-anatomy-muscular-02.glb",
+        "bytes": 11661208,
+        "sha256": "5507bc12997601f7f8bac9606f72677d15f4ca43b53ef6834e16a947168396d8"
+      },
+      "output": {
+        "path": "anatomy-research/bug-audit-2026-09-20/left-upper-limb-source-review/package/left-upper-limb-muscular-11.glb",
+        "bytes": 1737132,
+        "sha256": "edd96bd63cc35dafe173cca5a281886dec6a8f77761cb2594ede142b310601cd"
+      },
+      "physicalIds": [
+        "ZA_0530466bc79afd",
+        "ZA_a5879334290c5d",
+        "ZA_7a9d6ea261879b",
+        "ZA_667f1904e9a100",
+        "ZA_5e5d1a393c1cf3",
+        "ZA_44c5c6cd7114af",
+        "ZA_ee7d30ed189cc0",
+        "ZA_03161128a5561b",
+        "ZA_b12f456528bb0b",
+        "ZA_a43c8de9c98468",
+        "ZA_a91af534dae1f6",
+        "ZA_71907340123547",
+        "ZA_4efcfd211439e7",
+        "ZA_36a3777a26bf14",
+        "ZA_63f89e7c95e870",
+        "ZA_8379d9db10481c",
+        "ZA_7aa2ceafa51b11",
+        "ZA_cd2553cf86aaa4",
+        "ZA_5fcb8cb7295337",
+        "ZA_e940a187581a84",
+        "ZA_1221e9b449dec1",
+        "ZA_cf05f22981e421",
+        "ZA_516bf4d2e848e6",
+        "ZA_e3d535fd941421",
+        "ZA_a058431777eebd",
+        "ZA_96d60288eed331",
+        "ZA_7de3ecee021f02",
+        "ZA_eefa4f7158e3f3",
+        "ZA_5cb3a2bee63c2a",
+        "ZA_70b1b1cc481550",
+        "ZA_67d96bdf7b3165",
+        "ZA_cfdbf6cbd623a3",
+        "ZA_3b2c3005c01a59",
+        "ZA_ca4d528f440f02",
+        "ZA_77e174398671db",
+        "ZA_73dce339c1da98",
+        "ZA_d2da0649021084",
+        "ZA_6db63a86dba318",
+        "ZA_25564dabaebe28",
+        "ZA_0189a1f07caf72",
+        "ZA_d0fbaf4eb5613d",
+        "ZA_9b3c68bb4c36ab",
+        "ZA_51eebc76736262",
+        "ZA_cd442a73bcdc18",
+        "ZA_905469bd0147e1",
+        "ZA_63e0de94dcec5c",
+        "ZA_5ae40611ccccc8",
+        "ZA_9eb6958192ce9e",
+        "ZA_7bbf871ce12ad8",
+        "ZA_32df1127183b54",
+        "ZA_8d4d4b8d5ee9f8"
+      ],
+      "records": [
+        {
+          "physicalId": "ZA_0530466bc79afd",
+          "sourceNodeIndex": 19,
+          "sourceMeshIndex": 19,
+          "outputNodeIndex": 0,
+          "outputMeshIndex": 0
+        },
+        {
+          "physicalId": "ZA_a5879334290c5d",
+          "sourceNodeIndex": 23,
+          "sourceMeshIndex": 23,
+          "outputNodeIndex": 1,
+          "outputMeshIndex": 1
+        },
+        {
+          "physicalId": "ZA_7a9d6ea261879b",
+          "sourceNodeIndex": 24,
+          "sourceMeshIndex": 24,
+          "outputNodeIndex": 2,
+          "outputMeshIndex": 2
+        },
+        {
+          "physicalId": "ZA_667f1904e9a100",
+          "sourceNodeIndex": 25,
+          "sourceMeshIndex": 25,
+          "outputNodeIndex": 3,
+          "outputMeshIndex": 3
+        },
+        {
+          "physicalId": "ZA_5e5d1a393c1cf3",
+          "sourceNodeIndex": 30,
+          "sourceMeshIndex": 30,
+          "outputNodeIndex": 4,
+          "outputMeshIndex": 4
+        },
+        {
+          "physicalId": "ZA_44c5c6cd7114af",
+          "sourceNodeIndex": 31,
+          "sourceMeshIndex": 31,
+          "outputNodeIndex": 5,
+          "outputMeshIndex": 5
+        },
+        {
+          "physicalId": "ZA_ee7d30ed189cc0",
+          "sourceNodeIndex": 32,
+          "sourceMeshIndex": 32,
+          "outputNodeIndex": 6,
+          "outputMeshIndex": 6
+        },
+        {
+          "physicalId": "ZA_03161128a5561b",
+          "sourceNodeIndex": 33,
+          "sourceMeshIndex": 33,
+          "outputNodeIndex": 7,
+          "outputMeshIndex": 7
+        },
+        {
+          "physicalId": "ZA_b12f456528bb0b",
+          "sourceNodeIndex": 36,
+          "sourceMeshIndex": 36,
+          "outputNodeIndex": 8,
+          "outputMeshIndex": 8
+        },
+        {
+          "physicalId": "ZA_a43c8de9c98468",
+          "sourceNodeIndex": 37,
+          "sourceMeshIndex": 37,
+          "outputNodeIndex": 9,
+          "outputMeshIndex": 9
+        },
+        {
+          "physicalId": "ZA_a91af534dae1f6",
+          "sourceNodeIndex": 40,
+          "sourceMeshIndex": 40,
+          "outputNodeIndex": 10,
+          "outputMeshIndex": 10
+        },
+        {
+          "physicalId": "ZA_71907340123547",
+          "sourceNodeIndex": 41,
+          "sourceMeshIndex": 41,
+          "outputNodeIndex": 11,
+          "outputMeshIndex": 11
+        },
+        {
+          "physicalId": "ZA_4efcfd211439e7",
+          "sourceNodeIndex": 45,
+          "sourceMeshIndex": 45,
+          "outputNodeIndex": 12,
+          "outputMeshIndex": 12
+        },
+        {
+          "physicalId": "ZA_36a3777a26bf14",
+          "sourceNodeIndex": 46,
+          "sourceMeshIndex": 46,
+          "outputNodeIndex": 13,
+          "outputMeshIndex": 13
+        },
+        {
+          "physicalId": "ZA_63f89e7c95e870",
+          "sourceNodeIndex": 47,
+          "sourceMeshIndex": 47,
+          "outputNodeIndex": 14,
+          "outputMeshIndex": 14
+        },
+        {
+          "physicalId": "ZA_8379d9db10481c",
+          "sourceNodeIndex": 50,
+          "sourceMeshIndex": 50,
+          "outputNodeIndex": 15,
+          "outputMeshIndex": 15
+        },
+        {
+          "physicalId": "ZA_7aa2ceafa51b11",
+          "sourceNodeIndex": 51,
+          "sourceMeshIndex": 51,
+          "outputNodeIndex": 16,
+          "outputMeshIndex": 16
+        },
+        {
+          "physicalId": "ZA_cd2553cf86aaa4",
+          "sourceNodeIndex": 54,
+          "sourceMeshIndex": 54,
+          "outputNodeIndex": 17,
+          "outputMeshIndex": 17
+        },
+        {
+          "physicalId": "ZA_5fcb8cb7295337",
+          "sourceNodeIndex": 55,
+          "sourceMeshIndex": 55,
+          "outputNodeIndex": 18,
+          "outputMeshIndex": 18
+        },
+        {
+          "physicalId": "ZA_e940a187581a84",
+          "sourceNodeIndex": 57,
+          "sourceMeshIndex": 57,
+          "outputNodeIndex": 19,
+          "outputMeshIndex": 19
+        },
+        {
+          "physicalId": "ZA_1221e9b449dec1",
+          "sourceNodeIndex": 60,
+          "sourceMeshIndex": 60,
+          "outputNodeIndex": 20,
+          "outputMeshIndex": 20
+        },
+        {
+          "physicalId": "ZA_cf05f22981e421",
+          "sourceNodeIndex": 61,
+          "sourceMeshIndex": 61,
+          "outputNodeIndex": 21,
+          "outputMeshIndex": 21
+        },
+        {
+          "physicalId": "ZA_516bf4d2e848e6",
+          "sourceNodeIndex": 63,
+          "sourceMeshIndex": 63,
+          "outputNodeIndex": 22,
+          "outputMeshIndex": 22
+        },
+        {
+          "physicalId": "ZA_e3d535fd941421",
+          "sourceNodeIndex": 67,
+          "sourceMeshIndex": 67,
+          "outputNodeIndex": 23,
+          "outputMeshIndex": 23
+        },
+        {
+          "physicalId": "ZA_a058431777eebd",
+          "sourceNodeIndex": 68,
+          "sourceMeshIndex": 68,
+          "outputNodeIndex": 24,
+          "outputMeshIndex": 24
+        },
+        {
+          "physicalId": "ZA_96d60288eed331",
+          "sourceNodeIndex": 69,
+          "sourceMeshIndex": 69,
+          "outputNodeIndex": 25,
+          "outputMeshIndex": 25
+        },
+        {
+          "physicalId": "ZA_7de3ecee021f02",
+          "sourceNodeIndex": 71,
+          "sourceMeshIndex": 71,
+          "outputNodeIndex": 26,
+          "outputMeshIndex": 26
+        },
+        {
+          "physicalId": "ZA_eefa4f7158e3f3",
+          "sourceNodeIndex": 74,
+          "sourceMeshIndex": 74,
+          "outputNodeIndex": 27,
+          "outputMeshIndex": 27
+        },
+        {
+          "physicalId": "ZA_5cb3a2bee63c2a",
+          "sourceNodeIndex": 75,
+          "sourceMeshIndex": 75,
+          "outputNodeIndex": 28,
+          "outputMeshIndex": 28
+        },
+        {
+          "physicalId": "ZA_70b1b1cc481550",
+          "sourceNodeIndex": 81,
+          "sourceMeshIndex": 81,
+          "outputNodeIndex": 29,
+          "outputMeshIndex": 29
+        },
+        {
+          "physicalId": "ZA_67d96bdf7b3165",
+          "sourceNodeIndex": 82,
+          "sourceMeshIndex": 82,
+          "outputNodeIndex": 30,
+          "outputMeshIndex": 30
+        },
+        {
+          "physicalId": "ZA_cfdbf6cbd623a3",
+          "sourceNodeIndex": 83,
+          "sourceMeshIndex": 83,
+          "outputNodeIndex": 31,
+          "outputMeshIndex": 31
+        },
+        {
+          "physicalId": "ZA_3b2c3005c01a59",
+          "sourceNodeIndex": 84,
+          "sourceMeshIndex": 84,
+          "outputNodeIndex": 32,
+          "outputMeshIndex": 32
+        },
+        {
+          "physicalId": "ZA_ca4d528f440f02",
+          "sourceNodeIndex": 85,
+          "sourceMeshIndex": 85,
+          "outputNodeIndex": 33,
+          "outputMeshIndex": 33
+        },
+        {
+          "physicalId": "ZA_77e174398671db",
+          "sourceNodeIndex": 87,
+          "sourceMeshIndex": 87,
+          "outputNodeIndex": 34,
+          "outputMeshIndex": 34
+        },
+        {
+          "physicalId": "ZA_73dce339c1da98",
+          "sourceNodeIndex": 92,
+          "sourceMeshIndex": 92,
+          "outputNodeIndex": 35,
+          "outputMeshIndex": 35
+        },
+        {
+          "physicalId": "ZA_d2da0649021084",
+          "sourceNodeIndex": 93,
+          "sourceMeshIndex": 93,
+          "outputNodeIndex": 36,
+          "outputMeshIndex": 36
+        },
+        {
+          "physicalId": "ZA_6db63a86dba318",
+          "sourceNodeIndex": 94,
+          "sourceMeshIndex": 94,
+          "outputNodeIndex": 37,
+          "outputMeshIndex": 37
+        },
+        {
+          "physicalId": "ZA_25564dabaebe28",
+          "sourceNodeIndex": 95,
+          "sourceMeshIndex": 95,
+          "outputNodeIndex": 38,
+          "outputMeshIndex": 38
+        },
+        {
+          "physicalId": "ZA_0189a1f07caf72",
+          "sourceNodeIndex": 98,
+          "sourceMeshIndex": 98,
+          "outputNodeIndex": 39,
+          "outputMeshIndex": 39
+        },
+        {
+          "physicalId": "ZA_d0fbaf4eb5613d",
+          "sourceNodeIndex": 99,
+          "sourceMeshIndex": 99,
+          "outputNodeIndex": 40,
+          "outputMeshIndex": 40
+        },
+        {
+          "physicalId": "ZA_9b3c68bb4c36ab",
+          "sourceNodeIndex": 102,
+          "sourceMeshIndex": 102,
+          "outputNodeIndex": 41,
+          "outputMeshIndex": 41
+        },
+        {
+          "physicalId": "ZA_51eebc76736262",
+          "sourceNodeIndex": 103,
+          "sourceMeshIndex": 103,
+          "outputNodeIndex": 42,
+          "outputMeshIndex": 42
+        },
+        {
+          "physicalId": "ZA_cd442a73bcdc18",
+          "sourceNodeIndex": 112,
+          "sourceMeshIndex": 112,
+          "outputNodeIndex": 43,
+          "outputMeshIndex": 43
+        },
+        {
+          "physicalId": "ZA_905469bd0147e1",
+          "sourceNodeIndex": 113,
+          "sourceMeshIndex": 113,
+          "outputNodeIndex": 44,
+          "outputMeshIndex": 44
+        },
+        {
+          "physicalId": "ZA_63e0de94dcec5c",
+          "sourceNodeIndex": 114,
+          "sourceMeshIndex": 114,
+          "outputNodeIndex": 45,
+          "outputMeshIndex": 45
+        },
+        {
+          "physicalId": "ZA_5ae40611ccccc8",
+          "sourceNodeIndex": 115,
+          "sourceMeshIndex": 115,
+          "outputNodeIndex": 46,
+          "outputMeshIndex": 46
+        },
+        {
+          "physicalId": "ZA_9eb6958192ce9e",
+          "sourceNodeIndex": 116,
+          "sourceMeshIndex": 116,
+          "outputNodeIndex": 47,
+          "outputMeshIndex": 47
+        },
+        {
+          "physicalId": "ZA_7bbf871ce12ad8",
+          "sourceNodeIndex": 117,
+          "sourceMeshIndex": 117,
+          "outputNodeIndex": 48,
+          "outputMeshIndex": 48
+        },
+        {
+          "physicalId": "ZA_32df1127183b54",
+          "sourceNodeIndex": 118,
+          "sourceMeshIndex": 118,
+          "outputNodeIndex": 49,
+          "outputMeshIndex": 49
+        },
+        {
+          "physicalId": "ZA_8d4d4b8d5ee9f8",
+          "sourceNodeIndex": 119,
+          "sourceMeshIndex": 119,
+          "outputNodeIndex": 50,
+          "outputMeshIndex": 50
+        }
+      ],
+      "bytes": 1737132
+    }
+  ]
+}

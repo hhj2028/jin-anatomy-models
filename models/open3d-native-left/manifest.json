@@ -1,0 +1,97 @@
+{
+  "sourceUrl": "https://anatomytool.org/content/open3dmodel-muscles-thorax-abdomen-and-back-english-labels",
+  "license": "Mixed: CC-BY-SA-4.0 model; CC-BY-NC-SA-4.0 UBC-derived muscle textures",
+  "licenseSourceUrl": "https://anatomytool.org/open3dmodel-create",
+  "attribution": "Open3D project / AnatomyTOOL, Eungyeol Lee (3D modelling, LUMC), Daniël Jansma (web models, LUMC), Paul O.P. Gobée and the credited anatomical contributors; skull sculpting Emily Fong. Based on BodyParts3D and Z-Anatomy. Model source: CC BY-SA 4.0. Muscle texture source credited by AnatomyTOOL: Thoracic walls by Claudia Krebs et al., University of British Columbia, CC BY-NC-SA 4.0. Full credits: https://anatomytool.org/open3dmodel-credit .",
+  "dataset": "Open3D Anatomy — Native left components",
+  "datasetId": "open3d-native-left",
+  "materialPolicy": "preserve-original",
+  "anatomicalRepresentation": "source-component-subset",
+  "geometryMeshCount": 11,
+  "structureCount": 11,
+  "triangleCount": 47812,
+  "totalGlbBytes": 1254144,
+  "geometryFile": "meshes.json",
+  "structuresFile": "structures.json",
+  "coordinates": {
+    "units": "metres",
+    "up": "+Y",
+    "front": "+Z",
+    "left": "+X",
+    "bounds": [
+      [
+        0.014571815729141235,
+        1.056557059288025,
+        -0.11713336408138275
+      ],
+      [
+        0.24787671864032745,
+        1.4356697797775269,
+        0.09210368990898132
+      ]
+    ],
+    "sourceToApp": "Identity native source positions. Whole pre-existing left connected components extracted; no registration or mirroring."
+  },
+  "chunks": [
+    {
+      "file": "native-left-bones.glb",
+      "system": "skeletal",
+      "bytes": 1254144,
+      "meshCount": 11,
+      "meshIds": [
+        "VMRA_NATIVE_LEFT_O3D_529cd1e2ec44af",
+        "VMRA_NATIVE_LEFT_O3D_025acb3eb4f4c3",
+        "VMRA_NATIVE_LEFT_O3D_ce73e88b02db18",
+        "VMRA_NATIVE_LEFT_O3D_f3428a581f4473",
+        "VMRA_NATIVE_LEFT_O3D_12566afc8ac71c",
+        "VMRA_NATIVE_LEFT_O3D_d0e1cb2dc7975a",
+        "VMRA_NATIVE_LEFT_O3D_11991810878b71",
+        "VMRA_NATIVE_LEFT_O3D_8bddca95bf4356",
+        "VMRA_NATIVE_LEFT_O3D_de2781bd871d9d",
+        "VMRA_NATIVE_LEFT_O3D_5f2e3583be1966",
+        "VMRA_NATIVE_LEFT_O3D_2dd47663fd9252"
+      ],
+      "sha256": "36916a5c9319373cb878d5d58e66baf8d1b89614baa7999cd302a38de74a5600"
+    }
+  ],
+  "provenanceFile": "source-provenance.json",
+  "modifications": "Extracted complete original disconnected left components. Every referenced position, normal, UV and material value is unchanged. Source triangle corners are retained with compact local index remapping; source image bytes are embedded unchanged. Original right components and current-body right IDs remain untouched.",
+  "limitations": [
+    "This educational composition adds eleven intact original left bone components. It is not a complete left skeleton, limb, head/neck or measured whole-human atlas.",
+    "No mirroring, coordinate transform, triangle slicing, source anatomical deformation or new inferred bone surface is used. Original right physical IDs and raw datasets remain untouched.",
+    "The retained rib interfaces are not collision-free: original posterior muscle attachment and cartilage/joint surface overlaps remain. The largest retained sampled muscle-to-bone overlap is 3.052447 mm at second rib / levatores costarum breves.",
+    "The existing Z diaphragm contacts ribs 9–12 at costal/posterior attachment regions. Sampled depths are respectively 0.999602, 1.426751, 0.519560 and 2.192070 mm. Original Z rib comparisons already have related residuals of 1.487783, 1.919304, 0.940294 and 1.889180 mm; shared ancestry does not establish exact interface registration.",
+    "These are accepted as disclosed bounded source-model attachment residuals for gross educational viewing, not as measured entheses, physiological tissue fusion, clinical segmentation or exact layer separation.",
+    "Clavicle, hip, first/fifth/sixth ribs remain held. Ribs as a canonical group must stay partial; only available numbered source bones are represented.",
+    "The source Humerus and Scapula components establish intact left bones and their original shared frame only. Left forearm/hand and shoulder soft-tissue completion is not inferred.",
+    "Triangle crossing counts and finite contained vertex/centroid depth samples are reproducible diagnostics, not continuous volume overlap or global Hausdorff bounds.",
+    "Some original retained Right-labelled muscle and vein nodes contain both sides. Source names and physical extent are distinct; new left bone names are independently supported by complete positive-X source components.",
+    "Original material, normal, UV and resolved texture/image values are preserved. Mixed original licensing and attribution notices are included; no new licence is granted."
+  ],
+  "bodyPlacementReviewFile": "body-placement-review.json",
+  "availableAnatomicalScope": {
+    "leftRibsPresent": [
+      2,
+      3,
+      4,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "leftRibsHeld": [
+      1,
+      5,
+      6
+    ],
+    "otherLeftBonesPresent": [
+      "humerus",
+      "scapula"
+    ],
+    "canonicalRibsStatus": "partial",
+    "genericRibStatus": "partial",
+    "individualNewBoneScope": "one complete original surface"
+  }
+}

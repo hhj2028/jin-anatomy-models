@@ -1,0 +1,104 @@
+{
+  "dataset": "Z-Anatomy",
+  "sourceUrl": "https://github.com/LluisV/Z-Anatomy/tree/PC-Version/Resources/Models/FBX",
+  "license": "Mixed: CC BY-SA 4.0 aggregate; selected inner-ear and kidney assets carry non-commercial source terms",
+  "licenseSourceUrl": "https://github.com/Z-Anatomy/Models-of-human-anatomy",
+  "attribution": "Z-Anatomy - The libre 3D atlas of anatomy; BodyParts3D - The Database Center for Life Science; additional model-specific credits in ATTRIBUTION.txt and meshes.json",
+  "modifications": "Converted official FBX to independent named Draco GLB structures; removed annotation-helper geometry; applied FBX hierarchy transforms and converted centimetres to metres; 18-bit position quantization. Mirrored transform winding corrected. No anatomical meshes invented. Original FBX Tendon material faces restored as scalar masks; optional 1.5 mm display feather remains inside authored tendon faces. Original geometry, identifiers and bounds retained. Source-authored Tendon boundary interpolation repaired with planar edge midpoint/face centroid display subdivisions. Original anatomical surfaces and source IDs retained; render tessellation is not additional anatomical detail. Cool off-white nonmetal display material, roughness 0.52, and per-mesh inside-boundary feather capped at 3 mm.",
+  "coordinates": {
+    "up": "+Y",
+    "front": "+Z",
+    "left": "+X",
+    "units": "metres",
+    "sourceToApp": "Apply complete FBX node world transform, then divide positions by 100. This model is not spatially registered to BodyParts3D 4.0.",
+    "bounds": [
+      [
+        0.0026835429281470047,
+        0.03860053745836321,
+        -0.11231110290416992
+      ],
+      [
+        0.12322096836754075,
+        1.5695925682710683,
+        0.05636826064255633
+      ]
+    ]
+  },
+  "geometryMeshCount": 15,
+  "structureCount": 4,
+  "triangleCount": 51595,
+  "totalGlbBytes": 421952,
+  "chunks": [
+    {
+      "file": "left-supply-nervous-04.glb",
+      "system": "nervous",
+      "bytes": 339468,
+      "meshCount": 9,
+      "meshIds": [
+        "ZA_9e85ce00d1edff",
+        "ZA_22d9fe02788984",
+        "ZA_47234cfe8d1915",
+        "ZA_791bdbcdb45520",
+        "ZA_bcf145eee6eb0a",
+        "ZA_64df6ebd54b820",
+        "ZA_259cb5649d044b",
+        "ZA_642ba6c506d551",
+        "ZA_46fca8c38836d8"
+      ],
+      "sha256": "011f7d9f32c447adc2fb1f39f0be504c5f14468bfeaf30bfec37df280d5a0f43"
+    },
+    {
+      "file": "left-supply-arterial-05.glb",
+      "system": "arterial",
+      "bytes": 82484,
+      "meshCount": 6,
+      "meshIds": [
+        "ZA_e850c86752bf0e",
+        "ZA_2c904cfc12e5e8",
+        "ZA_5c78590d708ec7",
+        "ZA_eda2d286a776aa",
+        "ZA_fa9227cab9203a",
+        "ZA_8747bcfd5f065e"
+      ],
+      "sha256": "2b348b7022dc2fab9884bc542f036e05de7c92d7f378609ad7192fb7e7335354"
+    }
+  ],
+  "geometryFile": "meshes.json",
+  "structuresFile": "structures.json",
+  "requiresDecoder": "KHR_draco_mesh_compression",
+  "limitations": [
+    "Mixed underlying source licenses: do not describe this whole package as unrestricted commercial-use content.",
+    "Two telencephalon white-matter meshes omitted because the original University of Washington permission could not be confirmed.",
+    "Contains original anatomy surfaces and optional attachment/surface-region teaching layers; completeness against a textbook must be mapped, not assumed.",
+    "Do not overlay on BodyParts3D without anatomical registration."
+  ],
+  "sourceTriangles": 8994371,
+  "datasetId": "z-body-left-supply",
+  "subset": {
+    "sourceDatasetId": "z-anatomy",
+    "physicalMeshIds": [
+      "ZA_22d9fe02788984",
+      "ZA_259cb5649d044b",
+      "ZA_2c904cfc12e5e8",
+      "ZA_46fca8c38836d8",
+      "ZA_47234cfe8d1915",
+      "ZA_5c78590d708ec7",
+      "ZA_642ba6c506d551",
+      "ZA_64df6ebd54b820",
+      "ZA_791bdbcdb45520",
+      "ZA_8747bcfd5f065e",
+      "ZA_9e85ce00d1edff",
+      "ZA_bcf145eee6eb0a",
+      "ZA_e850c86752bf0e",
+      "ZA_eda2d286a776aa",
+      "ZA_fa9227cab9203a"
+    ],
+    "anatomicalRepresentation": "original-source-subset",
+    "modifications": "Whole source neural and arterial surfaces, source Draco payloads and identity metre coordinates retained. Only glTF table indices and byte offsets compacted. No generated or mirrored vessel/nerve anatomy.",
+    "scope": "15 original left neurovascular surfaces used by 54 source-reviewed muscle supply relationships; incomplete distal branching.",
+    "limitations": [
+      "Source relations establish named supply, not every intramuscular terminal branch or entry point.",
+      "No right-sided geometry is inferred from left source anatomy."
+    ]
+  }
+}

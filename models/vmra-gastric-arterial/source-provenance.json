@@ -1,0 +1,349 @@
+{
+  "researchOnly": false,
+  "acceptedForInstallation": true,
+  "candidatePin": {
+    "path": "anatomy-research/unified-body-v64/gastric-block/gastric-residual-field-with-hepatic.npz",
+    "bytes": 329627,
+    "sha256": "45d0c19c11bf176c78e81d0c82b61dbd47416b7b3b2b78951d7fa6e13f26c291"
+  },
+  "candidateReportPin": {
+    "path": "anatomy-research/unified-body-v64/gastric-block/gastric-residual-field-candidate.json",
+    "bytes": 257837,
+    "sha256": "29a9ab2ae951de545c5bc9781b14543568cc8986cdb53f7ad207a661f0bee79d"
+  },
+  "sourcePins": [
+    {
+      "path": "vmra-anatomy/dist/models/bodyparts3d/bodyparts3d-arterial-01.glb",
+      "bytes": 9182208,
+      "sha256": "f11dd26f7fca7e8acc8c9043358d0651048f1a1c6df1dd24afb83757f6b739d4"
+    },
+    {
+      "path": "vmra-anatomy/dist/models/bodyparts3d/bodyparts3d-cardiac-01.glb",
+      "bytes": 2556828,
+      "sha256": "1548ae7bdfa2b4fcc689f6119bdb7123c62413eb3da15bc699199840f3732fa8"
+    },
+    {
+      "path": "vmra-anatomy/dist/models/bodyparts3d/manifest.json",
+      "bytes": 25029,
+      "sha256": "607b9e954ba94b47ace118d1c2c932305707ed071fc7390cf0fd955616e1632a"
+    },
+    {
+      "path": "vmra-anatomy/dist/models/bodyparts3d/meshes.json",
+      "bytes": 1515918,
+      "sha256": "d8076089bc841590831068600f1804941f3762a047752cdc37c9553f722aedee"
+    }
+  ],
+  "assetPin": {
+    "path": "anatomy-research/unified-body-v64/gastric-block/gastric-review-package/gastric-arteries.glb",
+    "bytes": 627088,
+    "sha256": "0e3aa85b5951acdd0c9bcb6ea3a052065cca3edcf356673664dcde786cb039c4"
+  },
+  "objects": [
+    {
+      "sourceId": "FJ1916",
+      "id": "VMRA_GASTRIC_FJ1916",
+      "maximumFloat32ExportErrorMm": 0.00005954350545955833,
+      "primitives": [
+        {
+          "sourceDracoSha256": "03d9d17e59de3b966abbe57bfe37c5ad799f8fac56655078f7a7a6c756b31b79",
+          "originalMaterialExact": true,
+          "retainedAttributesExact": {},
+          "sourceTriangleRowsAndCornersExact": true
+        }
+      ]
+    },
+    {
+      "sourceId": "FJ3075",
+      "id": "VMRA_GASTRIC_FJ3075",
+      "maximumFloat32ExportErrorMm": 0.000059591151790883146,
+      "primitives": [
+        {
+          "sourceDracoSha256": "c93c3cb4416df0daf3dbeae92f21fd1f9e3f91247fb90ecb491ce10ce57026b9",
+          "originalMaterialExact": true,
+          "retainedAttributesExact": {},
+          "sourceTriangleRowsAndCornersExact": true
+        }
+      ]
+    },
+    {
+      "sourceId": "FJ3076",
+      "id": "VMRA_GASTRIC_FJ3076",
+      "maximumFloat32ExportErrorMm": 0.00005956612070256995,
+      "primitives": [
+        {
+          "sourceDracoSha256": "e413a339135c241451a5233df793b1e1afc9bfd1c6c418bf45d15c0a7b90c8ff",
+          "originalMaterialExact": true,
+          "retainedAttributesExact": {},
+          "sourceTriangleRowsAndCornersExact": true
+        }
+      ]
+    },
+    {
+      "sourceId": "FJ3077",
+      "id": "VMRA_GASTRIC_FJ3077",
+      "maximumFloat32ExportErrorMm": 0.000059598765700386025,
+      "primitives": [
+        {
+          "sourceDracoSha256": "1af6f64c30804daa7cb66fca57c2b2b970a6c651e629d1c4da37e99e6a2b81fe",
+          "originalMaterialExact": true,
+          "retainedAttributesExact": {},
+          "sourceTriangleRowsAndCornersExact": true
+        }
+      ]
+    },
+    {
+      "sourceId": "FJ3078",
+      "id": "VMRA_GASTRIC_FJ3078",
+      "maximumFloat32ExportErrorMm": 0.000059261040075142546,
+      "primitives": [
+        {
+          "sourceDracoSha256": "c052de0f4ec96c1a369bbf6869945184fca9ac960253c592d8d16f68ea6cbf4c",
+          "originalMaterialExact": true,
+          "retainedAttributesExact": {},
+          "sourceTriangleRowsAndCornersExact": true
+        }
+      ]
+    },
+    {
+      "sourceId": "FJ3081",
+      "id": "VMRA_GASTRIC_FJ3081",
+      "maximumFloat32ExportErrorMm": 0.00005939632163887154,
+      "primitives": [
+        {
+          "sourceDracoSha256": "b2dd46a00a235e8f542e17cb6d58dcf9ed2e8843c972cd15fac0bc2f3141500d",
+          "originalMaterialExact": true,
+          "retainedAttributesExact": {},
+          "sourceTriangleRowsAndCornersExact": true
+        }
+      ]
+    },
+    {
+      "sourceId": "FJ3091",
+      "id": "VMRA_GASTRIC_FJ3091",
+      "maximumFloat32ExportErrorMm": 0.00005958428994645715,
+      "primitives": [
+        {
+          "sourceDracoSha256": "714bfec939da48a90c67027127ad9bb29827b8a74ec62035f537fc7c0fc1ce81",
+          "originalMaterialExact": true,
+          "retainedAttributesExact": {},
+          "sourceTriangleRowsAndCornersExact": true
+        }
+      ]
+    },
+    {
+      "sourceId": "FJ3092",
+      "id": "VMRA_GASTRIC_FJ3092",
+      "maximumFloat32ExportErrorMm": 0.000059565196330879644,
+      "primitives": [
+        {
+          "sourceDracoSha256": "8c158eb54309d6f1030f94ebb49b93d625c83db66b709959e25c2646e65c29e2",
+          "originalMaterialExact": true,
+          "retainedAttributesExact": {},
+          "sourceTriangleRowsAndCornersExact": true
+        }
+      ]
+    },
+    {
+      "sourceId": "FJ3093",
+      "id": "VMRA_GASTRIC_FJ3093",
+      "maximumFloat32ExportErrorMm": 0.0000591800157767608,
+      "primitives": [
+        {
+          "sourceDracoSha256": "692d1e22a2da6be0a105d6ddad206e126a69817561493fe2e9693f344c19fc69",
+          "originalMaterialExact": true,
+          "retainedAttributesExact": {},
+          "sourceTriangleRowsAndCornersExact": true
+        }
+      ]
+    },
+    {
+      "sourceId": "FJ3095",
+      "id": "VMRA_GASTRIC_FJ3095",
+      "maximumFloat32ExportErrorMm": 0.00005954142379138716,
+      "primitives": [
+        {
+          "sourceDracoSha256": "3ab6ed61d5996d16219ccf8f1c9cedef83727bce1e89d24481020841ed39f4ec",
+          "originalMaterialExact": true,
+          "retainedAttributesExact": {},
+          "sourceTriangleRowsAndCornersExact": true
+        }
+      ]
+    },
+    {
+      "sourceId": "FJ3106",
+      "id": "VMRA_GASTRIC_FJ3106",
+      "maximumFloat32ExportErrorMm": 0.00005956457749256572,
+      "primitives": [
+        {
+          "sourceDracoSha256": "b5a2582ade3e7b5541c6081a993510e75d9396b5f5cee3182ef317be4d71b517",
+          "originalMaterialExact": true,
+          "retainedAttributesExact": {},
+          "sourceTriangleRowsAndCornersExact": true
+        }
+      ]
+    },
+    {
+      "sourceId": "FJ3107",
+      "id": "VMRA_GASTRIC_FJ3107",
+      "maximumFloat32ExportErrorMm": 0.00005951390247282973,
+      "primitives": [
+        {
+          "sourceDracoSha256": "4c1c94d7cf39ff9286f69ee642aa41677ed8cc3654f5c86ae693021c295535e7",
+          "originalMaterialExact": true,
+          "retainedAttributesExact": {},
+          "sourceTriangleRowsAndCornersExact": true
+        }
+      ]
+    },
+    {
+      "sourceId": "FJ3114",
+      "id": "VMRA_GASTRIC_FJ3114",
+      "maximumFloat32ExportErrorMm": 0.00005931267632597326,
+      "primitives": [
+        {
+          "sourceDracoSha256": "2b9f69a1b001d7c7026d75adafa0d8fd5b1453be94317f3358f0867bb63680a9",
+          "originalMaterialExact": true,
+          "retainedAttributesExact": {},
+          "sourceTriangleRowsAndCornersExact": true
+        }
+      ]
+    },
+    {
+      "sourceId": "FJ3115",
+      "id": "VMRA_GASTRIC_FJ3115",
+      "maximumFloat32ExportErrorMm": 0.000059306756616805956,
+      "primitives": [
+        {
+          "sourceDracoSha256": "39fa6ed920e6b44e826c23815f945ed5c06a56770b750cdfb015d1eb72f6c628",
+          "originalMaterialExact": true,
+          "retainedAttributesExact": {},
+          "sourceTriangleRowsAndCornersExact": true
+        }
+      ]
+    },
+    {
+      "sourceId": "FJ3116",
+      "id": "VMRA_GASTRIC_FJ3116",
+      "maximumFloat32ExportErrorMm": 0.000059297766252797146,
+      "primitives": [
+        {
+          "sourceDracoSha256": "783978917a4d677dcab773060607d8c300e3444c48e34fbc6ff50f1b64b23290",
+          "originalMaterialExact": true,
+          "retainedAttributesExact": {},
+          "sourceTriangleRowsAndCornersExact": true
+        }
+      ]
+    },
+    {
+      "sourceId": "FJ3117",
+      "id": "VMRA_GASTRIC_FJ3117",
+      "maximumFloat32ExportErrorMm": 0.000059132414964579993,
+      "primitives": [
+        {
+          "sourceDracoSha256": "6d8a1b76aba5c1f7ed257e6623d8b4f14c4c5c28589f9b26ce68728f4c62474c",
+          "originalMaterialExact": true,
+          "retainedAttributesExact": {},
+          "sourceTriangleRowsAndCornersExact": true
+        }
+      ]
+    },
+    {
+      "sourceId": "FJ3421",
+      "id": "VMRA_GASTRIC_FJ3421",
+      "maximumFloat32ExportErrorMm": 0.00005947921333238071,
+      "primitives": [
+        {
+          "sourceDracoSha256": "07f9eaf627f5c2638d17bbab7c693a4534c2c0630b42bc1d7b8c8422d1dca472",
+          "originalMaterialExact": true,
+          "retainedAttributesExact": {},
+          "sourceTriangleRowsAndCornersExact": true
+        }
+      ]
+    },
+    {
+      "sourceId": "FJ3432",
+      "id": "VMRA_GASTRIC_FJ3432",
+      "maximumFloat32ExportErrorMm": 0.000058292822124883514,
+      "primitives": [
+        {
+          "sourceDracoSha256": "4d7c33c57a34873d0a87f320551fb150180dc06457818fc39d5e2d29b671b29e",
+          "originalMaterialExact": true,
+          "retainedAttributesExact": {},
+          "sourceTriangleRowsAndCornersExact": true
+        }
+      ]
+    },
+    {
+      "sourceId": "FJ3499",
+      "id": "VMRA_GASTRIC_FJ3499",
+      "maximumFloat32ExportErrorMm": 0.00005937995761762238,
+      "primitives": [
+        {
+          "sourceDracoSha256": "f5db07801e13836641e11863d608414fb6ebbeabac8fc13ded4572253de8d28e",
+          "originalMaterialExact": true,
+          "retainedAttributesExact": {},
+          "sourceTriangleRowsAndCornersExact": true
+        }
+      ]
+    },
+    {
+      "sourceId": "FJ3501",
+      "id": "VMRA_GASTRIC_FJ3501",
+      "maximumFloat32ExportErrorMm": 0.00005950703263479795,
+      "primitives": [
+        {
+          "sourceDracoSha256": "56fa3faa73c478a6e35efbb096af7a3e85f82958781b80877f2d999460dc10aa",
+          "originalMaterialExact": true,
+          "retainedAttributesExact": {},
+          "sourceTriangleRowsAndCornersExact": true
+        }
+      ]
+    },
+    {
+      "sourceId": "FJ3594",
+      "id": "VMRA_GASTRIC_FJ3594",
+      "maximumFloat32ExportErrorMm": 0.00005952939563513837,
+      "primitives": [
+        {
+          "sourceDracoSha256": "39086251a5fc82cf424a2070f40fca5389a18ffabb20d80ad2744b9b907f834a",
+          "originalMaterialExact": true,
+          "retainedAttributesExact": {},
+          "sourceTriangleRowsAndCornersExact": true
+        }
+      ]
+    },
+    {
+      "sourceId": "FJ3596",
+      "id": "VMRA_GASTRIC_FJ3596",
+      "maximumFloat32ExportErrorMm": 0.00005959402304966943,
+      "primitives": [
+        {
+          "sourceDracoSha256": "29342d6ff18bca065272aead3f195d74dbedd9aaff3d8a02da844febca7d1f25",
+          "originalMaterialExact": true,
+          "retainedAttributesExact": {},
+          "sourceTriangleRowsAndCornersExact": true
+        }
+      ]
+    },
+    {
+      "sourceId": "FJ3640",
+      "id": "VMRA_GASTRIC_FJ3640",
+      "maximumFloat32ExportErrorMm": 0.000059520253836709,
+      "primitives": [
+        {
+          "sourceDracoSha256": "8eaba0ff01733fa9a7712e90cc4f521e4f3ebb4e396645ecb993a4baf1f83ce9",
+          "originalMaterialExact": true,
+          "retainedAttributesExact": {},
+          "sourceTriangleRowsAndCornersExact": true
+        }
+      ]
+    }
+  ],
+  "normalPolicy": "Area/angle-weighted smooth vertex normals on exact coincident exported float32 vertices, remapped to original primitive corners; recomputed, not preserved original normals.",
+  "scriptPin": {
+    "path": "anatomy-research/unified-body-v64/gastric-block/export_gastric_review_package.py",
+    "bytes": 12252,
+    "sha256": "be5a3feb7a329741cf7e92ec2499d6e160dd534c0b27bc5c1f146c594515b373"
+  },
+  "integrationStatus": "connected-body"
+}

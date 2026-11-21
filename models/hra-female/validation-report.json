@@ -1,0 +1,18 @@
+{
+  "meshes": 78,
+  "structures": 121,
+  "triangles": 350127,
+  "chunks": 7,
+  "bytes": 2958652,
+  "maximumChunkBytes": 753148,
+  "sourceFileSha256": "472567a56896b9b7890508da6501fbf858e56aaa30745365f7a71ade782b529c",
+  "checks": [
+    "Every independent source mesh ID unique and retained",
+    "All exported Draco chunks decoded successfully",
+    "All source triangle counts preserved",
+    "Original coordinates retained, no transforms",
+    "All decoded geometry finite and within quantization tolerance",
+    "All structure mesh IDs resolve and parent/child IDs valid",
+    "Every GLB below 20 MiB"
+  ]
+}

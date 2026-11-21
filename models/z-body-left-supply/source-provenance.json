@@ -1,0 +1,160 @@
+{
+  "originalSourceDatasetId": "z-anatomy",
+  "sourceMetadataSHA256": "8995aa20f2d5eeb249bcec6579de3a695125a8ca1c7ece9875cf559a78f60ac6",
+  "chunkExtraction": [
+    {
+      "source": {
+        "path": "vmra-anatomy/dist/models/z-anatomy/z-anatomy-nervous-01.glb",
+        "bytes": 16861588,
+        "sha256": "3012da604eb98b0c50ddade134a10d3e678121d60576bd51b820c7eaf55181b8"
+      },
+      "output": {
+        "path": "anatomy-research/unified-body-v77/source-package/left-supply-nervous-04.glb",
+        "bytes": 339468,
+        "sha256": "011f7d9f32c447adc2fb1f39f0be504c5f14468bfeaf30bfec37df280d5a0f43"
+      },
+      "physicalIds": [
+        "ZA_9e85ce00d1edff",
+        "ZA_22d9fe02788984",
+        "ZA_47234cfe8d1915",
+        "ZA_791bdbcdb45520",
+        "ZA_bcf145eee6eb0a",
+        "ZA_64df6ebd54b820",
+        "ZA_259cb5649d044b",
+        "ZA_642ba6c506d551",
+        "ZA_46fca8c38836d8"
+      ],
+      "records": [
+        {
+          "physicalId": "ZA_9e85ce00d1edff",
+          "sourceNodeIndex": 342,
+          "sourceMeshIndex": 342,
+          "outputNodeIndex": 0,
+          "outputMeshIndex": 0
+        },
+        {
+          "physicalId": "ZA_22d9fe02788984",
+          "sourceNodeIndex": 460,
+          "sourceMeshIndex": 460,
+          "outputNodeIndex": 1,
+          "outputMeshIndex": 1
+        },
+        {
+          "physicalId": "ZA_47234cfe8d1915",
+          "sourceNodeIndex": 470,
+          "sourceMeshIndex": 470,
+          "outputNodeIndex": 2,
+          "outputMeshIndex": 2
+        },
+        {
+          "physicalId": "ZA_791bdbcdb45520",
+          "sourceNodeIndex": 498,
+          "sourceMeshIndex": 498,
+          "outputNodeIndex": 3,
+          "outputMeshIndex": 3
+        },
+        {
+          "physicalId": "ZA_bcf145eee6eb0a",
+          "sourceNodeIndex": 499,
+          "sourceMeshIndex": 499,
+          "outputNodeIndex": 4,
+          "outputMeshIndex": 4
+        },
+        {
+          "physicalId": "ZA_64df6ebd54b820",
+          "sourceNodeIndex": 510,
+          "sourceMeshIndex": 510,
+          "outputNodeIndex": 5,
+          "outputMeshIndex": 5
+        },
+        {
+          "physicalId": "ZA_259cb5649d044b",
+          "sourceNodeIndex": 514,
+          "sourceMeshIndex": 514,
+          "outputNodeIndex": 6,
+          "outputMeshIndex": 6
+        },
+        {
+          "physicalId": "ZA_642ba6c506d551",
+          "sourceNodeIndex": 517,
+          "sourceMeshIndex": 517,
+          "outputNodeIndex": 7,
+          "outputMeshIndex": 7
+        },
+        {
+          "physicalId": "ZA_46fca8c38836d8",
+          "sourceNodeIndex": 520,
+          "sourceMeshIndex": 520,
+          "outputNodeIndex": 8,
+          "outputMeshIndex": 8
+        }
+      ],
+      "bytes": 339468
+    },
+    {
+      "source": {
+        "path": "vmra-anatomy/dist/models/z-anatomy/z-anatomy-arterial-01.glb",
+        "bytes": 9535012,
+        "sha256": "1cd5433926d4f281a944aa742f5019b28f0c05aab47b461854caa2497c1627e2"
+      },
+      "output": {
+        "path": "anatomy-research/unified-body-v77/source-package/left-supply-arterial-05.glb",
+        "bytes": 82484,
+        "sha256": "2b348b7022dc2fab9884bc542f036e05de7c92d7f378609ad7192fb7e7335354"
+      },
+      "physicalIds": [
+        "ZA_e850c86752bf0e",
+        "ZA_2c904cfc12e5e8",
+        "ZA_5c78590d708ec7",
+        "ZA_eda2d286a776aa",
+        "ZA_fa9227cab9203a",
+        "ZA_8747bcfd5f065e"
+      ],
+      "records": [
+        {
+          "physicalId": "ZA_e850c86752bf0e",
+          "sourceNodeIndex": 200,
+          "sourceMeshIndex": 200,
+          "outputNodeIndex": 0,
+          "outputMeshIndex": 0
+        },
+        {
+          "physicalId": "ZA_2c904cfc12e5e8",
+          "sourceNodeIndex": 204,
+          "sourceMeshIndex": 204,
+          "outputNodeIndex": 1,
+          "outputMeshIndex": 1
+        },
+        {
+          "physicalId": "ZA_5c78590d708ec7",
+          "sourceNodeIndex": 281,
+          "sourceMeshIndex": 281,
+          "outputNodeIndex": 2,
+          "outputMeshIndex": 2
+        },
+        {
+          "physicalId": "ZA_eda2d286a776aa",
+          "sourceNodeIndex": 288,
+          "sourceMeshIndex": 288,
+          "outputNodeIndex": 3,
+          "outputMeshIndex": 3
+        },
+        {
+          "physicalId": "ZA_fa9227cab9203a",
+          "sourceNodeIndex": 289,
+          "sourceMeshIndex": 289,
+          "outputNodeIndex": 4,
+          "outputMeshIndex": 4
+        },
+        {
+          "physicalId": "ZA_8747bcfd5f065e",
+          "sourceNodeIndex": 383,
+          "sourceMeshIndex": 383,
+          "outputNodeIndex": 5,
+          "outputMeshIndex": 5
+        }
+      ],
+      "bytes": 82484
+    }
+  ]
+}

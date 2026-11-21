@@ -1,0 +1,2255 @@
+[
+  {
+    "id": "ZAG_62c25c6660bdc5",
+    "nameEn": "Left Talus",
+    "sourceNodeName": "Talus.l",
+    "system": "skeletal",
+    "meshIds": [
+      "ZA_62c25c6660bdc5"
+    ],
+    "directMeshIds": [
+      "ZA_62c25c6660bdc5"
+    ],
+    "childIds": [],
+    "sourcePath": "SkeletalSystem100.fbx/RootNode/Bones of lower limb.g/Bones of free part of lower limb.g/Bones of foot.g/Tarsal bones.g/Talus.l",
+    "systems": [
+      "skeletal"
+    ],
+    "bounds": [
+      [
+        0.05364578389829853,
+        0.04986255597393712,
+        -0.06610487941736626
+      ],
+      [
+        0.0957554490531176,
+        0.08547542068784045,
+        -0.007040659427359337
+      ]
+    ],
+    "parentIds": [
+      "ZAG_2ee8265cf0cb9d"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_c21491109a67a0",
+    "nameEn": "Left Navicular bone",
+    "sourceNodeName": "Navicular bone.l",
+    "system": "skeletal",
+    "meshIds": [
+      "ZA_c21491109a67a0"
+    ],
+    "directMeshIds": [
+      "ZA_c21491109a67a0"
+    ],
+    "childIds": [],
+    "sourcePath": "SkeletalSystem100.fbx/RootNode/Bones of lower limb.g/Bones of free part of lower limb.g/Bones of foot.g/Tarsal bones.g/Navicular bone.l",
+    "systems": [
+      "skeletal"
+    ],
+    "bounds": [
+      [
+        0.05268996547278338,
+        0.04845915794782186,
+        -0.015108197748663873
+      ],
+      [
+        0.09337543532328013,
+        0.07597560863343819,
+        0.008928559606989059
+      ]
+    ],
+    "parentIds": [
+      "ZAG_2ee8265cf0cb9d"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_5889587c191f00",
+    "nameEn": "Left Intermediate cuneiform bone",
+    "sourceNodeName": "Intermediate cuneiform bone.l",
+    "system": "skeletal",
+    "meshIds": [
+      "ZA_5889587c191f00"
+    ],
+    "directMeshIds": [
+      "ZA_5889587c191f00"
+    ],
+    "childIds": [],
+    "sourcePath": "SkeletalSystem100.fbx/RootNode/Bones of lower limb.g/Bones of free part of lower limb.g/Bones of foot.g/Tarsal bones.g/Intermediate cuneiform bone.l",
+    "systems": [
+      "skeletal"
+    ],
+    "bounds": [
+      [
+        0.0738510825290189,
+        0.04667759762701252,
+        -0.0002193125475806168
+      ],
+      [
+        0.09337495172319801,
+        0.07069862672134469,
+        0.022742818818504346
+      ]
+    ],
+    "parentIds": [
+      "ZAG_2ee8265cf0cb9d"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_7e1c209f4908a6",
+    "nameEn": "Left Lateral cuneiform bone",
+    "sourceNodeName": "Lateral cuneiform bone.l",
+    "system": "skeletal",
+    "meshIds": [
+      "ZA_7e1c209f4908a6"
+    ],
+    "directMeshIds": [
+      "ZA_7e1c209f4908a6"
+    ],
+    "childIds": [],
+    "sourcePath": "SkeletalSystem100.fbx/RootNode/Bones of lower limb.g/Bones of free part of lower limb.g/Bones of foot.g/Tarsal bones.g/Lateral cuneiform bone.l",
+    "systems": [
+      "skeletal"
+    ],
+    "bounds": [
+      [
+        0.08131529986425402,
+        0.040224285712921,
+        -0.006200997420939469
+      ],
+      [
+        0.10554157675105365,
+        0.06708479948351609,
+        0.02026971668563703
+      ]
+    ],
+    "parentIds": [
+      "ZAG_2ee8265cf0cb9d"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_c912e8de133ce5",
+    "nameEn": "Left Proximal phalanx of second finger of foot",
+    "sourceNodeName": "Proximal phalanx of second finger of foot.l",
+    "system": "skeletal",
+    "meshIds": [
+      "ZA_c912e8de133ce5"
+    ],
+    "directMeshIds": [
+      "ZA_c912e8de133ce5"
+    ],
+    "childIds": [],
+    "sourcePath": "SkeletalSystem100.fbx/RootNode/Bones of lower limb.g/Bones of free part of lower limb.g/Bones of foot.g/Phalanges of foot.g/Proximal phalanx of second finger of foot.l",
+    "systems": [
+      "skeletal"
+    ],
+    "bounds": [
+      [
+        0.08660423672026116,
+        0.013031111795198778,
+        0.08244574079498769
+      ],
+      [
+        0.10446779983034249,
+        0.025983642614798824,
+        0.11182733776055284
+      ]
+    ],
+    "parentIds": [
+      "ZAG_1d945f6b5ce6ee"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_daef6eb051ab25",
+    "nameEn": "Left Proximal phalanx of third finger of foot",
+    "sourceNodeName": "Proximal phalanx of third finger of foot.l",
+    "system": "skeletal",
+    "meshIds": [
+      "ZA_daef6eb051ab25"
+    ],
+    "directMeshIds": [
+      "ZA_daef6eb051ab25"
+    ],
+    "childIds": [],
+    "sourcePath": "SkeletalSystem100.fbx/RootNode/Bones of lower limb.g/Bones of free part of lower limb.g/Bones of foot.g/Phalanges of foot.g/Proximal phalanx of third finger of foot.l",
+    "systems": [
+      "skeletal"
+    ],
+    "bounds": [
+      [
+        0.10241048048191832,
+        0.012156913591032327,
+        0.07608260625951342
+      ],
+      [
+        0.11880276943944654,
+        0.024133919896288072,
+        0.10629681148885815
+      ]
+    ],
+    "parentIds": [
+      "ZAG_1d945f6b5ce6ee"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_85153069eb6316",
+    "nameEn": "Left Proximal phalanx of fourth finger of foot",
+    "sourceNodeName": "Proximal phalanx of fourth finger of foot.l",
+    "system": "skeletal",
+    "meshIds": [
+      "ZA_85153069eb6316"
+    ],
+    "directMeshIds": [
+      "ZA_85153069eb6316"
+    ],
+    "childIds": [],
+    "sourcePath": "SkeletalSystem100.fbx/RootNode/Bones of lower limb.g/Bones of free part of lower limb.g/Bones of foot.g/Phalanges of foot.g/Proximal phalanx of fourth finger of foot.l",
+    "systems": [
+      "skeletal"
+    ],
+    "bounds": [
+      [
+        0.11410624326050098,
+        0.009965717553069542,
+        0.06846065010352427
+      ],
+      [
+        0.1322092286318253,
+        0.02372312951201261,
+        0.0944550348514656
+      ]
+    ],
+    "parentIds": [
+      "ZAG_1d945f6b5ce6ee"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_b85e8bb96b12a7",
+    "nameEn": "Left Lateral patellar retinaculum",
+    "sourceNodeName": "Lateral patellar retinaculum.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_b85e8bb96b12a7"
+    ],
+    "directMeshIds": [
+      "ZA_b85e8bb96b12a7"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Anterior compartment of thigh.g/Lateral patellar retinaculum.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.10224464238102808,
+        0.4352793919987029,
+        -0.039087604309293617
+      ],
+      [
+        0.11610748476435066,
+        0.45816520596312416,
+        0.009865500344162679
+      ]
+    ],
+    "parentIds": [
+      "ZAG_83b85605e7f118"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_69eba49e63b3b2",
+    "nameEn": "Left Rectus femoris muscle",
+    "sourceNodeName": "Rectus femoris muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_69eba49e63b3b2"
+    ],
+    "directMeshIds": [
+      "ZA_69eba49e63b3b2"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Anterior compartment of thigh.g/Rectus femoris muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.06670676184556398,
+        0.37047884230490674,
+        -0.009070691983067465
+      ],
+      [
+        0.1483188756318491,
+        0.9158068615175998,
+        0.06026974115276179
+      ]
+    ],
+    "parentIds": [
+      "ZAG_83b85605e7f118"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_c66f441f691b77",
+    "nameEn": "Left Vastus lateralis muscle",
+    "sourceNodeName": "Vastus lateralis muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_c66f441f691b77"
+    ],
+    "directMeshIds": [
+      "ZA_c66f441f691b77"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Anterior compartment of thigh.g/Vastus lateralis muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.08493616835191357,
+        0.38361624819816703,
+        -0.03573548492860621
+      ],
+      [
+        0.1589912435825898,
+        0.841007521272411,
+        0.04347815535005548
+      ]
+    ],
+    "parentIds": [
+      "ZAG_83b85605e7f118"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_829368d506d278",
+    "nameEn": "Left Vastus medialis muscle",
+    "sourceNodeName": "Vastus medialis muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_829368d506d278"
+    ],
+    "directMeshIds": [
+      "ZA_829368d506d278"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Anterior compartment of thigh.g/Vastus medialis muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.0336102243664223,
+        0.38490887177742666,
+        -0.019495094065008094
+      ],
+      [
+        0.10521414042752177,
+        0.7928095584537579,
+        0.04899056907944205
+      ]
+    ],
+    "parentIds": [
+      "ZAG_83b85605e7f118"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_9b95ed7ceab626",
+    "nameEn": "Left Vastus intermedius muscle",
+    "sourceNodeName": "Vastus intermedius muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_9b95ed7ceab626"
+    ],
+    "directMeshIds": [
+      "ZA_9b95ed7ceab626"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Anterior compartment of thigh.g/Vastus intermedius muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.07646429221011503,
+        0.3985511785596675,
+        -0.009702614822973677
+      ],
+      [
+        0.1330911920467848,
+        0.8069481629396497,
+        0.03804524009197215
+      ]
+    ],
+    "parentIds": [
+      "ZAG_83b85605e7f118"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_483c65b82e2c6d",
+    "nameEn": "Left Sartorius muscle",
+    "sourceNodeName": "Sartorius muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_483c65b82e2c6d"
+    ],
+    "directMeshIds": [
+      "ZA_483c65b82e2c6d"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Anterior compartment of thigh.g/Sartorius muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.021288561845876054,
+        0.34875820875320146,
+        -0.03260347764300575
+      ],
+      [
+        0.12449224310042735,
+        0.9479949130097493,
+        0.05754533185640822
+      ]
+    ],
+    "parentIds": [
+      "ZAG_83b85605e7f118"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_691d450f19a054",
+    "nameEn": "Left Medial patellar retinaculum",
+    "sourceNodeName": "Medial patellar retinaculum.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_691d450f19a054"
+    ],
+    "directMeshIds": [
+      "ZA_691d450f19a054"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Anterior compartment of thigh.g/Medial patellar retinaculum.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.031837294951545386,
+        0.4411922028725598,
+        -0.03442541354996905
+      ],
+      [
+        0.06461029027225094,
+        0.45486511445094746,
+        0.011363237469015868
+      ]
+    ],
+    "parentIds": [
+      "ZAG_83b85605e7f118"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_1be9cefbf9d8fa",
+    "nameEn": "Left Long head of biceps femoris",
+    "sourceNodeName": "Long head of biceps femoris.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_1be9cefbf9d8fa"
+    ],
+    "directMeshIds": [
+      "ZA_1be9cefbf9d8fa"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Posterior compartment of thigh.g/Long head of biceps femoris.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.05005222521799985,
+        0.3947710082635201,
+        -0.07661903372789196
+      ],
+      [
+        0.12829731344859865,
+        0.8201771310170949,
+        -0.020791689636380565
+      ]
+    ],
+    "parentIds": [
+      "ZAG_45eabe3d46328c"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_d61488e0ad5cd1",
+    "nameEn": "Left Short head of biceps femoris",
+    "sourceNodeName": "Short head of biceps femoris.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_d61488e0ad5cd1"
+    ],
+    "directMeshIds": [
+      "ZA_d61488e0ad5cd1"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Posterior compartment of thigh.g/Short head of biceps femoris.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.08667532819292062,
+        0.40320354586856644,
+        -0.05609432757518418
+      ],
+      [
+        0.12352163228978191,
+        0.7045524725056969,
+        -0.014214230885506551
+      ]
+    ],
+    "parentIds": [
+      "ZAG_45eabe3d46328c"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_b748f69834b799",
+    "nameEn": "Left Semimembranosus muscle",
+    "sourceNodeName": "Semimembranosus muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_b748f69834b799"
+    ],
+    "directMeshIds": [
+      "ZA_b748f69834b799"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Posterior compartment of thigh.g/Semimembranosus muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.014993272282635353,
+        0.3853596903915241,
+        -0.06919895002264281
+      ],
+      [
+        0.07876737656969804,
+        0.8030713607229093,
+        -0.014070933888941255
+      ]
+    ],
+    "parentIds": [
+      "ZAG_45eabe3d46328c"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_6c4242ac60aeb9",
+    "nameEn": "Left Semitendinosus muscle",
+    "sourceNodeName": "Semitendinosus muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_6c4242ac60aeb9"
+    ],
+    "directMeshIds": [
+      "ZA_6c4242ac60aeb9"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Posterior compartment of thigh.g/Semitendinosus muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.032736754239549276,
+        0.3514637258990259,
+        -0.07553292767173395
+      ],
+      [
+        0.06875226268335964,
+        0.8114025554823584,
+        -0.01729525274730713
+      ]
+    ],
+    "parentIds": [
+      "ZAG_45eabe3d46328c"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_18b5b01153d72a",
+    "nameEn": "Left (Adductor minimus)",
+    "sourceNodeName": "(Adductor minimus).l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_18b5b01153d72a"
+    ],
+    "directMeshIds": [
+      "ZA_18b5b01153d72a"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Medial compartment of thigh.g/Adductor magnus.l/(Adductor minimus).l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.018619238491304292,
+        0.7251192645516744,
+        -0.01378567953462011
+      ],
+      [
+        0.09873493662541495,
+        0.8294766584134174,
+        0.027546825739057524
+      ]
+    ],
+    "parentIds": [
+      "ZAG_9621c33470c590"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_9621c33470c590",
+    "nameEn": "Left Adductor magnus",
+    "sourceNodeName": "Adductor magnus.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_9621c33470c590",
+      "ZA_18b5b01153d72a"
+    ],
+    "directMeshIds": [
+      "ZA_9621c33470c590"
+    ],
+    "childIds": [
+      "ZAG_18b5b01153d72a"
+    ],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Medial compartment of thigh.g/Adductor magnus.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.012756547720855976,
+        0.46262964389956424,
+        -0.035652533845592076
+      ],
+      [
+        0.11034041596740525,
+        0.8294766584134174,
+        0.027546825739057524
+      ]
+    ],
+    "parentIds": [
+      "ZAG_46bfd6702b46b9"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_c1a514dd0e96f2",
+    "nameEn": "Left Adductor longus",
+    "sourceNodeName": "Adductor longus.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_c1a514dd0e96f2"
+    ],
+    "directMeshIds": [
+      "ZA_c1a514dd0e96f2"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Medial compartment of thigh.g/Adductor longus.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.011796361717562886,
+        0.5768002928771889,
+        -0.0068830383522362195
+      ],
+      [
+        0.09486161073140015,
+        0.8416120107219389,
+        0.05294182981560579
+      ]
+    ],
+    "parentIds": [
+      "ZAG_46bfd6702b46b9"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_0ef3a993f6db87",
+    "nameEn": "Left Pectineus muscle",
+    "sourceNodeName": "Pectineus muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_0ef3a993f6db87"
+    ],
+    "directMeshIds": [
+      "ZA_0ef3a993f6db87"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Medial compartment of thigh.g/Pectineus muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.015786918981985493,
+        0.7333045638647789,
+        -0.004610975830639607
+      ],
+      [
+        0.09856673251510432,
+        0.864547458014641,
+        0.055967694228811746
+      ]
+    ],
+    "parentIds": [
+      "ZAG_46bfd6702b46b9"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_d00c5065186826",
+    "nameEn": "Left Adductor brevis",
+    "sourceNodeName": "Adductor brevis.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_d00c5065186826"
+    ],
+    "directMeshIds": [
+      "ZA_d00c5065186826"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Medial compartment of thigh.g/Adductor brevis.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.019472892274514094,
+        0.6655156803957926,
+        -0.008769914943240928
+      ],
+      [
+        0.09852376455798188,
+        0.8418013261436326,
+        0.038997961468263044
+      ]
+    ],
+    "parentIds": [
+      "ZAG_46bfd6702b46b9"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_d2a998c04db45b",
+    "nameEn": "Left Gracilis muscle",
+    "sourceNodeName": "Gracilis muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_d2a998c04db45b"
+    ],
+    "directMeshIds": [
+      "ZA_d2a998c04db45b"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Medial compartment of thigh.g/Gracilis muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.009621605156814414,
+        0.34347604922468195,
+        -0.04814282135071318
+      ],
+      [
+        0.06267739312496358,
+        0.8370552947800107,
+        0.04258583056260175
+      ]
+    ],
+    "parentIds": [
+      "ZAG_46bfd6702b46b9"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_735066ee365a62",
+    "nameEn": "Left Obturator externus",
+    "sourceNodeName": "Obturator externus.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_735066ee365a62"
+    ],
+    "directMeshIds": [
+      "ZA_735066ee365a62"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Medial compartment of thigh.g/Obturator externus.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.023989527736237682,
+        0.8153827583088399,
+        -0.03176051232851537
+      ],
+      [
+        0.12353504825997284,
+        0.8462980926541307,
+        0.02641570840160255
+      ]
+    ],
+    "parentIds": [
+      "ZAG_46bfd6702b46b9"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_47aef35eb359a1",
+    "nameEn": "Left Tendon of extensor digitorum longus",
+    "sourceNodeName": "Tendon of extensor digitorum longus.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_47aef35eb359a1"
+    ],
+    "directMeshIds": [
+      "ZA_47aef35eb359a1"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Anterior compartment of leg.g/Extensor digitorum longus.l/Tendon of extensor digitorum longus.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.08709374535086825,
+        0.012796127097773842,
+        -0.01820798708091691
+      ],
+      [
+        0.1441848089288955,
+        0.09488918893425602,
+        0.1262997392680485
+      ]
+    ],
+    "parentIds": [
+      "ZAG_30c8b2672570e2"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_30c8b2672570e2",
+    "nameEn": "Left Extensor digitorum longus",
+    "sourceNodeName": "Extensor digitorum longus.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_30c8b2672570e2",
+      "ZA_47aef35eb359a1"
+    ],
+    "directMeshIds": [
+      "ZA_30c8b2672570e2"
+    ],
+    "childIds": [
+      "ZAG_47aef35eb359a1"
+    ],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Anterior compartment of leg.g/Extensor digitorum longus.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.08709374535086825,
+        0.012796127097773842,
+        -0.045356337467571416
+      ],
+      [
+        0.1441848089288955,
+        0.4186822170664126,
+        0.1262997392680485
+      ]
+    ],
+    "parentIds": [
+      "ZAG_95afd71c1b6b36"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_77b30145a281e5",
+    "nameEn": "Left Tibialis anterior muscle",
+    "sourceNodeName": "Tibialis anterior muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_77b30145a281e5"
+    ],
+    "directMeshIds": [
+      "ZA_77b30145a281e5"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Anterior compartment of leg.g/Tibialis anterior muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.0566741973764749,
+        0.04225743324714589,
+        -0.03487878173958088
+      ],
+      [
+        0.11748940030474385,
+        0.4111182937713872,
+        0.038795683606259034
+      ]
+    ],
+    "parentIds": [
+      "ZAG_95afd71c1b6b36"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_4b124108cbcccb",
+    "nameEn": "Left Fibularis tertius muscle",
+    "sourceNodeName": "Fibularis tertius muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_4b124108cbcccb"
+    ],
+    "directMeshIds": [
+      "ZA_4b124108cbcccb"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Anterior compartment of leg.g/Fibularis tertius muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.09265011021350335,
+        0.03244995976666511,
+        -0.04157136670425546
+      ],
+      [
+        0.11810491006474798,
+        0.15530390618420092,
+        0.01371745464687761
+      ]
+    ],
+    "parentIds": [
+      "ZAG_95afd71c1b6b36"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_0fc9e68a0e330c",
+    "nameEn": "Left Extensor hallucis longus",
+    "sourceNodeName": "Extensor hallucis longus.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_0fc9e68a0e330c"
+    ],
+    "directMeshIds": [
+      "ZA_0fc9e68a0e330c"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Anterior compartment of leg.g/Extensor hallucis longus.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.06888302283152567,
+        0.023878941297855203,
+        -0.041527720079507564
+      ],
+      [
+        0.11160403362323017,
+        0.3043830643108291,
+        0.1002115279751974
+      ]
+    ],
+    "parentIds": [
+      "ZAG_95afd71c1b6b36"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_86538331dc5eda",
+    "nameEn": "Left Fibularis longus muscle",
+    "sourceNodeName": "Fibularis longus muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_86538331dc5eda"
+    ],
+    "directMeshIds": [
+      "ZA_86538331dc5eda"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Lateral compartment of leg.g/Fibularis longus muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.07629367368101725,
+        0.02885223580904636,
+        -0.06375246969236968
+      ],
+      [
+        0.13505102429377752,
+        0.40800724884185924,
+        0.025902962686466916
+      ]
+    ],
+    "parentIds": [
+      "ZAG_8774bdffca3799"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_bac0b2a83b2cbf",
+    "nameEn": "Left Fibularis brevis muscle",
+    "sourceNodeName": "Fibularis brevis muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_bac0b2a83b2cbf"
+    ],
+    "directMeshIds": [
+      "ZA_bac0b2a83b2cbf"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Lateral compartment of leg.g/Fibularis brevis muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.09101823835035859,
+        0.02578416915313605,
+        -0.06551939818364397
+      ],
+      [
+        0.11942230223396402,
+        0.2946961634065202,
+        -0.010760328373620566
+      ]
+    ],
+    "parentIds": [
+      "ZAG_8774bdffca3799"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_43269c97a9ba30",
+    "nameEn": "Left Lateral head of gastrocnemius",
+    "sourceNodeName": "Lateral head of gastrocnemius.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_43269c97a9ba30"
+    ],
+    "directMeshIds": [
+      "ZA_43269c97a9ba30"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Posterior compartment of leg.g/Superficial part of posterior compartment of leg.g/Lateral head of gastrocnemius.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.08050910083053864,
+        0.22010229944016216,
+        -0.10642216031800374
+      ],
+      [
+        0.13460766963226928,
+        0.4894227638395503,
+        -0.028514889488976465
+      ]
+    ],
+    "parentIds": [
+      "ZAG_008833d92bb59c"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_b63729e4444867",
+    "nameEn": "Left Medial head of gastrocnemius",
+    "sourceNodeName": "Medial head of gastrocnemius.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_b63729e4444867"
+    ],
+    "directMeshIds": [
+      "ZA_b63729e4444867"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Posterior compartment of leg.g/Superficial part of posterior compartment of leg.g/Medial head of gastrocnemius.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.034752803831448735,
+        0.20647605991098103,
+        -0.10408553350265379
+      ],
+      [
+        0.08589961309605355,
+        0.5061280844491423,
+        -0.01808328349062969
+      ]
+    ],
+    "parentIds": [
+      "ZAG_008833d92bb59c"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_a2558c29118936",
+    "nameEn": "Left Calcaneal tendon",
+    "sourceNodeName": "Calcaneal tendon.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_a2558c29118936"
+    ],
+    "directMeshIds": [
+      "ZA_a2558c29118936"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Posterior compartment of leg.g/Superficial part of posterior compartment of leg.g/Calcaneal tendon.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.052266774801317986,
+        0.025155930149378492,
+        -0.09218174983621669
+      ],
+      [
+        0.11536845848185497,
+        0.2452820377800199,
+        -0.06496630325613521
+      ]
+    ],
+    "parentIds": [
+      "ZAG_008833d92bb59c"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_92eb0f1bfdc066",
+    "nameEn": "Left Soleus muscle",
+    "sourceNodeName": "Soleus muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_92eb0f1bfdc066"
+    ],
+    "directMeshIds": [
+      "ZA_92eb0f1bfdc066"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Posterior compartment of leg.g/Superficial part of posterior compartment of leg.g/Soleus muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.04368408733844446,
+        0.13375602056194352,
+        -0.07900315318306876
+      ],
+      [
+        0.12881729945879064,
+        0.40950873715181385,
+        -0.02375853982546682
+      ]
+    ],
+    "parentIds": [
+      "ZAG_008833d92bb59c"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_4e0a4d1ba57e6b",
+    "nameEn": "Left Plantaris muscle",
+    "sourceNodeName": "Plantaris muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_4e0a4d1ba57e6b"
+    ],
+    "directMeshIds": [
+      "ZA_4e0a4d1ba57e6b"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Posterior compartment of leg.g/Superficial part of posterior compartment of leg.g/Plantaris muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.049712393719968315,
+        0.028150172802367947,
+        -0.08529078224880321
+      ],
+      [
+        0.10461311429683462,
+        0.5104856304459112,
+        -0.0056318550250351596
+      ]
+    ],
+    "parentIds": [
+      "ZAG_008833d92bb59c"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_bb54a9a8c1bed8",
+    "nameEn": "Left Flexor digitorum longus",
+    "sourceNodeName": "Flexor digitorum longus.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_bb54a9a8c1bed8"
+    ],
+    "directMeshIds": [
+      "ZA_bb54a9a8c1bed8"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Posterior compartment of leg.g/Deep part of posterior compartment of leg.g/Flexor digitorum longus.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.04875233764225298,
+        0.007785439597638888,
+        -0.06473416703604488
+      ],
+      [
+        0.14325411744421004,
+        0.3514025721803954,
+        0.12841785703672415
+      ]
+    ],
+    "parentIds": [
+      "ZAG_95f11ccaf2d5f5"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_a8694e095e0205",
+    "nameEn": "Left Popliteus muscle",
+    "sourceNodeName": "Popliteus muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_a8694e095e0205"
+    ],
+    "directMeshIds": [
+      "ZA_a8694e095e0205"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Posterior compartment of leg.g/Deep part of posterior compartment of leg.g/Popliteus muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.057877983109199144,
+        0.3399454916162078,
+        -0.06269026801088827
+      ],
+      [
+        0.11705547620098375,
+        0.46508956957859376,
+        -0.02615293407986923
+      ]
+    ],
+    "parentIds": [
+      "ZAG_95f11ccaf2d5f5"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_65504c18cc93e2",
+    "nameEn": "Left Tibialis posterior muscle",
+    "sourceNodeName": "Tibialis posterior muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_65504c18cc93e2"
+    ],
+    "directMeshIds": [
+      "ZA_65504c18cc93e2"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Posterior compartment of leg.g/Deep part of posterior compartment of leg.g/Tibialis posterior muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.04898096390993949,
+        0.03886624741172474,
+        -0.05797010969985578
+      ],
+      [
+        0.1079020322587121,
+        0.38265157787503545,
+        0.02320655657096055
+      ]
+    ],
+    "parentIds": [
+      "ZAG_95f11ccaf2d5f5"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_7dd521d3191ee4",
+    "nameEn": "Left Flexor hallucis longus",
+    "sourceNodeName": "Flexor hallucis longus.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_7dd521d3191ee4"
+    ],
+    "directMeshIds": [
+      "ZA_7dd521d3191ee4"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Posterior compartment of leg.g/Deep part of posterior compartment of leg.g/Flexor hallucis longus.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.05820908494727868,
+        0.008544620460085249,
+        -0.06724917556509494
+      ],
+      [
+        0.11480682595233845,
+        0.3262084021785636,
+        0.11751132374734807
+      ]
+    ],
+    "parentIds": [
+      "ZAG_95f11ccaf2d5f5"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_452dbceecd2bf7",
+    "nameEn": "Left Abductor digiti minimi of foot",
+    "sourceNodeName": "Abductor digiti minimi of foot.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_452dbceecd2bf7"
+    ],
+    "directMeshIds": [
+      "ZA_452dbceecd2bf7"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Muscles of foot.g/Abductor digiti minimi of foot.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.0684093845457676,
+        0.010193390158193911,
+        -0.06856417038065317
+      ],
+      [
+        0.13936814896411273,
+        0.026712863486458835,
+        0.058882277793746295
+      ]
+    ],
+    "parentIds": [
+      "ZAG_5cb081d2554f2c"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_a4dc4916ed9a94",
+    "nameEn": "Left Abductor hallucis",
+    "sourceNodeName": "Abductor hallucis.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_a4dc4916ed9a94"
+    ],
+    "directMeshIds": [
+      "ZA_a4dc4916ed9a94"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Muscles of foot.g/Abductor hallucis.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.05512584292176482,
+        0.014434954737549958,
+        -0.060503717189169685
+      ],
+      [
+        0.07554649604026571,
+        0.0413698900524266,
+        0.08471762590542262
+      ]
+    ],
+    "parentIds": [
+      "ZAG_5cb081d2554f2c"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_20b36ffbb28683",
+    "nameEn": "Left Extensor digitorum brevis",
+    "sourceNodeName": "Extensor digitorum brevis.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_20b36ffbb28683"
+    ],
+    "directMeshIds": [
+      "ZA_20b36ffbb28683"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Muscles of foot.g/Extensor digitorum brevis.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.0906230562332167,
+        0.015249922700113036,
+        -0.036840631412657886
+      ],
+      [
+        0.13345866127095962,
+        0.07397094587515278,
+        0.11722050761922159
+      ]
+    ],
+    "parentIds": [
+      "ZAG_5cb081d2554f2c"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_d404f523fc5d40",
+    "nameEn": "Left Extensor hallucis brevis",
+    "sourceNodeName": "Extensor hallucis brevis.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_d404f523fc5d40"
+    ],
+    "directMeshIds": [
+      "ZA_d404f523fc5d40"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Muscles of foot.g/Extensor hallucis brevis.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.06754183520284401,
+        0.02714558672792079,
+        -0.0296971542804194
+      ],
+      [
+        0.10142302500932306,
+        0.07506942915797078,
+        0.09213964788317201
+      ]
+    ],
+    "parentIds": [
+      "ZAG_5cb081d2554f2c"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_3b16349cc5dea2",
+    "nameEn": "Left Dorsal interossei muscles of foot",
+    "sourceNodeName": "Dorsal interossei muscles of foot.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_3b16349cc5dea2"
+    ],
+    "directMeshIds": [
+      "ZA_3b16349cc5dea2"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Muscles of foot.g/Dorsal interossei muscles of foot.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.07609370300903824,
+        0.017552526325963443,
+        0.016883666103895436
+      ],
+      [
+        0.12742360335319994,
+        0.054417720296236774,
+        0.08908269459353942
+      ]
+    ],
+    "parentIds": [
+      "ZAG_5cb081d2554f2c"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_abf46eed96892a",
+    "nameEn": "Left Flexor digitorum brevis",
+    "sourceNodeName": "Flexor digitorum brevis.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_abf46eed96892a"
+    ],
+    "directMeshIds": [
+      "ZA_abf46eed96892a"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Muscles of foot.g/Flexor digitorum brevis.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.06512458369911936,
+        0.006932035345787399,
+        -0.06843120194055094
+      ],
+      [
+        0.14360621435943913,
+        0.026943186372145114,
+        0.11955237010030505
+      ]
+    ],
+    "parentIds": [
+      "ZAG_5cb081d2554f2c"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_4625d8b58b3b37",
+    "nameEn": "Left Flexor digiti minimi of foot",
+    "sourceNodeName": "Flexor digiti minimi of foot.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_4625d8b58b3b37"
+    ],
+    "directMeshIds": [
+      "ZA_4625d8b58b3b37"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Muscles of foot.g/Flexor digiti minimi of foot.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.10548485436858371,
+        0.008853814732122146,
+        -0.0056301797111824835
+      ],
+      [
+        0.13852280235169886,
+        0.027216357838198424,
+        0.06711108310239935
+      ]
+    ],
+    "parentIds": [
+      "ZAG_5cb081d2554f2c"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_24bd7fcfa9a9e5",
+    "nameEn": "Left Lumbrical muscles of foot",
+    "sourceNodeName": "Lumbrical muscles of foot.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_24bd7fcfa9a9e5"
+    ],
+    "directMeshIds": [
+      "ZA_24bd7fcfa9a9e5"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Muscles of foot.g/Lumbrical muscles of foot.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.07279105057101379,
+        0.012944185078546437,
+        -0.005459951597956256
+      ],
+      [
+        0.08848262733040546,
+        0.03316979083136417,
+        0.08849874168629322
+      ]
+    ],
+    "parentIds": [
+      "ZAG_5cb081d2554f2c"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_d633501877c0ed",
+    "nameEn": "Left (Opponens digiti minimi muscle of foot)",
+    "sourceNodeName": "(Opponens digiti minimi muscle of foot).l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_d633501877c0ed"
+    ],
+    "directMeshIds": [
+      "ZA_d633501877c0ed"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Muscles of foot.g/(Opponens digiti minimi muscle of foot).l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.10563659010131396,
+        0.015597345745572446,
+        -0.004513094070158044
+      ],
+      [
+        0.12821585340219865,
+        0.027166416585219278,
+        0.03877332848347523
+      ]
+    ],
+    "parentIds": [
+      "ZAG_5cb081d2554f2c"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_765a6f7e99a15f",
+    "nameEn": "Left Plantar interossei muscles",
+    "sourceNodeName": "Plantar interossei muscles.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_765a6f7e99a15f"
+    ],
+    "directMeshIds": [
+      "ZA_765a6f7e99a15f"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Muscles of foot.g/Plantar interossei muscles.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.09355445647911267,
+        0.015565620969551884,
+        0.012427794632147177
+      ],
+      [
+        0.1365395210971796,
+        0.04186137158036939,
+        0.0842147084675921
+      ]
+    ],
+    "parentIds": [
+      "ZAG_5cb081d2554f2c"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_3a3b05c4cd4c56",
+    "nameEn": "Left Quadratus plantae muscle",
+    "sourceNodeName": "Quadratus plantae muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_3a3b05c4cd4c56"
+    ],
+    "directMeshIds": [
+      "ZA_3a3b05c4cd4c56"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Muscles of foot.g/Quadratus plantae muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.0661654409998905,
+        0.017378396867668143,
+        -0.062006070787668455
+      ],
+      [
+        0.10176632169131272,
+        0.03438284159172506,
+        0.014798679989184587
+      ]
+    ],
+    "parentIds": [
+      "ZAG_5cb081d2554f2c"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_56cd004d7e4663",
+    "nameEn": "Left Medial head of flexor hallucis brevis",
+    "sourceNodeName": "Medial head of flexor hallucis brevis.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_56cd004d7e4663"
+    ],
+    "directMeshIds": [
+      "ZA_56cd004d7e4663"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Muscles of foot.g/Flexor hallucis brevis.g/Medial head of flexor hallucis brevis.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.05914290300930651,
+        0.010821462075583701,
+        0.003970935478689315
+      ],
+      [
+        0.07213602720778237,
+        0.050588506785292114,
+        0.08730107915078346
+      ]
+    ],
+    "parentIds": [
+      "ZAG_526ca8f9b07710"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_4b5ac88d474008",
+    "nameEn": "Left Lateral head of flexor hallucis brevis",
+    "sourceNodeName": "Lateral head of flexor hallucis brevis.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_4b5ac88d474008"
+    ],
+    "directMeshIds": [
+      "ZA_4b5ac88d474008"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Muscles of foot.g/Flexor hallucis brevis.g/Lateral head of flexor hallucis brevis.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.06001652868204536,
+        0.008879428701422309,
+        0.006027164067980952
+      ],
+      [
+        0.08089590070303324,
+        0.047381738158200515,
+        0.08730556557234963
+      ]
+    ],
+    "parentIds": [
+      "ZAG_526ca8f9b07710"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_0d4456176e7ee9",
+    "nameEn": "Left Oblique head of adductor hallucis",
+    "sourceNodeName": "Oblique head of adductor hallucis.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_0d4456176e7ee9"
+    ],
+    "directMeshIds": [
+      "ZA_0d4456176e7ee9"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Muscles of foot.g/Adductor hallucis.g/Oblique head of adductor hallucis.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.07656583227912102,
+        0.014184797387883174,
+        0.0011166865783848578
+      ],
+      [
+        0.1045857202843826,
+        0.044282923224920785,
+        0.06791503853035859
+      ]
+    ],
+    "parentIds": [
+      "ZAG_ef7446fe616e01"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_e00255edc1e5c6",
+    "nameEn": "Left Transverse head of adductor hallucis",
+    "sourceNodeName": "Transverse head of adductor hallucis.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_e00255edc1e5c6"
+    ],
+    "directMeshIds": [
+      "ZA_e00255edc1e5c6"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Muscles of foot.g/Adductor hallucis.g/Transverse head of adductor hallucis.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.07660214336957498,
+        0.014536216769093824,
+        0.05053564725147883
+      ],
+      [
+        0.12477169077081467,
+        0.02198359039070955,
+        0.07290936231866739
+      ]
+    ],
+    "parentIds": [
+      "ZAG_ef7446fe616e01"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_6a1e88294f849c",
+    "nameEn": "Left Iliacus muscle",
+    "sourceNodeName": "Iliacus muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_6a1e88294f849c"
+    ],
+    "directMeshIds": [
+      "ZA_6a1e88294f849c"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Iliopsoas muscle.g/Iliacus muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.06259160162838386,
+        0.7721768861884096,
+        -0.03742059239753968
+      ],
+      [
+        0.11873349844883496,
+        1.0037602214466406,
+        0.04880001484655084
+      ]
+    ],
+    "parentIds": [
+      "ZAG_0b644a5624c3c2"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_f9d21448fdcb43",
+    "nameEn": "Left Psoas major",
+    "sourceNodeName": "Psoas major.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_f9d21448fdcb43"
+    ],
+    "directMeshIds": [
+      "ZA_f9d21448fdcb43"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Iliopsoas muscle.g/Psoas major.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.008164792482715027,
+        0.7755418507564849,
+        -0.04105040169200938
+      ],
+      [
+        0.10800027844037402,
+        1.1554843391163876,
+        0.037032840176399615
+      ]
+    ],
+    "parentIds": [
+      "ZAG_0b644a5624c3c2"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_8b56aa8f1b8f32",
+    "nameEn": "Left Gluteus medius muscle",
+    "sourceNodeName": "Gluteus medius muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_8b56aa8f1b8f32"
+    ],
+    "directMeshIds": [
+      "ZA_8b56aa8f1b8f32"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Superficial gluteal muscles.g/Gluteus medius muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.060727245885781087,
+        0.8291367364209615,
+        -0.06969967856722073
+      ],
+      [
+        0.14982983219532425,
+        0.9971647598346763,
+        0.021907090613337576
+      ]
+    ],
+    "parentIds": [
+      "ZAG_28423f4ad3b008"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_e3fd96a6efee72",
+    "nameEn": "Left Gluteus maximus muscle",
+    "sourceNodeName": "Gluteus maximus muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_e3fd96a6efee72"
+    ],
+    "directMeshIds": [
+      "ZA_e3fd96a6efee72"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Superficial gluteal muscles.g/Gluteus maximus muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.0013563471546982075,
+        0.7097153790148074,
+        -0.11192699659696746
+      ],
+      [
+        0.14676192609580385,
+        0.9792015121501129,
+        -0.014898020016532404
+      ]
+    ],
+    "parentIds": [
+      "ZAG_28423f4ad3b008"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_7d920f3225ed25",
+    "nameEn": "Left Gluteus minimus muscle",
+    "sourceNodeName": "Gluteus minimus muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_7d920f3225ed25"
+    ],
+    "directMeshIds": [
+      "ZA_7d920f3225ed25"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Superficial gluteal muscles.g/Gluteus minimus muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.06751778847429163,
+        0.8337499712823876,
+        -0.03952997027260608
+      ],
+      [
+        0.15034379940646078,
+        0.9682524199770399,
+        0.021243512756747216
+      ]
+    ],
+    "parentIds": [
+      "ZAG_28423f4ad3b008"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_5776b80250cec8",
+    "nameEn": "Left Iliotibial tract",
+    "sourceNodeName": "Iliotibial tract.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_5776b80250cec8"
+    ],
+    "directMeshIds": [
+      "ZA_5776b80250cec8"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Superficial gluteal muscles.g/Tensor fasciae latae.l/Iliotibial tract.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.0897577384962058,
+        0.3924244564086813,
+        -0.05350405227611385
+      ],
+      [
+        0.16117198764911383,
+        0.9976755764501842,
+        0.02813047828350366
+      ]
+    ],
+    "parentIds": [
+      "ZAG_4e4c360cf24ef9"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_4e4c360cf24ef9",
+    "nameEn": "Left Tensor fasciae latae",
+    "sourceNodeName": "Tensor fasciae latae.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_4e4c360cf24ef9",
+      "ZA_5776b80250cec8"
+    ],
+    "directMeshIds": [
+      "ZA_4e4c360cf24ef9"
+    ],
+    "childIds": [
+      "ZAG_5776b80250cec8"
+    ],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Superficial gluteal muscles.g/Tensor fasciae latae.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.0897577384962058,
+        0.3924244564086813,
+        -0.05350405227611385
+      ],
+      [
+        0.16117198764911383,
+        0.9976755764501842,
+        0.048017875030342994
+      ]
+    ],
+    "parentIds": [
+      "ZAG_28423f4ad3b008"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_302456633c42e3",
+    "nameEn": "Left Piriformis muscle",
+    "sourceNodeName": "Piriformis muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_302456633c42e3"
+    ],
+    "directMeshIds": [
+      "ZA_302456633c42e3"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Deep gluteal muscles.g/Piriformis muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.02374320043797315,
+        0.8561850369047742,
+        -0.07405542994804348
+      ],
+      [
+        0.13371632445205212,
+        0.9192554151468498,
+        -0.014766759599371047
+      ]
+    ],
+    "parentIds": [
+      "ZAG_d95d2731e9ebc9"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_3bb29478aec91c",
+    "nameEn": "Left Quadratus femoris muscle",
+    "sourceNodeName": "Quadratus femoris muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_3bb29478aec91c"
+    ],
+    "directMeshIds": [
+      "ZA_3bb29478aec91c"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Deep gluteal muscles.g/Quadratus femoris muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.053947005309686206,
+        0.7929767024534532,
+        -0.039854574683096174
+      ],
+      [
+        0.12240081719882713,
+        0.8386993744953315,
+        -0.02373601700727689
+      ]
+    ],
+    "parentIds": [
+      "ZAG_d95d2731e9ebc9"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_1e6cf6b8d7cf51",
+    "nameEn": "Left Inferior gemellus muscle",
+    "sourceNodeName": "Inferior gemellus muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_1e6cf6b8d7cf51"
+    ],
+    "directMeshIds": [
+      "ZA_1e6cf6b8d7cf51"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Deep gluteal muscles.g/Inferior gemellus muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.054055615200632866,
+        0.8298403769335139,
+        -0.06342167193180152
+      ],
+      [
+        0.1268710794083189,
+        0.8530387956464308,
+        -0.009119420595408014
+      ]
+    ],
+    "parentIds": [
+      "ZAG_d95d2731e9ebc9"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_b5ae28487c1322",
+    "nameEn": "Left Obturator internus",
+    "sourceNodeName": "Obturator internus.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_b5ae28487c1322"
+    ],
+    "directMeshIds": [
+      "ZA_b5ae28487c1322"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Deep gluteal muscles.g/Obturator internus.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.020931791037926327,
+        0.8184571624550607,
+        -0.05788419883122055
+      ],
+      [
+        0.11864497328789728,
+        0.8782434946125328,
+        0.02370963260696871
+      ]
+    ],
+    "parentIds": [
+      "ZAG_d95d2731e9ebc9"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_e448b3053d1945",
+    "nameEn": "Left Superior gemellus muscle",
+    "sourceNodeName": "Superior gemellus muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_e448b3053d1945"
+    ],
+    "directMeshIds": [
+      "ZA_e448b3053d1945"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of lower limb.g/Muscles of lower limb.g/Deep gluteal muscles.g/Superior gemellus muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.04288747484426434,
+        0.8482557533331946,
+        -0.05403638901666413
+      ],
+      [
+        0.12639925720902462,
+        0.8754301941558054,
+        -0.008313044018378655
+      ]
+    ],
+    "parentIds": [
+      "ZAG_d95d2731e9ebc9"
+    ],
+    "kind": "structure"
+  }
+]

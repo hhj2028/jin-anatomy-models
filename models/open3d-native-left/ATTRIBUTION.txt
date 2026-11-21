@@ -1,0 +1,5 @@
+Open3D Anatomy — Native left components
+
+Whole original disconnected left components extracted without mirroring, deformation, triangle slicing or resampling. Positions, normals, UVs, materials and source image bytes retained. New physical identifiers distinguish each left component; original datasets remain unchanged.
+
+All original attribution and source-specific licence notices are included in the ORIGINAL_* files. Model CC BY-SA 4.0; UBC-derived muscle texture notices may impose CC BY-NC-SA 4.0. Preserve the applicable source notices.

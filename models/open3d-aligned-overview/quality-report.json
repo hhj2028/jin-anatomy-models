@@ -1,0 +1,1378 @@
+{
+  "datasetId": "open3d-aligned-overview",
+  "meshCount": 958,
+  "structureCount": 1010,
+  "triangleCount": 3147709,
+  "glbCount": 14,
+  "glbBytes": 16719568,
+  "maxGlbBytes": 3415628,
+  "allRetainedCompressedGeometryBytesIdenticalToOriginalSources": true,
+  "allEmbeddedImagesAndOriginalMaterialValuesPreserved": true,
+  "allUVNormalPositionAccessorMetadataUnchanged": true,
+  "nodeTransformsIntroduced": 0,
+  "mirroredOrGeneratedMeshes": 0,
+  "duplicateDracoGeometryRemaining": 0,
+  "oneSourceSkeletonOnly": true,
+  "catalogReferenceErrors": 0,
+  "sourceIdMapTargetErrors": 0,
+  "sourceAlignmentEvidence": [
+    {
+      "region": "muscles-thorax-abdomen",
+      "sourceBoneCount": 44,
+      "exactDracoBoneMatches": 0,
+      "additionalSubmillimetreBoundsMatches": 28,
+      "otherBoneVariants": 16,
+      "exact": [],
+      "near": [
+        {
+          "sourceName": "Atlas (C1)",
+          "sourceId": "O3D_0afee6b2b8f76e",
+          "skeletonSourceName": "Atlas (C1)",
+          "skeletonId": "O3D_428c2ef1758603",
+          "boundsDifferenceMetres": 5.941838026046753e-07,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Axis (C2)",
+          "sourceId": "O3D_ec2810e77dd945",
+          "skeletonSourceName": "Axis (C2)",
+          "skeletonId": "O3D_dc4b96fe0c81a2",
+          "boundsDifferenceMetres": 1.3113021850585938e-06,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Body of sternum",
+          "sourceId": "O3D_30160bb8ea8d43",
+          "skeletonSourceName": "Body of sternum",
+          "skeletonId": "O3D_d711e4637ff760",
+          "boundsDifferenceMetres": 2.041459083557129e-06,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Cervical vertebrae (C3)",
+          "sourceId": "O3D_497318124e470e",
+          "skeletonSourceName": "Cervical vertebrae (C3)",
+          "skeletonId": "O3D_e33328ffff6eb3",
+          "boundsDifferenceMetres": 8.810311555862427e-07,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Cervical vertebrae (C4)",
+          "sourceId": "O3D_db897e2dbc9b2b",
+          "skeletonSourceName": "Cervical vertebrae (C4)",
+          "skeletonId": "O3D_f5c2570b03a745",
+          "boundsDifferenceMetres": 1.2721866369247437e-06,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Cervical vertebrae (C5)",
+          "sourceId": "O3D_71460af4d3d372",
+          "skeletonSourceName": "Cervical vertebrae (C5)",
+          "skeletonId": "O3D_a1d63f00044c2e",
+          "boundsDifferenceMetres": 1.7601996660232544e-06,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Cervical vertebrae (C6)",
+          "sourceId": "O3D_5300b698daabd2",
+          "skeletonSourceName": "Cervical vertebrae (C6)",
+          "skeletonId": "O3D_a761d020962ae5",
+          "boundsDifferenceMetres": 4.851818084716797e-05,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Cervical vertebrae (C7)",
+          "sourceId": "O3D_804f9a48ce2ec1",
+          "skeletonSourceName": "Cervical vertebrae (C7)",
+          "skeletonId": "O3D_840735b242b675",
+          "boundsDifferenceMetres": 8.344650268554688e-07,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Coccyx",
+          "sourceId": "O3D_80acf7ede78588",
+          "skeletonSourceName": "Coccyx",
+          "skeletonId": "O3D_6a0b802edd8314",
+          "boundsDifferenceMetres": 7.152557373046875e-07,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Lumbar vertebrae (L1)",
+          "sourceId": "O3D_b7c5ce31bab478",
+          "skeletonSourceName": "Lumbar vertebrae (L1)",
+          "skeletonId": "O3D_a194fbb98385e2",
+          "boundsDifferenceMetres": 1.30385160446167e-06,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Lumbar vertebrae (L2)",
+          "sourceId": "O3D_2de2de9fab4797",
+          "skeletonSourceName": "Lumbar vertebrae (L2)",
+          "skeletonId": "O3D_b203445563ab28",
+          "boundsDifferenceMetres": 2.2649765014648438e-06,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Lumbar vertebrae (L3)",
+          "sourceId": "O3D_af9af589783d9d",
+          "skeletonSourceName": "Lumbar vertebrae (L3)",
+          "skeletonId": "O3D_0a1fa794298b9d",
+          "boundsDifferenceMetres": 2.384185791015625e-06,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Lumbar vertebrae (L4)",
+          "sourceId": "O3D_bc6ed1675b88bc",
+          "skeletonSourceName": "Lumbar vertebrae (L4)",
+          "skeletonId": "O3D_1b948b3b42daca",
+          "boundsDifferenceMetres": 1.8775463104248047e-06,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Lumbar vertebrae (L5)",
+          "sourceId": "O3D_0b64068dc73901",
+          "skeletonSourceName": "Lumbar vertebrae (L5)",
+          "skeletonId": "O3D_ee008ecb7d1444",
+          "boundsDifferenceMetres": 2.0265579223632812e-06,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Manubrium of sternum",
+          "sourceId": "O3D_e5ba6ebdab3fd8",
+          "skeletonSourceName": "Manubrium of sternum",
+          "skeletonId": "O3D_983c3021c7e610",
+          "boundsDifferenceMetres": 7.152557373046875e-07,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Sacrum",
+          "sourceId": "O3D_0468824c2cbc98",
+          "skeletonSourceName": "Sacrum",
+          "skeletonId": "O3D_5f8fe434da9608",
+          "boundsDifferenceMetres": 2.86102294921875e-06,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Thoracic vertebrae (T1)",
+          "sourceId": "O3D_6971db53374e6a",
+          "skeletonSourceName": "Thoracic vertebrae (T1)",
+          "skeletonId": "O3D_9b7bc59dab102d",
+          "boundsDifferenceMetres": 1.3113021850585938e-06,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Thoracic vertebrae (T10)",
+          "sourceId": "O3D_574abea6aaeffd",
+          "skeletonSourceName": "Thoracic vertebrae (T10)",
+          "skeletonId": "O3D_9d8f9b27eb0793",
+          "boundsDifferenceMetres": 1.8328428268432617e-06,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Thoracic vertebrae (T11)",
+          "sourceId": "O3D_d2787fe59fe8db",
+          "skeletonSourceName": "Thoracic vertebrae (T11)",
+          "skeletonId": "O3D_7839fa59b7cd8c",
+          "boundsDifferenceMetres": 1.5087425708770752e-06,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Thoracic vertebrae (T12)",
+          "sourceId": "O3D_618cdde0e365ed",
+          "skeletonSourceName": "Thoracic vertebrae (T12)",
+          "skeletonId": "O3D_3a60f664f0542f",
+          "boundsDifferenceMetres": 1.9744038581848145e-06,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Thoracic vertebrae (T2)",
+          "sourceId": "O3D_95f2c9b579c4f2",
+          "skeletonSourceName": "Thoracic vertebrae (T2)",
+          "skeletonId": "O3D_e4dd1706f9d36f",
+          "boundsDifferenceMetres": 1.9073486328125e-06,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Thoracic vertebrae (T3)",
+          "sourceId": "O3D_ced12922f1f51b",
+          "skeletonSourceName": "Thoracic vertebrae (T3)",
+          "skeletonId": "O3D_5fe5f8908c2b70",
+          "boundsDifferenceMetres": 1.1920928955078125e-06,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Thoracic vertebrae (T4)",
+          "sourceId": "O3D_a3a207498e8f52",
+          "skeletonSourceName": "Thoracic vertebrae (T4)",
+          "skeletonId": "O3D_0426dc600e7a49",
+          "boundsDifferenceMetres": 2.0265579223632812e-06,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Thoracic vertebrae (T5)",
+          "sourceId": "O3D_c33fea47977452",
+          "skeletonSourceName": "Thoracic vertebrae (T5)",
+          "skeletonId": "O3D_94647ea3c5ef40",
+          "boundsDifferenceMetres": 2.1010637283325195e-06,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Thoracic vertebrae (T6)",
+          "sourceId": "O3D_0d6475e64d8e6a",
+          "skeletonSourceName": "Thoracic vertebrae (T6)",
+          "skeletonId": "O3D_09ed4b3e371b7e",
+          "boundsDifferenceMetres": 1.3113021850585938e-06,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Thoracic vertebrae (T7)",
+          "sourceId": "O3D_255e32bd1b04aa",
+          "skeletonSourceName": "Thoracic vertebrae (T7)",
+          "skeletonId": "O3D_8765ad4b272a11",
+          "boundsDifferenceMetres": 1.259148120880127e-06,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Thoracic vertebrae (T8)",
+          "sourceId": "O3D_6f522150b27d1b",
+          "skeletonSourceName": "Thoracic vertebrae (T8)",
+          "skeletonId": "O3D_5f298ea9e37693",
+          "boundsDifferenceMetres": 1.1920928955078125e-06,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Thoracic vertebrae (T9)",
+          "sourceId": "O3D_2866ec8de87610",
+          "skeletonSourceName": "Thoracic vertebrae (T9)",
+          "skeletonId": "O3D_256547b289b634",
+          "boundsDifferenceMetres": 2.2649765014648438e-06,
+          "exactDraco": false
+        }
+      ],
+      "other": [
+        {
+          "sourceName": "Clavicle",
+          "sourceId": "O3D_bdeed62ca62ce3",
+          "skeletonSourceName": "Thoracic vertebrae (T1)",
+          "skeletonId": "O3D_9b7bc59dab102d",
+          "boundsDifferenceMetres": 0.1106480062007904,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Hip bone",
+          "sourceId": "O3D_40fd32157ec646",
+          "skeletonSourceName": "Sacrum",
+          "skeletonId": "O3D_5f8fe434da9608",
+          "boundsDifferenceMetres": 0.07302719727158546,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Humerus",
+          "sourceId": "O3D_529cd1e2ec44af",
+          "skeletonSourceName": "Thoracic vertebrae (T7)",
+          "skeletonId": "O3D_8765ad4b272a11",
+          "boundsDifferenceMetres": 0.2106027752161026,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Rib (10th)",
+          "sourceId": "O3D_025acb3eb4f4c3",
+          "skeletonSourceName": "Thoracic vertebrae (T10)",
+          "skeletonId": "O3D_9d8f9b27eb0793",
+          "boundsDifferenceMetres": 0.09594130516052246,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Rib (11th)",
+          "sourceId": "O3D_ce73e88b02db18",
+          "skeletonSourceName": "Lumbar vertebrae (L1)",
+          "skeletonId": "O3D_a194fbb98385e2",
+          "boundsDifferenceMetres": 0.08253493905067444,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Rib (12th)",
+          "sourceId": "O3D_f3428a581f4473",
+          "skeletonSourceName": "Lumbar vertebrae (L1)",
+          "skeletonId": "O3D_a194fbb98385e2",
+          "boundsDifferenceMetres": 0.04848451167345047,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Rib (1st)",
+          "sourceId": "O3D_5a07a20979d0db",
+          "skeletonSourceName": "Thoracic vertebrae (T1)",
+          "skeletonId": "O3D_9b7bc59dab102d",
+          "boundsDifferenceMetres": 0.05102710425853729,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Rib (2nd)",
+          "sourceId": "O3D_12566afc8ac71c",
+          "skeletonSourceName": "Thoracic vertebrae (T1)",
+          "skeletonId": "O3D_9b7bc59dab102d",
+          "boundsDifferenceMetres": 0.07700610160827637,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Rib (3rd)",
+          "sourceId": "O3D_d0e1cb2dc7975a",
+          "skeletonSourceName": "Thoracic vertebrae (T2)",
+          "skeletonId": "O3D_e4dd1706f9d36f",
+          "boundsDifferenceMetres": 0.09234648942947388,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Rib (4th)",
+          "sourceId": "O3D_11991810878b71",
+          "skeletonSourceName": "Manubrium of sternum",
+          "skeletonId": "O3D_983c3021c7e610",
+          "boundsDifferenceMetres": 0.1086273342370987,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Rib (5th)",
+          "sourceId": "O3D_9a2751274683b9",
+          "skeletonSourceName": "Manubrium of sternum",
+          "skeletonId": "O3D_983c3021c7e610",
+          "boundsDifferenceMetres": 0.11860779672861099,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Rib (6th)",
+          "sourceId": "O3D_ae8a20d45461be",
+          "skeletonSourceName": "Thoracic vertebrae (T10)",
+          "skeletonId": "O3D_9d8f9b27eb0793",
+          "boundsDifferenceMetres": 0.11756646633148193,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Rib (7th)",
+          "sourceId": "O3D_8bddca95bf4356",
+          "skeletonSourceName": "Thoracic vertebrae (T10)",
+          "skeletonId": "O3D_9d8f9b27eb0793",
+          "boundsDifferenceMetres": 0.10599308833479881,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Rib (8th)",
+          "sourceId": "O3D_de2781bd871d9d",
+          "skeletonSourceName": "Thoracic vertebrae (T10)",
+          "skeletonId": "O3D_9d8f9b27eb0793",
+          "boundsDifferenceMetres": 0.09943405911326408,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Rib (9th)",
+          "sourceId": "O3D_5f2e3583be1966",
+          "skeletonSourceName": "Thoracic vertebrae (T10)",
+          "skeletonId": "O3D_9d8f9b27eb0793",
+          "boundsDifferenceMetres": 0.09744555875658989,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Scapula",
+          "sourceId": "O3D_2dd47663fd9252",
+          "skeletonSourceName": "Thoracic vertebrae (T5)",
+          "skeletonId": "O3D_94647ea3c5ef40",
+          "boundsDifferenceMetres": 0.13563713803887367,
+          "exactDraco": false
+        }
+      ],
+      "bilateralAggregateValidationFile": "bilateral-source-validation.json",
+      "remaining16AreBilateralAggregatesWithMatchingOriginalRightComponents": true
+    },
+    {
+      "region": "upper-limb",
+      "sourceBoneCount": 72,
+      "exactDracoBoneMatches": 0,
+      "additionalSubmillimetreBoundsMatches": 72,
+      "otherBoneVariants": 0,
+      "exact": [],
+      "near": [
+        {
+          "sourceName": "Lumbar vertebra (L1)",
+          "sourceId": "O3D_97f9578fb05af5",
+          "skeletonSourceName": "Lumbar vertebrae (L1)",
+          "skeletonId": "O3D_a194fbb98385e2",
+          "boundsDifferenceMetres": 1.30385160446167e-06,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Lumbar vertebra (L2)",
+          "sourceId": "O3D_07fedb6e4454ee",
+          "skeletonSourceName": "Lumbar vertebrae (L2)",
+          "skeletonId": "O3D_b203445563ab28",
+          "boundsDifferenceMetres": 2.2649765014648438e-06,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Lumbar vertebra (L3)",
+          "sourceId": "O3D_106c6a35284d4a",
+          "skeletonSourceName": "Lumbar vertebrae (L3)",
+          "skeletonId": "O3D_0a1fa794298b9d",
+          "boundsDifferenceMetres": 2.384185791015625e-06,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Lumbar vertebra (L4)",
+          "sourceId": "O3D_037b3dc02a23cf",
+          "skeletonSourceName": "Lumbar vertebrae (L4)",
+          "skeletonId": "O3D_1b948b3b42daca",
+          "boundsDifferenceMetres": 1.8700957298278809e-06,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Lumbar vertebra (L5)",
+          "sourceId": "O3D_4334b5c5b5b984",
+          "skeletonSourceName": "Lumbar vertebrae (L5)",
+          "skeletonId": "O3D_ee008ecb7d1444",
+          "boundsDifferenceMetres": 2.0265579223632812e-06,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Sacrum",
+          "sourceId": "O3D_2d184a0811e97d",
+          "skeletonSourceName": "Sacrum",
+          "skeletonId": "O3D_5f8fe434da9608",
+          "boundsDifferenceMetres": 3.725290298461914e-09,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Thoracic vertebra (T1)",
+          "sourceId": "O3D_cc366db7dbf8f5",
+          "skeletonSourceName": "Thoracic vertebrae (T1)",
+          "skeletonId": "O3D_9b7bc59dab102d",
+          "boundsDifferenceMetres": 1.3113021850585938e-06,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Thoracic vertebra (T10)",
+          "sourceId": "O3D_442a5b6f364f0f",
+          "skeletonSourceName": "Thoracic vertebrae (T10)",
+          "skeletonId": "O3D_9d8f9b27eb0793",
+          "boundsDifferenceMetres": 1.8328428268432617e-06,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Thoracic vertebra (T11)",
+          "sourceId": "O3D_a7262625c46bcd",
+          "skeletonSourceName": "Thoracic vertebrae (T11)",
+          "skeletonId": "O3D_7839fa59b7cd8c",
+          "boundsDifferenceMetres": 1.5087425708770752e-06,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Thoracic vertebra (T12)",
+          "sourceId": "O3D_f9afbe7a5f23b3",
+          "skeletonSourceName": "Thoracic vertebrae (T12)",
+          "skeletonId": "O3D_3a60f664f0542f",
+          "boundsDifferenceMetres": 1.9744038581848145e-06,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Thoracic vertebra (T2)",
+          "sourceId": "O3D_5fb2ae88ede7a2",
+          "skeletonSourceName": "Thoracic vertebrae (T2)",
+          "skeletonId": "O3D_e4dd1706f9d36f",
+          "boundsDifferenceMetres": 1.9073486328125e-06,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Thoracic vertebra (T3)",
+          "sourceId": "O3D_67e01e6055091d",
+          "skeletonSourceName": "Thoracic vertebrae (T3)",
+          "skeletonId": "O3D_5fe5f8908c2b70",
+          "boundsDifferenceMetres": 1.1920928955078125e-06,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Thoracic vertebra (T4)",
+          "sourceId": "O3D_61f51e4688e217",
+          "skeletonSourceName": "Thoracic vertebrae (T4)",
+          "skeletonId": "O3D_0426dc600e7a49",
+          "boundsDifferenceMetres": 2.0265579223632812e-06,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Thoracic vertebra (T5)",
+          "sourceId": "O3D_05dfb984ef183e",
+          "skeletonSourceName": "Thoracic vertebrae (T5)",
+          "skeletonId": "O3D_94647ea3c5ef40",
+          "boundsDifferenceMetres": 2.0973384380340576e-06,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Thoracic vertebra (T6)",
+          "sourceId": "O3D_e93c07d8e47da8",
+          "skeletonSourceName": "Thoracic vertebrae (T6)",
+          "skeletonId": "O3D_09ed4b3e371b7e",
+          "boundsDifferenceMetres": 1.3113021850585938e-06,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Thoracic vertebra (T7)",
+          "sourceId": "O3D_71514d0ebddfc6",
+          "skeletonSourceName": "Thoracic vertebrae (T7)",
+          "skeletonId": "O3D_8765ad4b272a11",
+          "boundsDifferenceMetres": 1.259148120880127e-06,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Thoracic vertebra (T8)",
+          "sourceId": "O3D_8eae72509719e8",
+          "skeletonSourceName": "Thoracic vertebrae (T8)",
+          "skeletonId": "O3D_5f298ea9e37693",
+          "boundsDifferenceMetres": 1.1920928955078125e-06,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Thoracic vertebra (T9)",
+          "sourceId": "O3D_0ce4af243262a4",
+          "skeletonSourceName": "Thoracic vertebrae (T9)",
+          "skeletonId": "O3D_256547b289b634",
+          "boundsDifferenceMetres": 2.2649765014648438e-06,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Humerus.r",
+          "sourceId": "O3D_55cb78340bdd95",
+          "skeletonSourceName": "Humerus.r",
+          "skeletonId": "O3D_51d578370516da",
+          "boundsDifferenceMetres": 1.8924474716186523e-06,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Radius.r",
+          "sourceId": "O3D_53ce0077bdda88",
+          "skeletonSourceName": "Radius.r",
+          "skeletonId": "O3D_0c3cd158a448ab",
+          "boundsDifferenceMetres": 0.0005289316177368164,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Ulna.r",
+          "sourceId": "O3D_84e67835de7387",
+          "skeletonSourceName": "Ulna.r",
+          "skeletonId": "O3D_aadce953e665bf",
+          "boundsDifferenceMetres": 0.00039756298065185547,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "1st metacarpal bone.r",
+          "sourceId": "O3D_8a9f36702e1569",
+          "skeletonSourceName": "1st metacarpal bone.r",
+          "skeletonId": "O3D_1c4805deaca99f",
+          "boundsDifferenceMetres": 1.1101365089416504e-06,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "2nd metacarpal bone.r",
+          "sourceId": "O3D_2cf75728fadee1",
+          "skeletonSourceName": "2nd metacarpal bone.r",
+          "skeletonId": "O3D_b5e4ab8a1a9435",
+          "boundsDifferenceMetres": 1.4416873455047607e-06,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "3rd metacarpal bone.r",
+          "sourceId": "O3D_5ae46ce412a72f",
+          "skeletonSourceName": "3rd metacarpal bone.r",
+          "skeletonId": "O3D_e890841643613c",
+          "boundsDifferenceMetres": 1.0915100574493408e-06,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "4th metacarpal bone.r",
+          "sourceId": "O3D_0c7036c07468f7",
+          "skeletonSourceName": "4th metacarpal bone.r",
+          "skeletonId": "O3D_19865cb6cacb7f",
+          "boundsDifferenceMetres": 2.1606683731079102e-07,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "5th metacarpal bone.r",
+          "sourceId": "O3D_24dd1fb2ba5a23",
+          "skeletonSourceName": "5th metacarpal bone.r",
+          "skeletonId": "O3D_4e23caede5d0e2",
+          "boundsDifferenceMetres": 1.6242265701293945e-06,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Capitate.r",
+          "sourceId": "O3D_fc35bb12057e3f",
+          "skeletonSourceName": "Capitate.r",
+          "skeletonId": "O3D_5367956811e69a",
+          "boundsDifferenceMetres": 2.682209014892578e-07,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Distal phalanx of 1st finger.r",
+          "sourceId": "O3D_7857bf04860f98",
+          "skeletonSourceName": "Distal phalanx of 1st finger.r",
+          "skeletonId": "O3D_18ab69147f7050",
+          "boundsDifferenceMetres": 4.172325134277344e-07,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Distal phalanx of 2d finger.r",
+          "sourceId": "O3D_f84090da891fdb",
+          "skeletonSourceName": "Distal phalanx of 2d finger.r",
+          "skeletonId": "O3D_c13356f29f9604",
+          "boundsDifferenceMetres": 1.1920928955078125e-07,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Distal phalanx of 3d finger.r",
+          "sourceId": "O3D_1737566cbf8016",
+          "skeletonSourceName": "Distal phalanx of 3d finger.r",
+          "skeletonId": "O3D_b98bef123e1a63",
+          "boundsDifferenceMetres": 2.980232238769531e-07,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Distal phalanx of 4th finger.r",
+          "sourceId": "O3D_05f675c33b63b8",
+          "skeletonSourceName": "Distal phalanx of 4th finger.r",
+          "skeletonId": "O3D_a06772875bf368",
+          "boundsDifferenceMetres": 2.980232238769531e-07,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Distal phalanx of 5th finger.r",
+          "sourceId": "O3D_0bb69dca0a5a95",
+          "skeletonSourceName": "Distal phalanx of 5th finger.r",
+          "skeletonId": "O3D_5a37f6a1cf788f",
+          "boundsDifferenceMetres": 3.5762786865234375e-07,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Hamate.r",
+          "sourceId": "O3D_9107d18196d411",
+          "skeletonSourceName": "Hamate.r",
+          "skeletonId": "O3D_b840d5e82c3751",
+          "boundsDifferenceMetres": 5.960464477539062e-07,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Lunate bone.r",
+          "sourceId": "O3D_af635bdfb47d3c",
+          "skeletonSourceName": "Lunate bone.r",
+          "skeletonId": "O3D_bb2b54b41e9b11",
+          "boundsDifferenceMetres": 2.942979335784912e-07,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Middle phalanx of 2d finger.r",
+          "sourceId": "O3D_a1861c9ff49a39",
+          "skeletonSourceName": "Middle phalanx of 2d finger.r",
+          "skeletonId": "O3D_c40d6b399ccd63",
+          "boundsDifferenceMetres": 5.364418029785156e-07,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Middle phalanx of 3rd finger.r",
+          "sourceId": "O3D_710e06f70fba98",
+          "skeletonSourceName": "Middle phalanx of 3rd finger.r",
+          "skeletonId": "O3D_66428e98e09b99",
+          "boundsDifferenceMetres": 7.450580596923828e-07,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Middle phalanx of 4th finger.r",
+          "sourceId": "O3D_e2081c16fd77d8",
+          "skeletonSourceName": "Middle phalanx of 4th finger.r",
+          "skeletonId": "O3D_b40604dc2582e0",
+          "boundsDifferenceMetres": 7.152557373046875e-07,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Middle phalanx of 5th finger.r",
+          "sourceId": "O3D_1ab3db6ebf3062",
+          "skeletonSourceName": "Middle phalanx of 5th finger.r",
+          "skeletonId": "O3D_d042c318f26827",
+          "boundsDifferenceMetres": 4.023313522338867e-07,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Pisiform.r",
+          "sourceId": "O3D_4af8ec4a3893c2",
+          "skeletonSourceName": "Pisiform.r",
+          "skeletonId": "O3D_29d1be907858d9",
+          "boundsDifferenceMetres": 1.7881393432617188e-07,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Proximal phalanx of 1st finger.r",
+          "sourceId": "O3D_eb0c56cffb51ea",
+          "skeletonSourceName": "Proximal phalanx of 1st finger.r",
+          "skeletonId": "O3D_25956066f36f52",
+          "boundsDifferenceMetres": 8.568167686462402e-07,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Proximal phalanx of 2d finger.r",
+          "sourceId": "O3D_b2c2de653d49d4",
+          "skeletonSourceName": "Proximal phalanx of 2d finger.r",
+          "skeletonId": "O3D_0ee16040f964be",
+          "boundsDifferenceMetres": 7.748603820800781e-07,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Proximal phalanx of 3rd finger.r",
+          "sourceId": "O3D_1a1d55d4b34992",
+          "skeletonSourceName": "Proximal phalanx of 3rd finger.r",
+          "skeletonId": "O3D_8f4215cad6df9b",
+          "boundsDifferenceMetres": 7.152557373046875e-07,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Proximal phalanx of 4th finger.r",
+          "sourceId": "O3D_411ed3f56e678f",
+          "skeletonSourceName": "Proximal phalanx of 4th finger.r",
+          "skeletonId": "O3D_9049ce8ad2e082",
+          "boundsDifferenceMetres": 1.0132789611816406e-06,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Proximal phalanx of 5th finger.r",
+          "sourceId": "O3D_f7020d290213c8",
+          "skeletonSourceName": "Proximal phalanx of 5th finger.r",
+          "skeletonId": "O3D_99d99bcd430914",
+          "boundsDifferenceMetres": 3.427267074584961e-07,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Scaphoid.r",
+          "sourceId": "O3D_a18eac2c7af6fa",
+          "skeletonSourceName": "Scaphoid.r",
+          "skeletonId": "O3D_5f4bf39b3fe6b3",
+          "boundsDifferenceMetres": 6.556510925292969e-07,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Sesamoid bones of hand.r",
+          "sourceId": "O3D_39c8b8eeef87f4",
+          "skeletonSourceName": "Sesamoid_bones_of_hand.r",
+          "skeletonId": "O3D_a732a1bdccf882",
+          "boundsDifferenceMetres": 1.776963472366333e-06,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Trapezium.r",
+          "sourceId": "O3D_6bbecad67b65cf",
+          "skeletonSourceName": "Trapezium.r",
+          "skeletonId": "O3D_622c237f0d0ba8",
+          "boundsDifferenceMetres": 2.60770320892334e-07,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Trapezoid.r",
+          "sourceId": "O3D_4a286f581c8062",
+          "skeletonSourceName": "Trapezoid.r",
+          "skeletonId": "O3D_8a596345c848fb",
+          "boundsDifferenceMetres": 4.172325134277344e-07,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Triquetrum.r",
+          "sourceId": "O3D_03a77f7dcba4db",
+          "skeletonSourceName": "Triquetrum.r",
+          "skeletonId": "O3D_5a46b1f9a21688",
+          "boundsDifferenceMetres": 3.2782554626464844e-07,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Atlas (C1)",
+          "sourceId": "O3D_376439c9a758a6",
+          "skeletonSourceName": "Atlas (C1)",
+          "skeletonId": "O3D_428c2ef1758603",
+          "boundsDifferenceMetres": 0.0,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Axis (C2)",
+          "sourceId": "O3D_43336a4022325f",
+          "skeletonSourceName": "Axis (C2)",
+          "skeletonId": "O3D_dc4b96fe0c81a2",
+          "boundsDifferenceMetres": 1.862645149230957e-09,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Cervical vertebra (C3)",
+          "sourceId": "O3D_451b0fa67e64e9",
+          "skeletonSourceName": "Cervical vertebrae (C3)",
+          "skeletonId": "O3D_e33328ffff6eb3",
+          "boundsDifferenceMetres": 0.0,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Cervical vertebra (C4)",
+          "sourceId": "O3D_f229b9d2949f94",
+          "skeletonSourceName": "Cervical vertebrae (C4)",
+          "skeletonId": "O3D_f5c2570b03a745",
+          "boundsDifferenceMetres": 0.0,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Cervical vertebra (C5)",
+          "sourceId": "O3D_86d98e2c844ea1",
+          "skeletonSourceName": "Cervical vertebrae (C5)",
+          "skeletonId": "O3D_a1d63f00044c2e",
+          "boundsDifferenceMetres": 1.862645149230957e-09,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Cervical vertebra (C6)",
+          "sourceId": "O3D_4bc3185fea2e1e",
+          "skeletonSourceName": "Cervical vertebrae (C6)",
+          "skeletonId": "O3D_a761d020962ae5",
+          "boundsDifferenceMetres": 0.0,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Cervical vertebra (C7)",
+          "sourceId": "O3D_cb1ca17b0935ce",
+          "skeletonSourceName": "Cervical vertebrae (C7)",
+          "skeletonId": "O3D_840735b242b675",
+          "boundsDifferenceMetres": 3.725290298461914e-09,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Clavicle.r",
+          "sourceId": "O3D_7c841547917a32",
+          "skeletonSourceName": "Clavicle.r",
+          "skeletonId": "O3D_7c7436abc4f31a",
+          "boundsDifferenceMetres": 0.0,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Scapula.r.",
+          "sourceId": "O3D_c9a396f05c513e",
+          "skeletonSourceName": "Scapula.r.",
+          "skeletonId": "O3D_0b76a292ebe35b",
+          "boundsDifferenceMetres": 0.0,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Body of sternum",
+          "sourceId": "O3D_097130742a2310",
+          "skeletonSourceName": "Body of sternum",
+          "skeletonId": "O3D_d711e4637ff760",
+          "boundsDifferenceMetres": 1.1920928955078125e-07,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Manubrium of sternum",
+          "sourceId": "O3D_19ac48f9ced2a1",
+          "skeletonSourceName": "Manubrium of sternum",
+          "skeletonId": "O3D_983c3021c7e610",
+          "boundsDifferenceMetres": 0.0,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Rib (10th).r",
+          "sourceId": "O3D_c074c945fa655d",
+          "skeletonSourceName": "Rib (10th).r",
+          "skeletonId": "O3D_729df736695dda",
+          "boundsDifferenceMetres": 0.0,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Rib (11th).r",
+          "sourceId": "O3D_477c1dbeca7407",
+          "skeletonSourceName": "Rib (11th).r",
+          "skeletonId": "O3D_30e605fc81a7a4",
+          "boundsDifferenceMetres": 3.725290298461914e-09,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Rib (12th).r",
+          "sourceId": "O3D_92f723b322100f",
+          "skeletonSourceName": "Rib (12th).r",
+          "skeletonId": "O3D_0d8c85afd5d8a6",
+          "boundsDifferenceMetres": 1.862645149230957e-09,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Rib (1st).r",
+          "sourceId": "O3D_52d3ef22e744ae",
+          "skeletonSourceName": "Rib (1st).r",
+          "skeletonId": "O3D_51e8dd76018b0f",
+          "boundsDifferenceMetres": 0.0,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Rib (2nd).r",
+          "sourceId": "O3D_795307fccd650a",
+          "skeletonSourceName": "Rib (2nd).r",
+          "skeletonId": "O3D_4236788925f1d4",
+          "boundsDifferenceMetres": 3.725290298461914e-09,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Rib (3rd).r",
+          "sourceId": "O3D_080bf60f2e394c",
+          "skeletonSourceName": "Rib (3rd).r",
+          "skeletonId": "O3D_d272794bbf886a",
+          "boundsDifferenceMetres": 7.450580596923828e-09,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Rib (4th).r",
+          "sourceId": "O3D_05e1556536a912",
+          "skeletonSourceName": "Rib (4th).r",
+          "skeletonId": "O3D_8e3a0b2cf52b6d",
+          "boundsDifferenceMetres": 7.450580596923828e-09,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Rib (5th).r",
+          "sourceId": "O3D_c2ed071b2bcb64",
+          "skeletonSourceName": "Rib (5th).r",
+          "skeletonId": "O3D_a7bb1c97572a94",
+          "boundsDifferenceMetres": 1.1920928955078125e-07,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Rib (6th).r",
+          "sourceId": "O3D_8582b9633b671f",
+          "skeletonSourceName": "Rib (6th).r",
+          "skeletonId": "O3D_84d581d0704dc3",
+          "boundsDifferenceMetres": 7.450580596923828e-09,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Rib (7th).r",
+          "sourceId": "O3D_dd8ac348f67a87",
+          "skeletonSourceName": "Rib (7th).r",
+          "skeletonId": "O3D_1056282f5791ed",
+          "boundsDifferenceMetres": 0.0,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Rib (8th).r",
+          "sourceId": "O3D_a7805821a793dd",
+          "skeletonSourceName": "Rib (8th).r",
+          "skeletonId": "O3D_4d4e85342a6c0a",
+          "boundsDifferenceMetres": 0.0,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Rib (9th).r",
+          "sourceId": "O3D_103511b749438f",
+          "skeletonSourceName": "Rib (9th).r",
+          "skeletonId": "O3D_cd57752b68ea2a",
+          "boundsDifferenceMetres": 3.725290298461914e-09,
+          "exactDraco": false
+        }
+      ],
+      "other": []
+    },
+    {
+      "region": "lower-limb",
+      "sourceBoneCount": 40,
+      "exactDracoBoneMatches": 16,
+      "additionalSubmillimetreBoundsMatches": 24,
+      "otherBoneVariants": 0,
+      "exact": [
+        {
+          "sourceName": "Coccyx",
+          "sourceId": "O3D_69770f68daa64b",
+          "skeletonSourceName": "Coccyx",
+          "skeletonId": "O3D_6a0b802edd8314",
+          "boundsDifferenceMetres": 0.0,
+          "exactDraco": true
+        },
+        {
+          "sourceName": "Distal phalanx of fifth finger of foot.r",
+          "sourceId": "O3D_bd405a360cba60",
+          "skeletonSourceName": "Distal phalanx of fifth finger of foot.r",
+          "skeletonId": "O3D_f2e0c0ca4100e5",
+          "boundsDifferenceMetres": 0.0,
+          "exactDraco": true
+        },
+        {
+          "sourceName": "Distal phalanx of first finger of foot.r",
+          "sourceId": "O3D_517c7e2a8eea81",
+          "skeletonSourceName": "Distal phalanx of first finger of foot.r",
+          "skeletonId": "O3D_be5edb20989ae3",
+          "boundsDifferenceMetres": 0.0,
+          "exactDraco": true
+        },
+        {
+          "sourceName": "Distal phalanx of fourth finger of foot.r",
+          "sourceId": "O3D_3bcecab4ccc0c0",
+          "skeletonSourceName": "Distal phalanx of fourth finger of foot.r",
+          "skeletonId": "O3D_ed436be907b1ad",
+          "boundsDifferenceMetres": 0.0,
+          "exactDraco": true
+        },
+        {
+          "sourceName": "Distal phalanx of second finger of foot.r",
+          "sourceId": "O3D_8c1e863d3ef68e",
+          "skeletonSourceName": "Distal phalanx of second finger of foot.r",
+          "skeletonId": "O3D_693c3c9c8b3d4b",
+          "boundsDifferenceMetres": 0.0,
+          "exactDraco": true
+        },
+        {
+          "sourceName": "Distal phalanx of third finger of foot.r",
+          "sourceId": "O3D_fa4454e364bd79",
+          "skeletonSourceName": "Distal phalanx of third finger of foot.r",
+          "skeletonId": "O3D_4c70c46df0d05c",
+          "boundsDifferenceMetres": 0.0,
+          "exactDraco": true
+        },
+        {
+          "sourceName": "Middle phalanx of fifth finger of foot.r",
+          "sourceId": "O3D_8439c5426e19bf",
+          "skeletonSourceName": "Middle phalanx of fifth finger of foot.r",
+          "skeletonId": "O3D_9d787e04643151",
+          "boundsDifferenceMetres": 0.0,
+          "exactDraco": true
+        },
+        {
+          "sourceName": "Middle phalanx of fourth finger of foot.r",
+          "sourceId": "O3D_be381fe4a8ed55",
+          "skeletonSourceName": "Middle phalanx of fourth finger of foot.r",
+          "skeletonId": "O3D_762ccb86caf70d",
+          "boundsDifferenceMetres": 0.0,
+          "exactDraco": true
+        },
+        {
+          "sourceName": "Middle phalanx of second finger of foot.r",
+          "sourceId": "O3D_a5e15d37866fcb",
+          "skeletonSourceName": "Middle phalanx of second finger of foot.r",
+          "skeletonId": "O3D_a5afef8330ed47",
+          "boundsDifferenceMetres": 0.0,
+          "exactDraco": true
+        },
+        {
+          "sourceName": "Middle phalanx of third finger of foot.r",
+          "sourceId": "O3D_c3c4055e7d1996",
+          "skeletonSourceName": "Middle phalanx of third finger of foot.r",
+          "skeletonId": "O3D_6d5b8d338fa1f5",
+          "boundsDifferenceMetres": 0.0,
+          "exactDraco": true
+        },
+        {
+          "sourceName": "Proximal phalanx of fifth finger of foot.r",
+          "sourceId": "O3D_92f12f00c399cd",
+          "skeletonSourceName": "Proximal phalanx of fifth finger of foot.r",
+          "skeletonId": "O3D_1b09c8de922be4",
+          "boundsDifferenceMetres": 0.0,
+          "exactDraco": true
+        },
+        {
+          "sourceName": "Proximal phalanx of first finger of foot.r",
+          "sourceId": "O3D_5638d10a6ecece",
+          "skeletonSourceName": "Proximal phalanx of first finger of foot.r",
+          "skeletonId": "O3D_59c2efc5b0de65",
+          "boundsDifferenceMetres": 0.0,
+          "exactDraco": true
+        },
+        {
+          "sourceName": "Proximal phalanx of fourth finger of foot.r",
+          "sourceId": "O3D_b86bc40289c5e6",
+          "skeletonSourceName": "Proximal phalanx of fourth finger of foot.r",
+          "skeletonId": "O3D_5740e9f6dbe809",
+          "boundsDifferenceMetres": 0.0,
+          "exactDraco": true
+        },
+        {
+          "sourceName": "Proximal phalanx of second finger of foot.r",
+          "sourceId": "O3D_48376bca16d359",
+          "skeletonSourceName": "Proximal phalanx of second finger of foot.r",
+          "skeletonId": "O3D_15c2823ffacddf",
+          "boundsDifferenceMetres": 0.0,
+          "exactDraco": true
+        },
+        {
+          "sourceName": "Proximal phalanx of third finger of foot.r",
+          "sourceId": "O3D_de0609aa778b2c",
+          "skeletonSourceName": "Proximal phalanx of third finger of foot.r",
+          "skeletonId": "O3D_9183f2e777d2ab",
+          "boundsDifferenceMetres": 0.0,
+          "exactDraco": true
+        },
+        {
+          "sourceName": "Sesamoid bones of foot.r",
+          "sourceId": "O3D_7a101cad254659",
+          "skeletonSourceName": "Sesamoid bones of foot.r",
+          "skeletonId": "O3D_714c49023988d2",
+          "boundsDifferenceMetres": 0.0,
+          "exactDraco": true
+        }
+      ],
+      "near": [
+        {
+          "sourceName": "Calcaneus.r",
+          "sourceId": "O3D_f2b97a7db04ffb",
+          "skeletonSourceName": "Calcaneus.r",
+          "skeletonId": "O3D_bd07bf5fad50cf",
+          "boundsDifferenceMetres": 0.0,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Cuboid bone.r",
+          "sourceId": "O3D_aa086ff980fc8d",
+          "skeletonSourceName": "Cuboid bone.r",
+          "skeletonId": "O3D_2dd46eb22d824b",
+          "boundsDifferenceMetres": 0.0,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Femur.r",
+          "sourceId": "O3D_353f2de0f8a901",
+          "skeletonSourceName": "Femur.r",
+          "skeletonId": "O3D_05ffaf48937967",
+          "boundsDifferenceMetres": 0.0,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Fibula.r",
+          "sourceId": "O3D_b7b56fad74835f",
+          "skeletonSourceName": "Fibula.r",
+          "skeletonId": "O3D_4bcfe480dc5d8f",
+          "boundsDifferenceMetres": 0.0,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Fifth metatarsal bone.r",
+          "sourceId": "O3D_4349bceee38883",
+          "skeletonSourceName": "Fifth metatarsal bone.r",
+          "skeletonId": "O3D_58743afc3ae3e4",
+          "boundsDifferenceMetres": 0.0,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "First metatarsal bone.r",
+          "sourceId": "O3D_0b4c8f4cb1a87c",
+          "skeletonSourceName": "First metatarsal bone.r",
+          "skeletonId": "O3D_baae659ab543c2",
+          "boundsDifferenceMetres": 0.0,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Fourth metatarsal bone.r",
+          "sourceId": "O3D_8f825670398e3f",
+          "skeletonSourceName": "Fourth metatarsal bone.r",
+          "skeletonId": "O3D_67671601b70460",
+          "boundsDifferenceMetres": 0.0,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Hip bone.r",
+          "sourceId": "O3D_0290b01a175d55",
+          "skeletonSourceName": "Hip bone.r",
+          "skeletonId": "O3D_0432208a152acf",
+          "boundsDifferenceMetres": 0.0,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Intermediate cuneiform bone.r",
+          "sourceId": "O3D_71074817334d57",
+          "skeletonSourceName": "Intermediate cuneiform bone.r",
+          "skeletonId": "O3D_070f07058ca164",
+          "boundsDifferenceMetres": 0.0,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Lateral cuneiform bone.r",
+          "sourceId": "O3D_139f2a2f058000",
+          "skeletonSourceName": "Lateral cuneiform bone.r",
+          "skeletonId": "O3D_762e27768e9abd",
+          "boundsDifferenceMetres": 0.0,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Lumbar vertebra (L1)",
+          "sourceId": "O3D_0f4f2e36ee050c",
+          "skeletonSourceName": "Lumbar vertebrae (L1)",
+          "skeletonId": "O3D_a194fbb98385e2",
+          "boundsDifferenceMetres": 0.0,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Lumbar vertebra (L2)",
+          "sourceId": "O3D_3f202e428391ca",
+          "skeletonSourceName": "Lumbar vertebrae (L2)",
+          "skeletonId": "O3D_b203445563ab28",
+          "boundsDifferenceMetres": 0.0,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Lumbar vertebra (L3)",
+          "sourceId": "O3D_d5471c0ad5c90d",
+          "skeletonSourceName": "Lumbar vertebrae (L3)",
+          "skeletonId": "O3D_0a1fa794298b9d",
+          "boundsDifferenceMetres": 0.0,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Lumbar vertebra (L4)",
+          "sourceId": "O3D_598dfba3bc659d",
+          "skeletonSourceName": "Lumbar vertebrae (L4)",
+          "skeletonId": "O3D_1b948b3b42daca",
+          "boundsDifferenceMetres": 0.0,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Lumbar vertebra (L5)",
+          "sourceId": "O3D_0b90d0a18d57bf",
+          "skeletonSourceName": "Lumbar vertebrae (L5)",
+          "skeletonId": "O3D_ee008ecb7d1444",
+          "boundsDifferenceMetres": 0.0,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Medial cuneiform bone.r",
+          "sourceId": "O3D_b645282575cafb",
+          "skeletonSourceName": "Medial cuneiform bone.r",
+          "skeletonId": "O3D_30a42a0866067a",
+          "boundsDifferenceMetres": 0.0,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Navicular bone.r",
+          "sourceId": "O3D_7eaefca10763bc",
+          "skeletonSourceName": "Navicular bone.r",
+          "skeletonId": "O3D_7e20fcfb67b0ae",
+          "boundsDifferenceMetres": 0.0,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Patella.r",
+          "sourceId": "O3D_0524842d43f040",
+          "skeletonSourceName": "Patella.r",
+          "skeletonId": "O3D_46eefd38fdbbcf",
+          "boundsDifferenceMetres": 0.0,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Sacrum",
+          "sourceId": "O3D_4653b666e65477",
+          "skeletonSourceName": "Sacrum",
+          "skeletonId": "O3D_5f8fe434da9608",
+          "boundsDifferenceMetres": 0.0,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Second metatarsal bone.r",
+          "sourceId": "O3D_0c415e7941d503",
+          "skeletonSourceName": "Second metatarsal bone.r",
+          "skeletonId": "O3D_0a15b8e871abe8",
+          "boundsDifferenceMetres": 0.0,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Talus.r",
+          "sourceId": "O3D_6393902df6c166",
+          "skeletonSourceName": "Talus.r",
+          "skeletonId": "O3D_bc7d3ef489bfc8",
+          "boundsDifferenceMetres": 0.0,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Third metatarsal bone.r",
+          "sourceId": "O3D_d11f4d26cc9fe3",
+          "skeletonSourceName": "Third metatarsal bone.r",
+          "skeletonId": "O3D_1073bb24d25d3d",
+          "boundsDifferenceMetres": 0.0,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Thoracic vertebra (T12)",
+          "sourceId": "O3D_d6a388d6884cb2",
+          "skeletonSourceName": "Thoracic vertebrae (T12)",
+          "skeletonId": "O3D_3a60f664f0542f",
+          "boundsDifferenceMetres": 0.0,
+          "exactDraco": false
+        },
+        {
+          "sourceName": "Tibia.r",
+          "sourceId": "O3D_5af1a73d983212",
+          "skeletonSourceName": "Tibia.r",
+          "skeletonId": "O3D_cbe1e286dd60a5",
+          "boundsDifferenceMetres": 0.0,
+          "exactDraco": false
+        }
+      ],
+      "other": []
+    }
+  ],
+  "chunks": [
+    {
+      "file": "aligned-overview-skeleton-skeletal-01.glb",
+      "geometryCount": 134,
+      "allGeometryImageAndMaterialValuesPreserved": true
+    },
+    {
+      "file": "aligned-overview-skeleton-connective-01.glb",
+      "geometryCount": 10,
+      "allGeometryImageAndMaterialValuesPreserved": true
+    },
+    {
+      "file": "aligned-muscles-thorax-abdomen-connective-01.glb",
+      "geometryCount": 81,
+      "allGeometryImageAndMaterialValuesPreserved": true
+    },
+    {
+      "file": "aligned-muscles-thorax-abdomen-muscular-01.glb",
+      "geometryCount": 55,
+      "allGeometryImageAndMaterialValuesPreserved": true
+    },
+    {
+      "file": "aligned-upper-limb-connective-01.glb",
+      "geometryCount": 119,
+      "allGeometryImageAndMaterialValuesPreserved": true
+    },
+    {
+      "file": "aligned-upper-limb-muscular-01.glb",
+      "geometryCount": 56,
+      "allGeometryImageAndMaterialValuesPreserved": true
+    },
+    {
+      "file": "aligned-upper-limb-nervous-01.glb",
+      "geometryCount": 50,
+      "allGeometryImageAndMaterialValuesPreserved": true
+    },
+    {
+      "file": "aligned-upper-limb-venous-01.glb",
+      "geometryCount": 23,
+      "allGeometryImageAndMaterialValuesPreserved": true
+    },
+    {
+      "file": "aligned-upper-limb-arterial-01.glb",
+      "geometryCount": 53,
+      "allGeometryImageAndMaterialValuesPreserved": true
+    },
+    {
+      "file": "aligned-lower-limb-arterial-01.glb",
+      "geometryCount": 46,
+      "allGeometryImageAndMaterialValuesPreserved": true
+    },
+    {
+      "file": "aligned-lower-limb-connective-01.glb",
+      "geometryCount": 160,
+      "allGeometryImageAndMaterialValuesPreserved": true
+    },
+    {
+      "file": "aligned-lower-limb-muscular-01.glb",
+      "geometryCount": 62,
+      "allGeometryImageAndMaterialValuesPreserved": true
+    },
+    {
+      "file": "aligned-lower-limb-nervous-01.glb",
+      "geometryCount": 67,
+      "allGeometryImageAndMaterialValuesPreserved": true
+    },
+    {
+      "file": "aligned-lower-limb-venous-01.glb",
+      "geometryCount": 42,
+      "allGeometryImageAndMaterialValuesPreserved": true
+    }
+  ],
+  "limits": "Native-coordinate source compatibility audit, not independent anatomical validation or a watertight merged atlas. Interface geometry variants and missing contralateral/visceral structures are documented in alignment-audit.json."
+}

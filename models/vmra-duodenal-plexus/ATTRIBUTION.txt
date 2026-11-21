@@ -1,0 +1,11 @@
+VMRA lower-duodenal autonomic branches — illustrative reconstruction, CC BY-SA 4.0.
+https://creativecommons.org/licenses/by-sa/4.0/
+
+Z-Anatomy — Gauthier Kervyn, Marcin Zielinski, Lluis Vinent.
+https://github.com/Z-Anatomy/Models-of-human-anatomy
+BodyParts3D — The Database Center for Life Science. https://lifesciencedb.jp/bp3d/
+Upstream CC BY-SA 2.1 Japan attribution notice retained as supplied by Z-Anatomy.
+
+Modifications: Three independently authored representative branches from the existing illustrative superior mesenteric plexus to the exterior lower-duodenal neighborhood. Thickness, positions, and terminal approaches are illustrative, not specimen measurements. No textbook illustration or research figure was copied.
+
+Anatomical relationships: VMRA 5–8, Figure 6-50; University of Arkansas for Medical Sciences, Nerves of the Abdomen (https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/nerve-tables/nerves-of-the-abdomen/).

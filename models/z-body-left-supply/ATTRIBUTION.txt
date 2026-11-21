@@ -1,0 +1,18 @@
+Z-Anatomy - The libre 3D atlas of anatomy - CC BY-SA 4.0
+https://github.com/Z-Anatomy/Models-of-human-anatomy
+https://creativecommons.org/licenses/by-sa/4.0/
+Gauthier Kervyn (design, 3D, anatomy), Marcin Zielinski (Blender add-on), Lluis Vinent (Unity development).
+BodyParts3D - The Database Center for Life Science - upstream attribution as supplied: CC BY-SA 2.1 Japan.
+Cranial Nerves and Foramina - University of Dundee, CAHID - CC BY 4.0.
+Anatomy of the Inner Ear - University of Dundee School of Medicine - CC BY-NC-SA 4.0.
+Kidney - Lissie Cowley - CC BY-NC 4.0.
+Brainder and White matter - University of Washington, as acknowledged by the source. Two telencephalon white matter meshes are omitted from the browser output pending clarification of the source grant.
+Changes: Converted official FBX to independent named Draco GLB structures; removed annotation-helper geometry; applied FBX hierarchy transforms and converted centimetres to metres; 18-bit position quantization. Mirrored transform winding corrected. No anatomical meshes invented.
+
+Additional display changes: Original FBX Tendon material faces restored as scalar masks; optional 1.5 mm display feather remains inside authored tendon faces. Original geometry, identifiers and bounds retained.
+
+Additional display changes: Source-authored Tendon boundary interpolation repaired with planar edge midpoint/face centroid display subdivisions. Original anatomical surfaces and source IDs retained; render tessellation is not additional anatomical detail. Cool off-white nonmetal display material, roughness 0.52, and per-mesh inside-boundary feather capped at 3 mm.
+
+
+LEFT SUPPLY ORIGINAL SUBSET
+15 whole source neural and arterial surfaces; original licence and attribution terms apply.

@@ -1,0 +1,45 @@
+{
+  "anatomicalRepresentation": "illustrative-pathway",
+  "isMeasuredAnatomy": false,
+  "physicalId": "VMRA_SPLENIC_PLEXUS_01",
+  "inputPins": [
+    {
+      "path": "anatomy-research/unified-body-v64/gastric-block/splenic-plexus-rebind/ordered-venous-path-final-manifest.json",
+      "bytes": 2094,
+      "sha256": "104a53e20f2ad8c3cdfcf668da00b9efe7ec8f735615eae882844605a98a0d22"
+    },
+    {
+      "path": "anatomy-research/unified-body-v64/gastric-block/splenic-plexus-rebind/ordered-venous-path-candidate.npz",
+      "bytes": 47124,
+      "sha256": "0e6b22494f765455fcdfd5a9c190c7655851240038a72e8aa8fd4f4811fe6e03"
+    },
+    {
+      "path": "anatomy-research/unified-body-v64/gastric-block/splenic-plexus-rebind/ordered-venous-path-provenance.json",
+      "bytes": 259979,
+      "sha256": "a48826c355a00e0db171d5ba28db9b116401d58d20f9afcc4205a7cc88296083"
+    },
+    {
+      "path": "anatomy-research/unified-body-v64/gastric-block/gastric-residual-field-with-hepatic.npz",
+      "bytes": 329627,
+      "sha256": "45d0c19c11bf176c78e81d0c82b61dbd47416b7b3b2b78951d7fa6e13f26c291"
+    },
+    {
+      "path": "anatomy-research/unified-body-v64/gastric-block/continuous-caps-context-arrays.npz",
+      "bytes": 6033089,
+      "sha256": "e650dba4a1a9fe77ef75da9f5f73a53b81d655a571c9b20adabff4529d44e003"
+    }
+  ],
+  "pathIds": [
+    "auth-splenic-periarterial-c0-b1",
+    "auth-splenic-periarterial-c0-b2",
+    "auth-splenic-periarterial-c1-b1",
+    "auth-splenic-plexus-crosslink-28",
+    "auth-splenic-plexus-crosslink-64",
+    "auth-splenic-periarterial-c1-b1-authored-fork"
+  ],
+  "authoredRadiiUnchanged": true,
+  "sourcePathCount": 6,
+  "integrationStatus": "connected-body",
+  "replacementIntent": "Same six authored illustrative paths, reauthored around the registered splenic artery; not measured anatomy.",
+  "modifications": "Reauthored same six illustrative paths on pinned FJ3640, preserved three original terminals and arc connector intent; actual open venous wall clearance; authored neural routes/calibers are not measured anatomy."
+}

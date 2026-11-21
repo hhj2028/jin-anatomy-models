@@ -1,0 +1,4 @@
+VMRA whole-source proximal venous boundary accommodation.
+Original source credit and licensing text retained in ORIGINAL_ATTRIBUTION.txt and ORIGINAL_CREDITS.json.
+
+Whole source topology, UVs and material JSON retained. Coordinates, local terminal caliber and changed geometry normals adjusted as documented. Distal native branch extent preserved. New derived identity; not measured anatomy. No invented end cap or tributary. Original source datasets are unchanged. CC BY-SA4.0; source-specific attribution remains applicable.

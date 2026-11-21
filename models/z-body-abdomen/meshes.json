@@ -1,0 +1,2366 @@
+[
+  {
+    "id": "ZA_3b5abb7437a2b8",
+    "conceptId": "",
+    "nameEn": "Diaphragm",
+    "sourceNodeName": "Diaphragm",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Thoracic part of muscular system.g/Diaphragm",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Diaphragm",
+      "Tendon"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_3b5abb7437a2b8"
+    ],
+    "bounds": [
+      [
+        -0.12580665182345685,
+        1.0422530392833924,
+        -0.06699225894849638
+      ],
+      [
+        0.12496618573750728,
+        1.2621448834348832,
+        0.1009408877596556
+      ]
+    ],
+    "vertices": 19965,
+    "triangles": 39268,
+    "dracoBytes": 475459,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#934642",
+      "roughness": 0.67
+    },
+    "displaySystem": "muscular",
+    "hasAuthoredTendonMask": true,
+    "tendonSurface": {
+      "method": "original-fbx-material-faces-planar-display-refinement",
+      "sourceMaterialName": "Tendon",
+      "sourceTendonTriangles": 4926,
+      "renderTendonTriangles": 5326,
+      "boundarySegmentCount": 326,
+      "maskAttribute": "_TENDON_MASK",
+      "edgeAttribute": "_TENDON_EDGE",
+      "distanceMetric": "euclidean-to-source-boundary-segments",
+      "distanceCapM": 0.02,
+      "recommendedDisplayFeatherM": 0.003,
+      "positiveTendonDistanceP90M": 0.019999999552965164,
+      "maxTendonSampleDistanceM": 0.019999999552965164,
+      "refinedSourceTriangles": 119,
+      "sourceFaceProvenanceFile": "render-face-source-provenance.npz"
+    },
+    "sourceTriangles": 38868
+  },
+  {
+    "id": "ZA_89c871621ecb90",
+    "conceptId": "",
+    "nameEn": "Abdominal aorta",
+    "sourceNodeName": "Abdominal aorta",
+    "sourcePath": "CardioVascular41.fbx/RootNode/Arterial system.g/Systemic arteries.g/Aorta.g/Abdominal aorta",
+    "sourceFile": "CardioVascular41.fbx",
+    "sourceMaterialNames": [
+      "Artery"
+    ],
+    "system": "arterial",
+    "meshIds": [
+      "ZA_89c871621ecb90"
+    ],
+    "bounds": [
+      [
+        -0.0037701242346721096,
+        1.028639483640397,
+        -0.019184958302417093
+      ],
+      [
+        0.01913112988134532,
+        1.2105709330025205,
+        0.04044007199443035
+      ]
+    ],
+    "vertices": 425,
+    "triangles": 826,
+    "dracoBytes": 7533,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "artery",
+    "appearanceStyle": {
+      "color": "#bd4842",
+      "roughness": 0.58
+    },
+    "displaySystem": "arterial"
+  },
+  {
+    "id": "ZA_3f46174d1fa443",
+    "conceptId": "",
+    "nameEn": "Coeliac trunk",
+    "sourceNodeName": "Coeliac trunk",
+    "sourcePath": "CardioVascular41.fbx/RootNode/Arterial system.g/Systemic arteries.g/Aorta.g/Abdominal aorta/Coeliac trunk",
+    "sourceFile": "CardioVascular41.fbx",
+    "sourceMaterialNames": [
+      "Artery"
+    ],
+    "system": "arterial",
+    "meshIds": [
+      "ZA_3f46174d1fa443"
+    ],
+    "bounds": [
+      [
+        0.0028880015333058087,
+        1.1354995886141677,
+        0.01260545623008664
+      ],
+      [
+        0.013864548606529203,
+        1.1597867420887213,
+        0.034111172368325615
+      ]
+    ],
+    "vertices": 130,
+    "triangles": 236,
+    "dracoBytes": 2474,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "artery",
+    "appearanceStyle": {
+      "color": "#bd4842",
+      "roughness": 0.58
+    },
+    "displaySystem": "arterial"
+  },
+  {
+    "id": "ZA_2847a6ba006008",
+    "conceptId": "",
+    "nameEn": "Splenic artery",
+    "sourceNodeName": "Splenic artery",
+    "sourcePath": "CardioVascular41.fbx/RootNode/Arterial system.g/Systemic arteries.g/Aorta.g/Abdominal aorta/Coeliac trunk/Splenic artery",
+    "sourceFile": "CardioVascular41.fbx",
+    "sourceMaterialNames": [
+      "Artery"
+    ],
+    "system": "arterial",
+    "meshIds": [
+      "ZA_2847a6ba006008"
+    ],
+    "bounds": [
+      [
+        0.004249953716879542,
+        1.144295735283321,
+        -0.017590332977435574
+      ],
+      [
+        0.09893398226315366,
+        1.1688199122340555,
+        0.035894506148706214
+      ]
+    ],
+    "vertices": 1855,
+    "triangles": 3542,
+    "dracoBytes": 31202,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "artery",
+    "appearanceStyle": {
+      "color": "#bd4842",
+      "roughness": 0.58
+    },
+    "displaySystem": "arterial"
+  },
+  {
+    "id": "ZA_9ec6b5e31560ff",
+    "conceptId": "",
+    "nameEn": "Left gastric artery",
+    "sourceNodeName": "Left gastric artery",
+    "sourcePath": "CardioVascular41.fbx/RootNode/Arterial system.g/Systemic arteries.g/Aorta.g/Abdominal aorta/Coeliac trunk/Left gastric artery",
+    "sourceFile": "CardioVascular41.fbx",
+    "sourceMaterialNames": [
+      "Artery"
+    ],
+    "system": "arterial",
+    "meshIds": [
+      "ZA_9ec6b5e31560ff"
+    ],
+    "bounds": [
+      [
+        0.0035562906831309205,
+        1.1539032834738223,
+        0.029600314100050804
+      ],
+      [
+        0.021595212941432327,
+        1.1782498881105905,
+        0.05659665101559801
+      ]
+    ],
+    "vertices": 316,
+    "triangles": 590,
+    "dracoBytes": 5727,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "artery",
+    "appearanceStyle": {
+      "color": "#bd4842",
+      "roughness": 0.58
+    },
+    "displaySystem": "arterial"
+  },
+  {
+    "id": "ZA_0dda26b692a945",
+    "conceptId": "",
+    "nameEn": "Common hepatic artery",
+    "sourceNodeName": "Common hepatic artery",
+    "sourcePath": "CardioVascular41.fbx/RootNode/Arterial system.g/Systemic arteries.g/Aorta.g/Abdominal aorta/Coeliac trunk/Common hepatic artery",
+    "sourceFile": "CardioVascular41.fbx",
+    "sourceMaterialNames": [
+      "Artery"
+    ],
+    "system": "arterial",
+    "meshIds": [
+      "ZA_0dda26b692a945"
+    ],
+    "bounds": [
+      [
+        -0.022466142076607527,
+        1.143765019351124,
+        0.029872661578342462
+      ],
+      [
+        0.009876656481907753,
+        1.160017297788373,
+        0.0616859194930114
+      ]
+    ],
+    "vertices": 129,
+    "triangles": 235,
+    "dracoBytes": 2456,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "artery",
+    "appearanceStyle": {
+      "color": "#bd4842",
+      "roughness": 0.58
+    },
+    "displaySystem": "arterial"
+  },
+  {
+    "id": "ZA_95b44ea0a99d64",
+    "conceptId": "",
+    "nameEn": "Proper hepatic artery",
+    "sourceNodeName": "Proper hepatic artery",
+    "sourcePath": "CardioVascular41.fbx/RootNode/Arterial system.g/Systemic arteries.g/Aorta.g/Abdominal aorta/Coeliac trunk/Common hepatic artery/Proper hepatic artery",
+    "sourceFile": "CardioVascular41.fbx",
+    "sourceMaterialNames": [
+      "Artery"
+    ],
+    "system": "arterial",
+    "meshIds": [
+      "ZA_95b44ea0a99d64"
+    ],
+    "bounds": [
+      [
+        -0.11244112421868314,
+        1.1443197584126985,
+        0.0459225860849397
+      ],
+      [
+        -0.02037866817617802,
+        1.1728531106814761,
+        0.07414400707158326
+      ]
+    ],
+    "vertices": 919,
+    "triangles": 1771,
+    "dracoBytes": 15772,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "artery",
+    "appearanceStyle": {
+      "color": "#bd4842",
+      "roughness": 0.58
+    },
+    "displaySystem": "arterial"
+  },
+  {
+    "id": "ZA_7b899d4ce4db0a",
+    "conceptId": "",
+    "nameEn": "Gastroduodenal artery",
+    "sourceNodeName": "Gastroduodenal artery",
+    "sourcePath": "CardioVascular41.fbx/RootNode/Arterial system.g/Systemic arteries.g/Aorta.g/Abdominal aorta/Coeliac trunk/Common hepatic artery/Gastroduodenal artery",
+    "sourceFile": "CardioVascular41.fbx",
+    "sourceMaterialNames": [
+      "Artery"
+    ],
+    "system": "arterial",
+    "meshIds": [
+      "ZA_7b899d4ce4db0a"
+    ],
+    "bounds": [
+      [
+        -0.03486016632046932,
+        1.1290199029457846,
+        0.05900888949655153
+      ],
+      [
+        -0.020144597007366826,
+        1.1485049432907382,
+        0.08843878753029949
+      ]
+    ],
+    "vertices": 186,
+    "triangles": 353,
+    "dracoBytes": 3430,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "artery",
+    "appearanceStyle": {
+      "color": "#bd4842",
+      "roughness": 0.58
+    },
+    "displaySystem": "arterial"
+  },
+  {
+    "id": "ZA_e1ea626bc665eb",
+    "conceptId": "",
+    "nameEn": "Liver",
+    "sourceNodeName": "Liver",
+    "sourcePath": "VisceralSystem100.fbx/RootNode/Digestive system.g/Liver",
+    "sourceFile": "VisceralSystem100.fbx",
+    "sourceMaterialNames": [
+      "Organ",
+      "Ligament"
+    ],
+    "system": "visceral",
+    "meshIds": [
+      "ZA_e1ea626bc665eb"
+    ],
+    "bounds": [
+      [
+        -0.11472640922823496,
+        1.0913935688649532,
+        -0.05372605519461359
+      ],
+      [
+        0.09161854851602001,
+        1.257661630640973,
+        0.09943254806859547
+      ]
+    ],
+    "vertices": 6153,
+    "triangles": 12270,
+    "dracoBytes": 102006,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "liver-parenchyma",
+    "appearanceStyle": {
+      "color": "#743b38",
+      "roughness": 0.48
+    },
+    "displaySystem": "visceral"
+  },
+  {
+    "id": "ZA_e46a92e6cc0bf8",
+    "conceptId": "",
+    "nameEn": "Pancreas",
+    "sourceNodeName": "Pancreas",
+    "sourcePath": "VisceralSystem100.fbx/RootNode/Digestive system.g/Pancreas",
+    "sourceFile": "VisceralSystem100.fbx",
+    "sourceMaterialNames": [
+      "Gland"
+    ],
+    "system": "visceral",
+    "meshIds": [
+      "ZA_e46a92e6cc0bf8"
+    ],
+    "bounds": [
+      [
+        -0.04546676175551829,
+        1.0791330182090544,
+        -0.005127262543226085
+      ],
+      [
+        0.07267442549719971,
+        1.1528729594992073,
+        0.0482316625325903
+      ]
+    ],
+    "vertices": 2613,
+    "triangles": 5222,
+    "dracoBytes": 45749,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "pancreas",
+    "appearanceStyle": {
+      "color": "#ce9f83",
+      "roughness": 0.7
+    },
+    "displaySystem": "visceral"
+  },
+  {
+    "id": "ZA_2a06b78a9d7555",
+    "conceptId": "",
+    "nameEn": "Stomach",
+    "sourceNodeName": "Stomach",
+    "sourcePath": "VisceralSystem100.fbx/RootNode/Digestive system.g/Digestive canal.g/Stomach",
+    "sourceFile": "VisceralSystem100.fbx",
+    "sourceMaterialNames": [
+      "Intestine"
+    ],
+    "system": "visceral",
+    "meshIds": [
+      "ZA_2a06b78a9d7555"
+    ],
+    "bounds": [
+      [
+        -0.028751823778181657,
+        1.1036782023683602,
+        -0.01649504312109956
+      ],
+      [
+        0.10542309684036674,
+        1.229142156608553,
+        0.08882422386597505
+      ]
+    ],
+    "vertices": 4803,
+    "triangles": 9468,
+    "dracoBytes": 84077,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "hollow-organ-wall",
+    "appearanceStyle": {
+      "color": "#bd8c7b",
+      "roughness": 0.61
+    },
+    "displaySystem": "visceral"
+  },
+  {
+    "id": "ZA_8814235835dbe9",
+    "conceptId": "",
+    "nameEn": "Duodenum",
+    "sourceNodeName": "Duodenum",
+    "sourcePath": "VisceralSystem100.fbx/RootNode/Digestive system.g/Digestive canal.g/Small intestine.g/Duodenum",
+    "sourceFile": "VisceralSystem100.fbx",
+    "sourceMaterialNames": [
+      "Intestine"
+    ],
+    "system": "visceral",
+    "meshIds": [
+      "ZA_8814235835dbe9"
+    ],
+    "bounds": [
+      [
+        -0.0656240455985178,
+        1.0448769213822247,
+        0.005745805988395527
+      ],
+      [
+        0.0323296996363943,
+        1.143259791142094,
+        0.057378987085152676
+      ]
+    ],
+    "vertices": 887,
+    "triangles": 1750,
+    "dracoBytes": 15944,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "hollow-organ-wall",
+    "appearanceStyle": {
+      "color": "#bd8c7b",
+      "roughness": 0.61
+    },
+    "displaySystem": "visceral"
+  },
+  {
+    "id": "ZA_ffb7a877189e7a",
+    "conceptId": "",
+    "nameEn": "Spleen",
+    "sourceNodeName": "Spleen",
+    "sourcePath": "LymphoidOrgans100.fbx/RootNode/Secondary lymphoid organs.g/Spleen",
+    "sourceFile": "LymphoidOrgans100.fbx",
+    "sourceMaterialNames": [
+      "Organ"
+    ],
+    "system": "lymphatic",
+    "meshIds": [
+      "ZA_ffb7a877189e7a"
+    ],
+    "bounds": [
+      [
+        0.05563420079648495,
+        1.1263839688539807,
+        -0.05195114210575613
+      ],
+      [
+        0.11386805050075054,
+        1.196613899520753,
+        0.04311465910774904
+      ]
+    ],
+    "vertices": 667,
+    "triangles": 1330,
+    "dracoBytes": 12114,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "spleen",
+    "appearanceStyle": {
+      "color": "#745064",
+      "roughness": 0.6
+    },
+    "displaySystem": "visceral"
+  },
+  {
+    "id": "ZA_10c50be99792b6",
+    "conceptId": "",
+    "nameEn": "Mesocolon",
+    "sourceNodeName": "Mesocolon",
+    "sourcePath": "VisceralSystem100.fbx/RootNode/Abdominopelvic cavity.g/Peritoneal structures.g/Mesocolon",
+    "sourceFile": "VisceralSystem100.fbx",
+    "sourceMaterialNames": [
+      "Peritoneum"
+    ],
+    "system": "visceral",
+    "meshIds": [
+      "ZA_10c50be99792b6"
+    ],
+    "bounds": [
+      [
+        -0.03154071643503201,
+        1.1002245160843351,
+        -0.0009778009533397958
+      ],
+      [
+        0.0999408649900271,
+        1.1472465234499172,
+        0.08681990441688187
+      ]
+    ],
+    "vertices": 7886,
+    "triangles": 15768,
+    "dracoBytes": 123201,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "membrane",
+    "appearanceStyle": {
+      "color": "#d3c7b6",
+      "roughness": 0.72
+    },
+    "displaySystem": "visceral"
+  },
+  {
+    "id": "ZA_36ca5c9701a784",
+    "conceptId": "",
+    "nameEn": "Meso-appendix",
+    "sourceNodeName": "Meso-appendix",
+    "sourcePath": "VisceralSystem100.fbx/RootNode/Abdominopelvic cavity.g/Peritoneal structures.g/Mesocolon/Meso-appendix",
+    "sourceFile": "VisceralSystem100.fbx",
+    "sourceMaterialNames": [
+      "Ligament"
+    ],
+    "system": "visceral",
+    "meshIds": [
+      "ZA_36ca5c9701a784"
+    ],
+    "bounds": [
+      [
+        -0.07203438430421721,
+        0.9466796011725539,
+        -0.012859009567281669
+      ],
+      [
+        -0.022499496102543995,
+        0.9906740593708503,
+        0.02002566181335216
+      ]
+    ],
+    "vertices": 236,
+    "triangles": 468,
+    "dracoBytes": 4291,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "hollow-organ-wall",
+    "appearanceStyle": {
+      "color": "#bd8c7b",
+      "roughness": 0.61
+    },
+    "displaySystem": "visceral"
+  },
+  {
+    "id": "ZA_c8834cf6d085b1",
+    "conceptId": "",
+    "nameEn": "Greater omentum",
+    "sourceNodeName": "Greater omentum",
+    "sourcePath": "VisceralSystem100.fbx/RootNode/Abdominopelvic cavity.g/Peritoneal structures.g/Greater omentum",
+    "sourceFile": "VisceralSystem100.fbx",
+    "sourceMaterialNames": [
+      "Peritoneum"
+    ],
+    "system": "visceral",
+    "meshIds": [
+      "ZA_c8834cf6d085b1"
+    ],
+    "bounds": [
+      [
+        -0.10256143978215934,
+        0.8795408992644398,
+        0.018614350309779804
+      ],
+      [
+        0.10926662493952641,
+        1.1628340128127335,
+        0.08806485113219747
+      ]
+    ],
+    "vertices": 38986,
+    "triangles": 77968,
+    "dracoBytes": 582651,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "membrane",
+    "appearanceStyle": {
+      "color": "#d3c7b6",
+      "roughness": 0.72
+    },
+    "displaySystem": "visceral"
+  },
+  {
+    "id": "ZA_98420971b78359",
+    "conceptId": "",
+    "nameEn": "Lesser omentum",
+    "sourceNodeName": "Lesser omentum",
+    "sourcePath": "VisceralSystem100.fbx/RootNode/Abdominopelvic cavity.g/Peritoneal structures.g/Lesser omentum",
+    "sourceFile": "VisceralSystem100.fbx",
+    "sourceMaterialNames": [
+      "Peritoneum"
+    ],
+    "system": "visceral",
+    "meshIds": [
+      "ZA_98420971b78359"
+    ],
+    "bounds": [
+      [
+        -0.03456621793902347,
+        1.1419628474036383,
+        0.016711522844698793
+      ],
+      [
+        0.025421488846199408,
+        1.2000268439116404,
+        0.08068585604236952
+      ]
+    ],
+    "vertices": 2382,
+    "triangles": 4760,
+    "dracoBytes": 38572,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "membrane",
+    "appearanceStyle": {
+      "color": "#d3c7b6",
+      "roughness": 0.72
+    },
+    "displaySystem": "visceral"
+  },
+  {
+    "id": "ZA_b579f1c03eb459",
+    "conceptId": "",
+    "nameEn": "Jejunum",
+    "sourceNodeName": "Jejunum",
+    "sourcePath": "VisceralSystem100.fbx/RootNode/Digestive system.g/Digestive canal.g/Small intestine.g/Jejunum",
+    "sourceFile": "VisceralSystem100.fbx",
+    "sourceMaterialNames": [
+      "Intestine"
+    ],
+    "system": "visceral",
+    "meshIds": [
+      "ZA_b579f1c03eb459"
+    ],
+    "bounds": [
+      [
+        -0.08260780458063863,
+        0.8810631652668677,
+        0.018891446683191683
+      ],
+      [
+        0.10036525882228364,
+        1.0897735316738721,
+        0.08097545193567146
+      ]
+    ],
+    "vertices": 13836,
+    "triangles": 27648,
+    "dracoBytes": 221163,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "hollow-organ-wall",
+    "appearanceStyle": {
+      "color": "#bd8c7b",
+      "roughness": 0.61
+    },
+    "displaySystem": "visceral"
+  },
+  {
+    "id": "ZA_4eefc95da94c9d",
+    "conceptId": "",
+    "nameEn": "Vermiform appendix",
+    "sourceNodeName": "Vermiform appendix",
+    "sourcePath": "VisceralSystem100.fbx/RootNode/Digestive system.g/Digestive canal.g/Large intestine.g/Colon.g/Vermiform appendix",
+    "sourceFile": "VisceralSystem100.fbx",
+    "sourceMaterialNames": [
+      "Intestine"
+    ],
+    "system": "visceral",
+    "meshIds": [
+      "ZA_4eefc95da94c9d"
+    ],
+    "bounds": [
+      [
+        -0.08842348207490773,
+        0.9403676469672152,
+        -0.01636253128152013
+      ],
+      [
+        -0.018863030010579776,
+        0.9584366591903917,
+        0.022642749003103625
+      ]
+    ],
+    "vertices": 223,
+    "triangles": 442,
+    "dracoBytes": 4111,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "hollow-organ-wall",
+    "appearanceStyle": {
+      "color": "#bd8c7b",
+      "roughness": 0.61
+    },
+    "displaySystem": "visceral"
+  },
+  {
+    "id": "ZA_922fc374d403a4",
+    "conceptId": "",
+    "nameEn": "Sigmoid colon",
+    "sourceNodeName": "Sigmoid colon",
+    "sourcePath": "VisceralSystem100.fbx/RootNode/Digestive system.g/Digestive canal.g/Large intestine.g/Colon.g/Sigmoid colon",
+    "sourceFile": "VisceralSystem100.fbx",
+    "sourceMaterialNames": [
+      "Intestine"
+    ],
+    "system": "visceral",
+    "meshIds": [
+      "ZA_922fc374d403a4"
+    ],
+    "bounds": [
+      [
+        -0.02621463137412182,
+        0.8037493443341849,
+        -0.07176436157584255
+      ],
+      [
+        0.035354720245605376,
+        0.9263793160544325,
+        -0.022356154936360437
+      ]
+    ],
+    "vertices": 1716,
+    "triangles": 3432,
+    "dracoBytes": 30309,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "hollow-organ-wall",
+    "appearanceStyle": {
+      "color": "#bd8c7b",
+      "roughness": 0.61
+    },
+    "displaySystem": "visceral"
+  },
+  {
+    "id": "ZA_0346e487ef01e7",
+    "conceptId": "",
+    "nameEn": "Ascending colon",
+    "sourceNodeName": "Ascending colon",
+    "sourcePath": "VisceralSystem100.fbx/RootNode/Digestive system.g/Digestive canal.g/Large intestine.g/Colon.g/Ascending colon",
+    "sourceFile": "VisceralSystem100.fbx",
+    "sourceMaterialNames": [
+      "Intestine"
+    ],
+    "system": "visceral",
+    "meshIds": [
+      "ZA_0346e487ef01e7"
+    ],
+    "bounds": [
+      [
+        -0.11382491110472066,
+        0.9221087509502351,
+        -0.013120988211620981
+      ],
+      [
+        -0.06233624629840184,
+        1.1144891878564358,
+        0.042978145149071556
+      ]
+    ],
+    "vertices": 8758,
+    "triangles": 17512,
+    "dracoBytes": 139868,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "hollow-organ-wall",
+    "appearanceStyle": {
+      "color": "#bd8c7b",
+      "roughness": 0.61
+    },
+    "displaySystem": "visceral"
+  },
+  {
+    "id": "ZA_131fcc6cfdb0ae",
+    "conceptId": "",
+    "nameEn": "Descending colon",
+    "sourceNodeName": "Descending colon",
+    "sourcePath": "VisceralSystem100.fbx/RootNode/Digestive system.g/Digestive canal.g/Large intestine.g/Colon.g/Descending colon",
+    "sourceFile": "VisceralSystem100.fbx",
+    "sourceMaterialNames": [
+      "Intestine"
+    ],
+    "system": "visceral",
+    "meshIds": [
+      "ZA_131fcc6cfdb0ae"
+    ],
+    "bounds": [
+      [
+        -0.018241203058589884,
+        0.8712407733607798,
+        -0.05799055316880468
+      ],
+      [
+        0.11427837265843913,
+        1.1344689782247286,
+        0.035735234978588194
+      ]
+    ],
+    "vertices": 12372,
+    "triangles": 24744,
+    "dracoBytes": 194967,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "hollow-organ-wall",
+    "appearanceStyle": {
+      "color": "#bd8c7b",
+      "roughness": 0.61
+    },
+    "displaySystem": "visceral"
+  },
+  {
+    "id": "ZA_c82d9152540e4e",
+    "conceptId": "",
+    "nameEn": "Transverse colon",
+    "sourceNodeName": "Transverse colon",
+    "sourcePath": "VisceralSystem100.fbx/RootNode/Digestive system.g/Digestive canal.g/Large intestine.g/Colon.g/Transverse colon",
+    "sourceFile": "VisceralSystem100.fbx",
+    "sourceMaterialNames": [
+      "Intestine"
+    ],
+    "system": "visceral",
+    "meshIds": [
+      "ZA_c82d9152540e4e"
+    ],
+    "bounds": [
+      [
+        -0.08729203719456725,
+        1.0667772585025481,
+        0.005984101389930886
+      ],
+      [
+        0.09914313962666363,
+        1.1351406999671898,
+        0.08129074558176373
+      ]
+    ],
+    "vertices": 8308,
+    "triangles": 16616,
+    "dracoBytes": 131913,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "hollow-organ-wall",
+    "appearanceStyle": {
+      "color": "#bd8c7b",
+      "roughness": 0.61
+    },
+    "displaySystem": "visceral"
+  },
+  {
+    "id": "ZA_0621f837d515bb",
+    "conceptId": "",
+    "nameEn": "Free taenia",
+    "sourceNodeName": "Free taenia",
+    "sourcePath": "VisceralSystem100.fbx/RootNode/Digestive system.g/Digestive canal.g/Large intestine.g/Colon.g/Taeniae coli.g/Free taenia",
+    "sourceFile": "VisceralSystem100.fbx",
+    "sourceMaterialNames": [
+      "Ligament"
+    ],
+    "system": "visceral",
+    "meshIds": [
+      "ZA_0621f837d515bb"
+    ],
+    "bounds": [
+      [
+        -0.07356952285411873,
+        0.9181973572253788,
+        -0.041174803507930895
+      ],
+      [
+        0.077559594294929,
+        1.1202377237187426,
+        0.052744555060026704
+      ]
+    ],
+    "vertices": 3358,
+    "triangles": 6712,
+    "dracoBytes": 51639,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "source-preserve",
+    "displaySystem": "visceral"
+  },
+  {
+    "id": "ZA_e4b9cfb43a8d39",
+    "conceptId": "",
+    "nameEn": "Mesocolic taenia",
+    "sourceNodeName": "Mesocolic taenia",
+    "sourcePath": "VisceralSystem100.fbx/RootNode/Digestive system.g/Digestive canal.g/Large intestine.g/Colon.g/Taeniae coli.g/Mesocolic taenia",
+    "sourceFile": "VisceralSystem100.fbx",
+    "sourceMaterialNames": [
+      "Ligament"
+    ],
+    "system": "visceral",
+    "meshIds": [
+      "ZA_e4b9cfb43a8d39"
+    ],
+    "bounds": [
+      [
+        -0.1148960472093997,
+        0.8847166027757681,
+        -0.05496542054283399
+      ],
+      [
+        0.11035192046915464,
+        1.1323490588547926,
+        0.08227690267181405
+      ]
+    ],
+    "vertices": 3398,
+    "triangles": 6792,
+    "dracoBytes": 51980,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "source-preserve",
+    "displaySystem": "visceral"
+  },
+  {
+    "id": "ZA_4697e0d292a01e",
+    "conceptId": "",
+    "nameEn": "Omental taenia",
+    "sourceNodeName": "Omental taenia",
+    "sourcePath": "VisceralSystem100.fbx/RootNode/Digestive system.g/Digestive canal.g/Large intestine.g/Colon.g/Taeniae coli.g/Omental taenia",
+    "sourceFile": "VisceralSystem100.fbx",
+    "sourceMaterialNames": [
+      "Ligament"
+    ],
+    "system": "visceral",
+    "meshIds": [
+      "ZA_4697e0d292a01e"
+    ],
+    "bounds": [
+      [
+        -0.08195328893194102,
+        0.8806009488018708,
+        -0.019937303333586204
+      ],
+      [
+        0.0983332249311397,
+        1.0844465859462995,
+        0.05969140521667553
+      ]
+    ],
+    "vertices": 3118,
+    "triangles": 6232,
+    "dracoBytes": 48195,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "source-preserve",
+    "displaySystem": "visceral"
+  },
+  {
+    "id": "ZA_f23a29a2a3a1ec",
+    "conceptId": "",
+    "nameEn": "Superior mesenteric artery",
+    "sourceNodeName": "Superior mesenteric artery",
+    "sourcePath": "CardioVascular41.fbx/RootNode/Arterial system.g/Systemic arteries.g/Aorta.g/Abdominal aorta/Superior mesenteric artery",
+    "sourceFile": "CardioVascular41.fbx",
+    "sourceMaterialNames": [
+      "Artery"
+    ],
+    "system": "arterial",
+    "meshIds": [
+      "ZA_f23a29a2a3a1ec"
+    ],
+    "bounds": [
+      [
+        -0.07233529460568552,
+        0.983996978981548,
+        0.014048133665574083
+      ],
+      [
+        0.06806259888865065,
+        1.1296251190861373,
+        0.06375224682787627
+      ]
+    ],
+    "vertices": 2624,
+    "triangles": 5076,
+    "dracoBytes": 43946,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "artery",
+    "appearanceStyle": {
+      "color": "#bd4842",
+      "roughness": 0.58
+    },
+    "displaySystem": "arterial"
+  },
+  {
+    "id": "ZA_87fe83238319a6",
+    "conceptId": "",
+    "nameEn": "Ileocolic artery",
+    "sourceNodeName": "Ileocolic artery",
+    "sourcePath": "CardioVascular41.fbx/RootNode/Arterial system.g/Systemic arteries.g/Aorta.g/Abdominal aorta/Superior mesenteric artery/Ileocolic artery",
+    "sourceFile": "CardioVascular41.fbx",
+    "sourceMaterialNames": [
+      "Artery"
+    ],
+    "system": "arterial",
+    "meshIds": [
+      "ZA_87fe83238319a6"
+    ],
+    "bounds": [
+      [
+        -0.031457842807701725,
+        1.0290432256094648,
+        0.0322264118371188
+      ],
+      [
+        -0.005962586130502472,
+        1.0571958660141645,
+        0.04588241669041827
+      ]
+    ],
+    "vertices": 189,
+    "triangles": 354,
+    "dracoBytes": 3483,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "artery",
+    "appearanceStyle": {
+      "color": "#bd4842",
+      "roughness": 0.58
+    },
+    "displaySystem": "arterial"
+  },
+  {
+    "id": "ZA_00d42af6524b4e",
+    "conceptId": "",
+    "nameEn": "Colic branch of ileocolic artery",
+    "sourceNodeName": "Colic branch of ileocolic artery",
+    "sourcePath": "CardioVascular41.fbx/RootNode/Arterial system.g/Systemic arteries.g/Aorta.g/Abdominal aorta/Superior mesenteric artery/Ileocolic artery/Colic branch of ileocolic artery",
+    "sourceFile": "CardioVascular41.fbx",
+    "sourceMaterialNames": [
+      "Artery"
+    ],
+    "system": "arterial",
+    "meshIds": [
+      "ZA_00d42af6524b4e"
+    ],
+    "bounds": [
+      [
+        -0.07392247225612494,
+        1.0320916517152514,
+        0.015326948407030574
+      ],
+      [
+        -0.026405342327996087,
+        1.0657822672149557,
+        0.035793499011359316
+      ]
+    ],
+    "vertices": 602,
+    "triangles": 1180,
+    "dracoBytes": 10557,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "artery",
+    "appearanceStyle": {
+      "color": "#bd4842",
+      "roughness": 0.58
+    },
+    "displaySystem": "arterial"
+  },
+  {
+    "id": "ZA_1ecdcf3f0d7c84",
+    "conceptId": "",
+    "nameEn": "Ileal branch of ileocolic artery",
+    "sourceNodeName": "Ileal branch of ileocolic artery",
+    "sourcePath": "CardioVascular41.fbx/RootNode/Arterial system.g/Systemic arteries.g/Aorta.g/Abdominal aorta/Superior mesenteric artery/Ileocolic artery/Ileal branch of ileocolic artery",
+    "sourceFile": "CardioVascular41.fbx",
+    "sourceMaterialNames": [
+      "Artery"
+    ],
+    "system": "arterial",
+    "meshIds": [
+      "ZA_1ecdcf3f0d7c84"
+    ],
+    "bounds": [
+      [
+        -0.05324578365688582,
+        1.0113972790972419,
+        0.023656386551047452
+      ],
+      [
+        -0.02917861983084992,
+        1.0309781118957178,
+        0.03521416778318654
+      ]
+    ],
+    "vertices": 130,
+    "triangles": 236,
+    "dracoBytes": 2456,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "artery",
+    "appearanceStyle": {
+      "color": "#bd4842",
+      "roughness": 0.58
+    },
+    "displaySystem": "arterial"
+  },
+  {
+    "id": "ZA_05a452c7b17a0a",
+    "conceptId": "",
+    "nameEn": "Appendicular artery",
+    "sourceNodeName": "Appendicular artery",
+    "sourcePath": "CardioVascular41.fbx/RootNode/Arterial system.g/Systemic arteries.g/Aorta.g/Abdominal aorta/Superior mesenteric artery/Ileocolic artery/Appendicular artery",
+    "sourceFile": "CardioVascular41.fbx",
+    "sourceMaterialNames": [
+      "Artery"
+    ],
+    "system": "arterial",
+    "meshIds": [
+      "ZA_05a452c7b17a0a"
+    ],
+    "bounds": [
+      [
+        -0.055782491252423544,
+        0.9475610800316082,
+        -0.01116795087780198
+      ],
+      [
+        -0.021887913683734897,
+        1.0129459711747004,
+        0.026042039372610303
+      ]
+    ],
+    "vertices": 1063,
+    "triangles": 2006,
+    "dracoBytes": 18245,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "artery",
+    "appearanceStyle": {
+      "color": "#bd4842",
+      "roughness": 0.58
+    },
+    "displaySystem": "arterial"
+  },
+  {
+    "id": "ZA_f95c73abe3b64a",
+    "conceptId": "",
+    "nameEn": "Marginal artery",
+    "sourceNodeName": "Marginal artery",
+    "sourcePath": "CardioVascular41.fbx/RootNode/Arterial system.g/Systemic arteries.g/Aorta.g/Abdominal aorta/Superior mesenteric artery/Marginal artery",
+    "sourceFile": "CardioVascular41.fbx",
+    "sourceMaterialNames": [
+      "Artery"
+    ],
+    "system": "arterial",
+    "meshIds": [
+      "ZA_f95c73abe3b64a"
+    ],
+    "bounds": [
+      [
+        -0.07128116223273802,
+        1.0062584512634904,
+        0.005041793840581277
+      ],
+      [
+        0.06487381926352125,
+        1.1405287195125675,
+        0.026045934534152573
+      ]
+    ],
+    "vertices": 2008,
+    "triangles": 3896,
+    "dracoBytes": 33634,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "artery",
+    "appearanceStyle": {
+      "color": "#bd4842",
+      "roughness": 0.58
+    },
+    "displaySystem": "arterial"
+  },
+  {
+    "id": "ZA_4a205da0da49e4",
+    "conceptId": "",
+    "nameEn": "Right colic artery",
+    "sourceNodeName": "Right colic artery",
+    "sourcePath": "CardioVascular41.fbx/RootNode/Arterial system.g/Systemic arteries.g/Aorta.g/Abdominal aorta/Superior mesenteric artery/Right colic artery",
+    "sourceFile": "CardioVascular41.fbx",
+    "sourceMaterialNames": [
+      "Artery"
+    ],
+    "system": "arterial",
+    "meshIds": [
+      "ZA_4a205da0da49e4"
+    ],
+    "bounds": [
+      [
+        -0.06885432369428743,
+        1.06034363572501,
+        0.0206464430358044
+      ],
+      [
+        -0.0071072076687931675,
+        1.0902880102397239,
+        0.051635033221906906
+      ]
+    ],
+    "vertices": 673,
+    "triangles": 1298,
+    "dracoBytes": 11777,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "artery",
+    "appearanceStyle": {
+      "color": "#bd4842",
+      "roughness": 0.58
+    },
+    "displaySystem": "arterial"
+  },
+  {
+    "id": "ZA_7e768a5ede1c63",
+    "conceptId": "",
+    "nameEn": "Inferior pancreaticoduodenal artery",
+    "sourceNodeName": "Inferior pancreaticoduodenal artery",
+    "sourcePath": "CardioVascular41.fbx/RootNode/Arterial system.g/Systemic arteries.g/Aorta.g/Abdominal aorta/Superior mesenteric artery/Inferior pancreaticoduodenal artery",
+    "sourceFile": "CardioVascular41.fbx",
+    "sourceMaterialNames": [
+      "Artery"
+    ],
+    "system": "arterial",
+    "meshIds": [
+      "ZA_7e768a5ede1c63"
+    ],
+    "bounds": [
+      [
+        -0.007877088746200191,
+        1.1049545803908545,
+        0.035364708705386806
+      ],
+      [
+        -0.0013884075771420906,
+        1.1076270296072153,
+        0.04555407161613363
+      ]
+    ],
+    "vertices": 130,
+    "triangles": 236,
+    "dracoBytes": 2462,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "artery",
+    "appearanceStyle": {
+      "color": "#bd4842",
+      "roughness": 0.58
+    },
+    "displaySystem": "arterial"
+  },
+  {
+    "id": "ZA_a9eb87c2e4d6c7",
+    "conceptId": "",
+    "nameEn": "Anterior inferior pancreaticoduodenal artery",
+    "sourceNodeName": "Anterior inferior pancreaticoduodenal artery",
+    "sourcePath": "CardioVascular41.fbx/RootNode/Arterial system.g/Systemic arteries.g/Aorta.g/Abdominal aorta/Superior mesenteric artery/Inferior pancreaticoduodenal artery/Anterior inferior pancreaticoduodenal artery",
+    "sourceFile": "CardioVascular41.fbx",
+    "sourceMaterialNames": [
+      "Artery"
+    ],
+    "system": "arterial",
+    "meshIds": [
+      "ZA_a9eb87c2e4d6c7"
+    ],
+    "bounds": [
+      [
+        -0.06818801453628547,
+        1.0979612716438516,
+        0.021708926349132306
+      ],
+      [
+        0.062382898280401625,
+        1.1400089438969057,
+        0.08155448422106147
+      ]
+    ],
+    "vertices": 1866,
+    "triangles": 3660,
+    "dracoBytes": 31441,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "artery",
+    "appearanceStyle": {
+      "color": "#bd4842",
+      "roughness": 0.58
+    },
+    "displaySystem": "arterial"
+  },
+  {
+    "id": "ZA_ec46aa019b5338",
+    "conceptId": "",
+    "nameEn": "Middle colic artery",
+    "sourceNodeName": "Middle colic artery",
+    "sourcePath": "CardioVascular41.fbx/RootNode/Arterial system.g/Systemic arteries.g/Aorta.g/Abdominal aorta/Superior mesenteric artery/Middle colic artery",
+    "sourceFile": "CardioVascular41.fbx",
+    "sourceMaterialNames": [
+      "Artery"
+    ],
+    "system": "arterial",
+    "meshIds": [
+      "ZA_ec46aa019b5338"
+    ],
+    "bounds": [
+      [
+        -0.06743265044972657,
+        1.082477821374352,
+        0.022742076913405657
+      ],
+      [
+        -0.005661828539064801,
+        1.1138622650671997,
+        0.05053405848186193
+      ]
+    ],
+    "vertices": 496,
+    "triangles": 944,
+    "dracoBytes": 8840,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "artery",
+    "appearanceStyle": {
+      "color": "#bd4842",
+      "roughness": 0.58
+    },
+    "displaySystem": "arterial"
+  },
+  {
+    "id": "ZA_841c1766aa0b9a",
+    "conceptId": "",
+    "nameEn": "Inferior mesenteric artery",
+    "sourceNodeName": "Inferior mesenteric artery",
+    "sourcePath": "CardioVascular41.fbx/RootNode/Arterial system.g/Systemic arteries.g/Aorta.g/Abdominal aorta/Inferior mesenteric artery",
+    "sourceFile": "CardioVascular41.fbx",
+    "sourceMaterialNames": [
+      "Artery"
+    ],
+    "system": "arterial",
+    "meshIds": [
+      "ZA_841c1766aa0b9a"
+    ],
+    "bounds": [
+      [
+        0.004283818003181031,
+        0.9740672689087855,
+        0.015523565733252198
+      ],
+      [
+        0.01861373175466271,
+        1.061480357840942,
+        0.03818324366004117
+      ]
+    ],
+    "vertices": 366,
+    "triangles": 708,
+    "dracoBytes": 6505,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "artery",
+    "appearanceStyle": {
+      "color": "#bd4842",
+      "roughness": 0.58
+    },
+    "displaySystem": "arterial"
+  },
+  {
+    "id": "ZA_5a56650e84c0f9",
+    "conceptId": "",
+    "nameEn": "Left colic artery",
+    "sourceNodeName": "Left colic artery",
+    "sourcePath": "CardioVascular41.fbx/RootNode/Arterial system.g/Systemic arteries.g/Aorta.g/Abdominal aorta/Inferior mesenteric artery/Left colic artery",
+    "sourceFile": "CardioVascular41.fbx",
+    "sourceMaterialNames": [
+      "Artery"
+    ],
+    "system": "arterial",
+    "meshIds": [
+      "ZA_5a56650e84c0f9"
+    ],
+    "bounds": [
+      [
+        0.013343325072314359,
+        1.046503847243199,
+        0.02917436484812911
+      ],
+      [
+        0.032081004698923436,
+        1.0541436791403966,
+        0.03866613094660984
+      ]
+    ],
+    "vertices": 189,
+    "triangles": 354,
+    "dracoBytes": 3508,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "artery",
+    "appearanceStyle": {
+      "color": "#bd4842",
+      "roughness": 0.58
+    },
+    "displaySystem": "arterial"
+  },
+  {
+    "id": "ZA_e68345170abf13",
+    "conceptId": "",
+    "nameEn": "Descending branch of left colic artery",
+    "sourceNodeName": "Descending branch of left colic artery",
+    "sourcePath": "CardioVascular41.fbx/RootNode/Arterial system.g/Systemic arteries.g/Aorta.g/Abdominal aorta/Inferior mesenteric artery/Left colic artery/Descending branch of left colic artery",
+    "sourceFile": "CardioVascular41.fbx",
+    "sourceMaterialNames": [
+      "Artery"
+    ],
+    "system": "arterial",
+    "meshIds": [
+      "ZA_e68345170abf13"
+    ],
+    "bounds": [
+      [
+        0.02868723631545373,
+        1.0076547297352505,
+        0.012725433238957829
+      ],
+      [
+        0.0690207128340471,
+        1.0558493326473681,
+        0.03152009302495826
+      ]
+    ],
+    "vertices": 614,
+    "triangles": 1180,
+    "dracoBytes": 10806,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "artery",
+    "appearanceStyle": {
+      "color": "#bd4842",
+      "roughness": 0.58
+    },
+    "displaySystem": "arterial"
+  },
+  {
+    "id": "ZA_926ffba1cf1d76",
+    "conceptId": "",
+    "nameEn": "Ascending branch of left colic artery",
+    "sourceNodeName": "Ascending branch of left colic artery",
+    "sourcePath": "CardioVascular41.fbx/RootNode/Arterial system.g/Systemic arteries.g/Aorta.g/Abdominal aorta/Inferior mesenteric artery/Left colic artery/Ascending branch of left colic artery",
+    "sourceFile": "CardioVascular41.fbx",
+    "sourceMaterialNames": [
+      "Artery"
+    ],
+    "system": "arterial",
+    "meshIds": [
+      "ZA_926ffba1cf1d76"
+    ],
+    "bounds": [
+      [
+        0.030468165385880687,
+        1.0516333608232946,
+        0.016353298224951938
+      ],
+      [
+        0.054976058069146676,
+        1.1043482535948987,
+        0.031689450051507466
+      ]
+    ],
+    "vertices": 366,
+    "triangles": 708,
+    "dracoBytes": 6474,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "artery",
+    "appearanceStyle": {
+      "color": "#bd4842",
+      "roughness": 0.58
+    },
+    "displaySystem": "arterial"
+  },
+  {
+    "id": "ZA_77594035d16e3f",
+    "conceptId": "",
+    "nameEn": "Sigmoid arteries",
+    "sourceNodeName": "Sigmoid arteries",
+    "sourcePath": "CardioVascular41.fbx/RootNode/Arterial system.g/Systemic arteries.g/Aorta.g/Abdominal aorta/Inferior mesenteric artery/Sigmoid arteries",
+    "sourceFile": "CardioVascular41.fbx",
+    "sourceMaterialNames": [
+      "Artery"
+    ],
+    "system": "arterial",
+    "meshIds": [
+      "ZA_77594035d16e3f"
+    ],
+    "bounds": [
+      [
+        0.004535269048477386,
+        0.9511756688476141,
+        0.014355347670480252
+      ],
+      [
+        0.0705826628182094,
+        1.0384579787507169,
+        0.0362832658811139
+      ]
+    ],
+    "vertices": 1890,
+    "triangles": 3660,
+    "dracoBytes": 32351,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "artery",
+    "appearanceStyle": {
+      "color": "#bd4842",
+      "roughness": 0.58
+    },
+    "displaySystem": "arterial"
+  },
+  {
+    "id": "ZA_f63492d9f57dab",
+    "conceptId": "",
+    "nameEn": "Superior anorectal artery",
+    "sourceNodeName": "Superior anorectal artery",
+    "sourcePath": "CardioVascular41.fbx/RootNode/Arterial system.g/Systemic arteries.g/Aorta.g/Abdominal aorta/Inferior mesenteric artery/Superior anorectal artery",
+    "sourceFile": "CardioVascular41.fbx",
+    "sourceMaterialNames": [
+      "Artery"
+    ],
+    "system": "arterial",
+    "meshIds": [
+      "ZA_f63492d9f57dab"
+    ],
+    "bounds": [
+      [
+        -0.024946369613766076,
+        0.8291721999740568,
+        -0.05412938459614106
+      ],
+      [
+        0.006269578904092137,
+        0.9748555212566867,
+        0.01712933498398369
+      ]
+    ],
+    "vertices": 483,
+    "triangles": 944,
+    "dracoBytes": 8473,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "artery",
+    "appearanceStyle": {
+      "color": "#bd4842",
+      "roughness": 0.58
+    },
+    "displaySystem": "arterial"
+  },
+  {
+    "id": "ZA_01c71d94edd190",
+    "conceptId": "",
+    "nameEn": "Hepatic portal vein",
+    "sourceNodeName": "Hepatic portal vein",
+    "sourcePath": "CardioVascular41.fbx/RootNode/Venous system.g/Systemic veins.g/Hepatic portal vein",
+    "sourceFile": "CardioVascular41.fbx",
+    "sourceMaterialNames": [
+      "Vein"
+    ],
+    "system": "venous",
+    "meshIds": [
+      "ZA_01c71d94edd190"
+    ],
+    "bounds": [
+      [
+        -0.010120400644146385,
+        1.147591085972827,
+        0.027603572624386376
+      ],
+      [
+        -0.0012514212218605403,
+        1.1987920719514886,
+        0.033251066106757814
+      ]
+    ],
+    "vertices": 130,
+    "triangles": 236,
+    "dracoBytes": 2446,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "vein",
+    "appearanceStyle": {
+      "color": "#527698",
+      "roughness": 0.56
+    },
+    "displaySystem": "venous"
+  },
+  {
+    "id": "ZA_4aa0606a2626d4",
+    "conceptId": "",
+    "nameEn": "Superior mesenteric vein",
+    "sourceNodeName": "Superior mesenteric vein",
+    "sourcePath": "CardioVascular41.fbx/RootNode/Venous system.g/Systemic veins.g/Hepatic portal vein.g/Tributaries of hepatic portal vein.g/Superior mesenteric vein",
+    "sourceFile": "CardioVascular41.fbx",
+    "sourceMaterialNames": [
+      "Vein"
+    ],
+    "system": "venous",
+    "meshIds": [
+      "ZA_4aa0606a2626d4"
+    ],
+    "bounds": [
+      [
+        -0.06237429766519673,
+        0.9852883303322311,
+        0.012616523272878639
+      ],
+      [
+        0.002357660756806488,
+        1.1481324238370778,
+        0.05368682237747198
+      ]
+    ],
+    "vertices": 1192,
+    "triangles": 2360,
+    "dracoBytes": 20222,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "vein",
+    "appearanceStyle": {
+      "color": "#527698",
+      "roughness": 0.56
+    },
+    "displaySystem": "venous"
+  },
+  {
+    "id": "ZA_b1139d2bc8922b",
+    "conceptId": "",
+    "nameEn": "Middle colic vein",
+    "sourceNodeName": "Middle colic vein",
+    "sourcePath": "CardioVascular41.fbx/RootNode/Venous system.g/Systemic veins.g/Hepatic portal vein.g/Tributaries of hepatic portal vein.g/Superior mesenteric vein/Middle colic vein",
+    "sourceFile": "CardioVascular41.fbx",
+    "sourceMaterialNames": [
+      "Vein"
+    ],
+    "system": "venous",
+    "meshIds": [
+      "ZA_b1139d2bc8922b"
+    ],
+    "bounds": [
+      [
+        -0.06849712546881567,
+        1.060250465908869,
+        0.018826779512923882
+      ],
+      [
+        -0.011901845897612798,
+        1.1139249328892122,
+        0.04673733179718477
+      ]
+    ],
+    "vertices": 1157,
+    "triangles": 2242,
+    "dracoBytes": 20222,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "vein",
+    "appearanceStyle": {
+      "color": "#527698",
+      "roughness": 0.56
+    },
+    "displaySystem": "venous"
+  },
+  {
+    "id": "ZA_76bbd35c754f86",
+    "conceptId": "",
+    "nameEn": "Right colic vein",
+    "sourceNodeName": "Right colic vein",
+    "sourcePath": "CardioVascular41.fbx/RootNode/Venous system.g/Systemic veins.g/Hepatic portal vein.g/Tributaries of hepatic portal vein.g/Superior mesenteric vein/Right colic vein",
+    "sourceFile": "CardioVascular41.fbx",
+    "sourceMaterialNames": [
+      "Vein"
+    ],
+    "system": "venous",
+    "meshIds": [
+      "ZA_76bbd35c754f86"
+    ],
+    "bounds": [
+      [
+        -0.07391405450148097,
+        1.0063535620486428,
+        0.013533938334501177
+      ],
+      [
+        -0.026492936931030844,
+        1.073411488561626,
+        0.03196360076577089
+      ]
+    ],
+    "vertices": 1216,
+    "triangles": 2360,
+    "dracoBytes": 20779,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "vein",
+    "appearanceStyle": {
+      "color": "#527698",
+      "roughness": 0.56
+    },
+    "displaySystem": "venous"
+  },
+  {
+    "id": "ZA_673937074ca284",
+    "conceptId": "",
+    "nameEn": "Right gastro-omental vein",
+    "sourceNodeName": "Right gastro-omental vein",
+    "sourcePath": "CardioVascular41.fbx/RootNode/Venous system.g/Systemic veins.g/Hepatic portal vein.g/Tributaries of hepatic portal vein.g/Superior mesenteric vein/Right gastro-omental vein",
+    "sourceFile": "CardioVascular41.fbx",
+    "sourceMaterialNames": [
+      "Vein"
+    ],
+    "system": "venous",
+    "meshIds": [
+      "ZA_673937074ca284"
+    ],
+    "bounds": [
+      [
+        -0.06660097497387583,
+        1.0905591536592425,
+        0.021287896144273854
+      ],
+      [
+        0.036230490158575004,
+        1.1346800624184397,
+        0.07992131039216378
+      ]
+    ],
+    "vertices": 1381,
+    "triangles": 2714,
+    "dracoBytes": 23510,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "vein",
+    "appearanceStyle": {
+      "color": "#527698",
+      "roughness": 0.56
+    },
+    "displaySystem": "venous"
+  },
+  {
+    "id": "ZA_bfd3e1ce2d20b2",
+    "conceptId": "",
+    "nameEn": "Splenic vein",
+    "sourceNodeName": "Splenic vein",
+    "sourcePath": "CardioVascular41.fbx/RootNode/Venous system.g/Systemic veins.g/Hepatic portal vein.g/Tributaries of hepatic portal vein.g/Splenic vein",
+    "sourceFile": "CardioVascular41.fbx",
+    "sourceMaterialNames": [
+      "Vein"
+    ],
+    "system": "venous",
+    "meshIds": [
+      "ZA_bfd3e1ce2d20b2"
+    ],
+    "bounds": [
+      [
+        -0.005882634195954273,
+        1.1441652597378968,
+        -0.008920748286427168
+      ],
+      [
+        0.10023748383138027,
+        1.1692090500399623,
+        0.0395034377099183
+      ]
+    ],
+    "vertices": 2032,
+    "triangles": 3896,
+    "dracoBytes": 34037,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "vein",
+    "appearanceStyle": {
+      "color": "#527698",
+      "roughness": 0.56
+    },
+    "displaySystem": "venous"
+  },
+  {
+    "id": "ZA_57c438a096f74e",
+    "conceptId": "",
+    "nameEn": "Left gastro-omental vein",
+    "sourceNodeName": "Left gastro-omental vein",
+    "sourcePath": "CardioVascular41.fbx/RootNode/Venous system.g/Systemic veins.g/Hepatic portal vein.g/Tributaries of hepatic portal vein.g/Splenic vein/Left gastro-omental vein",
+    "sourceFile": "CardioVascular41.fbx",
+    "sourceMaterialNames": [
+      "Vein"
+    ],
+    "system": "venous",
+    "meshIds": [
+      "ZA_57c438a096f74e"
+    ],
+    "bounds": [
+      [
+        0.034903011830730565,
+        1.1171199054146013,
+        0.008552158434119193
+      ],
+      [
+        0.08626124826391923,
+        1.1599532778508124,
+        0.06432402956716952
+      ]
+    ],
+    "vertices": 543,
+    "triangles": 1062,
+    "dracoBytes": 9495,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "vein",
+    "appearanceStyle": {
+      "color": "#527698",
+      "roughness": 0.56
+    },
+    "displaySystem": "venous"
+  },
+  {
+    "id": "ZA_3d361482fc7dff",
+    "conceptId": "",
+    "nameEn": "Inferior mesenteric vein",
+    "sourceNodeName": "Inferior mesenteric vein",
+    "sourcePath": "CardioVascular41.fbx/RootNode/Venous system.g/Systemic veins.g/Hepatic portal vein.g/Tributaries of hepatic portal vein.g/Splenic vein/Inferior mesenteric vein",
+    "sourceFile": "CardioVascular41.fbx",
+    "sourceMaterialNames": [
+      "Vein"
+    ],
+    "system": "venous",
+    "meshIds": [
+      "ZA_3d361482fc7dff"
+    ],
+    "bounds": [
+      [
+        0.004017183653733252,
+        0.9734991706874263,
+        0.013870557656082517
+      ],
+      [
+        0.03420229959542681,
+        1.1491979248591084,
+        0.037259557224370014
+      ]
+    ],
+    "vertices": 425,
+    "triangles": 826,
+    "dracoBytes": 7481,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "vein",
+    "appearanceStyle": {
+      "color": "#527698",
+      "roughness": 0.56
+    },
+    "displaySystem": "venous"
+  },
+  {
+    "id": "ZA_f80b5f090b31d2",
+    "conceptId": "",
+    "nameEn": "Sigmoid veins",
+    "sourceNodeName": "Sigmoid veins",
+    "sourcePath": "CardioVascular41.fbx/RootNode/Venous system.g/Systemic veins.g/Hepatic portal vein.g/Tributaries of hepatic portal vein.g/Splenic vein/Inferior mesenteric vein/Sigmoid veins",
+    "sourceFile": "CardioVascular41.fbx",
+    "sourceMaterialNames": [
+      "Vein"
+    ],
+    "system": "venous",
+    "meshIds": [
+      "ZA_f80b5f090b31d2"
+    ],
+    "bounds": [
+      [
+        0.004754701758831175,
+        0.9506965768835998,
+        0.012835843997062142
+      ],
+      [
+        0.0706138306300542,
+        1.0386834294285263,
+        0.03620779071943437
+      ]
+    ],
+    "vertices": 1890,
+    "triangles": 3660,
+    "dracoBytes": 32316,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "vein",
+    "appearanceStyle": {
+      "color": "#527698",
+      "roughness": 0.56
+    },
+    "displaySystem": "venous"
+  },
+  {
+    "id": "ZA_2e38bc8b4196f9",
+    "conceptId": "",
+    "nameEn": "Paracolic superior mesenteric nodes",
+    "sourceNodeName": "Paracolic superior mesenteric nodes",
+    "sourcePath": "LymphoidOrgans100.fbx/RootNode/Secondary lymphoid organs.g/Lymph nodes.g/Abdominal lymph nodes.g/Visceral abdominal lymph nodes.g/Superior mesenteric nodes.g/Paracolic superior mesenteric nodes",
+    "sourceFile": "LymphoidOrgans100.fbx",
+    "sourceMaterialNames": [
+      "Lymph-6"
+    ],
+    "system": "lymphatic",
+    "meshIds": [
+      "ZA_2e38bc8b4196f9"
+    ],
+    "bounds": [
+      [
+        -0.0806129410627392,
+        0.9220839272512955,
+        0.001596923405022257
+      ],
+      [
+        0.09877505335352542,
+        1.078957579332596,
+        0.07321307720109105
+      ]
+    ],
+    "vertices": 1462,
+    "triangles": 2856,
+    "dracoBytes": 23553,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "lymphatic",
+    "appearanceStyle": {
+      "color": "#8caa75",
+      "roughness": 0.68
+    },
+    "displaySystem": "lymphatic"
+  },
+  {
+    "id": "ZA_e0b7c6631b26ca",
+    "conceptId": "",
+    "nameEn": "Central superior mesenteric nodes",
+    "sourceNodeName": "Central superior mesenteric nodes",
+    "sourcePath": "LymphoidOrgans100.fbx/RootNode/Secondary lymphoid organs.g/Lymph nodes.g/Abdominal lymph nodes.g/Visceral abdominal lymph nodes.g/Superior mesenteric nodes.g/Central superior mesenteric nodes",
+    "sourceFile": "LymphoidOrgans100.fbx",
+    "sourceMaterialNames": [
+      "Lymph-2"
+    ],
+    "system": "lymphatic",
+    "meshIds": [
+      "ZA_e0b7c6631b26ca"
+    ],
+    "bounds": [
+      [
+        -0.009007105347075337,
+        1.0487025198725695,
+        0.04742275941043232
+      ],
+      [
+        -0.006439953363300008,
+        1.0977358550051834,
+        0.05456297591306855
+      ]
+    ],
+    "vertices": 258,
+    "triangles": 504,
+    "dracoBytes": 4479,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "lymphatic",
+    "appearanceStyle": {
+      "color": "#8caa75",
+      "roughness": 0.68
+    },
+    "displaySystem": "lymphatic"
+  },
+  {
+    "id": "ZA_318948e8b69c44",
+    "conceptId": "",
+    "nameEn": "Ileocolic nodes",
+    "sourceNodeName": "Ileocolic nodes",
+    "sourcePath": "LymphoidOrgans100.fbx/RootNode/Secondary lymphoid organs.g/Lymph nodes.g/Abdominal lymph nodes.g/Visceral abdominal lymph nodes.g/Superior mesenteric nodes.g/Ileocolic nodes",
+    "sourceFile": "LymphoidOrgans100.fbx",
+    "sourceMaterialNames": [
+      "Lymph-7"
+    ],
+    "system": "lymphatic",
+    "meshIds": [
+      "ZA_318948e8b69c44"
+    ],
+    "bounds": [
+      [
+        -0.0093085297628038,
+        1.104310646381826,
+        0.022069078755470976
+      ],
+      [
+        -0.001031069112975692,
+        1.1216464850475665,
+        0.028613223221254952
+      ]
+    ],
+    "vertices": 172,
+    "triangles": 336,
+    "dracoBytes": 3121,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "lymphatic",
+    "appearanceStyle": {
+      "color": "#8caa75",
+      "roughness": 0.68
+    },
+    "displaySystem": "lymphatic"
+  },
+  {
+    "id": "ZA_0ce2b6e767db7b",
+    "conceptId": "",
+    "nameEn": "Precaecal nodes",
+    "sourceNodeName": "Precaecal nodes",
+    "sourcePath": "LymphoidOrgans100.fbx/RootNode/Secondary lymphoid organs.g/Lymph nodes.g/Abdominal lymph nodes.g/Visceral abdominal lymph nodes.g/Superior mesenteric nodes.g/Precaecal nodes",
+    "sourceFile": "LymphoidOrgans100.fbx",
+    "sourceMaterialNames": [
+      "Lymph-1"
+    ],
+    "system": "lymphatic",
+    "meshIds": [
+      "ZA_0ce2b6e767db7b"
+    ],
+    "bounds": [
+      [
+        -0.08250760540557431,
+        0.9585383020513565,
+        0.03939957030084617
+      ],
+      [
+        -0.07658837203963523,
+        0.9677213450632203,
+        0.04205606434182002
+      ]
+    ],
+    "vertices": 172,
+    "triangles": 336,
+    "dracoBytes": 3183,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "lymphatic",
+    "appearanceStyle": {
+      "color": "#8caa75",
+      "roughness": 0.68
+    },
+    "displaySystem": "lymphatic"
+  },
+  {
+    "id": "ZA_9a40d49059188b",
+    "conceptId": "",
+    "nameEn": "Retrocaecal nodes",
+    "sourceNodeName": "Retrocaecal nodes",
+    "sourcePath": "LymphoidOrgans100.fbx/RootNode/Secondary lymphoid organs.g/Lymph nodes.g/Abdominal lymph nodes.g/Visceral abdominal lymph nodes.g/Superior mesenteric nodes.g/Retrocaecal nodes",
+    "sourceFile": "LymphoidOrgans100.fbx",
+    "sourceMaterialNames": [
+      "Lymph-7"
+    ],
+    "system": "lymphatic",
+    "meshIds": [
+      "ZA_9a40d49059188b"
+    ],
+    "bounds": [
+      [
+        -0.0640037703104589,
+        0.9474560070405634,
+        -0.0003322794255085526
+      ],
+      [
+        -0.052667295078715544,
+        0.9566390494076522,
+        0.0067105858540367855
+      ]
+    ],
+    "vertices": 258,
+    "triangles": 504,
+    "dracoBytes": 4689,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "lymphatic",
+    "appearanceStyle": {
+      "color": "#8caa75",
+      "roughness": 0.68
+    },
+    "displaySystem": "lymphatic"
+  },
+  {
+    "id": "ZA_feb117702045eb",
+    "conceptId": "",
+    "nameEn": "Appendicular nodes",
+    "sourceNodeName": "Appendicular nodes",
+    "sourcePath": "LymphoidOrgans100.fbx/RootNode/Secondary lymphoid organs.g/Lymph nodes.g/Abdominal lymph nodes.g/Visceral abdominal lymph nodes.g/Superior mesenteric nodes.g/Appendicular nodes",
+    "sourceFile": "LymphoidOrgans100.fbx",
+    "sourceMaterialNames": [
+      "Lymph-4"
+    ],
+    "system": "lymphatic",
+    "meshIds": [
+      "ZA_feb117702045eb"
+    ],
+    "bounds": [
+      [
+        -0.057682970896057284,
+        0.9551224101797439,
+        0.009983141411523604
+      ],
+      [
+        -0.03907578456009972,
+        0.9788370545780178,
+        0.0183594371624371
+      ]
+    ],
+    "vertices": 258,
+    "triangles": 504,
+    "dracoBytes": 4587,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "lymphatic",
+    "appearanceStyle": {
+      "color": "#8caa75",
+      "roughness": 0.68
+    },
+    "displaySystem": "lymphatic"
+  },
+  {
+    "id": "ZA_48016fbbd40880",
+    "conceptId": "",
+    "nameEn": "Juxta-intestinal mesenteric nodes",
+    "sourceNodeName": "Juxta-intestinal mesenteric nodes",
+    "sourcePath": "LymphoidOrgans100.fbx/RootNode/Secondary lymphoid organs.g/Lymph nodes.g/Abdominal lymph nodes.g/Visceral abdominal lymph nodes.g/Superior mesenteric nodes.g/Juxta-intestinal mesenteric nodes",
+    "sourceFile": "LymphoidOrgans100.fbx",
+    "sourceMaterialNames": [
+      "Lymph-5"
+    ],
+    "system": "lymphatic",
+    "meshIds": [
+      "ZA_48016fbbd40880"
+    ],
+    "bounds": [
+      [
+        -0.06771218207152636,
+        0.9140247863321384,
+        0.042128033946427355
+      ],
+      [
+        0.07573044387205086,
+        1.0616443992476565,
+        0.07338567159843486
+      ]
+    ],
+    "vertices": 1290,
+    "triangles": 2520,
+    "dracoBytes": 20976,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "lymphatic",
+    "appearanceStyle": {
+      "color": "#8caa75",
+      "roughness": 0.68
+    },
+    "displaySystem": "lymphatic"
+  },
+  {
+    "id": "ZA_d8424882fe5df7",
+    "conceptId": "",
+    "nameEn": "Middle colic nodes",
+    "sourceNodeName": "Middle colic nodes",
+    "sourcePath": "LymphoidOrgans100.fbx/RootNode/Secondary lymphoid organs.g/Lymph nodes.g/Abdominal lymph nodes.g/Visceral abdominal lymph nodes.g/Superior mesenteric nodes.g/Middle colic nodes",
+    "sourceFile": "LymphoidOrgans100.fbx",
+    "sourceMaterialNames": [
+      "Lymph-4"
+    ],
+    "system": "lymphatic",
+    "meshIds": [
+      "ZA_d8424882fe5df7"
+    ],
+    "bounds": [
+      [
+        -0.06043513376535128,
+        1.0990209053852396,
+        0.022090214246349004
+      ],
+      [
+        -0.02045713983815018,
+        1.1131070286975209,
+        0.04805262541490137
+      ]
+    ],
+    "vertices": 258,
+    "triangles": 504,
+    "dracoBytes": 4515,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "lymphatic",
+    "appearanceStyle": {
+      "color": "#8caa75",
+      "roughness": 0.68
+    },
+    "displaySystem": "lymphatic"
+  },
+  {
+    "id": "ZA_b746fdbdd3411f",
+    "conceptId": "",
+    "nameEn": "Right colic nodes",
+    "sourceNodeName": "Right colic nodes",
+    "sourcePath": "LymphoidOrgans100.fbx/RootNode/Secondary lymphoid organs.g/Lymph nodes.g/Abdominal lymph nodes.g/Visceral abdominal lymph nodes.g/Superior mesenteric nodes.g/Right colic nodes",
+    "sourceFile": "LymphoidOrgans100.fbx",
+    "sourceMaterialNames": [
+      "Lymph-1"
+    ],
+    "system": "lymphatic",
+    "meshIds": [
+      "ZA_b746fdbdd3411f"
+    ],
+    "bounds": [
+      [
+        -0.05516182476829485,
+        1.1011764724848645,
+        0.030196390545378288
+      ],
+      [
+        -0.0205730841661628,
+        1.112165751672822,
+        0.05167870901798524
+      ]
+    ],
+    "vertices": 258,
+    "triangles": 504,
+    "dracoBytes": 4534,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "lymphatic",
+    "appearanceStyle": {
+      "color": "#8caa75",
+      "roughness": 0.68
+    },
+    "displaySystem": "lymphatic"
+  },
+  {
+    "id": "ZA_960cbc65727af1",
+    "conceptId": "",
+    "nameEn": "Left colic nodes",
+    "sourceNodeName": "Left colic nodes",
+    "sourcePath": "LymphoidOrgans100.fbx/RootNode/Secondary lymphoid organs.g/Lymph nodes.g/Abdominal lymph nodes.g/Visceral abdominal lymph nodes.g/Inferior mesenteric nodes.g/Left colic nodes",
+    "sourceFile": "LymphoidOrgans100.fbx",
+    "sourceMaterialNames": [
+      "Lymph-4"
+    ],
+    "system": "lymphatic",
+    "meshIds": [
+      "ZA_960cbc65727af1"
+    ],
+    "bounds": [
+      [
+        0.039266364460882996,
+        1.0581743159841226,
+        0.01783429881633274
+      ],
+      [
+        0.04937086653136821,
+        1.091298136004566,
+        0.029344570613027917
+      ]
+    ],
+    "vertices": 258,
+    "triangles": 504,
+    "dracoBytes": 4546,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "lymphatic",
+    "appearanceStyle": {
+      "color": "#8caa75",
+      "roughness": 0.68
+    },
+    "displaySystem": "lymphatic"
+  },
+  {
+    "id": "ZA_ef1005f3803930",
+    "conceptId": "",
+    "nameEn": "Sigmoid nodes",
+    "sourceNodeName": "Sigmoid nodes",
+    "sourcePath": "LymphoidOrgans100.fbx/RootNode/Secondary lymphoid organs.g/Lymph nodes.g/Abdominal lymph nodes.g/Visceral abdominal lymph nodes.g/Inferior mesenteric nodes.g/Sigmoid nodes",
+    "sourceFile": "LymphoidOrgans100.fbx",
+    "sourceMaterialNames": [
+      "Lymph-1"
+    ],
+    "system": "lymphatic",
+    "meshIds": [
+      "ZA_ef1005f3803930"
+    ],
+    "bounds": [
+      [
+        0.023520122010499803,
+        0.9533756649991824,
+        -0.023710823936239276
+      ],
+      [
+        0.05367934682015638,
+        1.0250721187617757,
+        0.027239176448549337
+      ]
+    ],
+    "vertices": 516,
+    "triangles": 1008,
+    "dracoBytes": 8692,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "lymphatic",
+    "appearanceStyle": {
+      "color": "#8caa75",
+      "roughness": 0.68
+    },
+    "displaySystem": "lymphatic"
+  }
+]

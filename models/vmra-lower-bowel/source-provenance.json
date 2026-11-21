@@ -1,0 +1,144 @@
+{
+  "classification": "source-derived anatomical adjustment",
+  "sourcePins": [
+    {
+      "path": "anatomy-research/unified-body-v41/intestinal-anatomy-review/pelvic-source-arrays.npz",
+      "bytes": 391281,
+      "sha256": "35ffd24e0e511360210e8d4d2e3c3dcfff0e97ac72b6ff631fc4304b44c9c6f7"
+    },
+    {
+      "path": "anatomy-research/unified-body-v41/intestinal-anatomy-review/directed-repair-corridors.json",
+      "bytes": 78959,
+      "sha256": "0de21dd8f9ad531f731b28299f01bd1f189e3cb946dab455bca8861218be24c0"
+    }
+  ],
+  "candidateArraysPin": {
+    "path": "anatomy-research/unified-body-v41/intestinal-source/lower-bowel-candidate/candidate-arrays.npz",
+    "bytes": 465991,
+    "sha256": "136d1e53f2915a71ef652b1ea960106b6c98c006fa679489da4f0c963acb1b5c"
+  },
+  "contextAuditPin": {
+    "path": "anatomy-research/unified-body-v41/intestinal-source/lower-bowel-candidate/context-audit.json",
+    "bytes": 281593,
+    "sha256": "97c2576db06ea5c53db247138eb8863888470c384c97878e7e8c54438e15cbd2"
+  },
+  "fieldDefinition": "Cubic smoothstep bounded axis cage; exact code and support weights exported. Whole inner and outer wall transformed by one continuous spatial field per original source; no independent wall projection, cuts, welds or caps.",
+  "fixedRegions": {
+    "descending": "Y >= 0.922 m; |X| >= 0.065 m; Z >= 0.035 m remain unchanged",
+    "rectal": "Y <= 0.812 m, Y >= 0.910 m, Z <= -0.067 m remain unchanged"
+  },
+  "records": [
+    {
+      "id": "VMRA_DESCENDING_SIGMOID_COLON_01",
+      "sourceId": "ZA_131fcc6cfdb0ae",
+      "nameEn": "Descending and sigmoid colon",
+      "classification": "source-derived anatomical adjustment",
+      "amplitudeM": 0.00679944716833119,
+      "axis": "+Y",
+      "movedRawVertices": 2551,
+      "unchangedRawVertices": 9821,
+      "maxDisplacementMm": 6.799459457397461,
+      "minAnalyticJacobianAtSourceVertices": 0.7571628348128189,
+      "analyticGlobalJacobianLowerBound": 0.757162601131029,
+      "rawTopologyPreserved": true,
+      "watertight": true,
+      "windingConsistent": true,
+      "volumeRatio": 0.9759439467021653,
+      "minimumCorrespondingFaceNormalDot": 0.9678959978617503,
+      "reversedCorrespondingFaceNormals": 0,
+      "areaRatioQuantiles": [
+        0.7587713828029949,
+        0.7736374550450155,
+        1.0,
+        1.0,
+        1.0309613605994379
+      ],
+      "bladderInsideVertices": 0,
+      "bladderInsideFaceCentroids": 0,
+      "minimumVertexClearanceMm": 0.6406591916803333,
+      "minimumCentroidClearanceMm": 0.7176206527297311,
+      "bladderCrossings": {
+        "intersectingTrianglePairs": 0,
+        "sourceTrianglesIntersecting": 0,
+        "targetTrianglesIntersecting": 0,
+        "sampleCrossings": []
+      },
+      "boundsM": [
+        [
+          -0.01824120245873928,
+          0.8780402541160583,
+          -0.057990554720163345
+        ],
+        [
+          0.114278145134449,
+          1.1344690322875977,
+          0.035734858363866806
+        ]
+      ]
+    },
+    {
+      "id": "VMRA_RECTUM_ANAL_REGION_01",
+      "sourceId": "ZA_922fc374d403a4",
+      "nameEn": "Rectum and anal canal region",
+      "classification": "source-derived anatomical adjustment",
+      "amplitudeM": 0.007152204481049918,
+      "axis": "-Z",
+      "movedRawVertices": 1281,
+      "unchangedRawVertices": 435,
+      "maxDisplacementMm": 7.152203470468521,
+      "minAnalyticJacobianAtSourceVertices": 0.6844706404321937,
+      "analyticGlobalJacobianLowerBound": 0.6844615670125036,
+      "rawTopologyPreserved": true,
+      "watertight": true,
+      "windingConsistent": true,
+      "volumeRatio": 0.9034441787737024,
+      "minimumCorrespondingFaceNormalDot": 0.8892564056440468,
+      "reversedCorrespondingFaceNormals": 0,
+      "areaRatioQuantiles": [
+        0.625441152649657,
+        0.6952587151746991,
+        0.9768230652673411,
+        1.0432402351276102,
+        1.1512957033406273
+      ],
+      "bladderInsideVertices": 0,
+      "bladderInsideFaceCentroids": 0,
+      "minimumVertexClearanceMm": 0.6366192214667742,
+      "minimumCentroidClearanceMm": 0.6661114418204035,
+      "bladderCrossings": {
+        "intersectingTrianglePairs": 0,
+        "sourceTrianglesIntersecting": 0,
+        "targetTrianglesIntersecting": 0,
+        "sampleCrossings": []
+      },
+      "boundsM": [
+        [
+          -0.026214631274342537,
+          0.8037493228912354,
+          -0.07176436483860016
+        ],
+        [
+          0.0353546142578125,
+          0.9263793230056763,
+          -0.022944137454032898
+        ]
+      ]
+    }
+  ],
+  "originalSourceCoordinatesUnchanged": false,
+  "originalSourceFilesUntouched": true,
+  "wholeSourceTriangleIndicesPreserved": true,
+  "float32GLBMatchesAuditedCandidateExactly": true,
+  "exportPin": {
+    "path": "anatomy-research/unified-body-v41/intestinal-source/lower-bowel-candidate/assets/lower-bowel.glb",
+    "bytes": 680488,
+    "sha256": "f26f37e771cf483a32e2271ab6545a153aea27e7b1e5b1271c3b1f45690e1359"
+  },
+  "independentAcceptance": "Exact frozen export accepted as compound source-derived educational geometry after final simultaneous intestinal and rectal-interface review; source contacts and geometric scope limits remain. Not measured anatomical registration.",
+  "composedReview": {
+    "lowerBowelSha256": "f26f37e771cf483a32e2271ab6545a153aea27e7b1e5b1271c3b1f45690e1359",
+    "intestinalBlockSha256": "f7771252eb5b81c6d4e4b10b33d2d1b569347a34503c50c447dc993cc9d3ec48",
+    "rectalInterfaceSha256": "712a3d5378f424fffbe7c54d98da945b70c168f6f23a89eb2bda4793c87c2d60",
+    "rectalReview": "../vmra-rectal-interface/ANATOMY_REVIEW.json"
+  }
+}

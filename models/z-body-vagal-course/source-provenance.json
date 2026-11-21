@@ -1,0 +1,38 @@
+{
+  "originalSourceDatasetId": "z-anatomy",
+  "anatomicalRepresentation": "original-source-subset",
+  "chunkExtraction": {
+    "source": {
+      "path": "vmra-anatomy/dist/models/z-anatomy/z-anatomy-nervous-01.glb",
+      "bytes": 16861588,
+      "sha256": "3012da604eb98b0c50ddade134a10d3e678121d60576bd51b820c7eaf55181b8"
+    },
+    "output": {
+      "path": "vmra-anatomy/dist/models/z-body-vagal-course/vagal-original-nervous-01.glb",
+      "bytes": 436592,
+      "sha256": "c2189497014f2d2c4adb80325d5d87bff4ed8016c6fd98e000e0805896894963"
+    },
+    "physicalIds": [
+      "ZA_adace3b96e95e8",
+      "ZA_3b1cfa406b9326"
+    ],
+    "records": [
+      {
+        "physicalId": "ZA_adace3b96e95e8",
+        "sourceNodeIndex": 329,
+        "sourceMeshIndex": 329,
+        "outputNodeIndex": 0,
+        "outputMeshIndex": 0
+      },
+      {
+        "physicalId": "ZA_3b1cfa406b9326",
+        "sourceNodeIndex": 330,
+        "sourceMeshIndex": 330,
+        "outputNodeIndex": 1,
+        "outputMeshIndex": 1
+      }
+    ],
+    "bytes": 436592
+  },
+  "scope": "Unmodified vagal source course; no new organ terminal assignments or synthetic connections."
+}

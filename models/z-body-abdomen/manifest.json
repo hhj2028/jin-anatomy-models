@@ -1,0 +1,260 @@
+{
+  "dataset": "Z-Anatomy",
+  "sourceUrl": "https://github.com/LluisV/Z-Anatomy/tree/PC-Version/Resources/Models/FBX",
+  "license": "Mixed: CC BY-SA 4.0 aggregate; selected inner-ear and kidney assets carry non-commercial source terms",
+  "licenseSourceUrl": "https://github.com/Z-Anatomy/Models-of-human-anatomy",
+  "attribution": "Z-Anatomy - The libre 3D atlas of anatomy; BodyParts3D - The Database Center for Life Science; additional model-specific credits in ATTRIBUTION.txt and meshes.json",
+  "modifications": "Converted official FBX to independent named Draco GLB structures; removed annotation-helper geometry; applied FBX hierarchy transforms and converted centimetres to metres; 18-bit position quantization. Mirrored transform winding corrected. No anatomical meshes invented. Original FBX Tendon material faces restored as scalar masks; optional 1.5 mm display feather remains inside authored tendon faces. Original geometry, identifiers and bounds retained. Source-authored Tendon boundary interpolation repaired with planar edge midpoint/face centroid display subdivisions. Original anatomical surfaces and source IDs retained; render tessellation is not additional anatomical detail. Cool off-white nonmetal display material, roughness 0.52, and per-mesh inside-boundary feather capped at 3 mm. Four whole original peritoneal folds added without changing geometry, material attributes or coordinates. Peritoneum remains partial; no parietal peritoneum is supplied. Appended whole original intestinal, mesenteric arterial, portal venous and lymph-node source resources. No original geometry or physical identities altered. Source lower-bowel surfaces, taeniae and disputed AIPDA surface remain outside Connected body membership.",
+  "coordinates": {
+    "up": "+Y",
+    "front": "+Z",
+    "left": "+X",
+    "units": "metres",
+    "sourceToApp": "Apply complete FBX node world transform, then divide positions by 100. This model is not spatially registered to BodyParts3D 4.0.",
+    "bounds": [
+      [
+        -0.12580665182345685,
+        0.8795408992644398,
+        -0.06699225894849638
+      ],
+      [
+        0.12496618573750728,
+        1.2621448834348832,
+        0.1009408877596556
+      ]
+    ]
+  },
+  "geometryMeshCount": 62,
+  "structureCount": 69,
+  "triangleCount": 341831,
+  "totalGlbBytes": 2968056,
+  "chunks": [
+    {
+      "file": "z-upper-abdominal-arterial-01.glb",
+      "system": "arterial",
+      "bytes": 74060,
+      "meshCount": 7,
+      "meshIds": [
+        "ZA_89c871621ecb90",
+        "ZA_3f46174d1fa443",
+        "ZA_2847a6ba006008",
+        "ZA_9ec6b5e31560ff",
+        "ZA_0dda26b692a945",
+        "ZA_95b44ea0a99d64",
+        "ZA_7b899d4ce4db0a"
+      ],
+      "sha256": "56da99cb6ac3ea610c138d55499d92bd7f2854ae37b94d259bbf912710a7e597"
+    },
+    {
+      "file": "z-upper-abdominal-visceral-01.glb",
+      "system": "visceral",
+      "bytes": 251112,
+      "meshCount": 4,
+      "meshIds": [
+        "ZA_e1ea626bc665eb",
+        "ZA_e46a92e6cc0bf8",
+        "ZA_2a06b78a9d7555",
+        "ZA_8814235835dbe9"
+      ],
+      "sha256": "51a49f1dbf785f68e530e67c8cdb7a366413b114c876917e3387acc56bd7e35b"
+    },
+    {
+      "file": "z-upper-abdominal-lymphatic-01.glb",
+      "system": "lymphatic",
+      "bytes": 13376,
+      "meshCount": 1,
+      "meshIds": [
+        "ZA_ffb7a877189e7a"
+      ],
+      "sha256": "4b3cba578e891b4611c99dc3931dc29eca0a21b72066bfd8bb71a7201e71a006"
+    },
+    {
+      "file": "z-upper-abdominal-muscular-01.glb",
+      "system": "muscular",
+      "meshCount": 1,
+      "meshIds": [
+        "ZA_3b5abb7437a2b8"
+      ],
+      "bytes": 476924,
+      "sha256": "ddc780acb36a0b863374a93a80b8629961b66dfd28aff83e98a7af13cbfba739"
+    },
+    {
+      "file": "z-peritoneal-folds-01.glb",
+      "system": "visceral",
+      "bytes": 752084,
+      "meshCount": 4,
+      "meshIds": [
+        "ZA_10c50be99792b6",
+        "ZA_36ca5c9701a784",
+        "ZA_c8834cf6d085b1",
+        "ZA_98420971b78359"
+      ],
+      "sha256": "a6f5342d73abb42f35b8b59922f49a82032c8ea3f23466e814b62ba41110b5f1"
+    },
+    {
+      "file": "z-intestinal-arterial-01.glb",
+      "system": "arterial",
+      "bytes": 246900,
+      "meshCount": 16,
+      "meshIds": [
+        "ZA_f23a29a2a3a1ec",
+        "ZA_87fe83238319a6",
+        "ZA_00d42af6524b4e",
+        "ZA_1ecdcf3f0d7c84",
+        "ZA_05a452c7b17a0a",
+        "ZA_f95c73abe3b64a",
+        "ZA_4a205da0da49e4",
+        "ZA_7e768a5ede1c63",
+        "ZA_a9eb87c2e4d6c7",
+        "ZA_ec46aa019b5338",
+        "ZA_841c1766aa0b9a",
+        "ZA_5a56650e84c0f9",
+        "ZA_e68345170abf13",
+        "ZA_926ffba1cf1d76",
+        "ZA_77594035d16e3f",
+        "ZA_f63492d9f57dab"
+      ],
+      "sha256": "c466cf299463ba298a277325e79b9087c215e65e6e811a8255a57e3640f6ead2"
+    },
+    {
+      "file": "z-intestinal-visceral-01.glb",
+      "system": "visceral",
+      "bytes": 881020,
+      "meshCount": 9,
+      "meshIds": [
+        "ZA_b579f1c03eb459",
+        "ZA_4eefc95da94c9d",
+        "ZA_922fc374d403a4",
+        "ZA_0346e487ef01e7",
+        "ZA_131fcc6cfdb0ae",
+        "ZA_c82d9152540e4e",
+        "ZA_0621f837d515bb",
+        "ZA_e4b9cfb43a8d39",
+        "ZA_4697e0d292a01e"
+      ],
+      "sha256": "0b96e697a39d13d2bba5a1e21757da7adc6e0770a6da41328f660e1a75e1ea4e"
+    },
+    {
+      "file": "z-intestinal-lymphatic-01.glb",
+      "system": "lymphatic",
+      "bytes": 95188,
+      "meshCount": 11,
+      "meshIds": [
+        "ZA_2e38bc8b4196f9",
+        "ZA_e0b7c6631b26ca",
+        "ZA_318948e8b69c44",
+        "ZA_0ce2b6e767db7b",
+        "ZA_9a40d49059188b",
+        "ZA_feb117702045eb",
+        "ZA_48016fbbd40880",
+        "ZA_d8424882fe5df7",
+        "ZA_b746fdbdd3411f",
+        "ZA_960cbc65727af1",
+        "ZA_ef1005f3803930"
+      ],
+      "sha256": "73dfe849f736ade07b2e19165006d9659dbcfdae20bf5d0d16c1e48691da6129"
+    },
+    {
+      "file": "z-intestinal-venous-01.glb",
+      "system": "venous",
+      "bytes": 177392,
+      "meshCount": 9,
+      "meshIds": [
+        "ZA_01c71d94edd190",
+        "ZA_4aa0606a2626d4",
+        "ZA_b1139d2bc8922b",
+        "ZA_76bbd35c754f86",
+        "ZA_673937074ca284",
+        "ZA_bfd3e1ce2d20b2",
+        "ZA_57c438a096f74e",
+        "ZA_3d361482fc7dff",
+        "ZA_f80b5f090b31d2"
+      ],
+      "sha256": "118b9799ee7eb78142bfbf635c59157144e795f98e8656e7ecbfbb9f929f5926"
+    }
+  ],
+  "geometryFile": "meshes.json",
+  "structuresFile": "structures.json",
+  "requiresDecoder": "KHR_draco_mesh_compression",
+  "limitations": [
+    "Mixed underlying source licenses: do not describe this whole package as unrestricted commercial-use content.",
+    "Two telencephalon white-matter meshes omitted because the original University of Washington permission could not be confirmed.",
+    "Contains original anatomy surfaces and optional attachment/surface-region teaching layers; completeness against a textbook must be mapped, not assumed.",
+    "Do not overlay on BodyParts3D without anatomical registration.",
+    "Compact resource subset for the compositor, not a new standalone anatomical model. Source identity remains z-anatomy.",
+    "Candidate placement and original source intersection limitations remain under separate anatomical review. This package establishes byte/geometry fidelity only."
+  ],
+  "sourceTriangles": 341831,
+  "datasetId": "z-anatomy",
+  "subset": {
+    "name": "Abdominal source resources",
+    "sourceDatasetId": "z-anatomy",
+    "subsetOnly": true,
+    "sourceMetadataPreserved": true,
+    "physicalMeshIds": [
+      "ZA_3b5abb7437a2b8",
+      "ZA_89c871621ecb90",
+      "ZA_3f46174d1fa443",
+      "ZA_2847a6ba006008",
+      "ZA_9ec6b5e31560ff",
+      "ZA_0dda26b692a945",
+      "ZA_95b44ea0a99d64",
+      "ZA_7b899d4ce4db0a",
+      "ZA_e1ea626bc665eb",
+      "ZA_e46a92e6cc0bf8",
+      "ZA_2a06b78a9d7555",
+      "ZA_8814235835dbe9",
+      "ZA_ffb7a877189e7a",
+      "ZA_10c50be99792b6",
+      "ZA_36ca5c9701a784",
+      "ZA_c8834cf6d085b1",
+      "ZA_98420971b78359",
+      "ZA_b579f1c03eb459",
+      "ZA_4eefc95da94c9d",
+      "ZA_922fc374d403a4",
+      "ZA_0346e487ef01e7",
+      "ZA_131fcc6cfdb0ae",
+      "ZA_c82d9152540e4e",
+      "ZA_0621f837d515bb",
+      "ZA_e4b9cfb43a8d39",
+      "ZA_4697e0d292a01e",
+      "ZA_f23a29a2a3a1ec",
+      "ZA_87fe83238319a6",
+      "ZA_00d42af6524b4e",
+      "ZA_1ecdcf3f0d7c84",
+      "ZA_05a452c7b17a0a",
+      "ZA_f95c73abe3b64a",
+      "ZA_4a205da0da49e4",
+      "ZA_7e768a5ede1c63",
+      "ZA_a9eb87c2e4d6c7",
+      "ZA_ec46aa019b5338",
+      "ZA_841c1766aa0b9a",
+      "ZA_5a56650e84c0f9",
+      "ZA_e68345170abf13",
+      "ZA_926ffba1cf1d76",
+      "ZA_77594035d16e3f",
+      "ZA_f63492d9f57dab",
+      "ZA_01c71d94edd190",
+      "ZA_4aa0606a2626d4",
+      "ZA_b1139d2bc8922b",
+      "ZA_76bbd35c754f86",
+      "ZA_673937074ca284",
+      "ZA_bfd3e1ce2d20b2",
+      "ZA_57c438a096f74e",
+      "ZA_3d361482fc7dff",
+      "ZA_f80b5f090b31d2",
+      "ZA_2e38bc8b4196f9",
+      "ZA_e0b7c6631b26ca",
+      "ZA_318948e8b69c44",
+      "ZA_0ce2b6e767db7b",
+      "ZA_9a40d49059188b",
+      "ZA_feb117702045eb",
+      "ZA_48016fbbd40880",
+      "ZA_d8424882fe5df7",
+      "ZA_b746fdbdd3411f",
+      "ZA_960cbc65727af1",
+      "ZA_ef1005f3803930"
+    ],
+    "hierarchyPolicy": "Only complete unchanged source rows; actual Connected body membership is separately reviewed and can withhold surfaces in this resource package."
+  }
+}

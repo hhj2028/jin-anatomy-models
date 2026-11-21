@@ -1,0 +1,134 @@
+[
+  {
+    "id": "ZAG_9e85ce00d1edff",
+    "nameEn": "Left Accessory nerve (XI)",
+    "sourceNodeName": "Accessory nerve (XI).l",
+    "system": "nervous",
+    "meshIds": [
+      "ZA_9e85ce00d1edff"
+    ],
+    "directMeshIds": [
+      "ZA_9e85ce00d1edff"
+    ],
+    "childIds": [],
+    "sourcePath": "NervousSystem100.fbx/RootNode/Peripheral nervous system.g/Spinal nerves.g/Cervical nerves.g/Accessory nerve (XI).l",
+    "systems": [
+      "nervous"
+    ],
+    "bounds": [
+      [
+        0.0026835429281470047,
+        1.2900491033415409,
+        -0.11231110290416992
+      ],
+      [
+        0.059540800012483526,
+        1.5695925682710683,
+        0.012041263630135808
+      ]
+    ],
+    "parentIds": [
+      "ZAG_8182b23facec12"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_642ba6c506d551",
+    "nameEn": "Left Superior gluteal nerve",
+    "sourceNodeName": "Superior gluteal nerve.l",
+    "system": "nervous",
+    "meshIds": [
+      "ZA_642ba6c506d551"
+    ],
+    "directMeshIds": [
+      "ZA_642ba6c506d551"
+    ],
+    "childIds": [],
+    "sourcePath": "NervousSystem100.fbx/RootNode/Peripheral nervous system.g/Spinal nerves.g/Lumbosacral plexus.g/Sacral plexus.g/Superior gluteal nerve.l",
+    "systems": [
+      "nervous"
+    ],
+    "bounds": [
+      [
+        0.029327042517588314,
+        0.904472534255799,
+        -0.04137330771517353
+      ],
+      [
+        0.11768015996830807,
+        0.9652481946790168,
+        -0.022212149127637793
+      ]
+    ],
+    "parentIds": [
+      "ZAG_852cfb32bebe27"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_46fca8c38836d8",
+    "nameEn": "Left Nerve to piriformis muscle",
+    "sourceNodeName": "Nerve to piriformis muscle.l",
+    "system": "nervous",
+    "meshIds": [
+      "ZA_46fca8c38836d8"
+    ],
+    "directMeshIds": [
+      "ZA_46fca8c38836d8"
+    ],
+    "childIds": [],
+    "sourcePath": "NervousSystem100.fbx/RootNode/Peripheral nervous system.g/Spinal nerves.g/Lumbosacral plexus.g/Sacral plexus.g/Nerve to piriformis muscle.l",
+    "systems": [
+      "nervous"
+    ],
+    "bounds": [
+      [
+        0.01624652258438147,
+        0.8890286205329774,
+        -0.06115349498746326
+      ],
+      [
+        0.06884136340327818,
+        0.9328400917752169,
+        -0.0376376121459061
+      ]
+    ],
+    "parentIds": [
+      "ZAG_852cfb32bebe27"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_2c904cfc12e5e8",
+    "nameEn": "Left Deep cervical artery",
+    "sourceNodeName": "Deep cervical artery.l",
+    "system": "arterial",
+    "meshIds": [
+      "ZA_2c904cfc12e5e8"
+    ],
+    "directMeshIds": [
+      "ZA_2c904cfc12e5e8"
+    ],
+    "childIds": [],
+    "sourcePath": "CardioVascular41.fbx/RootNode/Arterial system.g/Systemic arteries.g/Left subclavian artery/Costocervical trunk.l/Deep cervical artery.l",
+    "systems": [
+      "arterial"
+    ],
+    "bounds": [
+      [
+        0.03243216687736699,
+        1.419794098387153,
+        -0.04790444853376059
+      ],
+      [
+        0.049352231705465766,
+        1.5000386069366045,
+        -0.010106272979307945
+      ]
+    ],
+    "parentIds": [
+      "ZAG_64814fb167cefe"
+    ],
+    "kind": "structure"
+  }
+]

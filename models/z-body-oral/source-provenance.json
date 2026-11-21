@@ -1,0 +1,106 @@
+{
+  "originalSourceDatasetId": "z-anatomy",
+  "anatomicalRepresentation": "original-source-subset",
+  "chunkExtraction": [
+    {
+      "source": {
+        "path": "vmra-anatomy/dist/models/z-anatomy/z-anatomy-skeletal-01.glb",
+        "bytes": 9296100,
+        "sha256": "a5a9dda708cc7800793f5ae52a5506d3ad2cff57f4910bfc7a981f6f6580d17a"
+      },
+      "output": {
+        "path": "vmra-anatomy/dist/models/z-body-oral/oral-original-skeletal-01.glb",
+        "bytes": 13280,
+        "sha256": "9b48f65358344714c771a43f583fb77d23a1bad24e22346e3774092f9e2d07a9"
+      },
+      "physicalIds": [
+        "ZA_6b3996016be69d"
+      ],
+      "records": [
+        {
+          "physicalId": "ZA_6b3996016be69d",
+          "sourceNodeIndex": 30,
+          "sourceMeshIndex": 30,
+          "outputNodeIndex": 0,
+          "outputMeshIndex": 0
+        }
+      ],
+      "bytes": 13280
+    },
+    {
+      "source": {
+        "path": "vmra-anatomy/dist/models/z-anatomy/z-anatomy-visceral-01.glb",
+        "bytes": 5755556,
+        "sha256": "4fbd7854fd5a6d59134fce04a8d083b8e0b95c626ad8a0c803111e0a1bc0eacd"
+      },
+      "output": {
+        "path": "vmra-anatomy/dist/models/z-body-oral/oral-original-visceral-01.glb",
+        "bytes": 7668,
+        "sha256": "952d281e010737b157cf9c317eb37bc2330baf25afc0f903ef49bb08d9d0f834"
+      },
+      "physicalIds": [
+        "ZA_b71ed9c42a05cb"
+      ],
+      "records": [
+        {
+          "physicalId": "ZA_b71ed9c42a05cb",
+          "sourceNodeIndex": 87,
+          "sourceMeshIndex": 87,
+          "outputNodeIndex": 0,
+          "outputMeshIndex": 0
+        }
+      ],
+      "bytes": 7668
+    },
+    {
+      "source": {
+        "path": "vmra-anatomy/dist/models/z-anatomy/z-anatomy-muscular-01.glb",
+        "bytes": 16753504,
+        "sha256": "3c55fb55f16af111454cf45f9775c0de482120053092973ccd830a0ae0a865de"
+      },
+      "output": {
+        "path": "vmra-anatomy/dist/models/z-body-oral/oral-original-muscular-01.glb",
+        "bytes": 96900,
+        "sha256": "03c8c80c828ad7c12dc8978c4f2777b9355b761608947028b74acc576c5a5604"
+      },
+      "physicalIds": [
+        "ZA_ea1796261f16e0",
+        "ZA_d3a25f93603585",
+        "ZA_429b46cd6d5cd1",
+        "ZA_5a35a6dab78631"
+      ],
+      "records": [
+        {
+          "physicalId": "ZA_ea1796261f16e0",
+          "sourceNodeIndex": 152,
+          "sourceMeshIndex": 152,
+          "outputNodeIndex": 0,
+          "outputMeshIndex": 0
+        },
+        {
+          "physicalId": "ZA_d3a25f93603585",
+          "sourceNodeIndex": 153,
+          "sourceMeshIndex": 153,
+          "outputNodeIndex": 1,
+          "outputMeshIndex": 1
+        },
+        {
+          "physicalId": "ZA_429b46cd6d5cd1",
+          "sourceNodeIndex": 154,
+          "sourceMeshIndex": 154,
+          "outputNodeIndex": 2,
+          "outputMeshIndex": 2
+        },
+        {
+          "physicalId": "ZA_5a35a6dab78631",
+          "sourceNodeIndex": 155,
+          "sourceMeshIndex": 155,
+          "outputNodeIndex": 3,
+          "outputMeshIndex": 3
+        }
+      ],
+      "bytes": 96900
+    }
+  ],
+  "scope": "Tongue and hyoid context plus bilateral genioglossus and hyoglossus. No independently labelled intramuscular XII terminals."
+}

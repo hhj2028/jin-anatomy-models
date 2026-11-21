@@ -1,0 +1,572 @@
+[
+  {
+    "id": "ZA_9e85ce00d1edff",
+    "conceptId": "",
+    "nameEn": "Left Accessory nerve (XI)",
+    "sourceNodeName": "Accessory nerve (XI).l",
+    "sourcePath": "NervousSystem100.fbx/RootNode/Peripheral nervous system.g/Spinal nerves.g/Cervical nerves.g/Accessory nerve (XI).l",
+    "sourceFile": "NervousSystem100.fbx",
+    "sourceMaterialNames": [
+      "Nerve-3"
+    ],
+    "system": "nervous",
+    "meshIds": [
+      "ZA_9e85ce00d1edff"
+    ],
+    "bounds": [
+      [
+        0.0026835429281470047,
+        1.2900491033415409,
+        -0.11231110290416992
+      ],
+      [
+        0.059540800012483526,
+        1.5695925682710683,
+        0.012041263630135808
+      ]
+    ],
+    "vertices": 7848,
+    "triangles": 15384,
+    "dracoBytes": 117600,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "nerve",
+    "appearanceStyle": {
+      "color": "#d9c385",
+      "roughness": 0.68
+    },
+    "displaySystem": "nervous"
+  },
+  {
+    "id": "ZA_22d9fe02788984",
+    "conceptId": "",
+    "nameEn": "Left Femoral nerve",
+    "sourceNodeName": "Femoral nerve.l",
+    "sourcePath": "NervousSystem100.fbx/RootNode/Peripheral nervous system.g/Spinal nerves.g/Lumbosacral plexus.g/Lumbar plexus.g/Branches of posterior part of lumbar plexus.g/Femoral nerve.l",
+    "sourceFile": "NervousSystem100.fbx",
+    "sourceMaterialNames": [
+      "Nerve-2"
+    ],
+    "system": "nervous",
+    "meshIds": [
+      "ZA_22d9fe02788984"
+    ],
+    "bounds": [
+      [
+        0.011260620363101674,
+        0.6283875899514728,
+        -0.029314002346396785
+      ],
+      [
+        0.0885078004588136,
+        1.1008651577700816,
+        0.043681882686219246
+      ]
+    ],
+    "vertices": 2052,
+    "triangles": 4032,
+    "dracoBytes": 31346,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "nerve",
+    "appearanceStyle": {
+      "color": "#d9c385",
+      "roughness": 0.68
+    },
+    "displaySystem": "nervous"
+  },
+  {
+    "id": "ZA_47234cfe8d1915",
+    "conceptId": "",
+    "nameEn": "Left Obturator nerve",
+    "sourceNodeName": "Obturator nerve.l",
+    "sourcePath": "NervousSystem100.fbx/RootNode/Peripheral nervous system.g/Spinal nerves.g/Lumbosacral plexus.g/Lumbar plexus.g/Branches of anterior part of lumbar plexus.g/Obturator nerve.l",
+    "sourceFile": "NervousSystem100.fbx",
+    "sourceMaterialNames": [
+      "Nerve-6"
+    ],
+    "system": "nervous",
+    "meshIds": [
+      "ZA_47234cfe8d1915"
+    ],
+    "bounds": [
+      [
+        0.01634998692956227,
+        0.8611704223597454,
+        -0.023581089980002204
+      ],
+      [
+        0.06009315564676209,
+        1.0792088432154736,
+        0.01517068999320955
+      ]
+    ],
+    "vertices": 1764,
+    "triangles": 3456,
+    "dracoBytes": 27347,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "nerve",
+    "appearanceStyle": {
+      "color": "#d9c385",
+      "roughness": 0.68
+    },
+    "displaySystem": "nervous"
+  },
+  {
+    "id": "ZA_791bdbcdb45520",
+    "conceptId": "",
+    "nameEn": "Left Sciatic nerve",
+    "sourceNodeName": "Sciatic nerve.l",
+    "sourcePath": "NervousSystem100.fbx/RootNode/Peripheral nervous system.g/Spinal nerves.g/Lumbosacral plexus.g/Sacral plexus.g/Sciatic nerve.l",
+    "sourceFile": "NervousSystem100.fbx",
+    "sourceMaterialNames": [
+      "Nerve-1"
+    ],
+    "system": "nervous",
+    "meshIds": [
+      "ZA_791bdbcdb45520"
+    ],
+    "bounds": [
+      [
+        0.01624652258438147,
+        0.5397515205560733,
+        -0.07181497502675477
+      ],
+      [
+        0.07977854790976442,
+        0.9781444310405001,
+        -0.01623685293061886
+      ]
+    ],
+    "vertices": 2484,
+    "triangles": 4896,
+    "dracoBytes": 38983,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "nerve",
+    "appearanceStyle": {
+      "color": "#d9c385",
+      "roughness": 0.68
+    },
+    "displaySystem": "nervous"
+  },
+  {
+    "id": "ZA_bcf145eee6eb0a",
+    "conceptId": "",
+    "nameEn": "Left Tibial nerve",
+    "sourceNodeName": "Tibial nerve.l",
+    "sourcePath": "NervousSystem100.fbx/RootNode/Peripheral nervous system.g/Spinal nerves.g/Lumbosacral plexus.g/Sacral plexus.g/Sciatic nerve.l/Tibial nerve.l",
+    "sourceFile": "NervousSystem100.fbx",
+    "sourceMaterialNames": [
+      "Nerve-6"
+    ],
+    "system": "nervous",
+    "meshIds": [
+      "ZA_bcf145eee6eb0a"
+    ],
+    "bounds": [
+      [
+        0.05634127370612614,
+        0.05752897678522892,
+        -0.06589606635032394
+      ],
+      [
+        0.09613090633745877,
+        0.5404988588794527,
+        -0.037826259330120654
+      ]
+    ],
+    "vertices": 1308,
+    "triangles": 2592,
+    "dracoBytes": 20015,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "nerve",
+    "appearanceStyle": {
+      "color": "#d9c385",
+      "roughness": 0.68
+    },
+    "displaySystem": "nervous"
+  },
+  {
+    "id": "ZA_64df6ebd54b820",
+    "conceptId": "",
+    "nameEn": "Left Superficial fibular nerve",
+    "sourceNodeName": "Superficial fibular nerve.l",
+    "sourcePath": "NervousSystem100.fbx/RootNode/Peripheral nervous system.g/Spinal nerves.g/Lumbosacral plexus.g/Sacral plexus.g/Sciatic nerve.l/Common fibular nerve.l/Superficial fibular nerve.l",
+    "sourceFile": "NervousSystem100.fbx",
+    "sourceMaterialNames": [
+      "Nerve-2"
+    ],
+    "system": "nervous",
+    "meshIds": [
+      "ZA_64df6ebd54b820"
+    ],
+    "bounds": [
+      [
+        0.10289661620559139,
+        0.09475113749671193,
+        -0.04696621740282603
+      ],
+      [
+        0.12320089650436733,
+        0.3854701951408927,
+        -0.03124110352144569
+      ]
+    ],
+    "vertices": 1596,
+    "triangles": 3168,
+    "dracoBytes": 24165,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "nerve",
+    "appearanceStyle": {
+      "color": "#d9c385",
+      "roughness": 0.68
+    },
+    "displaySystem": "nervous"
+  },
+  {
+    "id": "ZA_259cb5649d044b",
+    "conceptId": "",
+    "nameEn": "Left Deep fibular nerve",
+    "sourceNodeName": "Deep fibular nerve.l",
+    "sourcePath": "NervousSystem100.fbx/RootNode/Peripheral nervous system.g/Spinal nerves.g/Lumbosacral plexus.g/Sacral plexus.g/Sciatic nerve.l/Common fibular nerve.l/Deep fibular nerve.l",
+    "sourceFile": "NervousSystem100.fbx",
+    "sourceMaterialNames": [
+      "Nerve-2"
+    ],
+    "system": "nervous",
+    "meshIds": [
+      "ZA_259cb5649d044b"
+    ],
+    "bounds": [
+      [
+        0.06869275878638165,
+        0.043433373815286364,
+        -0.0468797925891929
+      ],
+      [
+        0.12322096836754075,
+        0.38559669103499006,
+        0.05636826064255633
+      ]
+    ],
+    "vertices": 2172,
+    "triangles": 4320,
+    "dracoBytes": 32836,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "nerve",
+    "appearanceStyle": {
+      "color": "#d9c385",
+      "roughness": 0.68
+    },
+    "displaySystem": "nervous"
+  },
+  {
+    "id": "ZA_642ba6c506d551",
+    "conceptId": "",
+    "nameEn": "Left Superior gluteal nerve",
+    "sourceNodeName": "Superior gluteal nerve.l",
+    "sourcePath": "NervousSystem100.fbx/RootNode/Peripheral nervous system.g/Spinal nerves.g/Lumbosacral plexus.g/Sacral plexus.g/Superior gluteal nerve.l",
+    "sourceFile": "NervousSystem100.fbx",
+    "sourceMaterialNames": [
+      "Nerve-1"
+    ],
+    "system": "nervous",
+    "meshIds": [
+      "ZA_642ba6c506d551"
+    ],
+    "bounds": [
+      [
+        0.029327042517588314,
+        0.904472534255799,
+        -0.04137330771517353
+      ],
+      [
+        0.11768015996830807,
+        0.9652481946790168,
+        -0.022212149127637793
+      ]
+    ],
+    "vertices": 1764,
+    "triangles": 3456,
+    "dracoBytes": 28148,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "nerve",
+    "appearanceStyle": {
+      "color": "#d9c385",
+      "roughness": 0.68
+    },
+    "displaySystem": "nervous"
+  },
+  {
+    "id": "ZA_46fca8c38836d8",
+    "conceptId": "",
+    "nameEn": "Left Nerve to piriformis muscle",
+    "sourceNodeName": "Nerve to piriformis muscle.l",
+    "sourcePath": "NervousSystem100.fbx/RootNode/Peripheral nervous system.g/Spinal nerves.g/Lumbosacral plexus.g/Sacral plexus.g/Nerve to piriformis muscle.l",
+    "sourceFile": "NervousSystem100.fbx",
+    "sourceMaterialNames": [
+      "Nerve-1"
+    ],
+    "system": "nervous",
+    "meshIds": [
+      "ZA_46fca8c38836d8"
+    ],
+    "bounds": [
+      [
+        0.01624652258438147,
+        0.8890286205329774,
+        -0.06115349498746326
+      ],
+      [
+        0.06884136340327818,
+        0.9328400917752169,
+        -0.0376376121459061
+      ]
+    ],
+    "vertices": 744,
+    "triangles": 1440,
+    "dracoBytes": 12089,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "nerve",
+    "appearanceStyle": {
+      "color": "#d9c385",
+      "roughness": 0.68
+    },
+    "displaySystem": "nervous"
+  },
+  {
+    "id": "ZA_e850c86752bf0e",
+    "conceptId": "",
+    "nameEn": "Left Transverse cervical artery",
+    "sourceNodeName": "Transverse cervical artery.l",
+    "sourcePath": "CardioVascular41.fbx/RootNode/Arterial system.g/Systemic arteries.g/Left subclavian artery/Thyrocervical trunk.l/Transverse cervical artery.l",
+    "sourceFile": "CardioVascular41.fbx",
+    "sourceMaterialNames": [
+      "Artery"
+    ],
+    "system": "arterial",
+    "meshIds": [
+      "ZA_e850c86752bf0e"
+    ],
+    "bounds": [
+      [
+        0.04113326888381881,
+        1.429540872893327,
+        -0.017894639447804898
+      ],
+      [
+        0.06170865007452679,
+        1.4782975607303692,
+        0.005276740426493084
+      ]
+    ],
+    "vertices": 685,
+    "triangles": 1298,
+    "dracoBytes": 11941,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "artery",
+    "appearanceStyle": {
+      "color": "#bd4842",
+      "roughness": 0.58
+    },
+    "displaySystem": "arterial"
+  },
+  {
+    "id": "ZA_2c904cfc12e5e8",
+    "conceptId": "",
+    "nameEn": "Left Deep cervical artery",
+    "sourceNodeName": "Deep cervical artery.l",
+    "sourcePath": "CardioVascular41.fbx/RootNode/Arterial system.g/Systemic arteries.g/Left subclavian artery/Costocervical trunk.l/Deep cervical artery.l",
+    "sourceFile": "CardioVascular41.fbx",
+    "sourceMaterialNames": [
+      "Artery"
+    ],
+    "system": "arterial",
+    "meshIds": [
+      "ZA_2c904cfc12e5e8"
+    ],
+    "bounds": [
+      [
+        0.03243216687736699,
+        1.419794098387153,
+        -0.04790444853376059
+      ],
+      [
+        0.049352231705465766,
+        1.5000386069366045,
+        -0.010106272979307945
+      ]
+    ],
+    "vertices": 660,
+    "triangles": 1298,
+    "dracoBytes": 11388,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "artery",
+    "appearanceStyle": {
+      "color": "#bd4842",
+      "roughness": 0.58
+    },
+    "displaySystem": "arterial"
+  },
+  {
+    "id": "ZA_5c78590d708ec7",
+    "conceptId": "",
+    "nameEn": "Left Anterior tibial artery",
+    "sourceNodeName": "Anterior tibial artery.l",
+    "sourcePath": "CardioVascular41.fbx/RootNode/Arterial system.g/Systemic arteries.g/Femoral artery.l/Popliteal artery.l/Anterior tibial artery.l",
+    "sourceFile": "CardioVascular41.fbx",
+    "sourceMaterialNames": [
+      "Artery"
+    ],
+    "system": "arterial",
+    "meshIds": [
+      "ZA_5c78590d708ec7"
+    ],
+    "bounds": [
+      [
+        0.07008160690473904,
+        0.08437052162987775,
+        -0.05464830711573782
+      ],
+      [
+        0.10814943633585307,
+        0.38799222322808896,
+        -0.00812001187710774
+      ]
+    ],
+    "vertices": 897,
+    "triangles": 1770,
+    "dracoBytes": 15086,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "artery",
+    "appearanceStyle": {
+      "color": "#bd4842",
+      "roughness": 0.58
+    },
+    "displaySystem": "arterial"
+  },
+  {
+    "id": "ZA_eda2d286a776aa",
+    "conceptId": "",
+    "nameEn": "Left Posterior tibial artery",
+    "sourceNodeName": "Posterior tibial artery.l",
+    "sourcePath": "CardioVascular41.fbx/RootNode/Arterial system.g/Systemic arteries.g/Femoral artery.l/Popliteal artery.l/Posterior tibial artery.l",
+    "sourceFile": "CardioVascular41.fbx",
+    "sourceMaterialNames": [
+      "Artery"
+    ],
+    "system": "arterial",
+    "meshIds": [
+      "ZA_eda2d286a776aa"
+    ],
+    "bounds": [
+      [
+        0.05265410444504157,
+        0.03860053745836321,
+        -0.0617730735726682
+      ],
+      [
+        0.0964761477420648,
+        0.37508412275905023,
+        -0.03030223640466023
+      ]
+    ],
+    "vertices": 838,
+    "triangles": 1652,
+    "dracoBytes": 14183,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "artery",
+    "appearanceStyle": {
+      "color": "#bd4842",
+      "roughness": 0.58
+    },
+    "displaySystem": "arterial"
+  },
+  {
+    "id": "ZA_fa9227cab9203a",
+    "conceptId": "",
+    "nameEn": "Left Fibular artery",
+    "sourceNodeName": "Fibular artery.l",
+    "sourcePath": "CardioVascular41.fbx/RootNode/Arterial system.g/Systemic arteries.g/Femoral artery.l/Popliteal artery.l/Posterior tibial artery.l/Fibular artery.l",
+    "sourceFile": "CardioVascular41.fbx",
+    "sourceMaterialNames": [
+      "Artery"
+    ],
+    "system": "arterial",
+    "meshIds": [
+      "ZA_fa9227cab9203a"
+    ],
+    "bounds": [
+      [
+        0.08981380960201912,
+        0.054614854338811976,
+        -0.07679763389030204
+      ],
+      [
+        0.11311330377613439,
+        0.37511963182034835,
+        -0.0476510477070698
+      ]
+    ],
+    "vertices": 1354,
+    "triangles": 2597,
+    "dracoBytes": 22620,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "artery",
+    "appearanceStyle": {
+      "color": "#bd4842",
+      "roughness": 0.58
+    },
+    "displaySystem": "arterial"
+  },
+  {
+    "id": "ZA_8747bcfd5f065e",
+    "conceptId": "",
+    "nameEn": "Left Iliolumbar artery",
+    "sourceNodeName": "Iliolumbar artery.l",
+    "sourcePath": "CardioVascular41.fbx/RootNode/Arterial system.g/Systemic arteries.g/Aorta.g/Aortic bifurcation.g/Common iliac artery.l/Internal iliac artery.l/Posterior division of internal iliac artery.l/Iliolumbar artery.l",
+    "sourceFile": "CardioVascular41.fbx",
+    "sourceMaterialNames": [
+      "Artery"
+    ],
+    "system": "arterial",
+    "meshIds": [
+      "ZA_8747bcfd5f065e"
+    ],
+    "bounds": [
+      [
+        0.030154778912674277,
+        0.93717086548738,
+        -0.030401029168262574
+      ],
+      [
+        0.03892656644094755,
+        0.964008759731741,
+        -0.012108179895344327
+      ]
+    ],
+    "vertices": 130,
+    "triangles": 236,
+    "dracoBytes": 2452,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "artery",
+    "appearanceStyle": {
+      "color": "#bd4842",
+      "roughness": 0.58
+    },
+    "displaySystem": "arterial"
+  }
+]

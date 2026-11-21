@@ -1,0 +1,57 @@
+{
+  "dataset": "VMRA illustrative splenic plexus",
+  "datasetId": "vmra-splenic-plexus",
+  "sourceUrl": "https://github.com/Z-Anatomy/Models-of-human-anatomy",
+  "license": "CC BY-SA 4.0; retain supplied BodyParts3D upstream notice",
+  "licenseSourceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "Independent illustrative splenic plexus reauthored on current-body FJ3640; original Z-Anatomy and BodyParts3D credits retained.",
+  "modifications": "Reauthored same six illustrative paths on pinned FJ3640, preserved three original terminals and arc connector intent; actual open venous wall clearance; authored neural routes/calibers are not measured anatomy.",
+  "coordinates": {
+    "up": "+Y",
+    "front": "+Z",
+    "left": "+X",
+    "units": "metres",
+    "bounds": [
+      [
+        0.014730334281921387,
+        1.1424168348312378,
+        -0.00533780874684453
+      ],
+      [
+        0.08628100156784058,
+        1.1636903285980225,
+        0.030479609966278076
+      ]
+    ],
+    "sourceToApp": "Identity; pinned current body metre coordinates"
+  },
+  "geometryMeshCount": 1,
+  "structureCount": 1,
+  "triangleCount": 42000,
+  "totalGlbBytes": 1013716,
+  "geometryFile": "meshes.json",
+  "structuresFile": "structures.json",
+  "anatomicalRepresentation": "illustrative-pathway",
+  "chunks": [
+    {
+      "file": "splenic-plexus.glb",
+      "system": "nervous",
+      "bytes": 1013716,
+      "meshCount": 1,
+      "meshIds": [
+        "VMRA_SPLENIC_PLEXUS_01"
+      ],
+      "sha256": "3250531b72b18193c48cf271857c133b17208522f1dc409608c4c914c5b832ad"
+    }
+  ],
+  "limitations": [
+    "Representative organ-terminal route; not complete innervation or a measured/dissected nerve specimen.",
+    "No celiac ganglion shapes, proximal splanchnic/vagal connection or microscopic intraparenchymal arbor is added.",
+    "Original anatomy and artery source assets remain unaltered; package replaces only the same six-path authored nerve illustration when integrated.",
+    "Localized communicating-tube overlap remains separately disclosed in export-review; no Boolean union is claimed."
+  ],
+  "provenanceFile": "source-provenance.json",
+  "replacementPhysicalId": "VMRA_SPLENIC_PLEXUS_01",
+  "sourcePathCount": 6,
+  "integrationStatus": "connected-body"
+}

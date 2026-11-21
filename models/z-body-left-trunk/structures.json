@@ -1,0 +1,2642 @@
+[
+  {
+    "id": "ZAG_4a8267f0e7d610",
+    "nameEn": "Left Sternocleidomastoid muscle",
+    "sourceNodeName": "Sternocleidomastoid muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_4a8267f0e7d610"
+    ],
+    "directMeshIds": [
+      "ZA_4a8267f0e7d610"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Cervical part of muscular system.g/Muscles of neck.g/Sternocleidomastoid muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.0036842753572826938,
+        1.3817152569091409,
+        -0.049297007737039704
+      ],
+      [
+        0.06143242118071765,
+        1.5754349463251076,
+        0.06437485028050638
+      ]
+    ],
+    "parentIds": [
+      "ZAG_59f232a68f0a5c"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_f41d5628f1dac6",
+    "nameEn": "Left Platysma",
+    "sourceNodeName": "Platysma.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_f41d5628f1dac6"
+    ],
+    "directMeshIds": [
+      "ZA_f41d5628f1dac6"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Cervical part of muscular system.g/Muscles of neck.g/Platysma.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        -0.0026792245376447087,
+        1.399264017673423,
+        -0.04084751909138591
+      ],
+      [
+        0.1412031688901137,
+        1.5413922701318743,
+        0.0836602638912483
+      ]
+    ],
+    "parentIds": [
+      "ZAG_59f232a68f0a5c"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_e4de7a589daa03",
+    "nameEn": "Left Scalenus medius muscle",
+    "sourceNodeName": "Scalenus medius muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_e4de7a589daa03"
+    ],
+    "directMeshIds": [
+      "ZA_e4de7a589daa03"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Cervical part of muscular system.g/Muscles of neck.g/Scalenus medius muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.023969912916784436,
+        1.4194780702788015,
+        -0.026666366794534362
+      ],
+      [
+        0.0541899555960987,
+        1.5186557797582783,
+        -0.001645133390785296
+      ]
+    ],
+    "parentIds": [
+      "ZAG_59f232a68f0a5c"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_5479c6ff9503f2",
+    "nameEn": "Left Scalenus posterior muscle",
+    "sourceNodeName": "Scalenus posterior muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_5479c6ff9503f2"
+    ],
+    "directMeshIds": [
+      "ZA_5479c6ff9503f2"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Cervical part of muscular system.g/Muscles of neck.g/Scalenus posterior muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.025609643892766334,
+        1.4237892240335928,
+        -0.039757850117033144
+      ],
+      [
+        0.06981727372799071,
+        1.4773788944542963,
+        -0.012270278297869662
+      ]
+    ],
+    "parentIds": [
+      "ZAG_59f232a68f0a5c"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_af09f395bbf529",
+    "nameEn": "Left Scalenus anterior muscle",
+    "sourceNodeName": "Scalenus anterior muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_af09f395bbf529"
+    ],
+    "directMeshIds": [
+      "ZA_af09f395bbf529"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Cervical part of muscular system.g/Muscles of neck.g/Scalenus anterior muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.020613049909177672,
+        1.4107511932366765,
+        -0.010389710672289854
+      ],
+      [
+        0.05493528550215414,
+        1.49357515388736,
+        0.00844182018292561
+      ]
+    ],
+    "parentIds": [
+      "ZAG_59f232a68f0a5c"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_d5576cec579db2",
+    "nameEn": "Left Longus capitis muscle",
+    "sourceNodeName": "Longus capitis muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_d5576cec579db2"
+    ],
+    "directMeshIds": [
+      "ZA_d5576cec579db2"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Cervical part of muscular system.g/Muscles of neck.g/Longus capitis muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.002265393150016175,
+        1.4590092879088237,
+        -0.01096507098322661
+      ],
+      [
+        0.026592147513275127,
+        1.5690630996463986,
+        0.006663366898808847
+      ]
+    ],
+    "parentIds": [
+      "ZAG_59f232a68f0a5c"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_17d1fc249478dc",
+    "nameEn": "Left Longus colli muscle",
+    "sourceNodeName": "Longus colli muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_17d1fc249478dc"
+    ],
+    "directMeshIds": [
+      "ZA_17d1fc249478dc"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Cervical part of muscular system.g/Muscles of neck.g/Longus colli muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.0012836120813418672,
+        1.3875195264348676,
+        -0.029370365690869683
+      ],
+      [
+        0.026069585784243617,
+        1.5449368986442988,
+        0.004748727949518729
+      ]
+    ],
+    "parentIds": [
+      "ZAG_59f232a68f0a5c"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_6022d773cc4382",
+    "nameEn": "Left Rectus anterior capitis muscle",
+    "sourceNodeName": "Rectus anterior capitis muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_6022d773cc4382"
+    ],
+    "directMeshIds": [
+      "ZA_6022d773cc4382"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Cervical part of muscular system.g/Muscles of neck.g/Rectus anterior capitis muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.0032028836175408727,
+        1.545543121888456,
+        -0.006187957025879722
+      ],
+      [
+        0.028177610333635306,
+        1.5658988884306442,
+        0.0005003003189300942
+      ]
+    ],
+    "parentIds": [
+      "ZAG_59f232a68f0a5c"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_7567d6c42adb21",
+    "nameEn": "Left Rectus lateralis capitis muscle",
+    "sourceNodeName": "Rectus lateralis capitis muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_7567d6c42adb21"
+    ],
+    "directMeshIds": [
+      "ZA_7567d6c42adb21"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Cervical part of muscular system.g/Muscles of neck.g/Rectus lateralis capitis muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.02951774950571443,
+        1.5409315579317615,
+        -0.02536198074518456
+      ],
+      [
+        0.04177207639244797,
+        1.5622325693793935,
+        -0.007973440809885202
+      ]
+    ],
+    "parentIds": [
+      "ZAG_59f232a68f0a5c"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_99d334fa147c71",
+    "nameEn": "Left Mylohyoid muscle",
+    "sourceNodeName": "Mylohyoid muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_99d334fa147c71"
+    ],
+    "directMeshIds": [
+      "ZA_99d334fa147c71"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Cervical part of muscular system.g/Muscles of neck.g/Suprahyoid muscles.g/Mylohyoid muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        3.664719575441899e-05,
+        1.4981967785668635,
+        0.034620245060909
+      ],
+      [
+        0.026952441381550046,
+        1.5261796458143382,
+        0.07240443327665265
+      ]
+    ],
+    "parentIds": [
+      "ZAG_bb436af5590989"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_f589804d573100",
+    "nameEn": "Left Stylohyoid muscle",
+    "sourceNodeName": "Stylohyoid muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_f589804d573100"
+    ],
+    "directMeshIds": [
+      "ZA_f589804d573100"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Cervical part of muscular system.g/Muscles of neck.g/Suprahyoid muscles.g/Stylohyoid muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.009794162925288183,
+        1.4989588124235584,
+        -0.0066087503707176285
+      ],
+      [
+        0.041406542177368125,
+        1.5617317203833592,
+        0.03417796512209969
+      ]
+    ],
+    "parentIds": [
+      "ZAG_bb436af5590989"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_acb41213bf37f8",
+    "nameEn": "Left Geniohyoid muscle",
+    "sourceNodeName": "Geniohyoid muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_acb41213bf37f8"
+    ],
+    "directMeshIds": [
+      "ZA_acb41213bf37f8"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Cervical part of muscular system.g/Muscles of neck.g/Suprahyoid muscles.g/Geniohyoid muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        6.810014576281386e-05,
+        1.500680940163936,
+        0.02976643978838405
+      ],
+      [
+        0.01131135647500912,
+        1.5108182644245562,
+        0.06982536152679263
+      ]
+    ],
+    "parentIds": [
+      "ZAG_bb436af5590989"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_324ccc9e892411",
+    "nameEn": "Left Intermediate tendon of digastric muscle",
+    "sourceNodeName": "Intermediate tendon of digastric muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_324ccc9e892411"
+    ],
+    "directMeshIds": [
+      "ZA_324ccc9e892411"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Cervical part of muscular system.g/Muscles of neck.g/Suprahyoid muscles.g/Digastric muscle.g/Intermediate tendon of digastric muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.00939702801418817,
+        1.4990757945001925,
+        0.031944268950818366
+      ],
+      [
+        0.017296998077912556,
+        1.5065658462515017,
+        0.03905965925064897
+      ]
+    ],
+    "parentIds": [
+      "ZAG_3690b18ad494df"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_1c826d08c23bb7",
+    "nameEn": "Left Anterior belly of digastric muscle",
+    "sourceNodeName": "Anterior belly of digastric muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_1c826d08c23bb7"
+    ],
+    "directMeshIds": [
+      "ZA_1c826d08c23bb7"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Cervical part of muscular system.g/Muscles of neck.g/Suprahyoid muscles.g/Digastric muscle.g/Anterior belly of digastric muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.0032824305844363823,
+        1.4991729956271704,
+        0.033754993409528374
+      ],
+      [
+        0.015260352762971387,
+        1.5055062952759932,
+        0.06955373733594956
+      ]
+    ],
+    "parentIds": [
+      "ZAG_3690b18ad494df"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_3efa9a97c6a86a",
+    "nameEn": "Left Posterior belly of digastric muscle",
+    "sourceNodeName": "Posterior belly of digastric muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_3efa9a97c6a86a"
+    ],
+    "directMeshIds": [
+      "ZA_3efa9a97c6a86a"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Cervical part of muscular system.g/Muscles of neck.g/Suprahyoid muscles.g/Digastric muscle.g/Posterior belly of digastric muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.011945789559919002,
+        1.5026260626563095,
+        -0.025940481678563186
+      ],
+      [
+        0.05888707565416374,
+        1.5667470104153258,
+        0.037149376594420275
+      ]
+    ],
+    "parentIds": [
+      "ZAG_3690b18ad494df"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_8a0c794075422b",
+    "nameEn": "Left Omohyoid muscle",
+    "sourceNodeName": "Omohyoid muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_8a0c794075422b"
+    ],
+    "directMeshIds": [
+      "ZA_8a0c794075422b"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Cervical part of muscular system.g/Muscles of neck.g/Infrahyoid muscles.g/Omohyoid muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.012366912753097986,
+        1.3914185959872543,
+        -0.059775936409793784
+      ],
+      [
+        0.10315844406642777,
+        1.4979790444835461,
+        0.03370578338707938
+      ]
+    ],
+    "parentIds": [
+      "ZAG_3c30a0511b13c6"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_55fdbb244c6c6a",
+    "nameEn": "Left Sternohyoid muscle",
+    "sourceNodeName": "Sternohyoid muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_55fdbb244c6c6a"
+    ],
+    "directMeshIds": [
+      "ZA_55fdbb244c6c6a"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Cervical part of muscular system.g/Muscles of neck.g/Infrahyoid muscles.g/Sternohyoid muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.0036156641327377793,
+        1.3894378886841392,
+        0.01816065655241222
+      ],
+      [
+        0.027413387658742034,
+        1.4975429177132396,
+        0.036799196960520135
+      ]
+    ],
+    "parentIds": [
+      "ZAG_3c30a0511b13c6"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_60d5bddd05f0a5",
+    "nameEn": "Left Sternothyroid muscle",
+    "sourceNodeName": "Sternothyroid muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_60d5bddd05f0a5"
+    ],
+    "directMeshIds": [
+      "ZA_60d5bddd05f0a5"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Cervical part of muscular system.g/Muscles of neck.g/Infrahyoid muscles.g/Sternothyroid muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.004182586303517958,
+        1.3812867896878216,
+        0.008228972466080113
+      ],
+      [
+        0.022451885165130275,
+        1.4800661838528968,
+        0.03816940821734627
+      ]
+    ],
+    "parentIds": [
+      "ZAG_3c30a0511b13c6"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_e8f04a6436689d",
+    "nameEn": "Left Thyrohyoid muscle",
+    "sourceNodeName": "Thyrohyoid muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_e8f04a6436689d"
+    ],
+    "directMeshIds": [
+      "ZA_e8f04a6436689d"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Cervical part of muscular system.g/Muscles of neck.g/Infrahyoid muscles.g/Thyrohyoid muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.007528684814900778,
+        1.4665290955554042,
+        0.0071000612989513875
+      ],
+      [
+        0.019808451443398958,
+        1.4973721732976364,
+        0.032127250113792076
+      ]
+    ],
+    "parentIds": [
+      "ZAG_3c30a0511b13c6"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_074bf82a56159f",
+    "nameEn": "Left Superior pharyngeal constrictor",
+    "sourceNodeName": "Superior pharyngeal constrictor.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_074bf82a56159f"
+    ],
+    "directMeshIds": [
+      "ZA_074bf82a56159f"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Cervical part of muscular system.g/Muscles of neck.g/Pharyngeal muscles.g/Superior pharyngeal constrictor.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.0006534540023179725,
+        1.5209421932829192,
+        0.00585031339061242
+      ],
+      [
+        0.03364055845653125,
+        1.5745594206553017,
+        0.03852872739377053
+      ]
+    ],
+    "parentIds": [
+      "ZAG_0c1f9abcb56651"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_beac3114de45f7",
+    "nameEn": "Left Middle pharyngeal constrictor",
+    "sourceNodeName": "Middle pharyngeal constrictor.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_beac3114de45f7"
+    ],
+    "directMeshIds": [
+      "ZA_beac3114de45f7"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Cervical part of muscular system.g/Muscles of neck.g/Pharyngeal muscles.g/Middle pharyngeal constrictor.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.0004220304003027775,
+        1.4994703444252984,
+        0.0021119888492145034
+      ],
+      [
+        0.019200847907618595,
+        1.5452338738245783,
+        0.03368542971768658
+      ]
+    ],
+    "parentIds": [
+      "ZAG_0c1f9abcb56651"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_3351ca35dc654f",
+    "nameEn": "Left Inferior pharyngeal constrictor",
+    "sourceNodeName": "Inferior pharyngeal constrictor.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_3351ca35dc654f"
+    ],
+    "directMeshIds": [
+      "ZA_3351ca35dc654f"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Cervical part of muscular system.g/Muscles of neck.g/Pharyngeal muscles.g/Inferior pharyngeal constrictor.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.0005915077076199137,
+        1.4600694156926384,
+        -0.0037015516530334003
+      ],
+      [
+        0.022615524661143603,
+        1.525159203848081,
+        0.01063867502784771
+      ]
+    ],
+    "parentIds": [
+      "ZAG_0c1f9abcb56651"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_e6eb12113afc00",
+    "nameEn": "Left Stylopharyngeus muscle",
+    "sourceNodeName": "Stylopharyngeus muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_e6eb12113afc00"
+    ],
+    "directMeshIds": [
+      "ZA_e6eb12113afc00"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Cervical part of muscular system.g/Muscles of neck.g/Pharyngeal muscles.g/Stylopharyngeus muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.012634701884315919,
+        1.4907013927046884,
+        -0.005165548888260283
+      ],
+      [
+        0.040382516344792035,
+        1.5573941003076432,
+        0.019134645719044822
+      ]
+    ],
+    "parentIds": [
+      "ZAG_0c1f9abcb56651"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_35ace5753d6ab5",
+    "nameEn": "Left Oblique part of cricothyroid muscle",
+    "sourceNodeName": "Oblique part of cricothyroid muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_35ace5753d6ab5"
+    ],
+    "directMeshIds": [
+      "ZA_35ace5753d6ab5"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Cervical part of muscular system.g/Muscles of neck.g/Laryngeal muscles.g/Oblique part of cricothyroid muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.00489195925674379,
+        1.4588694186944378,
+        0.004580216803905642
+      ],
+      [
+        0.013733545465588423,
+        1.4681633445304485,
+        0.0204245367519788
+      ]
+    ],
+    "parentIds": [
+      "ZAG_7344551f053cb8"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_7713af344e460b",
+    "nameEn": "Left Straight part of cricothyroid muscle",
+    "sourceNodeName": "Straight part of cricothyroid muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_7713af344e460b"
+    ],
+    "directMeshIds": [
+      "ZA_7713af344e460b"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Cervical part of muscular system.g/Muscles of neck.g/Laryngeal muscles.g/Straight part of cricothyroid muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.002286322514482958,
+        1.463041584510339,
+        0.006499784491667899
+      ],
+      [
+        0.01201391427322532,
+        1.4733358004005728,
+        0.013347209682916004
+      ]
+    ],
+    "parentIds": [
+      "ZAG_7344551f053cb8"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_c6ba2e38050b62",
+    "nameEn": "Left External part of thyro-arytenoid muscle",
+    "sourceNodeName": "External part of thyro-arytenoid muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_c6ba2e38050b62"
+    ],
+    "directMeshIds": [
+      "ZA_c6ba2e38050b62"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Cervical part of muscular system.g/Muscles of neck.g/Laryngeal muscles.g/External part of thyro-arytenoid muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.0023943469713392194,
+        1.4711361948785808,
+        0.004844004549665339
+      ],
+      [
+        0.008365351008170015,
+        1.480346945773951,
+        0.02562622897769479
+      ]
+    ],
+    "parentIds": [
+      "ZAG_7344551f053cb8"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_c40a9d725cd8c6",
+    "nameEn": "Left Ary-epiglottic part of oblique arytenoid muscle",
+    "sourceNodeName": "Ary-epiglottic part of oblique arytenoid muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_c40a9d725cd8c6"
+    ],
+    "directMeshIds": [
+      "ZA_c40a9d725cd8c6"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Cervical part of muscular system.g/Muscles of neck.g/Laryngeal muscles.g/Ary-epiglottic part of oblique arytenoid muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.004799418353655677,
+        1.4813565642839006,
+        0.006787363594565842
+      ],
+      [
+        0.009042017907516155,
+        1.5047856943184963,
+        0.019419510578844976
+      ]
+    ],
+    "parentIds": [
+      "ZAG_7344551f053cb8"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_8b85c23f6abf94",
+    "nameEn": "Left Thyro-epiglottic part of thyro-arytenoid muscle",
+    "sourceNodeName": "Thyro-epiglottic part of thyro-arytenoid muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_8b85c23f6abf94"
+    ],
+    "directMeshIds": [
+      "ZA_8b85c23f6abf94"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Cervical part of muscular system.g/Muscles of neck.g/Laryngeal muscles.g/Thyro-epiglottic part of thyro-arytenoid muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.00029378531579172916,
+        1.4778877280674547,
+        0.009476110571040329
+      ],
+      [
+        0.008774811400039032,
+        1.5027913147673104,
+        0.028255366445086433
+      ]
+    ],
+    "parentIds": [
+      "ZAG_7344551f053cb8"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_7257119cf2c39d",
+    "nameEn": "Left Lateral crico-arytenoid muscle",
+    "sourceNodeName": "Lateral crico-arytenoid muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_7257119cf2c39d"
+    ],
+    "directMeshIds": [
+      "ZA_7257119cf2c39d"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Cervical part of muscular system.g/Muscles of neck.g/Laryngeal muscles.g/Lateral crico-arytenoid muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.007296568088666735,
+        1.4692682597015627,
+        -0.0008419894129340083
+      ],
+      [
+        0.011739221079345961,
+        1.4800144753970057,
+        0.009103151029363642
+      ]
+    ],
+    "parentIds": [
+      "ZAG_7344551f053cb8"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_2131354751b8df",
+    "nameEn": "Left Posterior crico-arytenoid muscle",
+    "sourceNodeName": "Posterior crico-arytenoid muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_2131354751b8df"
+    ],
+    "directMeshIds": [
+      "ZA_2131354751b8df"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Cervical part of muscular system.g/Muscles of neck.g/Laryngeal muscles.g/Posterior crico-arytenoid muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.002289565308391483,
+        1.4653122918453392,
+        -0.005494101725573562
+      ],
+      [
+        0.01137523834943422,
+        1.4796729615351722,
+        0.00024089413266593918
+      ]
+    ],
+    "parentIds": [
+      "ZAG_7344551f053cb8"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_64194f1733b26c",
+    "nameEn": "Left Dorsal parts of lateral intertransversarii lumborum muscles",
+    "sourceNodeName": "Dorsal parts of lateral intertransversarii lumborum muscles.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_64194f1733b26c"
+    ],
+    "directMeshIds": [
+      "ZA_64194f1733b26c"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Dorsal part of muscular system.g/Hypaxial muscles of back.g/Dorsal parts of lateral intertransversarii lumborum muscles.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.02009024181241318,
+        0.9964263965611062,
+        -0.056624600111485235
+      ],
+      [
+        0.048638567102866015,
+        1.1466369101898783,
+        -0.024711082991490843
+      ]
+    ],
+    "parentIds": [
+      "ZAG_63b409e126939e"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_8414c4561055a3",
+    "nameEn": "Left Ventral parts of lateral intertransversarii lumborum muscles",
+    "sourceNodeName": "Ventral parts of lateral intertransversarii lumborum muscles.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_8414c4561055a3"
+    ],
+    "directMeshIds": [
+      "ZA_8414c4561055a3"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Dorsal part of muscular system.g/Hypaxial muscles of back.g/Ventral parts of lateral intertransversarii lumborum muscles.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.012935399252249048,
+        0.9923704653908172,
+        -0.034558262070722046
+      ],
+      [
+        0.037053331595837846,
+        1.1089191060823167,
+        -0.01701041869033396
+      ]
+    ],
+    "parentIds": [
+      "ZAG_63b409e126939e"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_e1097de9e48d75",
+    "nameEn": "Left Levator scapulae",
+    "sourceNodeName": "Levator scapulae.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_e1097de9e48d75"
+    ],
+    "directMeshIds": [
+      "ZA_e1097de9e48d75"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Dorsal part of muscular system.g/Hypaxial muscles of back.g/Levator scapulae.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.025238885233001215,
+        1.3865594704389865,
+        -0.09532260755832174
+      ],
+      [
+        0.08668537169458106,
+        1.5394262686080802,
+        -0.009452888798505543
+      ]
+    ],
+    "parentIds": [
+      "ZAG_63b409e126939e"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_9fb037d9e7e1f8",
+    "nameEn": "Left Rhomboid major muscle",
+    "sourceNodeName": "Rhomboid major muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_9fb037d9e7e1f8"
+    ],
+    "directMeshIds": [
+      "ZA_9fb037d9e7e1f8"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Dorsal part of muscular system.g/Hypaxial muscles of back.g/Rhomboid major muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        -0.001015694725698597,
+        1.2592380741859295,
+        -0.11335043247203634
+      ],
+      [
+        0.08751387584672185,
+        1.439308445426585,
+        -0.08241254131211352
+      ]
+    ],
+    "parentIds": [
+      "ZAG_63b409e126939e"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_b4c1ee4a746c98",
+    "nameEn": "Left Rhomboid minor muscle",
+    "sourceNodeName": "Rhomboid minor muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_b4c1ee4a746c98"
+    ],
+    "directMeshIds": [
+      "ZA_b4c1ee4a746c98"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Dorsal part of muscular system.g/Hypaxial muscles of back.g/Rhomboid minor muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        -0.0011135299119634024,
+        1.3596467164780477,
+        -0.10241339913306921
+      ],
+      [
+        0.06425838544187433,
+        1.4607235258031226,
+        -0.06776162071254904
+      ]
+    ],
+    "parentIds": [
+      "ZAG_63b409e126939e"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_e91edc544b9cfb",
+    "nameEn": "Left Latissimus dorsi muscle",
+    "sourceNodeName": "Latissimus dorsi muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_e91edc544b9cfb"
+    ],
+    "directMeshIds": [
+      "ZA_e91edc544b9cfb"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Dorsal part of muscular system.g/Hypaxial muscles of back.g/Latissimus dorsi muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        -0.0022370235187168584,
+        0.931509794746734,
+        -0.11996430088233985
+      ],
+      [
+        0.18462817221884356,
+        1.341928150307953,
+        -0.018267546232425113
+      ]
+    ],
+    "parentIds": [
+      "ZAG_63b409e126939e"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_206cbf29bbc995",
+    "nameEn": "Left Serratus posterior inferior muscle",
+    "sourceNodeName": "Serratus posterior inferior muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_206cbf29bbc995"
+    ],
+    "directMeshIds": [
+      "ZA_206cbf29bbc995"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Dorsal part of muscular system.g/Hypaxial muscles of back.g/Serratus posterior inferior muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        -0.0025862950835005448,
+        1.0216158772744388,
+        -0.09480086583852793
+      ],
+      [
+        0.11109633458514381,
+        1.200216315944859,
+        -0.05767344629306695
+      ]
+    ],
+    "parentIds": [
+      "ZAG_63b409e126939e"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_ef7e5f7aa5f745",
+    "nameEn": "Left Serratus posterior superior muscle",
+    "sourceNodeName": "Serratus posterior superior muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_ef7e5f7aa5f745"
+    ],
+    "directMeshIds": [
+      "ZA_ef7e5f7aa5f745"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Dorsal part of muscular system.g/Hypaxial muscles of back.g/Serratus posterior superior muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        -0.001503452943203376,
+        1.3381584957988892,
+        -0.09375053647679663
+      ],
+      [
+        0.10395950764764525,
+        1.463903773112136,
+        -0.027353319584479667
+      ]
+    ],
+    "parentIds": [
+      "ZAG_63b409e126939e"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_3986f91734fc1a",
+    "nameEn": "Left Ascending part of trapezius muscle",
+    "sourceNodeName": "Ascending part of trapezius muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_3986f91734fc1a"
+    ],
+    "directMeshIds": [
+      "ZA_3986f91734fc1a"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Dorsal part of muscular system.g/Hypaxial muscles of back.g/Trapezius muscle.g/Ascending part of trapezius muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        -0.003970440123122545,
+        1.4154927781004438,
+        -0.0917146237760929
+      ],
+      [
+        0.13113392710147873,
+        1.5747382975914237,
+        0.0003779112230353299
+      ]
+    ],
+    "parentIds": [
+      "ZAG_ded3e4a7ae0fa8"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_023a8afb2c563b",
+    "nameEn": "Left Descending part of trapezius muscle",
+    "sourceNodeName": "Descending part of trapezius muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_023a8afb2c563b"
+    ],
+    "directMeshIds": [
+      "ZA_023a8afb2c563b"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Dorsal part of muscular system.g/Hypaxial muscles of back.g/Trapezius muscle.g/Descending part of trapezius muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        -0.0014916642941580883,
+        1.1200794384178008,
+        -0.13013204484381155
+      ],
+      [
+        0.13728469117904724,
+        1.4143074949955612,
+        -0.069106525045569
+      ]
+    ],
+    "parentIds": [
+      "ZAG_ded3e4a7ae0fa8"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_cc7c6828821b41",
+    "nameEn": "Left Transverse part of trapezius muscle",
+    "sourceNodeName": "Transverse part of trapezius muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_cc7c6828821b41"
+    ],
+    "directMeshIds": [
+      "ZA_cc7c6828821b41"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Dorsal part of muscular system.g/Hypaxial muscles of back.g/Trapezius muscle.g/Transverse part of trapezius muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        -0.0047282108477836714,
+        1.3696474280231519,
+        -0.11223855225204396
+      ],
+      [
+        0.16754998970025042,
+        1.4508254770658973,
+        -0.03212954192106314
+      ]
+    ],
+    "parentIds": [
+      "ZAG_ded3e4a7ae0fa8"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_ed17380924855c",
+    "nameEn": "Left Obliquus inferior capitis muscle",
+    "sourceNodeName": "Obliquus inferior capitis muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_ed17380924855c"
+    ],
+    "directMeshIds": [
+      "ZA_ed17380924855c"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Dorsal part of muscular system.g/Epaxial muscles.g/Suboccipital muscles.g/Obliquus inferior capitis muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.002917569141544536,
+        1.510324446821106,
+        -0.05170955656850903
+      ],
+      [
+        0.041592250485013825,
+        1.541807913784394,
+        -0.013937754831792557
+      ]
+    ],
+    "parentIds": [
+      "ZAG_f69c4adbbd672a"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_e8c8a918dbdfc5",
+    "nameEn": "Left Obliquus superior capitis muscle",
+    "sourceNodeName": "Obliquus superior capitis muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_e8c8a918dbdfc5"
+    ],
+    "directMeshIds": [
+      "ZA_e8c8a918dbdfc5"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Dorsal part of muscular system.g/Epaxial muscles.g/Suboccipital muscles.g/Obliquus superior capitis muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.028440978956833493,
+        1.5411614972387324,
+        -0.06548957512273812
+      ],
+      [
+        0.04277093299118664,
+        1.564100219912657,
+        -0.0156597631390588
+      ]
+    ],
+    "parentIds": [
+      "ZAG_f69c4adbbd672a"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_abdd439037a897",
+    "nameEn": "Left Rectus posterior major capitis muscle",
+    "sourceNodeName": "Rectus posterior major capitis muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_abdd439037a897"
+    ],
+    "directMeshIds": [
+      "ZA_abdd439037a897"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Dorsal part of muscular system.g/Epaxial muscles.g/Suboccipital muscles.g/Rectus posterior major capitis muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.0002579652211102257,
+        1.5144656429682875,
+        -0.06154788697407605
+      ],
+      [
+        0.03555362638502228,
+        1.5610808968526146,
+        -0.03624999217100812
+      ]
+    ],
+    "parentIds": [
+      "ZAG_f69c4adbbd672a"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_5f717a44163d38",
+    "nameEn": "Left Rectus posterior minor capitis muscle",
+    "sourceNodeName": "Rectus posterior minor capitis muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_5f717a44163d38"
+    ],
+    "directMeshIds": [
+      "ZA_5f717a44163d38"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Dorsal part of muscular system.g/Epaxial muscles.g/Suboccipital muscles.g/Rectus posterior minor capitis muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        4.067275694587646e-05,
+        1.5385161727374266,
+        -0.06857311853157165
+      ],
+      [
+        0.023679603792493297,
+        1.5644987938876878,
+        -0.043278358523749644
+      ]
+    ],
+    "parentIds": [
+      "ZAG_f69c4adbbd672a"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_31ff27b0f4d7c3",
+    "nameEn": "Left Splenius capitis muscle",
+    "sourceNodeName": "Splenius capitis muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_31ff27b0f4d7c3"
+    ],
+    "directMeshIds": [
+      "ZA_31ff27b0f4d7c3"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Dorsal part of muscular system.g/Epaxial muscles.g/Spinotransversales muscles.g/Splenius muscles.g/Splenius capitis muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        -0.0007209372676952919,
+        1.3577875259350476,
+        -0.10326550773509785
+      ],
+      [
+        0.06062090063816411,
+        1.5734315538982349,
+        -0.018954392729394032
+      ]
+    ],
+    "parentIds": [
+      "ZAG_ff5ff1919707c0"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_be0359e7c763f4",
+    "nameEn": "Left Splenius colli muscle",
+    "sourceNodeName": "Splenius colli muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_be0359e7c763f4"
+    ],
+    "directMeshIds": [
+      "ZA_be0359e7c763f4"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Dorsal part of muscular system.g/Epaxial muscles.g/Spinotransversales muscles.g/Splenius muscles.g/Splenius colli muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        -0.0010842107731163053,
+        1.2853767515459815,
+        -0.10438894483946609
+      ],
+      [
+        0.042629980585239285,
+        1.5429546711159128,
+        -0.012140381102909617
+      ]
+    ],
+    "parentIds": [
+      "ZAG_ff5ff1919707c0"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_fd6f4c77d94cd8",
+    "nameEn": "Left Iliocostalis lumborum muscle",
+    "sourceNodeName": "Iliocostalis lumborum muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_fd6f4c77d94cd8"
+    ],
+    "directMeshIds": [
+      "ZA_fd6f4c77d94cd8"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Dorsal part of muscular system.g/Epaxial muscles.g/Erector spinae.g/Iliocostalis muscles.g/Iliocostalis lumborum muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.010074489305829566,
+        0.883645645625123,
+        -0.09498334540773498
+      ],
+      [
+        0.1046342538213134,
+        1.273936208481534,
+        -0.04747190374486831
+      ]
+    ],
+    "parentIds": [
+      "ZAG_c7185eb428266e"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_ac461f767fd0bb",
+    "nameEn": "Left Iliocostalis thoracis muscle",
+    "sourceNodeName": "Iliocostalis thoracis muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_ac461f767fd0bb"
+    ],
+    "directMeshIds": [
+      "ZA_ac461f767fd0bb"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Dorsal part of muscular system.g/Epaxial muscles.g/Erector spinae.g/Iliocostalis muscles.g/Iliocostalis thoracis muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.03878602578669267,
+        1.123476984628873,
+        -0.1028042929291945
+      ],
+      [
+        0.09346167784571585,
+        1.4399366292870035,
+        -0.023259058702668468
+      ]
+    ],
+    "parentIds": [
+      "ZAG_c7185eb428266e"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_bd616030f9ef57",
+    "nameEn": "Left Longissimus thoracis muscle",
+    "sourceNodeName": "Longissimus thoracis muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_bd616030f9ef57"
+    ],
+    "directMeshIds": [
+      "ZA_bd616030f9ef57"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Dorsal part of muscular system.g/Epaxial muscles.g/Erector spinae.g/Longissimus muscles.g/Longissimus thoracis muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        -0.0016645359713548346,
+        0.9008258279044431,
+        -0.10176015858762559
+      ],
+      [
+        0.07042149819268105,
+        1.4490603184453923,
+        -0.02801125734781289
+      ]
+    ],
+    "parentIds": [
+      "ZAG_20153cb10cfa3e"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_3bd5766c9c9f5e",
+    "nameEn": "Left Longissimus capitis muscle",
+    "sourceNodeName": "Longissimus capitis muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_3bd5766c9c9f5e"
+    ],
+    "directMeshIds": [
+      "ZA_3bd5766c9c9f5e"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Dorsal part of muscular system.g/Epaxial muscles.g/Erector spinae.g/Longissimus muscles.g/Longissimus capitis muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.025183939692901624,
+        1.412851552873509,
+        -0.06747502471614122
+      ],
+      [
+        0.060436962860913566,
+        1.5700548464191775,
+        -0.015260648130106327
+      ]
+    ],
+    "parentIds": [
+      "ZAG_20153cb10cfa3e"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_72696f4ec62f12",
+    "nameEn": "Left Longissimus colli muscle",
+    "sourceNodeName": "Longissimus colli muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_72696f4ec62f12"
+    ],
+    "directMeshIds": [
+      "ZA_72696f4ec62f12"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Dorsal part of muscular system.g/Epaxial muscles.g/Erector spinae.g/Longissimus muscles.g/Longissimus colli muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.02309796984347609,
+        1.3301478978213104,
+        -0.092434004792971
+      ],
+      [
+        0.04223031081600599,
+        1.5195877880865538,
+        -0.011189553758424915
+      ]
+    ],
+    "parentIds": [
+      "ZAG_20153cb10cfa3e"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_0fc49a360e2b23",
+    "nameEn": "Left Spinalis capitis muscle",
+    "sourceNodeName": "Spinalis capitis muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_0fc49a360e2b23"
+    ],
+    "directMeshIds": [
+      "ZA_0fc49a360e2b23"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Dorsal part of muscular system.g/Epaxial muscles.g/Erector spinae.g/Spinalis muscles.g/Spinalis capitis muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.0028136270204162893,
+        1.4490555226052126,
+        -0.07938196967749947
+      ],
+      [
+        0.04431143977012731,
+        1.5731559430085869,
+        -0.02473968632786762
+      ]
+    ],
+    "parentIds": [
+      "ZAG_4153ab22da2ff3"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_77713789677c09",
+    "nameEn": "Left Spinalis colli muscle",
+    "sourceNodeName": "Spinalis colli muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_77713789677c09"
+    ],
+    "directMeshIds": [
+      "ZA_77713789677c09"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Dorsal part of muscular system.g/Epaxial muscles.g/Erector spinae.g/Spinalis muscles.g/Spinalis colli muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.0012964379145813014,
+        1.4066529994498829,
+        -0.08776229981872909
+      ],
+      [
+        0.009217932583802813,
+        1.5124206340999735,
+        -0.043948732924440764
+      ]
+    ],
+    "parentIds": [
+      "ZAG_4153ab22da2ff3"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_6ec293665e181b",
+    "nameEn": "Left Spinalis thoracis muscle",
+    "sourceNodeName": "Spinalis thoracis muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_6ec293665e181b"
+    ],
+    "directMeshIds": [
+      "ZA_6ec293665e181b"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Dorsal part of muscular system.g/Epaxial muscles.g/Erector spinae.g/Spinalis muscles.g/Spinalis thoracis muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        -0.0009640120941603614,
+        1.0335440341202824,
+        -0.10279002336505533
+      ],
+      [
+        0.011686807140308522,
+        1.4110304393154802,
+        -0.05335956313789042
+      ]
+    ],
+    "parentIds": [
+      "ZAG_4153ab22da2ff3"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_21c8a346f30e97",
+    "nameEn": "Left Multifidus colli muscle",
+    "sourceNodeName": "Multifidus colli muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_21c8a346f30e97"
+    ],
+    "directMeshIds": [
+      "ZA_21c8a346f30e97"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Dorsal part of muscular system.g/Epaxial muscles.g/Transversospinal muscles.g/Multifidus muscles.g/Multifidus colli muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.0020955053747536566,
+        1.4407448040579924,
+        -0.046640626695023515
+      ],
+      [
+        0.026067353856119625,
+        1.5388329711256226,
+        -0.023996133686612468
+      ]
+    ],
+    "parentIds": [
+      "ZAG_5e528128d495b3"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_6e147120766f7a",
+    "nameEn": "Left Multifidus thoracis muscle",
+    "sourceNodeName": "Multifidus thoracis muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_6e147120766f7a"
+    ],
+    "directMeshIds": [
+      "ZA_6e147120766f7a"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Dorsal part of muscular system.g/Epaxial muscles.g/Transversospinal muscles.g/Multifidus muscles.g/Multifidus thoracis muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.0020997728695597816,
+        1.1443757186399106,
+        -0.09447207132638955
+      ],
+      [
+        0.028304294865397883,
+        1.4522296982759964,
+        -0.04208298568089754
+      ]
+    ],
+    "parentIds": [
+      "ZAG_5e528128d495b3"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_9d3110e5475a1f",
+    "nameEn": "Left Multifidus lumborum muscle",
+    "sourceNodeName": "Multifidus lumborum muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_9d3110e5475a1f"
+    ],
+    "directMeshIds": [
+      "ZA_9d3110e5475a1f"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Dorsal part of muscular system.g/Epaxial muscles.g/Transversospinal muscles.g/Multifidus muscles.g/Multifidus lumborum muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.0034502047717556474,
+        0.9930516667322365,
+        -0.06773923956812362
+      ],
+      [
+        0.046088962164144244,
+        1.1545034441281268,
+        -0.028177220915293857
+      ]
+    ],
+    "parentIds": [
+      "ZAG_5e528128d495b3"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_e0663280afb6db",
+    "nameEn": "Left Semispinalis thoracis muscle",
+    "sourceNodeName": "Semispinalis thoracis muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_e0663280afb6db"
+    ],
+    "directMeshIds": [
+      "ZA_e0663280afb6db"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Dorsal part of muscular system.g/Epaxial muscles.g/Transversospinal muscles.g/Semispinalis muscles.g/Semispinalis thoracis muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        -0.0012548351742222596,
+        1.1495787547483713,
+        -0.09917948132805281
+      ],
+      [
+        0.03413478210977774,
+        1.4309061498631428,
+        -0.0583387226046392
+      ]
+    ],
+    "parentIds": [
+      "ZAG_bb804abf326655"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_1324bf7875a8c7",
+    "nameEn": "Left Semispinalis colli muscle",
+    "sourceNodeName": "Semispinalis colli muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_1324bf7875a8c7"
+    ],
+    "directMeshIds": [
+      "ZA_1324bf7875a8c7"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Dorsal part of muscular system.g/Epaxial muscles.g/Transversospinal muscles.g/Semispinalis muscles.g/Semispinalis colli muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.00010120006349090938,
+        1.3606415767464295,
+        -0.08372909449684358
+      ],
+      [
+        0.03405761640221158,
+        1.5031002738380854,
+        -0.03102090900303708
+      ]
+    ],
+    "parentIds": [
+      "ZAG_bb804abf326655"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_6f1a25262b2773",
+    "nameEn": "Left Rotatores",
+    "sourceNodeName": "Rotatores.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_6f1a25262b2773"
+    ],
+    "directMeshIds": [
+      "ZA_6f1a25262b2773"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Dorsal part of muscular system.g/Epaxial muscles.g/Transversospinal muscles.g/Rotatores.g/Rotatores.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.0004130125407901075,
+        0.884991634866449,
+        -0.09552454873645833
+      ],
+      [
+        0.03858380666707052,
+        1.5204130298044163,
+        -0.029015185911512354
+      ]
+    ],
+    "parentIds": [
+      "ZAG_c6bd5e398910e8"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_8ef4431e86a2f2",
+    "nameEn": "Left Interspinales colli muscles",
+    "sourceNodeName": "Interspinales colli muscles.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_8ef4431e86a2f2"
+    ],
+    "directMeshIds": [
+      "ZA_8ef4431e86a2f2"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Dorsal part of muscular system.g/Epaxial muscles.g/Interspinales muscles.g/Interspinales colli muscles.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.0005099673559183082,
+        1.4483323587336314,
+        -0.07032740476527502
+      ],
+      [
+        0.007323191466305219,
+        1.53865584086187,
+        -0.042802363863473684
+      ]
+    ],
+    "parentIds": [
+      "ZAG_fd2cd0b29e6dc0"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_3cafa3797e0fef",
+    "nameEn": "Left Interspinales thoracis muscles",
+    "sourceNodeName": "Interspinales thoracis muscles.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_3cafa3797e0fef"
+    ],
+    "directMeshIds": [
+      "ZA_3cafa3797e0fef"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Dorsal part of muscular system.g/Epaxial muscles.g/Interspinales muscles.g/Interspinales thoracis muscles.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.00012841589224844852,
+        1.381697696292357,
+        -0.09866830373986599
+      ],
+      [
+        0.007162812192913215,
+        1.4265505719487623,
+        -0.08062447708083796
+      ]
+    ],
+    "parentIds": [
+      "ZAG_fd2cd0b29e6dc0"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_4aca8792cb0736",
+    "nameEn": "Left Interspinales lumborum muscles",
+    "sourceNodeName": "Interspinales lumborum muscles.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_4aca8792cb0736"
+    ],
+    "directMeshIds": [
+      "ZA_4aca8792cb0736"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Dorsal part of muscular system.g/Epaxial muscles.g/Interspinales muscles.g/Interspinales lumborum muscles.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        -0.0011933465806122328,
+        0.9872568528179054,
+        -0.0817251031257735
+      ],
+      [
+        0.007549438997557893,
+        1.1475549864066354,
+        -0.057002213898792856
+      ]
+    ],
+    "parentIds": [
+      "ZAG_fd2cd0b29e6dc0"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_f75e9e20fe60cf",
+    "nameEn": "Left Pectoralis minor muscle",
+    "sourceNodeName": "Pectoralis minor muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_f75e9e20fe60cf"
+    ],
+    "directMeshIds": [
+      "ZA_f75e9e20fe60cf"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Thoracic part of muscular system.g/Muscles of thorax.g/Pectoralis minor muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.07640414798265854,
+        1.2613862617898597,
+        -0.01876643757238371
+      ],
+      [
+        0.13525402746877052,
+        1.4003599544384675,
+        0.07630325709916912
+      ]
+    ],
+    "parentIds": [
+      "ZAG_068469554bb90f"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_fdd0e0ea1a72e5",
+    "nameEn": "Left External intercostal muscles",
+    "sourceNodeName": "External intercostal muscles.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_fdd0e0ea1a72e5"
+    ],
+    "directMeshIds": [
+      "ZA_fdd0e0ea1a72e5"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Thoracic part of muscular system.g/Muscles of thorax.g/External intercostal muscles.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.02909713653768742,
+        1.0694065803020196,
+        -0.09762165417026417
+      ],
+      [
+        0.14095068559871085,
+        1.4416288641946335,
+        0.09721520171889292
+      ]
+    ],
+    "parentIds": [
+      "ZAG_068469554bb90f"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_5010afc2892db1",
+    "nameEn": "Left Internal intercostal muscles",
+    "sourceNodeName": "Internal intercostal muscles.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_5010afc2892db1"
+    ],
+    "directMeshIds": [
+      "ZA_5010afc2892db1"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Thoracic part of muscular system.g/Muscles of thorax.g/Internal intercostal muscles.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.013378586813487808,
+        1.0778850851855841,
+        -0.0939657659301273
+      ],
+      [
+        0.13901742381777438,
+        1.407871004944961,
+        0.11210963283821083
+      ]
+    ],
+    "parentIds": [
+      "ZAG_068469554bb90f"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_2565787006b7c4",
+    "nameEn": "Left Serratus anterior muscle",
+    "sourceNodeName": "Serratus anterior muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_2565787006b7c4"
+    ],
+    "directMeshIds": [
+      "ZA_2565787006b7c4"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Thoracic part of muscular system.g/Muscles of thorax.g/Serratus anterior muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.06215871962545333,
+        1.1479065604400098,
+        -0.11042869770340318
+      ],
+      [
+        0.1486529133953582,
+        1.4226108887762041,
+        0.06166440131681114
+      ]
+    ],
+    "parentIds": [
+      "ZAG_068469554bb90f"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_ac755afbe5489c",
+    "nameEn": "Left Innermost intercostal muscles",
+    "sourceNodeName": "Innermost intercostal muscles.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_ac755afbe5489c"
+    ],
+    "directMeshIds": [
+      "ZA_ac755afbe5489c"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Thoracic part of muscular system.g/Muscles of thorax.g/Innermost intercostal muscles.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.0432033880472682,
+        1.0840289247265897,
+        -0.09054572045749998
+      ],
+      [
+        0.13510072432012382,
+        1.4088469711398863,
+        0.09685709271729777
+      ]
+    ],
+    "parentIds": [
+      "ZAG_068469554bb90f"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_72cf45e627cec3",
+    "nameEn": "Left Subclavius muscle",
+    "sourceNodeName": "Subclavius muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_72cf45e627cec3"
+    ],
+    "directMeshIds": [
+      "ZA_72cf45e627cec3"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Thoracic part of muscular system.g/Muscles of thorax.g/Subclavius muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.026976962038530727,
+        1.3849264021449756,
+        -0.012790058678032139
+      ],
+      [
+        0.10163259284544812,
+        1.412670345120681,
+        0.04879902437039156
+      ]
+    ],
+    "parentIds": [
+      "ZAG_068469554bb90f"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_3da2881a46f4bf",
+    "nameEn": "Left Transversus thoracis muscle",
+    "sourceNodeName": "Transversus thoracis muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_3da2881a46f4bf"
+    ],
+    "directMeshIds": [
+      "ZA_3da2881a46f4bf"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Thoracic part of muscular system.g/Muscles of thorax.g/Transversus thoracis muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.00272702429185784,
+        1.2080552454449087,
+        0.05451559758722075
+      ],
+      [
+        0.08819982167780072,
+        1.3570742658731667,
+        0.10501609022810915
+      ]
+    ],
+    "parentIds": [
+      "ZAG_068469554bb90f"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_0757c23a62d31d",
+    "nameEn": "Left Clavicular head of pectoralis major muscle",
+    "sourceNodeName": "Clavicular head of pectoralis major muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_0757c23a62d31d"
+    ],
+    "directMeshIds": [
+      "ZA_0757c23a62d31d"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Thoracic part of muscular system.g/Muscles of thorax.g/Pectoralis major muscle.g/Clavicular head of pectoralis major muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.026709953007452682,
+        1.3037739042155758,
+        -0.016251251771465927
+      ],
+      [
+        0.2001462597270673,
+        1.409408584688154,
+        0.04892477317795155
+      ]
+    ],
+    "parentIds": [
+      "ZAG_2eeb194d3d854c"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_c5f91bad1cc328",
+    "nameEn": "Left Sternocostal head of pectoralis major muscle",
+    "sourceNodeName": "Sternocostal head of pectoralis major muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_c5f91bad1cc328"
+    ],
+    "directMeshIds": [
+      "ZA_c5f91bad1cc328"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Thoracic part of muscular system.g/Muscles of thorax.g/Pectoralis major muscle.g/Sternocostal head of pectoralis major muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.0032744010195207094,
+        1.212584213224302,
+        -0.015952419714510526
+      ],
+      [
+        0.1933422148660406,
+        1.3947740590334263,
+        0.1263023520897044
+      ]
+    ],
+    "parentIds": [
+      "ZAG_2eeb194d3d854c"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_0ef9b54fe98de0",
+    "nameEn": "Left (Abdominal part of pectoralis major muscle)",
+    "sourceNodeName": "(Abdominal part of pectoralis major muscle).l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_0ef9b54fe98de0"
+    ],
+    "directMeshIds": [
+      "ZA_0ef9b54fe98de0"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Thoracic part of muscular system.g/Muscles of thorax.g/Pectoralis major muscle.g/(Abdominal part of pectoralis major muscle).l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.05408064546582878,
+        1.1718326016073506,
+        -0.016804480204859615
+      ],
+      [
+        0.1861972075395017,
+        1.3487028038888347,
+        0.11619438625020788
+      ]
+    ],
+    "parentIds": [
+      "ZAG_2eeb194d3d854c"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_a8ecfe2a5104df",
+    "nameEn": "Left Levatores longi costarum",
+    "sourceNodeName": "Levatores longi costarum.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_a8ecfe2a5104df"
+    ],
+    "directMeshIds": [
+      "ZA_a8ecfe2a5104df"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Thoracic part of muscular system.g/Muscles of thorax.g/Levatores costarum.g/Levatores longi costarum.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.029622147866397906,
+        1.1250224748919626,
+        -0.09783356126239623
+      ],
+      [
+        0.07684635820581139,
+        1.4548647605099634,
+        -0.02536395305434845
+      ]
+    ],
+    "parentIds": [
+      "ZAG_82796b830e9940"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_8eae777e2537d3",
+    "nameEn": "Left Levatores breves costarum",
+    "sourceNodeName": "Levatores breves costarum.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_8eae777e2537d3"
+    ],
+    "directMeshIds": [
+      "ZA_8eae777e2537d3"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Thoracic part of muscular system.g/Muscles of thorax.g/Levatores costarum.g/Levatores breves costarum.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.023474024027185365,
+        1.1297017396795201,
+        -0.09618238562391022
+      ],
+      [
+        0.07420816181042207,
+        1.4528451333203125,
+        -0.02449227913595437
+      ]
+    ],
+    "parentIds": [
+      "ZAG_82796b830e9940"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_607fc9902feeb6",
+    "nameEn": "Left Internal abdominal oblique muscle",
+    "sourceNodeName": "Internal abdominal oblique muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_607fc9902feeb6"
+    ],
+    "directMeshIds": [
+      "ZA_607fc9902feeb6"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Abdominal part of muscular system.g/Muscles of abdomen.g/Internal abdominal oblique muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.002880630564322697,
+        0.8499056264173245,
+        -0.053271203716761056
+      ],
+      [
+        0.12742029457263704,
+        1.241615246717934,
+        0.1221448091286664
+      ]
+    ],
+    "parentIds": [
+      "ZAG_0a317432d782b3"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_15d0978f961e75",
+    "nameEn": "Left Transversus abdominis muscle",
+    "sourceNodeName": "Transversus abdominis muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_15d0978f961e75"
+    ],
+    "directMeshIds": [
+      "ZA_15d0978f961e75"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Abdominal part of muscular system.g/Muscles of abdomen.g/Transversus abdominis muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.0035423874175121205,
+        0.8411028491973848,
+        -0.06334675185381439
+      ],
+      [
+        0.13301571048662741,
+        1.262219669785529,
+        0.10408567046233287
+      ]
+    ],
+    "parentIds": [
+      "ZAG_0a317432d782b3"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_ce818a6f24a4d0",
+    "nameEn": "Left Pyramidalis muscle",
+    "sourceNodeName": "Pyramidalis muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_ce818a6f24a4d0"
+    ],
+    "directMeshIds": [
+      "ZA_ce818a6f24a4d0"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Abdominal part of muscular system.g/Muscles of abdomen.g/Pyramidalis muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.0031550242759252932,
+        0.8503626388175961,
+        0.04790939394785399
+      ],
+      [
+        0.03105153512874662,
+        0.922075370252173,
+        0.07483996479066392
+      ]
+    ],
+    "parentIds": [
+      "ZAG_0a317432d782b3"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_d3cab2d9bcc107",
+    "nameEn": "Left Quadratus lumborum muscle",
+    "sourceNodeName": "Quadratus lumborum muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_d3cab2d9bcc107"
+    ],
+    "directMeshIds": [
+      "ZA_d3cab2d9bcc107"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Abdominal part of muscular system.g/Muscles of abdomen.g/Quadratus lumborum muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.01769694290446768,
+        0.9404142703244885,
+        -0.07383112333322803
+      ],
+      [
+        0.06912768313322105,
+        1.146801382375139,
+        -0.028611633545379208
+      ]
+    ],
+    "parentIds": [
+      "ZAG_0a317432d782b3"
+    ],
+    "kind": "structure"
+  }
+]

@@ -1,0 +1,1242 @@
+{
+  "accepted": true,
+  "assetSha256": "1540a9b06f1441d100bfdec34542345a7232e0659b4a279b83cb0521456d6bb4",
+  "assetPin": {
+    "sha256": "1540a9b06f1441d100bfdec34542345a7232e0659b4a279b83cb0521456d6bb4",
+    "bytes": 469644
+  },
+  "anatomicalRepresentation": "illustrative-pathway",
+  "autonomicContribution": "sympathetic",
+  "review": {
+    "acceptedForBoundedEducationalIllustration": true,
+    "assetPin": {
+      "bytes": 469644,
+      "sha256": "1540a9b06f1441d100bfdec34542345a7232e0659b4a279b83cb0521456d6bb4"
+    },
+    "physicalIds": [
+      "VMRA_IMA_PLEXUS_01",
+      "VMRA_LEFT_COLIC_AUTONOMIC_PATH_01",
+      "VMRA_SIGMOID_AUTONOMIC_PATH_01"
+    ],
+    "targetPhysicalIds": [
+      "VMRA_DESCENDING_SIGMOID_COLON_01"
+    ],
+    "targetNameEn": "Descending & sigmoid colon",
+    "nameEn": "Inferior mesenteric plexus · colonic branches — illustrative reconstruction",
+    "sourceDatasetId": "vmra-inferior-mesenteric-plexus",
+    "authoringDatasetId": "vmra-inferior-mesenteric-plexus",
+    "anatomicalRepresentation": "illustrative-pathway",
+    "sourceScope": "illustrative-pathway",
+    "sourceCanonicalIds": [],
+    "autonomicContribution": "sympathetic",
+    "coverage": "partial-region",
+    "vertices": 9742,
+    "triangles": 19440,
+    "validationSummary": {
+      "exactExportedPositionsAndFaces": true,
+      "identityNodeTransforms": true,
+      "exactInstalledSourceBinding": true,
+      "connectedAuthoredGraphComponents": 1,
+      "declaredJunctionCount": 6,
+      "exactCenterJunctionsWithActualTubeOverlap": true,
+      "independentBodySurfacePairs": 24,
+      "independentBodySurfaceCrossings": 0,
+      "originalVesselBoundaryRings": 24,
+      "projectedMouthEdgePassages": 0,
+      "maximumOriginalOpeningPlanarityMm": 0.0031777324145246615,
+      "individualVesselComponentChecks": 18,
+      "orientedTwoWallInteriorSamples": 0,
+      "wholeActualVertexSectionScreens": [
+        {
+          "candidateId": "VMRA_IMA_PLEXUS_01",
+          "axis": 1,
+          "vertices": 1502,
+          "insideAnyClosedSectionLoop": 0,
+          "examples": [],
+          "noClosedSectionVertices": []
+        },
+        {
+          "candidateId": "VMRA_LEFT_COLIC_AUTONOMIC_PATH_01",
+          "axis": 1,
+          "vertices": 3847,
+          "insideAnyClosedSectionLoop": 0,
+          "examples": [],
+          "noClosedSectionVertices": []
+        },
+        {
+          "candidateId": "VMRA_SIGMOID_AUTONOMIC_PATH_01",
+          "axis": 1,
+          "vertices": 4386,
+          "insideAnyClosedSectionLoop": 0,
+          "examples": [],
+          "noClosedSectionVertices": []
+        }
+      ],
+      "auxiliaryWholeActualVertexRayScreens": [
+        {
+          "candidateId": "VMRA_IMA_PLEXUS_01",
+          "axis": 2,
+          "vertices": 1502,
+          "withSourceRayHits": 0,
+          "noHitsUnclassified": 1502,
+          "betweenFirstLastSourceHits": 0,
+          "examples": [],
+          "limit": "Separate folded bowel loops can make this interval overinclusive. No hit is unclassified, not exterior proof. Interpret with actual source sections and triangle crossings."
+        },
+        {
+          "candidateId": "VMRA_LEFT_COLIC_AUTONOMIC_PATH_01",
+          "axis": 2,
+          "vertices": 3847,
+          "withSourceRayHits": 90,
+          "noHitsUnclassified": 3757,
+          "betweenFirstLastSourceHits": 0,
+          "examples": [],
+          "limit": "Separate folded bowel loops can make this interval overinclusive. No hit is unclassified, not exterior proof. Interpret with actual source sections and triangle crossings."
+        },
+        {
+          "candidateId": "VMRA_SIGMOID_AUTONOMIC_PATH_01",
+          "axis": 2,
+          "vertices": 4386,
+          "withSourceRayHits": 145,
+          "noHitsUnclassified": 4241,
+          "betweenFirstLastSourceHits": 0,
+          "examples": [],
+          "limit": "Separate folded bowel loops can make this interval overinclusive. No hit is unclassified, not exterior proof. Interpret with actual source sections and triangle crossings."
+        }
+      ],
+      "otherHollowOrganActualVertexRayScreens": [
+        {
+          "candidateId": "VMRA_IMA_PLEXUS_01",
+          "targetId": "VMRA_RLQ_ZA_8814235835dbe9",
+          "axis": 2,
+          "vertices": 1502,
+          "withSourceRayHits": 4,
+          "noHitsUnclassified": 1498,
+          "betweenFirstLastSourceHits": 0,
+          "examples": [],
+          "limit": "Separate folded bowel loops can make this interval overinclusive. No hit is unclassified, not exterior proof. Interpret with actual source sections and triangle crossings."
+        },
+        {
+          "candidateId": "VMRA_IMA_PLEXUS_01",
+          "targetId": "VMRA_JEJUNUM_01",
+          "axis": 2,
+          "vertices": 1502,
+          "withSourceRayHits": 649,
+          "noHitsUnclassified": 853,
+          "betweenFirstLastSourceHits": 0,
+          "examples": [],
+          "limit": "Separate folded bowel loops can make this interval overinclusive. No hit is unclassified, not exterior proof. Interpret with actual source sections and triangle crossings."
+        },
+        {
+          "candidateId": "VMRA_LEFT_COLIC_AUTONOMIC_PATH_01",
+          "targetId": "VMRA_RLQ_ZA_8814235835dbe9",
+          "axis": 2,
+          "vertices": 3847,
+          "withSourceRayHits": 0,
+          "noHitsUnclassified": 3847,
+          "betweenFirstLastSourceHits": 0,
+          "examples": [],
+          "limit": "Separate folded bowel loops can make this interval overinclusive. No hit is unclassified, not exterior proof. Interpret with actual source sections and triangle crossings."
+        },
+        {
+          "candidateId": "VMRA_LEFT_COLIC_AUTONOMIC_PATH_01",
+          "targetId": "VMRA_JEJUNUM_01",
+          "axis": 2,
+          "vertices": 3847,
+          "withSourceRayHits": 3434,
+          "noHitsUnclassified": 413,
+          "betweenFirstLastSourceHits": 0,
+          "examples": [],
+          "limit": "Separate folded bowel loops can make this interval overinclusive. No hit is unclassified, not exterior proof. Interpret with actual source sections and triangle crossings."
+        },
+        {
+          "candidateId": "VMRA_SIGMOID_AUTONOMIC_PATH_01",
+          "targetId": "VMRA_JEJUNUM_01",
+          "axis": 2,
+          "vertices": 4386,
+          "withSourceRayHits": 4133,
+          "noHitsUnclassified": 253,
+          "betweenFirstLastSourceHits": 0,
+          "examples": [],
+          "limit": "Separate folded bowel loops can make this interval overinclusive. No hit is unclassified, not exterior proof. Interpret with actual source sections and triangle crossings."
+        }
+      ],
+      "preserved4747And6988InteractionPairs": 12,
+      "oldNerveSurfaceCrossings": 0,
+      "authorWholeContextPairs": 53,
+      "authorStrictBoundsExclusions": 457,
+      "authorWholeContextCrossings": 0
+    },
+    "terminals": [
+      {
+        "centerM": [
+          0.0754182703782858,
+          1.031957182494358,
+          0.0117046126035101
+        ],
+        "wallPointM": [
+          0.07584789537051366,
+          1.0320293192777241,
+          0.011591835608786795
+        ],
+        "face": 15278,
+        "centerDistanceMm": 0.45000000000000756,
+        "outwardNormal": [
+          -0.9547222049507954,
+          -0.16030396303555777,
+          0.25061554382955914
+        ],
+        "centerOutwardSideMm": 0.45000000000000745,
+        "terminalFiveRingsAndCapVertexWallMinimumMm": 0.4052702515184107,
+        "declaredPointErrorMm": 0.0,
+        "sections": [
+          {
+            "sectionNormalAxis": 0,
+            "closedContourCount": 5,
+            "pointContainingContourCount": 0,
+            "contours": [
+              {
+                "vertices": 220,
+                "areaMm2": 2323.2423101475774,
+                "pointInsideLoop": false,
+                "loopBoundsM": [
+                  [
+                    0.908045887,
+                    -0.009098095
+                  ],
+                  [
+                    0.994893107,
+                    0.033400472
+                  ]
+                ]
+              },
+              {
+                "vertices": 46,
+                "areaMm2": 90.40479557139575,
+                "pointInsideLoop": false,
+                "loopBoundsM": [
+                  [
+                    0.999535287,
+                    -0.004692408
+                  ],
+                  [
+                    1.014788761,
+                    0.003664921
+                  ]
+                ]
+              },
+              {
+                "vertices": 48,
+                "areaMm2": 182.04055128659414,
+                "pointInsideLoop": false,
+                "loopBoundsM": [
+                  [
+                    1.024294885,
+                    -0.008314416
+                  ],
+                  [
+                    1.041720774,
+                    0.005867055
+                  ]
+                ]
+              },
+              {
+                "vertices": 344,
+                "areaMm2": 728.0301407399659,
+                "pointInsideLoop": false,
+                "loopBoundsM": [
+                  [
+                    1.020151279,
+                    -0.010229905
+                  ],
+                  [
+                    1.12426443,
+                    0.034078844
+                  ]
+                ]
+              },
+              {
+                "vertices": 274,
+                "areaMm2": 2915.6579297056064,
+                "pointInsideLoop": false,
+                "loopBoundsM": [
+                  [
+                    0.906293821,
+                    -0.010374812
+                  ],
+                  [
+                    1.019061111,
+                    0.034702695
+                  ]
+                ]
+              }
+            ]
+          },
+          {
+            "sectionNormalAxis": 1,
+            "closedContourCount": 2,
+            "pointContainingContourCount": 0,
+            "contours": [
+              {
+                "vertices": 94,
+                "areaMm2": 972.0420466349279,
+                "pointInsideLoop": false,
+                "loopBoundsM": [
+                  [
+                    0.074688821,
+                    -0.014621241
+                  ],
+                  [
+                    0.10626511,
+                    0.023819611
+                  ]
+                ]
+              },
+              {
+                "vertices": 94,
+                "areaMm2": 1119.1211469959924,
+                "pointInsideLoop": false,
+                "loopBoundsM": [
+                  [
+                    0.073440443,
+                    -0.015867902
+                  ],
+                  [
+                    0.107522142,
+                    0.02508496
+                  ]
+                ]
+              }
+            ]
+          },
+          {
+            "sectionNormalAxis": 2,
+            "closedContourCount": 1,
+            "pointContainingContourCount": 0,
+            "contours": [
+              {
+                "vertices": 1066,
+                "areaMm2": 722.778696363946,
+                "pointInsideLoop": false,
+                "loopBoundsM": [
+                  [
+                    0.0216295,
+                    0.891508622
+                  ],
+                  [
+                    0.114033519,
+                    1.134407992
+                  ]
+                ]
+              }
+            ]
+          }
+        ],
+        "outwardProbeSections": [
+          {
+            "sectionNormalAxis": 0,
+            "closedContourCount": 7,
+            "pointContainingContourCount": 0,
+            "contours": [
+              {
+                "vertices": 214,
+                "areaMm2": 2297.11203625238,
+                "pointInsideLoop": false,
+                "loopBoundsM": [
+                  [
+                    0.907525811,
+                    -0.009217391
+                  ],
+                  [
+                    0.99398707,
+                    0.033234715
+                  ]
+                ]
+              },
+              {
+                "vertices": 28,
+                "areaMm2": 39.1447083157824,
+                "pointInsideLoop": false,
+                "loopBoundsM": [
+                  [
+                    1.001398501,
+                    -0.003591892
+                  ],
+                  [
+                    1.012306018,
+                    0.001927427
+                  ]
+                ]
+              },
+              {
+                "vertices": 26,
+                "areaMm2": 57.98052057941899,
+                "pointInsideLoop": false,
+                "loopBoundsM": [
+                  [
+                    1.027612186,
+                    -0.006925029
+                  ],
+                  [
+                    1.038030622,
+                    0.001156666
+                  ]
+                ]
+              },
+              {
+                "vertices": 276,
+                "areaMm2": 313.141022586505,
+                "pointInsideLoop": false,
+                "loopBoundsM": [
+                  [
+                    1.0457288,
+                    -0.00748453
+                  ],
+                  [
+                    1.123555948,
+                    0.03385898
+                  ]
+                ]
+              },
+              {
+                "vertices": 62,
+                "areaMm2": 344.94901875319755,
+                "pointInsideLoop": false,
+                "loopBoundsM": [
+                  [
+                    1.021626118,
+                    -0.009702153
+                  ],
+                  [
+                    1.044838704,
+                    0.010287905
+                  ]
+                ]
+              },
+              {
+                "vertices": 54,
+                "areaMm2": 178.89615307032443,
+                "pointInsideLoop": false,
+                "loopBoundsM": [
+                  [
+                    0.99753546,
+                    -0.006086524
+                  ],
+                  [
+                    1.017460311,
+                    0.005939839
+                  ]
+                ]
+              },
+              {
+                "vertices": 222,
+                "areaMm2": 2651.5758231385744,
+                "pointInsideLoop": false,
+                "loopBoundsM": [
+                  [
+                    0.905773634,
+                    -0.010493095
+                  ],
+                  [
+                    0.996419685,
+                    0.034545109
+                  ]
+                ]
+              }
+            ]
+          },
+          {
+            "sectionNormalAxis": 1,
+            "closedContourCount": 2,
+            "pointContainingContourCount": 0,
+            "contours": [
+              {
+                "vertices": 92,
+                "areaMm2": 971.3965407963029,
+                "pointInsideLoop": false,
+                "loopBoundsM": [
+                  [
+                    0.074690979,
+                    -0.014623338
+                  ],
+                  [
+                    0.106275471,
+                    0.023805195
+                  ]
+                ]
+              },
+              {
+                "vertices": 92,
+                "areaMm2": 1118.4498141357974,
+                "pointInsideLoop": false,
+                "loopBoundsM": [
+                  [
+                    0.073442551,
+                    -0.015869993
+                  ],
+                  [
+                    0.107532489,
+                    0.025070529
+                  ]
+                ]
+              }
+            ]
+          },
+          {
+            "sectionNormalAxis": 2,
+            "closedContourCount": 1,
+            "pointContainingContourCount": 0,
+            "contours": [
+              {
+                "vertices": 1068,
+                "areaMm2": 723.1551992745722,
+                "pointInsideLoop": false,
+                "loopBoundsM": [
+                  [
+                    0.021761282,
+                    0.891551068
+                  ],
+                  [
+                    0.114056023,
+                    1.134391395
+                  ]
+                ]
+              }
+            ]
+          }
+        ],
+        "inwardProbeSections": [
+          {
+            "sectionNormalAxis": 0,
+            "closedContourCount": 2,
+            "pointContainingContourCount": 1,
+            "contours": [
+              {
+                "vertices": 276,
+                "areaMm2": 2624.2703391365917,
+                "pointInsideLoop": false,
+                "loopBoundsM": [
+                  [
+                    0.909549367,
+                    -0.008710754
+                  ],
+                  [
+                    1.019433756,
+                    0.033763579
+                  ]
+                ]
+              },
+              {
+                "vertices": 670,
+                "areaMm2": 3468.53441187589,
+                "pointInsideLoop": true,
+                "loopBoundsM": [
+                  [
+                    0.907686792,
+                    -0.011302029
+                  ],
+                  [
+                    1.125985988,
+                    0.035046017
+                  ]
+                ]
+              }
+            ]
+          },
+          {
+            "sectionNormalAxis": 1,
+            "closedContourCount": 2,
+            "pointContainingContourCount": 1,
+            "contours": [
+              {
+                "vertices": 94,
+                "areaMm2": 973.5220832279672,
+                "pointInsideLoop": false,
+                "loopBoundsM": [
+                  [
+                    0.074688672,
+                    -0.014615713
+                  ],
+                  [
+                    0.106237794,
+                    0.023857616
+                  ]
+                ]
+              },
+              {
+                "vertices": 92,
+                "areaMm2": 1120.608265660154,
+                "pointInsideLoop": true,
+                "loopBoundsM": [
+                  [
+                    0.07344076,
+                    -0.015862389
+                  ],
+                  [
+                    0.107494866,
+                    0.025123007
+                  ]
+                ]
+              }
+            ]
+          },
+          {
+            "sectionNormalAxis": 2,
+            "closedContourCount": 1,
+            "pointContainingContourCount": 1,
+            "contours": [
+              {
+                "vertices": 1069,
+                "areaMm2": 721.9171797316903,
+                "pointInsideLoop": true,
+                "loopBoundsM": [
+                  [
+                    0.021282073,
+                    0.891396717
+                  ],
+                  [
+                    0.11397419,
+                    1.13445175
+                  ]
+                ]
+              }
+            ]
+          }
+        ],
+        "terminalFourBoundaryRayScreen": {
+          "fourBoundaryCentralIntervalSamples": 0,
+          "examples": [],
+          "limit": "Central four-boundary intervals are screening evidence only; folded bowel can produce multiple loops. Review together with continuous path crossings and target sections."
+        }
+      },
+      {
+        "centerM": [
+          0.056944800241615544,
+          0.9575921403762394,
+          0.018384140138693217
+        ],
+        "wallPointM": [
+          0.05718790807437334,
+          0.9573589089152323,
+          0.01808580866658808
+        ],
+        "face": 19432,
+        "centerDistanceMm": 0.45000000000011325,
+        "outwardNormal": [
+          -0.5402396283505706,
+          0.5182921355710233,
+          0.6629588269001819
+        ],
+        "centerOutwardSideMm": 0.4500000000001133,
+        "terminalFiveRingsAndCapVertexWallMinimumMm": 0.3776228054698353,
+        "declaredPointErrorMm": 0.0,
+        "sections": [
+          {
+            "sectionNormalAxis": 0,
+            "closedContourCount": 2,
+            "pointContainingContourCount": 0,
+            "contours": [
+              {
+                "vertices": 144,
+                "areaMm2": 2144.205531918825,
+                "pointInsideLoop": false,
+                "loopBoundsM": [
+                  [
+                    0.893201748,
+                    -0.015469161
+                  ],
+                  [
+                    0.95807589,
+                    0.028284136
+                  ]
+                ]
+              },
+              {
+                "vertices": 150,
+                "areaMm2": 2410.692387782326,
+                "pointInsideLoop": false,
+                "loopBoundsM": [
+                  [
+                    0.89165688,
+                    -0.017214312
+                  ],
+                  [
+                    0.959708927,
+                    0.029595577
+                  ]
+                ]
+              }
+            ]
+          },
+          {
+            "sectionNormalAxis": 1,
+            "closedContourCount": 2,
+            "pointContainingContourCount": 0,
+            "contours": [
+              {
+                "vertices": 120,
+                "areaMm2": 1454.407153732934,
+                "pointInsideLoop": false,
+                "loopBoundsM": [
+                  [
+                    0.056455388,
+                    -0.00726629
+                  ],
+                  [
+                    0.108992309,
+                    0.034366553
+                  ]
+                ]
+              },
+              {
+                "vertices": 124,
+                "areaMm2": 1665.541150787611,
+                "pointInsideLoop": false,
+                "loopBoundsM": [
+                  [
+                    0.054692854,
+                    -0.008552388
+                  ],
+                  [
+                    0.110278136,
+                    0.035612676
+                  ]
+                ]
+              }
+            ]
+          },
+          {
+            "sectionNormalAxis": 2,
+            "closedContourCount": 1,
+            "pointContainingContourCount": 0,
+            "contours": [
+              {
+                "vertices": 1008,
+                "areaMm2": 796.6007622570714,
+                "pointInsideLoop": false,
+                "loopBoundsM": [
+                  [
+                    0.031261498,
+                    0.894510409
+                  ],
+                  [
+                    0.112944991,
+                    1.131360236
+                  ]
+                ]
+              }
+            ]
+          }
+        ],
+        "outwardProbeSections": [
+          {
+            "sectionNormalAxis": 0,
+            "closedContourCount": 2,
+            "pointContainingContourCount": 0,
+            "contours": [
+              {
+                "vertices": 144,
+                "areaMm2": 2145.593184404451,
+                "pointInsideLoop": false,
+                "loopBoundsM": [
+                  [
+                    0.892989894,
+                    -0.015758969
+                  ],
+                  [
+                    0.957782196,
+                    0.028188974
+                  ]
+                ]
+              },
+              {
+                "vertices": 150,
+                "areaMm2": 2411.9832702278463,
+                "pointInsideLoop": false,
+                "loopBoundsM": [
+                  [
+                    0.891487712,
+                    -0.017498013
+                  ],
+                  [
+                    0.959462851,
+                    0.029500412
+                  ]
+                ]
+              }
+            ]
+          },
+          {
+            "sectionNormalAxis": 1,
+            "closedContourCount": 2,
+            "pointContainingContourCount": 0,
+            "contours": [
+              {
+                "vertices": 120,
+                "areaMm2": 1444.3902992693909,
+                "pointInsideLoop": false,
+                "loopBoundsM": [
+                  [
+                    0.056743785,
+                    -0.007338656
+                  ],
+                  [
+                    0.109069325,
+                    0.034366158
+                  ]
+                ]
+              },
+              {
+                "vertices": 122,
+                "areaMm2": 1655.34716580526,
+                "pointInsideLoop": false,
+                "loopBoundsM": [
+                  [
+                    0.054972496,
+                    -0.008624774
+                  ],
+                  [
+                    0.110354979,
+                    0.035612295
+                  ]
+                ]
+              }
+            ]
+          },
+          {
+            "sectionNormalAxis": 2,
+            "closedContourCount": 1,
+            "pointContainingContourCount": 0,
+            "contours": [
+              {
+                "vertices": 1006,
+                "areaMm2": 804.6848436222831,
+                "pointInsideLoop": false,
+                "loopBoundsM": [
+                  [
+                    0.031981763,
+                    0.894783523
+                  ],
+                  [
+                    0.112784648,
+                    1.131097501
+                  ]
+                ]
+              }
+            ]
+          }
+        ],
+        "inwardProbeSections": [
+          {
+            "sectionNormalAxis": 0,
+            "closedContourCount": 2,
+            "pointContainingContourCount": 1,
+            "contours": [
+              {
+                "vertices": 146,
+                "areaMm2": 2139.02560266746,
+                "pointInsideLoop": false,
+                "loopBoundsM": [
+                  [
+                    0.893800401,
+                    -0.015027479
+                  ],
+                  [
+                    0.958739728,
+                    0.028535016
+                  ]
+                ]
+              },
+              {
+                "vertices": 148,
+                "areaMm2": 2405.630091613986,
+                "pointInsideLoop": true,
+                "loopBoundsM": [
+                  [
+                    0.892148397,
+                    -0.016449511
+                  ],
+                  [
+                    0.960357673,
+                    0.029846466
+                  ]
+                ]
+              }
+            ]
+          },
+          {
+            "sectionNormalAxis": 1,
+            "closedContourCount": 2,
+            "pointContainingContourCount": 1,
+            "contours": [
+              {
+                "vertices": 122,
+                "areaMm2": 1480.4003213809701,
+                "pointInsideLoop": false,
+                "loopBoundsM": [
+                  [
+                    0.055695068,
+                    -0.007032634
+                  ],
+                  [
+                    0.108789266,
+                    0.034367594
+                  ]
+                ]
+              },
+              {
+                "vertices": 126,
+                "areaMm2": 1690.9190171675582,
+                "pointInsideLoop": true,
+                "loopBoundsM": [
+                  [
+                    0.054070338,
+                    -0.008361554
+                  ],
+                  [
+                    0.110075551,
+                    0.03561368
+                  ]
+                ]
+              }
+            ]
+          },
+          {
+            "sectionNormalAxis": 2,
+            "closedContourCount": 1,
+            "pointContainingContourCount": 1,
+            "contours": [
+              {
+                "vertices": 1020,
+                "areaMm2": 781.7157871485847,
+                "pointInsideLoop": true,
+                "loopBoundsM": [
+                  [
+                    0.029476582,
+                    0.893856846
+                  ],
+                  [
+                    0.113367713,
+                    1.132021295
+                  ]
+                ]
+              }
+            ]
+          }
+        ],
+        "terminalFourBoundaryRayScreen": {
+          "fourBoundaryCentralIntervalSamples": 0,
+          "examples": [],
+          "limit": "Central four-boundary intervals are screening evidence only; folded bowel can produce multiple loops. Review together with continuous path crossings and target sections."
+        }
+      }
+    ],
+    "metadataOnlyAmendment": {
+      "previousProvenancePin": {
+        "bytes": 138118,
+        "sha256": "1bdf5f381eccc672955ee8a5cbb916682b90c3c549d732d6855d3747de50a190"
+      },
+      "correctedProvenancePin": {
+        "bytes": 138121,
+        "sha256": "70cd37791fc8cbe1a77c0641bf94d06cb0d526f613f64ef4d9547bb2be819193"
+      },
+      "changedField": "records[pathId=sigmoid-wall-approach].terminal.approachDirection",
+      "previousValue": [
+        0.3397430172409904,
+        -0.477038587018536,
+        -0.8105608359224782
+      ],
+      "correctedValue": [
+        0.33851212868103325,
+        -0.48168985030218686,
+        -0.8083219821653326
+      ],
+      "proof": "Reverting only this field reconstructs exact previous file bytes/SHA256, including source CRLF encoding; the corrected direction independently equals the normalized final two center points.",
+      "assetPinUnchanged": true,
+      "geometryChecksRerun": false,
+      "reason": "Only derived direction metadata changed. Every center, vertex, triangle, endpoint and all audited geometry remained byte-identical.",
+      "verificationScriptPin": {
+        "bytes": 2347,
+        "sha256": "54e1046e23be663f1127bf044c9c1bb6159126aa48a6e18ef33ed5d05fc66fc6"
+      }
+    },
+    "independentPins": [
+      {
+        "bytes": 144547,
+        "sha256": "74741d859241157a904eec8456c111831ebe14f3ac7f52cafac72efc8aa43bce"
+      },
+      {
+        "bytes": 1867,
+        "sha256": "3b2c36325778b4b64b558e92d6d46286ea79eb52e7f7dd6082b0a16dbe275b5c"
+      },
+      {
+        "bytes": 26079,
+        "sha256": "0bb46eca5b557128f5094eb0294029bd9db01bba6a2d398c0b6be12bfddfd1c2"
+      },
+      {
+        "bytes": 3334,
+        "sha256": "b67f6f2907df9bcb1bb72ef3896ccbdbe1c09c8c13ceb8607fa3d4472f0b5fe6"
+      },
+      {
+        "bytes": 1434,
+        "sha256": "85e7f6d8c844015d7edbd0002a7c25d0f46ce554661d80943e180c9ee8744c23"
+      },
+      {
+        "bytes": 5500,
+        "sha256": "9641320e4a8e01ecdfd9e8a9cc6aa66e6b00f8ccce8f9ef6204021150c588315"
+      },
+      {
+        "bytes": 3652,
+        "sha256": "95deb4bbe8301dea2477593f120ae161118ba85cd91411acdad46ed5c4564224"
+      },
+      {
+        "bytes": 15068,
+        "sha256": "e5ee5d76229a9a9e9b9d1c5f3c0701c6c1a80e96a589f3a0401fb5329e0d227f"
+      },
+      {
+        "bytes": 7672,
+        "sha256": "c86ed19201d351ec06c365e2602e72e557ed43b252fc81abcedea983be48ab03"
+      }
+    ],
+    "authorPins": [
+      {
+        "bytes": 21172,
+        "sha256": "1e5b3d9329060fd6cdb9514f50388a6fb4cb3c8f3b6f4fca964cf60b0da67537"
+      },
+      {
+        "bytes": 138121,
+        "sha256": "70cd37791fc8cbe1a77c0641bf94d06cb0d526f613f64ef4d9547bb2be819193"
+      },
+      {
+        "bytes": 157935,
+        "sha256": "f1a7b956ecdedac43e03d9c5ee692d44e3bb0d3025b468c913f438776b0beabd"
+      },
+      {
+        "bytes": 24030,
+        "sha256": "a2e1454ae7beb98b20f04b822462c2ec607aaab2337509935c0b494c142bfa8c"
+      },
+      {
+        "bytes": 543476,
+        "sha256": "c4363a8fd992c0b19467220ee0854eb1f0942100d74e9fec181fea7661a9cb33"
+      }
+    ],
+    "anatomicalJudgement": [
+      "A regional peri-IMA display joins the actual source left-colic and connected sigmoid arterial neighborhoods, with separately authored neural continuations toward two independently confirmed external bowel-wall sites.",
+      "The upper entry belongs to a medial descending-colonic arterial territory and the lower entry to a sigmoid-arterial turning region. The whole compound target remains intact; these observations do not define an exact descending/sigmoid boundary.",
+      "The new structures represent a sympathetic contribution. Pelvic parasympathetic and upstream lumbar splanchnic/ganglion routes are not reconstructed or implied.",
+      "The actual source-based departure sites are along represented artery courses, not recovered source arterial terminals. The illustrative neural departures do not extend or deform any source vessel."
+    ],
+    "limitations": [
+      "Authored educational illustration, not measured nerve segmentation, clinical registration or complete innervation.",
+      "Sparse representative threads, thickness, local junctions and exact wall approaches are authored. No histological plexus, intramural branch or actual nerve termination is claimed.",
+      "The IMA regional display begins distal to the original aortic interface conflict, while retaining both represented colonic branching neighborhoods.",
+      "Positive terminal clearances describe actual exported vertex/cap samples, not a continuous triangle-to-triangle global minimum. No physical wall contact is claimed.",
+      "Original arterial mouths remain open; projected original boundary portals are auxiliary tests, not added source caps. Per-component normals, strict triangle crossings and local oriented brackets complement them.",
+      "Source-section containment can need interpretation around joined end rims; complementary actual ray intervals and local outer-wall probes are retained. Rays with no source hit are unclassified by that ray alone.",
+      "The original source anatomy and accepted 4747/6988 nerve assets remain unchanged. No exact canonical nerve aliases or artificial target subdivisions are introduced."
+    ],
+    "ownedRunningHelpers": []
+  },
+  "authorReview": {
+    "status": "accepted; frozen geometry",
+    "acceptedForBoundedEducationalIllustration": true,
+    "sourceDatasetId": "vmra-inferior-mesenteric-plexus",
+    "recommendedRegionId": "upper-abdomen",
+    "assetPin": {
+      "bytes": 469644,
+      "sha256": "1540a9b06f1441d100bfdec34542345a7232e0659b4a279b83cb0521456d6bb4"
+    },
+    "physicalIds": [
+      "VMRA_IMA_PLEXUS_01",
+      "VMRA_LEFT_COLIC_AUTONOMIC_PATH_01",
+      "VMRA_SIGMOID_AUTONOMIC_PATH_01"
+    ],
+    "targetPhysicalIds": [
+      "VMRA_DESCENDING_SIGMOID_COLON_01"
+    ],
+    "vertices": 9742,
+    "triangles": 19440,
+    "countsSummary": {
+      "physicalMeshes": 3,
+      "structuresIncludingGroup": 4,
+      "vertices": 9742,
+      "triangles": 19440,
+      "glbBytes": 469644
+    },
+    "validationSummary": {
+      "exactExportedPositionsAndFaces": true,
+      "identityNodeTransforms": true,
+      "exactInstalledSourceBinding": true,
+      "connectedAuthoredGraphComponents": 1,
+      "declaredJunctionCount": 6,
+      "exactCenterJunctionsWithActualTubeOverlap": true,
+      "independentBodySurfacePairs": 24,
+      "independentBodySurfaceCrossings": 0,
+      "originalVesselBoundaryRings": 24,
+      "projectedMouthEdgePassages": 0,
+      "individualVesselComponentChecks": 18,
+      "orientedTwoWallInteriorSamples": 0,
+      "preserved4747And6988InteractionPairs": 12,
+      "oldNerveSurfaceCrossings": 0,
+      "authorWholeContextPairs": 53,
+      "authorStrictBoundsExclusions": 457,
+      "authorWholeContextCrossings": 0
+    },
+    "files": [
+      {
+        "bytes": 3330,
+        "sha256": "1adf85015ec36c2b1d8812bbb1505593af745a43a6934b6c20a18b8ca9decdd2"
+      },
+      {
+        "bytes": 7217,
+        "sha256": "571fa2f7e1af79794ef2a1868f9b4ed5f5b522b24fc3a824c211c77aba71103b"
+      },
+      {
+        "bytes": 9331,
+        "sha256": "deec28c5963f0bb9a72f6e07274fee0781e0d8246577fff95cc4e4bb66e3174e"
+      },
+      {
+        "bytes": 1821,
+        "sha256": "9035ab8c72d64241c8ca1513375ae57df044b0ab4b02c9ef1e67c1c2c6b4e65f"
+      },
+      {
+        "bytes": 30104,
+        "sha256": "3368b34e5c4a755dc3d1bdb34f68ead7d2136ba635fd737a787395a989848d7c"
+      },
+      {
+        "bytes": 26729,
+        "sha256": "9cceab96d3c7a84f314c3abdf90096c139a6550b38449bd1a6fa76db63f09938"
+      },
+      {
+        "bytes": 6043,
+        "sha256": "e89ad4d4668feafbb06e53e5820d045fa0d73deda6a59bd4d4fd468307bfce3f"
+      },
+      {
+        "bytes": 2468,
+        "sha256": "a262e68196d6f5f8da6e66b995ab43af942bc352f6bc2d1f8c3e32416d290439"
+      },
+      {
+        "bytes": 21172,
+        "sha256": "1e5b3d9329060fd6cdb9514f50388a6fb4cb3c8f3b6f4fca964cf60b0da67537"
+      },
+      {
+        "bytes": 138121,
+        "sha256": "70cd37791fc8cbe1a77c0641bf94d06cb0d526f613f64ef4d9547bb2be819193"
+      },
+      {
+        "bytes": 157935,
+        "sha256": "f1a7b956ecdedac43e03d9c5ee692d44e3bb0d3025b468c913f438776b0beabd"
+      },
+      {
+        "bytes": 4445,
+        "sha256": "7f4c7643e968643b001a93518168da503c16eee0189c74cedb486085073505d9"
+      },
+      {
+        "bytes": 2035,
+        "sha256": "f7b70c8e1e898ac0d41e6d932ab359c17c402c91b163cff1fd115d35005590b1"
+      },
+      {
+        "bytes": 543476,
+        "sha256": "c4363a8fd992c0b19467220ee0854eb1f0942100d74e9fec181fea7661a9cb33"
+      },
+      {
+        "bytes": 3690,
+        "sha256": "ae1ead0f1b0a1bd331fb2316f26b96a09d448f010510f0a9034e77a41174d115"
+      }
+    ],
+    "independentVerdictPin": {
+      "bytes": 34241,
+      "sha256": "4103a3c485e2ce9f75104b3dc07e9984665bf3be5f5b16a10858a90aa9888a2a"
+    },
+    "publicCopyPin": {
+      "bytes": 5500,
+      "sha256": "9641320e4a8e01ecdfd9e8a9cc6aa66e6b00f8ccce8f9ef6204021150c588315"
+    },
+    "publicCreditsPin": {
+      "bytes": 3652,
+      "sha256": "95deb4bbe8301dea2477593f120ae161118ba85cd91411acdad46ed5c4564224"
+    },
+    "installLayout": "Copy assets/left-colonic-plexus.glb beside manifest.json, meshes.json, structures.json and supplied provenance/attribution. Root owns installation.",
+    "siteModifiedByThisTask": false,
+    "priorGeometryUnchanged": true,
+    "noRunningGeometryHelpers": true,
+    "accepted": true
+  },
+  "geometryProvenance": {
+    "assetPin": {
+      "sha256": "1540a9b06f1441d100bfdec34542345a7232e0659b4a279b83cb0521456d6bb4",
+      "bytes": 469644
+    },
+    "anatomicalRepresentation": "illustrative-pathway",
+    "autonomicContribution": "sympathetic",
+    "sourceCanonicalIds": [],
+    "targetPhysicalIds": [
+      "VMRA_DESCENDING_SIGMOID_COLON_01"
+    ]
+  },
+  "preservedSuperiorMesentericAssets": {
+    "mesenteric-plexus.glb": "4747fd9f6ec3cda84a06bb723947abea625e28d41ce192ca7a75ea8fe001a848",
+    "colonic-continuation.glb": "69884006206428af64ac0506e2b0de9831cbb254d2de6efd9fcdd351d16b466e"
+  },
+  "credits": {
+    "schemaVersion": 1,
+    "title": "Inferior mesenteric plexus — illustrative reconstruction",
+    "anatomicalRepresentation": "illustrative-pathway",
+    "license": "CC-BY-SA-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "modificationStatement": "New illustrative nerve surfaces follow external corridors derived from original inferior mesenteric, left-colic and sigmoid arterial surfaces. Neural departures toward the composed compound bowel wall, thread positions, thickness and junctions are authored. This is not measured nerve segmentation. Original anatomical files remain unchanged.",
+    "geometrySources": [
+      {
+        "title": "Z-Anatomy — The libre 3D atlas of anatomy",
+        "creators": [
+          "Gauthier Kervyn",
+          "Marcin Zielinski",
+          "Lluis Vinent"
+        ],
+        "sourceUrl": "https://github.com/Z-Anatomy/Models-of-human-anatomy",
+        "license": "CC-BY-SA-4.0",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+        "use": "Source arterial and intestinal geometry underlying the geometric guides and organ-facing approach. The composed intestinal surfaces include the recorded VMRA source-derived accommodation."
+      },
+      {
+        "title": "BodyParts3D",
+        "creators": [
+          "The Database Center for Life Science"
+        ],
+        "sourceUrl": "https://lifesciencedb.jp/bp3d/",
+        "license": "CC-BY-SA-2.1-JP",
+        "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.1/jp/",
+        "use": "Upstream attribution notice retained as supplied by Z-Anatomy."
+      }
+    ],
+    "anatomicalReferences": [
+      {
+        "title": "Nerves of the Abdomen",
+        "authors": "UAMS Department of Neuroscience",
+        "url": "https://medicine.uams.edu/neuroscience/education/medical-school-courses/human-structure-module/anatomy-tables/nerve-tables/nerves-of-the-abdomen/",
+        "supports": "Inferior mesenteric periarterial routes and the separate distal pelvic parasympathetic contribution.",
+        "use": "Gross anatomical relationships only; no figures or extensive text copied."
+      },
+      {
+        "title": "Characterisation of parasympathetic ascending nerves in human colon",
+        "authors": "Johnson et al.",
+        "year": 2022,
+        "doi": "10.3389/fnins.2022.1072002",
+        "url": "https://www.frontiersin.org/journals/neuroscience/articles/10.3389/fnins.2022.1072002/full",
+        "supports": "Paravascular lumbar sympathetic colonic routes toward bowel wall, distinct from pelvic-origin ascending pathways.",
+        "use": "Gross relationship evidence only; no microscopic geometry or images copied."
+      },
+      {
+        "title": "Anatomical characterization and visualization of the left dominant inferior mesenteric ganglionated plexus for nerve sparing colorectal surgery",
+        "authors": "Yaguchi and Kawashima",
+        "year": 2026,
+        "doi": "10.1038/s41598-026-39814-8",
+        "url": "https://www.nature.com/articles/s41598-026-39814-8",
+        "supports": "Variable peri-IMA and mesocolic sympathetic plexus organization; no universal ganglion shape is implied.",
+        "use": "Factual anatomical relationships only; no article artwork, specimen images or restricted derivatives used."
+      }
+    ],
+    "scopeStatement": "Representative regional sympathetic contribution toward the descending and sigmoid regions of one intact compound bowel surface. Exact nerve fibers, caliber, complete innervation and a sharp internal territorial boundary are not measured or claimed. Upstream neural connections, pelvic parasympathetic pathways and intramural branches are not represented."
+  },
+  "scopeStatement": "Representative regional sympathetic contribution toward the descending and sigmoid regions of one intact compound bowel surface. Exact nerve fibers, caliber, complete innervation and a sharp internal territorial boundary are not measured or claimed. Upstream neural connections, pelvic parasympathetic pathways and intramural branches are not represented."
+}

@@ -1,0 +1,5 @@
+VMRA source-derived gastric arterial body model
+
+Original arterial surfaces: BodyParts3D, The Database Center for Life Science, CC BY 4.0. Full original notice is retained in ORIGINAL_BP_ATTRIBUTION.txt.
+Registration context: Z-Anatomy, CC BY-SA 4.0; full original notice retained in ORIGINAL_Z_ATTRIBUTION.txt.
+This registered derivative is distributed under CC BY-SA 4.0. Positions and normals were modified as documented; original source files are unchanged. It is not measured anatomy. No private atlas artwork is included.

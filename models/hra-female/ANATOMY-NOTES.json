@@ -1,0 +1,83 @@
+[
+  {
+    "severity": "fixed",
+    "ids": [
+      "VH_F_superior_rectal_vein"
+    ],
+    "issueKo": "원본의 label과 ontology ID가 위직장동맥으로 잘못 복사됨.",
+    "evidence": {
+      "sourceNodeName": "VH_F_superior_rectal_vein",
+      "sourceParent": "VH_F_veins_of_large_intestine",
+      "sourceMaterial": "Vein_mat (blue)",
+      "conflictingLabel": "superior rectal artery",
+      "conflictingOntology": "UBERON:0035040"
+    },
+    "resolutionKo": "표시명을 Superior rectal vein으로 정정. 충돌하는 normalized conceptId/representationOf는 비움. 원본 sourceMetadata는 보존. 동맥과 함께 자동 선택하지 않음."
+  },
+  {
+    "severity": "fixed",
+    "ids": [
+      "VH_F_internal_iliac_vein_L",
+      "VH_F_internal_iliac_vein_R",
+      "VH_F_internal_pudendal_vein_L",
+      "VH_F_internal_pudendal_vein_R",
+      "VH_F_inferior_rectal_vein_L",
+      "VH_F_inferior_rectal_vein_R"
+    ],
+    "issueKo": "원본 label에 좌우가 생략되어 쌍을 하나로 오인할 수 있음.",
+    "resolutionKo": "원본 노드의 L/R을 영문 표시명에 반영. 공유된 상위 ontology ID는 실제 좌우 개체의 고유 식별자로 취급하지 않음."
+  },
+  {
+    "severity": "fixed",
+    "ids": [
+      "VH_F_cornua"
+    ],
+    "issueKo": "Cornua 단독 명칭은 다른 장기의 뿔과 혼동 가능.",
+    "resolutionKo": "원본 uterus 부모 문맥을 반영해 Uterine cornua로 표시; 원본 노드명은 보존."
+  },
+  {
+    "severity": "mapping-caution",
+    "ids": [
+      "VH_F_abdominal_ostium_of_uterine_tube"
+    ],
+    "issueKo": "원본은 abdominal ostium으로 표기하지만 uterus/cornua 그룹의 중앙 자궁 영역에 놓인 표면이다.",
+    "resolutionKo": "원위부 자궁관 깔때기의 복강쪽 개구에 대한 정확한 대응으로 자동 승인하지 않음. 원본 명칭과 위치의 불일치 가능성을 별도 검토할 항목."
+  },
+  {
+    "severity": "mapping-caution",
+    "ids": [
+      "VH_F_fundus_of_urinary_bladder_dome",
+      "VH_F_fundus_of_urinary_bladder_base"
+    ],
+    "issueKo": "서로 다른 dome/base 영역이 같은 fundus 라벨과 UBERON ID를 공유한다.",
+    "resolutionKo": "방광 전체는 HRAF_G_VH_F_urinary_bladder로 연결. 두 영역을 모두 해부학적 방광바닥으로 번역하거나 동일 개체로 합치지 않음."
+  },
+  {
+    "severity": "mapping-caution",
+    "ids": [
+      "VH_F_ureteral_orifice_L",
+      "VH_F_ureteral_orifice_R",
+      "VH_F_urinary_bladder_neck_smooth_muscle"
+    ],
+    "issueKo": "요관구와 방광목 근육을 요도구/요도로 오인할 수 있음.",
+    "resolutionKo": "원래 명칭대로 유지. 이 데이터셋에 요도 독립 메시가 있다는 주장이나 대응은 하지 않음."
+  },
+  {
+    "severity": "mapping-caution",
+    "ids": [
+      "VH_F_uterovesical_pouch",
+      "VH_F_anterior_wall_of_uterus",
+      "VH_F_posterior_wall_of_uterus"
+    ],
+    "issueKo": "공간 또는 벽/표면 구획을 표현한 메시가 포함됨.",
+    "resolutionKo": "모든 메시를 따로 절제할 수 있는 고형 장기로 설명하지 않음. 앞·뒤 벽은 해부학적 방향을 유지."
+  },
+  {
+    "severity": "counting-caution",
+    "ids": [
+      "HRAF_G_VH_F_pelvis"
+    ],
+    "issueKo": "골반 14개 메시는 양측 두덩뼈·엉덩뼈·궁둥뼈의 치밀/해면 부분과 엉치뼈·꼬리뼈를 세분한 것.",
+    "resolutionKo": "14개 뼈라고 표현하지 않음. 좌우 이름별 compound group을 쓰고, 일반 뼈조직 ontology ID만으로 서로 다른 뼈를 합치지 않음."
+  }
+]

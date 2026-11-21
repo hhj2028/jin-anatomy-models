@@ -1,0 +1,192 @@
+[
+  {
+    "id": "VMRA_IMA_PLEXUS_01",
+    "bounds": [
+      [
+        0.007984776981174946,
+        1.0277841091156006,
+        0.035791900008916855
+      ],
+      [
+        0.017819643020629883,
+        1.0624297857284546,
+        0.03880854323506355
+      ]
+    ],
+    "vertices": 1502,
+    "triangles": 3000,
+    "conceptId": "",
+    "nameEn": "Inferior mesenteric plexus",
+    "nameKo": "하장간막신경얼기",
+    "sourceNodeName": "Inferior mesenteric plexus",
+    "sourcePath": "Illustrative sympathetic pathways/Inferior mesenteric plexus/Inferior mesenteric plexus",
+    "sourceFile": "left-colonic-plexus.glb",
+    "system": "nervous",
+    "displaySystem": "nervous",
+    "meshIds": [
+      "VMRA_IMA_PLEXUS_01"
+    ],
+    "license": "CC-BY-SA-4.0",
+    "appearance": "nerve",
+    "appearanceStyle": {
+      "color": "#dfaa37",
+      "roughness": 0.62
+    },
+    "elementId": "VMRA_IMA_PLEXUS_01",
+    "anatomicalRepresentation": "illustrative-pathway",
+    "autonomicContribution": "sympathetic",
+    "sourceDatasetId": "vmra-inferior-mesenteric-plexus",
+    "geometryClassification": "illustrative-authored",
+    "isMeasuredAnatomy": false,
+    "coverage": "partial-region",
+    "noteKo": "해부학 자료와 현재 동맥 모델을 바탕으로 제작한 대표 경로입니다. 신경의 위치·굵기·국소 연결과 장벽 접근점은 재구성한 것으로 실제 표본에서 추출한 신경 형상이 아닙니다. 장벽 바로 바깥까지 표시하며, 실제 신경이 그곳에서 끝난다는 뜻은 아닙니다. 근위 신경절·내장신경 연결, 골반 부교감신경 및 장벽 안쪽의 분지는 포함하지 않습니다. 표시된 공통 경로는 하장간막동맥 주위의 일부이며, 잘린 윗부분이 실제 신경의 기시를 뜻하지 않습니다.",
+    "kind": "structure",
+    "directMeshIds": [
+      "VMRA_IMA_PLEXUS_01"
+    ],
+    "parentIds": [
+      "VMRA_IMA_PLEXUS_GROUP_01"
+    ],
+    "childIds": []
+  },
+  {
+    "id": "VMRA_LEFT_COLIC_AUTONOMIC_PATH_01",
+    "bounds": [
+      [
+        0.012997287325561047,
+        1.029611587524414,
+        0.011430058628320694
+      ],
+      [
+        0.07554852962493896,
+        1.0546177625656128,
+        0.03936938941478729
+      ]
+    ],
+    "vertices": 3850,
+    "triangles": 7680,
+    "conceptId": "",
+    "nameEn": "Left-colic sympathetic pathway",
+    "nameKo": "좌결장동맥 주위 교감신경 경로",
+    "sourceNodeName": "Left-colic sympathetic pathway",
+    "sourcePath": "Illustrative sympathetic pathways/Inferior mesenteric plexus/Left-colic sympathetic pathway",
+    "sourceFile": "left-colonic-plexus.glb",
+    "system": "nervous",
+    "displaySystem": "nervous",
+    "meshIds": [
+      "VMRA_LEFT_COLIC_AUTONOMIC_PATH_01"
+    ],
+    "license": "CC-BY-SA-4.0",
+    "appearance": "nerve",
+    "appearanceStyle": {
+      "color": "#dfaa37",
+      "roughness": 0.62
+    },
+    "elementId": "VMRA_LEFT_COLIC_AUTONOMIC_PATH_01",
+    "anatomicalRepresentation": "illustrative-pathway",
+    "autonomicContribution": "sympathetic",
+    "sourceDatasetId": "vmra-inferior-mesenteric-plexus",
+    "geometryClassification": "illustrative-authored",
+    "isMeasuredAnatomy": false,
+    "coverage": "partial-region",
+    "noteKo": "해부학 자료와 현재 동맥 모델을 바탕으로 제작한 대표 경로입니다. 신경의 위치·굵기·국소 연결과 장벽 접근점은 재구성한 것으로 실제 표본에서 추출한 신경 형상이 아닙니다. 장벽 바로 바깥까지 표시하며, 실제 신경이 그곳에서 끝난다는 뜻은 아닙니다. 근위 신경절·내장신경 연결, 골반 부교감신경 및 장벽 안쪽의 분지는 포함하지 않습니다. 표시된 공통 경로는 하장간막동맥 주위의 일부이며, 잘린 윗부분이 실제 신경의 기시를 뜻하지 않습니다.",
+    "kind": "structure",
+    "directMeshIds": [
+      "VMRA_LEFT_COLIC_AUTONOMIC_PATH_01"
+    ],
+    "parentIds": [
+      "VMRA_IMA_PLEXUS_GROUP_01"
+    ],
+    "childIds": []
+  },
+  {
+    "id": "VMRA_SIGMOID_AUTONOMIC_PATH_01",
+    "bounds": [
+      [
+        0.014495800249278545,
+        0.9568096399307251,
+        0.018209876492619514
+      ],
+      [
+        0.057222992181777954,
+        1.0321773290634155,
+        0.03728388249874115
+      ]
+    ],
+    "vertices": 4390,
+    "triangles": 8760,
+    "conceptId": "",
+    "nameEn": "Sigmoid sympathetic pathway",
+    "nameKo": "구불결장동맥 주위 교감신경 경로",
+    "sourceNodeName": "Sigmoid sympathetic pathway",
+    "sourcePath": "Illustrative sympathetic pathways/Inferior mesenteric plexus/Sigmoid sympathetic pathway",
+    "sourceFile": "left-colonic-plexus.glb",
+    "system": "nervous",
+    "displaySystem": "nervous",
+    "meshIds": [
+      "VMRA_SIGMOID_AUTONOMIC_PATH_01"
+    ],
+    "license": "CC-BY-SA-4.0",
+    "appearance": "nerve",
+    "appearanceStyle": {
+      "color": "#dfaa37",
+      "roughness": 0.62
+    },
+    "elementId": "VMRA_SIGMOID_AUTONOMIC_PATH_01",
+    "anatomicalRepresentation": "illustrative-pathway",
+    "autonomicContribution": "sympathetic",
+    "sourceDatasetId": "vmra-inferior-mesenteric-plexus",
+    "geometryClassification": "illustrative-authored",
+    "isMeasuredAnatomy": false,
+    "coverage": "partial-region",
+    "noteKo": "해부학 자료와 현재 동맥 모델을 바탕으로 제작한 대표 경로입니다. 신경의 위치·굵기·국소 연결과 장벽 접근점은 재구성한 것으로 실제 표본에서 추출한 신경 형상이 아닙니다. 장벽 바로 바깥까지 표시하며, 실제 신경이 그곳에서 끝난다는 뜻은 아닙니다. 근위 신경절·내장신경 연결, 골반 부교감신경 및 장벽 안쪽의 분지는 포함하지 않습니다. 표시된 공통 경로는 하장간막동맥 주위의 일부이며, 잘린 윗부분이 실제 신경의 기시를 뜻하지 않습니다.",
+    "kind": "structure",
+    "directMeshIds": [
+      "VMRA_SIGMOID_AUTONOMIC_PATH_01"
+    ],
+    "parentIds": [
+      "VMRA_IMA_PLEXUS_GROUP_01"
+    ],
+    "childIds": []
+  },
+  {
+    "id": "VMRA_IMA_PLEXUS_GROUP_01",
+    "nameEn": "Inferior mesenteric plexus",
+    "nameKo": "하장간막신경얼기",
+    "system": "nervous",
+    "systems": [
+      "nervous"
+    ],
+    "kind": "group",
+    "meshIds": [
+      "VMRA_IMA_PLEXUS_01",
+      "VMRA_LEFT_COLIC_AUTONOMIC_PATH_01",
+      "VMRA_SIGMOID_AUTONOMIC_PATH_01"
+    ],
+    "directMeshIds": [],
+    "parentIds": [],
+    "childIds": [
+      "VMRA_IMA_PLEXUS_01",
+      "VMRA_LEFT_COLIC_AUTONOMIC_PATH_01",
+      "VMRA_SIGMOID_AUTONOMIC_PATH_01"
+    ],
+    "bounds": [
+      [
+        0.007984776981174946,
+        0.9568096399307251,
+        0.011430058628320694
+      ],
+      [
+        0.07554852962493896,
+        1.0624297857284546,
+        0.03936938941478729
+      ]
+    ],
+    "anatomicalRepresentation": "illustrative-pathway",
+    "autonomicContribution": "sympathetic",
+    "sourceDatasetId": "vmra-inferior-mesenteric-plexus",
+    "isMeasuredAnatomy": false,
+    "coverage": "partial-region",
+    "noteKo": "해부학 자료와 현재 동맥 모델을 바탕으로 제작한 대표 경로입니다. 신경의 위치·굵기·국소 연결과 장벽 접근점은 재구성한 것으로 실제 표본에서 추출한 신경 형상이 아닙니다. 장벽 바로 바깥까지 표시하며, 실제 신경이 그곳에서 끝난다는 뜻은 아닙니다. 근위 신경절·내장신경 연결, 골반 부교감신경 및 장벽 안쪽의 분지는 포함하지 않습니다. 표시된 공통 경로는 하장간막동맥 주위의 일부이며, 잘린 윗부분이 실제 신경의 기시를 뜻하지 않습니다."
+  }
+]

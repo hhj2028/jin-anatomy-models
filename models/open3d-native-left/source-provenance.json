@@ -1,0 +1,497 @@
+{
+  "acceptedForBodyPlacement": true,
+  "assetPin": {
+    "path": "anatomy-research/unified-body-v45/full-body-anatomy-review/accepted-bone-package/native-left-bones.glb",
+    "bytes": 1254144,
+    "sha256": "36916a5c9319373cb878d5d58e66baf8d1b89614baa7999cd302a38de74a5600"
+  },
+  "sourceDatasetId": "open3d-native-left",
+  "sourcePins": [
+    {
+      "path": "vmra-anatomy/dist/models/open3d-muscles-thorax-abdomen/manifest.json",
+      "bytes": 9754,
+      "sha256": "ec97d7b070405981902a5677297cbaaa039e672df1e076ae94650f9e2bde9716"
+    },
+    {
+      "path": "vmra-anatomy/dist/models/open3d-muscles-thorax-abdomen/meshes.json",
+      "bytes": 169915,
+      "sha256": "7466fce19452f6903b5d20b078d39bcecea1732c2b9a69b26028e765c5930c79"
+    },
+    {
+      "path": "vmra-anatomy/dist/models/open3d-muscles-thorax-abdomen/open3d-muscles-thorax-abdomen-skeletal-01.glb",
+      "bytes": 1599416,
+      "sha256": "3b99be95a78097fb77b93140f0a9b500a1cd6ee5ea30d24052934fcd63344c0c"
+    },
+    {
+      "path": "vmra-anatomy/dist/models/open3d-muscles-thorax-abdomen/ATTRIBUTION.txt",
+      "bytes": 1192,
+      "sha256": "c0152d4616e9ec0cb2a0e3f7559796e0cb4c811fe9922a8eebf79c456961c675"
+    },
+    {
+      "path": "vmra-anatomy/dist/models/open3d-muscles-thorax-abdomen/CREDITS.json",
+      "bytes": 1538,
+      "sha256": "95e60d6fa7e7f8a8f517a815dcf59349aafd7b88aed1cb24201813bd486d1257"
+    }
+  ],
+  "exporterPin": {
+    "path": "anatomy-research/unified-body-v45/full-body-anatomy-review/export_source_components.py",
+    "bytes": 15771,
+    "sha256": "8db75bb6a784fa05dba5e03e457eeb1bf162666efb6d7fbc182540e378ac9ba7"
+  },
+  "sourceComponentIndexPin": {
+    "path": "anatomy-research/unified-body-v45/full-body-anatomy-review/accepted-bone-package/source-component-indices.npz",
+    "bytes": 109821,
+    "sha256": "0f0f29e703855b53ad2b084e3b64d63146c0bf76f2b0a919bab7c58e11788cb5"
+  },
+  "proofs": [
+    {
+      "id": "VMRA_NATIVE_LEFT_O3D_529cd1e2ec44af",
+      "sourceId": "O3D_529cd1e2ec44af",
+      "sourceDatasetId": "open3d-muscles-thorax-abdomen",
+      "sourceDracoSha256": "9b7860cf32563af43f8417b4f82cb3691ea6e32e774158a3cc5bdd2a0ec91c23",
+      "sourceNodeName": "Humerus",
+      "leftSourceVertexIndexSha256": "90b5d8458cdf53a9058896f0a8965a0c0de43a25599bc1f9b1b6bb36b4ecbe00",
+      "leftSourceFaceIndexSha256": "c709d16d02a2a5a05ae960259e93cee5e6b123603c40cb96a9fa63e958cad073",
+      "vertices": 4561,
+      "triangles": 8448,
+      "attributeValues": {
+        "POSITION": {
+          "sourceSubsetSha256": "15b5dcf910a2ca7fcb52abfe9d990ca374c93a606ee3b3ad24cba2c5e53ea9e5",
+          "count": 4561
+        },
+        "NORMAL": {
+          "sourceSubsetSha256": "df49b33715e39bcaa06721699dd43146c2a2bfb1b31fb570420e4197f1d482da",
+          "count": 4561
+        },
+        "TEXCOORD_0": {
+          "sourceSubsetSha256": "85fbea5d9b0db008b7a5b30e134c70f41f8dfb309d3bc77c325c94ee78215cde",
+          "count": 4561
+        }
+      },
+      "indicesRetainExactSourceTriangles": true,
+      "materialChangedOnlyByResourceIndices": true,
+      "sourceNormalLengths": {
+        "count": 4561,
+        "min": 0.9999998211860657,
+        "median": 1,
+        "p95": 1,
+        "max": 1.0000001192092896
+      },
+      "independentlyResolvedMaterialTextureSamplerImageSemanticsExact": true,
+      "resolvedMaterialSemanticSha256": "261a246796cfc57c7833fe9cd41e4caca165b776d9e86505343cfaf95d67e87e"
+    },
+    {
+      "id": "VMRA_NATIVE_LEFT_O3D_025acb3eb4f4c3",
+      "sourceId": "O3D_025acb3eb4f4c3",
+      "sourceDatasetId": "open3d-muscles-thorax-abdomen",
+      "sourceDracoSha256": "7578db0ced3644da296c1f6b555a76a1f2b5a39dd7a8753b39190b795cdeaee8",
+      "sourceNodeName": "Rib (10th)",
+      "leftSourceVertexIndexSha256": "871ac722256b643eec797b364e7df89c779af1234473292b9e9be1ceff75e53d",
+      "leftSourceFaceIndexSha256": "03d9427094285be8a570e52ec1a37d79055acd056cb2e38c8fa746974f1d436a",
+      "vertices": 2125,
+      "triangles": 3796,
+      "attributeValues": {
+        "POSITION": {
+          "sourceSubsetSha256": "821228f5e7453fe15a938bf8af5e02171053a7547228c21f70cb7c3a174958c1",
+          "count": 2125
+        },
+        "NORMAL": {
+          "sourceSubsetSha256": "960be07336846addeef08bb6059ca27848e4d5aee8b553999f2ac70272a6b50f",
+          "count": 2125
+        },
+        "TEXCOORD_0": {
+          "sourceSubsetSha256": "d6835819b2eacfd892ddf58c20eb47dfbfa6cb88922c92fb33dfe2dbab6a58e5",
+          "count": 2125
+        }
+      },
+      "indicesRetainExactSourceTriangles": true,
+      "materialChangedOnlyByResourceIndices": true,
+      "sourceNormalLengths": {
+        "count": 2125,
+        "min": 0.9999998211860657,
+        "median": 1,
+        "p95": 1,
+        "max": 1.0000001192092896
+      },
+      "independentlyResolvedMaterialTextureSamplerImageSemanticsExact": true,
+      "resolvedMaterialSemanticSha256": "556e52ee5d033e4c74265e3b1749f6e7e3900e605e71b1246af15d33ecc6c0d5"
+    },
+    {
+      "id": "VMRA_NATIVE_LEFT_O3D_ce73e88b02db18",
+      "sourceId": "O3D_ce73e88b02db18",
+      "sourceDatasetId": "open3d-muscles-thorax-abdomen",
+      "sourceDracoSha256": "22005afc7d3d924bf487cfd2bfbc46fbf8d1fd4e850277615d224e51ac418196",
+      "sourceNodeName": "Rib (11th)",
+      "leftSourceVertexIndexSha256": "24ce3a71f18b05e7471f8c052363c243f6b03748b58b9588adcd14c4e1bd4f08",
+      "leftSourceFaceIndexSha256": "5fda9adac94c0d05444492e635616776d2bcdda483f815cd15e08f5052e59d18",
+      "vertices": 1280,
+      "triangles": 2288,
+      "attributeValues": {
+        "POSITION": {
+          "sourceSubsetSha256": "885edc641566650caefc2060224181dc2de18a855b9149356fa4e071c07c9e42",
+          "count": 1280
+        },
+        "NORMAL": {
+          "sourceSubsetSha256": "d3bc5fbea9b9efc30e48326607e0b8239fac3e95b07c4a64d02a2d862e01a79b",
+          "count": 1280
+        },
+        "TEXCOORD_0": {
+          "sourceSubsetSha256": "e99eb141e06543d0c5ba02b6b973df118f863914fdb8fac259e70e0e18ddd843",
+          "count": 1280
+        }
+      },
+      "indicesRetainExactSourceTriangles": true,
+      "materialChangedOnlyByResourceIndices": true,
+      "sourceNormalLengths": {
+        "count": 1280,
+        "min": 0.9999998807907104,
+        "median": 1,
+        "p95": 1,
+        "max": 1.0000001192092896
+      },
+      "independentlyResolvedMaterialTextureSamplerImageSemanticsExact": true,
+      "resolvedMaterialSemanticSha256": "0a30f21e65ed850a6a64b3d68a7f5e7f80a6b7f9953519d7bc94a7f8758e0bea"
+    },
+    {
+      "id": "VMRA_NATIVE_LEFT_O3D_f3428a581f4473",
+      "sourceId": "O3D_f3428a581f4473",
+      "sourceDatasetId": "open3d-muscles-thorax-abdomen",
+      "sourceDracoSha256": "01affd53091146cd53f75e7053f76993eb7a40cb2ef79daf697d2c26b2be8ca5",
+      "sourceNodeName": "Rib (12th)",
+      "leftSourceVertexIndexSha256": "ba5ee9d3da3d17897fd512de3b77d499df87526be1335780624588f5cbc7c9b4",
+      "leftSourceFaceIndexSha256": "5f95b69466fd03c7c7e6ff221c6564152b05a13afa12a8b265c71defa2c61d31",
+      "vertices": 733,
+      "triangles": 1248,
+      "attributeValues": {
+        "POSITION": {
+          "sourceSubsetSha256": "1d6667f5937b25fb2f9c96699210653ad7233f88b41b5af9d862501a8dde29a7",
+          "count": 733
+        },
+        "NORMAL": {
+          "sourceSubsetSha256": "1aaa211d340704502b5b081980e6bc81a1b0de2a3cc64a3a5188e746a0a29c30",
+          "count": 733
+        },
+        "TEXCOORD_0": {
+          "sourceSubsetSha256": "ef0202aafbd84eddcb4a5c15ba9a53bf70ae120a84e52967a9ab7af6ca3ad4cd",
+          "count": 733
+        }
+      },
+      "indicesRetainExactSourceTriangles": true,
+      "materialChangedOnlyByResourceIndices": true,
+      "sourceNormalLengths": {
+        "count": 733,
+        "min": 0.9999998807907104,
+        "median": 1,
+        "p95": 1,
+        "max": 1.0000001192092896
+      },
+      "independentlyResolvedMaterialTextureSamplerImageSemanticsExact": true,
+      "resolvedMaterialSemanticSha256": "4e1c951abe133feae43c5f60523d895980c1ff15a4d0ed60e703d131f9a3963e"
+    },
+    {
+      "id": "VMRA_NATIVE_LEFT_O3D_12566afc8ac71c",
+      "sourceId": "O3D_12566afc8ac71c",
+      "sourceDatasetId": "open3d-muscles-thorax-abdomen",
+      "sourceDracoSha256": "3ced1e51e758a0ae75dfd675ba56d8844720240a3974362284a816bdef47a0a0",
+      "sourceNodeName": "Rib (2nd)",
+      "leftSourceVertexIndexSha256": "77b1e822f73355c8ccbd497c4f5cbabd2e868545c812e967c589d11f41304e7c",
+      "leftSourceFaceIndexSha256": "da1bc7e64ab1c4b76f9b82659cb2f5806e234ca32dac64881a7c11d84810d827",
+      "vertices": 1709,
+      "triangles": 3022,
+      "attributeValues": {
+        "POSITION": {
+          "sourceSubsetSha256": "8c1ac66da10da29916667d1a3e104f6b7b1239c2bcf3a7c308773250513c21ab",
+          "count": 1709
+        },
+        "NORMAL": {
+          "sourceSubsetSha256": "b43afb4265fbf65e8b6d54afc0e06c5fbb2a780d87c533d0d5448a808cbbc9c5",
+          "count": 1709
+        },
+        "TEXCOORD_0": {
+          "sourceSubsetSha256": "24909c3cf17d8aa938d5e1c830c03ca11f1c7dcc77a20403648b598730d9afa5",
+          "count": 1709
+        }
+      },
+      "indicesRetainExactSourceTriangles": true,
+      "materialChangedOnlyByResourceIndices": true,
+      "sourceNormalLengths": {
+        "count": 1709,
+        "min": 0.9999998211860657,
+        "median": 1,
+        "p95": 1,
+        "max": 1.0000001192092896
+      },
+      "independentlyResolvedMaterialTextureSamplerImageSemanticsExact": true,
+      "resolvedMaterialSemanticSha256": "e5bb02f181da0123be44c035581c2056b2fc2371ce397915f6adc261978207eb"
+    },
+    {
+      "id": "VMRA_NATIVE_LEFT_O3D_d0e1cb2dc7975a",
+      "sourceId": "O3D_d0e1cb2dc7975a",
+      "sourceDatasetId": "open3d-muscles-thorax-abdomen",
+      "sourceDracoSha256": "79bd0c392835996e793c579b58bc6b1b62e2f099139e337f1d305d248369597d",
+      "sourceNodeName": "Rib (3rd)",
+      "leftSourceVertexIndexSha256": "9378e281a21c8112dd38f9ef353cde5d6551bf0f2092d6b52faa40824191062d",
+      "leftSourceFaceIndexSha256": "c29a6abea0b7230eb44aebe1b5a05a797e21713707c0c83ee3621317dc71d805",
+      "vertices": 2187,
+      "triangles": 3906,
+      "attributeValues": {
+        "POSITION": {
+          "sourceSubsetSha256": "cb87974831b0ccf922fdf9566cc6b47fe00621d1a00bb4695e71681f3a7fec4f",
+          "count": 2187
+        },
+        "NORMAL": {
+          "sourceSubsetSha256": "83719c48f9012b9c55383856c209976223a3cf4b3519ca89ce1e70ef38dbf999",
+          "count": 2187
+        },
+        "TEXCOORD_0": {
+          "sourceSubsetSha256": "1105e4a248e8eeb2f314f5d0cf8a1358dd219d89d6de68a88393f423034ce331",
+          "count": 2187
+        }
+      },
+      "indicesRetainExactSourceTriangles": true,
+      "materialChangedOnlyByResourceIndices": true,
+      "sourceNormalLengths": {
+        "count": 2187,
+        "min": 0.9999998211860657,
+        "median": 1,
+        "p95": 1,
+        "max": 1.0000001192092896
+      },
+      "independentlyResolvedMaterialTextureSamplerImageSemanticsExact": true,
+      "resolvedMaterialSemanticSha256": "30d85ef5a307fff5717f4ac6bfca6de576408425be8b969f3cceded062d03d0c"
+    },
+    {
+      "id": "VMRA_NATIVE_LEFT_O3D_11991810878b71",
+      "sourceId": "O3D_11991810878b71",
+      "sourceDatasetId": "open3d-muscles-thorax-abdomen",
+      "sourceDracoSha256": "b36626904d63b814c2e4e8cb255cbb5acb27a7cc09093a646f9e44db4f710521",
+      "sourceNodeName": "Rib (4th)",
+      "leftSourceVertexIndexSha256": "addf287bc698e31da7c7843dc3036a6aefcf1b15c815d37aae5647b8c8926136",
+      "leftSourceFaceIndexSha256": "3b8e92c3019c52958b8d70c7bc10d381382c92f50b4c671488ad8c3474e2a595",
+      "vertices": 2659,
+      "triangles": 4772,
+      "attributeValues": {
+        "POSITION": {
+          "sourceSubsetSha256": "12fbb9d356b7078ffc82af09cab896135836da7bbf1f9bc969ba0569a57799c8",
+          "count": 2659
+        },
+        "NORMAL": {
+          "sourceSubsetSha256": "4c535de75cef3293e26236be67097095bde05b5f83ecd72e3c783461a0035502",
+          "count": 2659
+        },
+        "TEXCOORD_0": {
+          "sourceSubsetSha256": "0de6f255fd5a00dd41fddf4ec201ec13befa004606987c881863ce9bee990594",
+          "count": 2659
+        }
+      },
+      "indicesRetainExactSourceTriangles": true,
+      "materialChangedOnlyByResourceIndices": true,
+      "sourceNormalLengths": {
+        "count": 2659,
+        "min": 0.9999998807907104,
+        "median": 1,
+        "p95": 1,
+        "max": 1.0000001192092896
+      },
+      "independentlyResolvedMaterialTextureSamplerImageSemanticsExact": true,
+      "resolvedMaterialSemanticSha256": "ec08a42e390bbaa59a6c20756d720748105f6339db69b290016937ef57ef4e55"
+    },
+    {
+      "id": "VMRA_NATIVE_LEFT_O3D_8bddca95bf4356",
+      "sourceId": "O3D_8bddca95bf4356",
+      "sourceDatasetId": "open3d-muscles-thorax-abdomen",
+      "sourceDracoSha256": "1806212420a49dbc8fc86232207b6fe47203a54b72c708e1f20dc41454ab91a9",
+      "sourceNodeName": "Rib (7th)",
+      "leftSourceVertexIndexSha256": "1549988f42246250b4b5a5cb978f65ce7242fa6266e46d40fe770a8596d0859f",
+      "leftSourceFaceIndexSha256": "e7f48bcef326f37f8ae21a167f7260a58fdbbdd34b6f2c87edb803e5370d9351",
+      "vertices": 1982,
+      "triangles": 3550,
+      "attributeValues": {
+        "POSITION": {
+          "sourceSubsetSha256": "33c3aacf5efd429edd3e19e582a7ecf410a2f1efe219ad1f5b1e6a36a3e04376",
+          "count": 1982
+        },
+        "NORMAL": {
+          "sourceSubsetSha256": "3a5e7a221f9a4c79ae53637dfa28a311ab69eca071dccfdbc7a5be97e5bb4d41",
+          "count": 1982
+        },
+        "TEXCOORD_0": {
+          "sourceSubsetSha256": "346b5781b7f86f486db6601e6e9942286d02037ff374ce59afd89cc8b7bd1398",
+          "count": 1982
+        }
+      },
+      "indicesRetainExactSourceTriangles": true,
+      "materialChangedOnlyByResourceIndices": true,
+      "sourceNormalLengths": {
+        "count": 1982,
+        "min": 0.9999998807907104,
+        "median": 1,
+        "p95": 1,
+        "max": 1.0000001192092896
+      },
+      "independentlyResolvedMaterialTextureSamplerImageSemanticsExact": true,
+      "resolvedMaterialSemanticSha256": "a6f9fc0736dcc7a2d6626d054dcde4a841b54380d134f07a35f5078c84e61c5f"
+    },
+    {
+      "id": "VMRA_NATIVE_LEFT_O3D_de2781bd871d9d",
+      "sourceId": "O3D_de2781bd871d9d",
+      "sourceDatasetId": "open3d-muscles-thorax-abdomen",
+      "sourceDracoSha256": "8fb49d773d9be06535e26d284b0877568cabd89e5b77221fa6722e1df573743c",
+      "sourceNodeName": "Rib (8th)",
+      "leftSourceVertexIndexSha256": "e95de8777e0d66841ffccafb9b1d4e8053836bf564ccac10615645fdf6c98527",
+      "leftSourceFaceIndexSha256": "7e83d651c42bfedac7d287c5fb08affdcde44e6845242ff01c6836c657b90fc2",
+      "vertices": 2160,
+      "triangles": 3904,
+      "attributeValues": {
+        "POSITION": {
+          "sourceSubsetSha256": "7ef1d7968bb043bdae7b60d857393cfd8ddc43cbace92ebfefb4f843d20a2878",
+          "count": 2160
+        },
+        "NORMAL": {
+          "sourceSubsetSha256": "ebe3f2151d8189cdd311f930cc3a6a139fd526e5d8d7cee979ea5f4f63194820",
+          "count": 2160
+        },
+        "TEXCOORD_0": {
+          "sourceSubsetSha256": "3af04bd69a2c61d13732aa9c6b0991c337fb83414c045da1dfd54a18ee4c1a9b",
+          "count": 2160
+        }
+      },
+      "indicesRetainExactSourceTriangles": true,
+      "materialChangedOnlyByResourceIndices": true,
+      "sourceNormalLengths": {
+        "count": 2160,
+        "min": 0.9999998807907104,
+        "median": 1,
+        "p95": 1,
+        "max": 1.0000001192092896
+      },
+      "independentlyResolvedMaterialTextureSamplerImageSemanticsExact": true,
+      "resolvedMaterialSemanticSha256": "5725c8be6a803ef7174f4bdb4e8cd515731f42dc0ee95b460f9d0d82faa65f8e"
+    },
+    {
+      "id": "VMRA_NATIVE_LEFT_O3D_5f2e3583be1966",
+      "sourceId": "O3D_5f2e3583be1966",
+      "sourceDatasetId": "open3d-muscles-thorax-abdomen",
+      "sourceDracoSha256": "372b5e3251bb51b3b435b2adf9550d8101e5a843f75b2aed2802199641d9efd6",
+      "sourceNodeName": "Rib (9th)",
+      "leftSourceVertexIndexSha256": "c0b593b16540b37b38407a5eaffb9f616bdeddcf719cd7346676f9a75ee448c9",
+      "leftSourceFaceIndexSha256": "539dfdb0b188ebc458169059b5bd81fdb8940e78aee1292d86257237bb884f99",
+      "vertices": 2051,
+      "triangles": 3698,
+      "attributeValues": {
+        "POSITION": {
+          "sourceSubsetSha256": "b22b6f00728ddeae544d6ddf12ed95df7be62adfd47e1c6a7f3b0f86604b08c2",
+          "count": 2051
+        },
+        "NORMAL": {
+          "sourceSubsetSha256": "80a093f8f2f755f875193e29ef737ccb3f9f77e2375e99cb997fda1b2a49de26",
+          "count": 2051
+        },
+        "TEXCOORD_0": {
+          "sourceSubsetSha256": "b20c7ce24a7442b2ecaf46320be0805020415014ad5852c634f905370e914d43",
+          "count": 2051
+        }
+      },
+      "indicesRetainExactSourceTriangles": true,
+      "materialChangedOnlyByResourceIndices": true,
+      "sourceNormalLengths": {
+        "count": 2051,
+        "min": 0.9999998211860657,
+        "median": 1,
+        "p95": 1,
+        "max": 1.0000001192092896
+      },
+      "independentlyResolvedMaterialTextureSamplerImageSemanticsExact": true,
+      "resolvedMaterialSemanticSha256": "62f5c3141e070e284b00374dc7d433f2f5026a8de7c7c685399b7635756a88ef"
+    },
+    {
+      "id": "VMRA_NATIVE_LEFT_O3D_2dd47663fd9252",
+      "sourceId": "O3D_2dd47663fd9252",
+      "sourceDatasetId": "open3d-muscles-thorax-abdomen",
+      "sourceDracoSha256": "2664ec36c825fb19b96077e08253ef251accececed319c8aaf66036c9665cef2",
+      "sourceNodeName": "Scapula",
+      "leftSourceVertexIndexSha256": "9fc17ef09c7f80cb138970a6b8c0742cff0ee06d882bf65fa598f74cab6b7f17",
+      "leftSourceFaceIndexSha256": "817fd2db3d05d8f958de350100e2ee21416c46dbdca39bb549c530a969a2b4de",
+      "vertices": 4929,
+      "triangles": 9180,
+      "attributeValues": {
+        "POSITION": {
+          "sourceSubsetSha256": "37fee0d19d28f0b7b48cec26f94a44e26f452ecc311d4fa2cbb98c24bb60c8ce",
+          "count": 4929
+        },
+        "NORMAL": {
+          "sourceSubsetSha256": "98aebcf75f5ef4d491e1bcdcb57554f1684297066caf6d58f11fa16c282ce80d",
+          "count": 4929
+        },
+        "TEXCOORD_0": {
+          "sourceSubsetSha256": "0182935733cb3780f7cf35ec959095ea92a0b424a1c9b9969edc14af87878ede",
+          "count": 4929
+        }
+      },
+      "indicesRetainExactSourceTriangles": true,
+      "materialChangedOnlyByResourceIndices": true,
+      "sourceNormalLengths": {
+        "count": 4929,
+        "min": 0.9999998807907104,
+        "median": 1,
+        "p95": 1,
+        "max": 1.0000001192092896
+      },
+      "independentlyResolvedMaterialTextureSamplerImageSemanticsExact": true,
+      "resolvedMaterialSemanticSha256": "bba16f65b6881d10cdc0753aefe1434970d42b85bbc2c45276df78e2c9ecae53"
+    }
+  ],
+  "decodedAllAttributesAndIndicesExact": true,
+  "identityTransforms": true,
+  "imageResourceCount": 11,
+  "imageBytesTotal": 97159,
+  "classification": "Exact original connected-component subset; body placement reviewed separately.",
+  "bodyPlacementReviewFile": "body-placement-review.json",
+  "bodyPlacementScope": {
+    "leftRibsPresent": [
+      2,
+      3,
+      4,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+    ],
+    "leftRibsHeld": [
+      1,
+      5,
+      6
+    ],
+    "otherLeftBonesPresent": [
+      "humerus",
+      "scapula"
+    ],
+    "canonicalRibsStatus": "partial",
+    "genericRibStatus": "partial",
+    "individualNewBoneScope": "one complete original surface"
+  },
+  "bodyPlacementLimitations": [
+    "This educational composition adds eleven intact original left bone components. It is not a complete left skeleton, limb, head/neck or measured whole-human atlas.",
+    "No mirroring, coordinate transform, triangle slicing, source anatomical deformation or new inferred bone surface is used. Original right physical IDs and raw datasets remain untouched.",
+    "The retained rib interfaces are not collision-free: original posterior muscle attachment and cartilage/joint surface overlaps remain. The largest retained sampled muscle-to-bone overlap is 3.052447 mm at second rib / levatores costarum breves.",
+    "The existing Z diaphragm contacts ribs 9–12 at costal/posterior attachment regions. Sampled depths are respectively 0.999602, 1.426751, 0.519560 and 2.192070 mm. Original Z rib comparisons already have related residuals of 1.487783, 1.919304, 0.940294 and 1.889180 mm; shared ancestry does not establish exact interface registration.",
+    "These are accepted as disclosed bounded source-model attachment residuals for gross educational viewing, not as measured entheses, physiological tissue fusion, clinical segmentation or exact layer separation.",
+    "Clavicle, hip, first/fifth/sixth ribs remain held. Ribs as a canonical group must stay partial; only available numbered source bones are represented.",
+    "The source Humerus and Scapula components establish intact left bones and their original shared frame only. Left forearm/hand and shoulder soft-tissue completion is not inferred.",
+    "Triangle crossing counts and finite contained vertex/centroid depth samples are reproducible diagnostics, not continuous volume overlap or global Hausdorff bounds.",
+    "Some original retained Right-labelled muscle and vein nodes contain both sides. Source names and physical extent are distinct; new left bone names are independently supported by complete positive-X source components.",
+    "Original material, normal, UV and resolved texture/image values are preserved. Mixed original licensing and attribution notices are included; no new licence is granted."
+  ],
+  "regionTablePin": {
+    "path": "vmra-anatomy/dist/body-bone-regions.js",
+    "bytes": 5720,
+    "sha256": "c27a833be3b6dcee87eef737ce0a7878ccbc02dde3e31aa0523514cc68cc54e5"
+  },
+  "currentExporterWrapperPin": {
+    "path": "anatomy-research/unified-body-v45/full-body-anatomy-review/prepare_accepted_bone_subset.py",
+    "bytes": 11386,
+    "sha256": "0f56a973b439d16c4644792d0051f3fe6c98761646ea8c096f7dda2c809e8f1e"
+  }
+}

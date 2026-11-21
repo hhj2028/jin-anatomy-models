@@ -1,0 +1,7 @@
+VMRA source-derived native rectal interfaces
+
+Source: Open3D Anatomy / AnatomyTOOL male pelvis and perineum; full original credit and licensing notices are retained in ORIGINAL_ATTRIBUTION.txt and CREDITS.json.
+
+Modification: bounded distal geometric accommodation to the reviewed rectal wall. Full original physical branch extent, source triangle rows/corners, UV attributes and material records retained; positions and geometry normals changed as documented. New derived physical IDs, not measured anatomy. Raw original datasets unchanged. No UBC muscle texture is included in these artery, vein and nerve primitives.
+
+Model: CC BY-SA 4.0. Source-specific notices and upstream credits remain applicable.

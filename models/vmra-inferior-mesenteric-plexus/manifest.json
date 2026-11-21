@@ -1,0 +1,54 @@
+{
+  "dataset": "VMRA illustrative inferior mesenteric plexus",
+  "datasetId": "vmra-inferior-mesenteric-plexus",
+  "sourceUrl": "https://github.com/Z-Anatomy/Models-of-human-anatomy",
+  "license": "CC BY-SA 4.0; retain supplied BodyParts3D upstream notice",
+  "licenseSourceUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+  "attribution": "VMRA Anatomy Studio (2026); Z-Anatomy / BodyParts3D source geometry credits retained.",
+  "modifications": "New illustrative nerve surfaces follow external corridors derived from original inferior mesenteric, left-colic and sigmoid arterial surfaces. Neural departures toward the composed compound bowel wall, thread positions, thickness and junctions are authored. This is not measured nerve segmentation. Original anatomical files remain unchanged.",
+  "coordinates": {
+    "up": "+Y",
+    "front": "+Z",
+    "left": "+X",
+    "units": "metres",
+    "bounds": [
+      [
+        0.007984776981174946,
+        0.9568096399307251,
+        0.011430058628320694
+      ],
+      [
+        0.07554852962493896,
+        1.0624297857284546,
+        0.03936938941478729
+      ]
+    ],
+    "sourceToApp": "Identity in the existing composed body frame"
+  },
+  "geometryMeshCount": 3,
+  "structureCount": 4,
+  "triangleCount": 19440,
+  "totalGlbBytes": 469644,
+  "geometryFile": "meshes.json",
+  "structuresFile": "structures.json",
+  "anatomicalRepresentation": "illustrative-pathway",
+  "chunks": [
+    {
+      "file": "left-colonic-plexus.glb",
+      "system": "nervous",
+      "bytes": 469644,
+      "meshCount": 3,
+      "meshIds": [
+        "VMRA_IMA_PLEXUS_01",
+        "VMRA_LEFT_COLIC_AUTONOMIC_PATH_01",
+        "VMRA_SIGMOID_AUTONOMIC_PATH_01"
+      ],
+      "sha256": "1540a9b06f1441d100bfdec34542345a7232e0659b4a279b83cb0521456d6bb4"
+    }
+  ],
+  "limitations": [
+    "Representative regional sympathetic contribution toward the descending and sigmoid regions of one intact compound bowel surface. Exact nerve fibers, caliber, complete innervation and a sharp internal territorial boundary are not measured or claimed. Upstream neural connections, pelvic parasympathetic pathways and intramural branches are not represented.",
+    "The displayed IMA regional path does not include its upstream origin. No proximal nerve origin is implied."
+  ],
+  "provenanceFile": "source-provenance.json"
+}

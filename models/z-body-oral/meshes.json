@@ -1,0 +1,230 @@
+[
+  {
+    "id": "ZA_6b3996016be69d",
+    "conceptId": "",
+    "nameEn": "Hyoid bone",
+    "sourceNodeName": "Hyoid bone",
+    "sourcePath": "SkeletalSystem100.fbx/RootNode/Extracranial bones of head.g/Hyoid bone",
+    "sourceFile": "SkeletalSystem100.fbx",
+    "sourceMaterialNames": [
+      "Bone.001"
+    ],
+    "system": "skeletal",
+    "meshIds": [
+      "ZA_6b3996016be69d"
+    ],
+    "bounds": [
+      [
+        -0.022744399487305847,
+        1.4915178713846353,
+        0.003027485801118801
+      ],
+      [
+        0.022744432865907813,
+        1.5110311290657714,
+        0.03899828201637268
+      ]
+    ],
+    "vertices": 664,
+    "triangles": 1324,
+    "dracoBytes": 12012,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "bone",
+    "appearanceStyle": {
+      "color": "#e3d7b5",
+      "roughness": 0.7
+    },
+    "displaySystem": "skeletal"
+  },
+  {
+    "id": "ZA_ea1796261f16e0",
+    "conceptId": "",
+    "nameEn": "Right Hyoglossus muscle",
+    "sourceNodeName": "Hyoglossus muscle.r",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Cranial part of muscular system.g/Muscles of head.g/Muscles of tongue.g/Hyoglossus muscle.r",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Ingestion"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_ea1796261f16e0"
+    ],
+    "bounds": [
+      [
+        -0.013022490073715268,
+        1.4985252169202528,
+        0.033540129483790926
+      ],
+      [
+        -0.0051474977869287,
+        1.5238592123378667,
+        0.06425335549865684
+      ]
+    ],
+    "vertices": 714,
+    "triangles": 1424,
+    "dracoBytes": 13119,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#934642",
+      "roughness": 0.67
+    },
+    "displaySystem": "muscular"
+  },
+  {
+    "id": "ZA_d3a25f93603585",
+    "conceptId": "",
+    "nameEn": "Left Hyoglossus muscle",
+    "sourceNodeName": "Hyoglossus muscle.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Cranial part of muscular system.g/Muscles of head.g/Muscles of tongue.g/Hyoglossus muscle.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Ingestion"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_d3a25f93603585"
+    ],
+    "bounds": [
+      [
+        0.005147527802807578,
+        1.4985252165912106,
+        0.03354012984360735
+      ],
+      [
+        0.013022520089594147,
+        1.5238592128374722,
+        0.06425335513065784
+      ]
+    ],
+    "vertices": 714,
+    "triangles": 1424,
+    "dracoBytes": 13119,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#934642",
+      "roughness": 0.67
+    },
+    "displaySystem": "muscular"
+  },
+  {
+    "id": "ZA_429b46cd6d5cd1",
+    "conceptId": "",
+    "nameEn": "Right Genioglossus muscle",
+    "sourceNodeName": "Genioglossus muscle.r",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Cranial part of muscular system.g/Muscles of head.g/Muscles of tongue.g/Genioglossus muscle.r",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Ingestion"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_429b46cd6d5cd1"
+    ],
+    "bounds": [
+      [
+        -0.008840947163693581,
+        1.4995326514181853,
+        0.0312827208767567
+      ],
+      [
+        -0.0012326169719389074,
+        1.535676887535882,
+        0.07885312944988097
+      ]
+    ],
+    "vertices": 1875,
+    "triangles": 3746,
+    "dracoBytes": 33614,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#934642",
+      "roughness": 0.67
+    },
+    "displaySystem": "muscular"
+  },
+  {
+    "id": "ZA_5a35a6dab78631",
+    "conceptId": "",
+    "nameEn": "Left Genioglossus muscle",
+    "sourceNodeName": "Genioglossus muscle.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Cranial part of muscular system.g/Muscles of head.g/Muscles of tongue.g/Genioglossus muscle.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Ingestion"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_5a35a6dab78631"
+    ],
+    "bounds": [
+      [
+        0.0012326476863097442,
+        1.4995326510462632,
+        0.03128272086776906
+      ],
+      [
+        0.008840977878064418,
+        1.535676887663367,
+        0.07885312921599992
+      ]
+    ],
+    "vertices": 1875,
+    "triangles": 3746,
+    "dracoBytes": 33633,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#934642",
+      "roughness": 0.67
+    },
+    "displaySystem": "muscular"
+  },
+  {
+    "id": "ZA_b71ed9c42a05cb",
+    "conceptId": "",
+    "nameEn": "Tongue",
+    "sourceNodeName": "Tongue",
+    "sourcePath": "VisceralSystem100.fbx/RootNode/Digestive system.g/Mouth.g/Tongue",
+    "sourceFile": "VisceralSystem100.fbx",
+    "sourceMaterialNames": [
+      "Mucosa"
+    ],
+    "system": "visceral",
+    "meshIds": [
+      "ZA_b71ed9c42a05cb"
+    ],
+    "bounds": [
+      [
+        -0.0168355433554536,
+        1.496926566595224,
+        0.021877387563393982
+      ],
+      [
+        0.016835679317570042,
+        1.5395737550111266,
+        0.07822259439542528
+      ]
+    ],
+    "vertices": 343,
+    "triangles": 682,
+    "dracoBytes": 6407,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "source-preserve",
+    "displaySystem": "visceral",
+    "appearanceStyle": {
+      "color": "#b96b78",
+      "roughness": 0.7
+    }
+  }
+]

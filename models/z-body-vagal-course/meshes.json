@@ -1,0 +1,82 @@
+[
+  {
+    "id": "ZA_adace3b96e95e8",
+    "conceptId": "",
+    "nameEn": "Right Vagus nerve (X)",
+    "sourceNodeName": "Vagus nerve (X).r",
+    "sourcePath": "NervousSystem100.fbx/RootNode/Peripheral nervous system.g/Cranial nerves.g/Vagus nerve (X).r",
+    "sourceFile": "NervousSystem100.fbx",
+    "sourceMaterialNames": [
+      "Nerve-2"
+    ],
+    "system": "nervous",
+    "meshIds": [
+      "ZA_adace3b96e95e8"
+    ],
+    "bounds": [
+      [
+        -0.028958523711113068,
+        1.1049205212279463,
+        -0.04587518984787515
+      ],
+      [
+        0.06981646126680512,
+        1.5758665878537625,
+        0.04273554485450723
+      ]
+    ],
+    "vertices": 23508,
+    "triangles": 45924,
+    "dracoBytes": 320711,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [
+      "Cranial Nerves and Foramina, University of Dundee CAHID, CC BY 4.0"
+    ],
+    "appearance": "nerve",
+    "appearanceStyle": {
+      "color": "#d9c385",
+      "roughness": 0.68
+    },
+    "displaySystem": "nervous"
+  },
+  {
+    "id": "ZA_3b1cfa406b9326",
+    "conceptId": "",
+    "nameEn": "Left Vagus nerve (X)",
+    "sourceNodeName": "Vagus nerve (X).l",
+    "sourcePath": "NervousSystem100.fbx/RootNode/Peripheral nervous system.g/Cranial nerves.g/Vagus nerve (X).l",
+    "sourceFile": "NervousSystem100.fbx",
+    "sourceMaterialNames": [
+      "Nerve-2"
+    ],
+    "system": "nervous",
+    "meshIds": [
+      "ZA_3b1cfa406b9326"
+    ],
+    "bounds": [
+      [
+        0.0016298935350820987,
+        1.3461698930639627,
+        -0.04269894841959273
+      ],
+      [
+        0.028958525414406074,
+        1.5758665940921526,
+        0.03115688990013126
+      ]
+    ],
+    "vertices": 7452,
+    "triangles": 14540,
+    "dracoBytes": 113889,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [
+      "Cranial Nerves and Foramina, University of Dundee CAHID, CC BY 4.0"
+    ],
+    "appearance": "nerve",
+    "appearanceStyle": {
+      "color": "#d9c385",
+      "roughness": 0.68
+    },
+    "displaySystem": "nervous"
+  }
+]

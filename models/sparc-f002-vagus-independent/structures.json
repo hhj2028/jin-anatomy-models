@@ -1,0 +1,95 @@
+[
+  {
+    "id": "SPARC426_f002_L_cervical_vagus_surface",
+    "nameEn": "left cervical vagus nerve epineurium",
+    "sourceName": "left cervical vagus nerve epineurium",
+    "displayName": "Left cervical vagus nerve",
+    "nameKo": "왼쪽 미주신경 · 목부분",
+    "system": "nervous",
+    "kind": "mesh",
+    "meshIds": [
+      "SPARC426_f002_L_cervical_vagus_surface"
+    ],
+    "directMeshIds": [
+      "SPARC426_f002_L_cervical_vagus_surface"
+    ],
+    "childIds": [],
+    "parentIds": [],
+    "bounds": [
+      [
+        -0.006573024902343749,
+        2.4993629455566405e-05,
+        -0.055456929687499996
+      ],
+      [
+        0.026680146484375,
+        0.031074779296874997,
+        0.1149325859375
+      ]
+    ],
+    "sourceNodeName": "left cervical vagus nerve epineurium",
+    "referenceOnly": true
+  },
+  {
+    "id": "SPARC426_f002_L_thoracic_vagus_surface",
+    "nameEn": "left thoracic vagus nerve epineurium",
+    "sourceName": "left thoracic vagus nerve epineurium",
+    "displayName": "Left thoracic vagus nerve",
+    "nameKo": "왼쪽 미주신경 · 가슴부분",
+    "system": "nervous",
+    "kind": "mesh",
+    "meshIds": [
+      "SPARC426_f002_L_thoracic_vagus_surface"
+    ],
+    "directMeshIds": [
+      "SPARC426_f002_L_thoracic_vagus_surface"
+    ],
+    "childIds": [],
+    "parentIds": [],
+    "bounds": [
+      [
+        0.024587792968749998,
+        0.029169947265625,
+        0.1139673671875
+      ],
+      [
+        0.243240625,
+        0.145095328125,
+        0.36253625
+      ]
+    ],
+    "sourceNodeName": "left thoracic vagus nerve epineurium",
+    "referenceOnly": true
+  },
+  {
+    "id": "SPARC426_f002_L_anterior_gastric_branch_surface",
+    "nameEn": "anterior gastric branch of vagus nerve epineurium",
+    "sourceName": "anterior gastric branch of vagus nerve epineurium",
+    "displayName": "Anterior gastric branch of vagus nerve",
+    "nameKo": "미주신경 앞위가지",
+    "system": "nervous",
+    "kind": "mesh",
+    "meshIds": [
+      "SPARC426_f002_L_anterior_gastric_branch_surface"
+    ],
+    "directMeshIds": [
+      "SPARC426_f002_L_anterior_gastric_branch_surface"
+    ],
+    "childIds": [],
+    "parentIds": [],
+    "bounds": [
+      [
+        0.1122073359375,
+        0.0980495703125,
+        0.29320399999999996
+      ],
+      [
+        0.11764509375,
+        0.101651015625,
+        0.2994753125
+      ]
+    ],
+    "sourceNodeName": "anterior gastric branch of vagus nerve epineurium",
+    "referenceOnly": true
+  }
+]

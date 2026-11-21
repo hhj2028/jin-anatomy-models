@@ -1,0 +1,156 @@
+{
+  "thresholdMetres": 0.002,
+  "remainingPairs": [
+    {
+      "ids": [
+        "O3D_070f07058ca164",
+        "O3D_a4330f0e5aee04"
+      ],
+      "names": [
+        "Intermediate cuneiform bone.r",
+        "Art cart of intermediate cuneiform bone.r"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "lower-limb"
+      ],
+      "systems": [
+        "skeletal",
+        "connective"
+      ],
+      "boundsDifferenceMetres": 0.0010311827063560486,
+      "triangles": [
+        1506,
+        2194
+      ],
+      "decision": "Retained: differently named anatomical tissues/surfaces, not treated as duplicates on bounds alone.",
+      "interpretation": "Bone and its separate articular cartilage occupy similar bounds by anatomy."
+    },
+    {
+      "ids": [
+        "O3D_bb2b54b41e9b11",
+        "O3D_f83032950ff107"
+      ],
+      "names": [
+        "Lunate bone.r",
+        "Art cart of lunate bone"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "upper-limb"
+      ],
+      "systems": [
+        "skeletal",
+        "connective"
+      ],
+      "boundsDifferenceMetres": 0.0013919658958911896,
+      "triangles": [
+        706,
+        994
+      ],
+      "decision": "Retained: differently named anatomical tissues/surfaces, not treated as duplicates on bounds alone.",
+      "interpretation": "Bone and its separate articular cartilage occupy similar bounds by anatomy."
+    },
+    {
+      "ids": [
+        "O3D_5f4bf39b3fe6b3",
+        "O3D_d1565d3dd66f4d"
+      ],
+      "names": [
+        "Scaphoid.r",
+        "Art cart of scaphoid bone​"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "upper-limb"
+      ],
+      "systems": [
+        "skeletal",
+        "connective"
+      ],
+      "boundsDifferenceMetres": 0.00023127160966396332,
+      "triangles": [
+        670,
+        1242
+      ],
+      "decision": "Retained: differently named anatomical tissues/surfaces, not treated as duplicates on bounds alone.",
+      "interpretation": "Bone and its separate articular cartilage occupy similar bounds by anatomy."
+    },
+    {
+      "ids": [
+        "O3D_8a596345c848fb",
+        "O3D_789a470ff06675"
+      ],
+      "names": [
+        "Trapezoid.r",
+        "Art cart of trapezoid bone​"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "upper-limb"
+      ],
+      "systems": [
+        "skeletal",
+        "connective"
+      ],
+      "boundsDifferenceMetres": 0.0014255326241254807,
+      "triangles": [
+        574,
+        1052
+      ],
+      "decision": "Retained: differently named anatomical tissues/surfaces, not treated as duplicates on bounds alone.",
+      "interpretation": "Bone and its separate articular cartilage occupy similar bounds by anatomy."
+    },
+    {
+      "ids": [
+        "O3D_5a46b1f9a21688",
+        "O3D_4c7158b738d281"
+      ],
+      "names": [
+        "Triquetrum.r",
+        "Art cart of triquetrum bone"
+      ],
+      "regions": [
+        "overview-skeleton",
+        "upper-limb"
+      ],
+      "systems": [
+        "skeletal",
+        "connective"
+      ],
+      "boundsDifferenceMetres": 0.0011159330606460571,
+      "triangles": [
+        664,
+        860
+      ],
+      "decision": "Retained: differently named anatomical tissues/surfaces, not treated as duplicates on bounds alone.",
+      "interpretation": "Bone and its separate articular cartilage occupy similar bounds by anatomy."
+    },
+    {
+      "ids": [
+        "O3D_6e93a0d302e6d8",
+        "O3D_5210261abd2867"
+      ],
+      "names": [
+        "Articular cartilage of acromioclavicular joint on clavicle.r",
+        "Articular cartilage of acromioclavicular joint on scapula.r"
+      ],
+      "regions": [
+        "muscles-thorax-abdomen",
+        "upper-limb"
+      ],
+      "systems": [
+        "connective",
+        "connective"
+      ],
+      "boundsDifferenceMetres": 0.00016069412231445312,
+      "triangles": [
+        952,
+        444
+      ],
+      "decision": "Retained: differently named anatomical tissues/surfaces, not treated as duplicates on bounds alone.",
+      "interpretation": "Source labels distinguish opposing acromioclavicular joint cartilage surfaces; near bounds do not establish identical geometry."
+    }
+  ],
+  "note": "After semantic-variant and aggregate removal; no geometry was deduplicated solely from similar bounds."
+}

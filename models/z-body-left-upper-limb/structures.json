@@ -1,0 +1,5487 @@
+[
+  {
+    "id": "ZAG_c53c0a9723fc62",
+    "nameEn": "Left Lunate bone",
+    "sourceNodeName": "Lunate bone.l",
+    "system": "skeletal",
+    "meshIds": [
+      "ZA_c53c0a9723fc62"
+    ],
+    "directMeshIds": [
+      "ZA_c53c0a9723fc62"
+    ],
+    "childIds": [],
+    "sourcePath": "SkeletalSystem100.fbx/RootNode/Bones of upper limb.g/Bones of free part of upper limb.g/Lunate bone.l",
+    "systems": [
+      "skeletal"
+    ],
+    "bounds": [
+      [
+        0.24395658388473554,
+        0.8477819147392006,
+        0.009509411648136491
+      ],
+      [
+        0.2610536906798059,
+        0.8605213435995113,
+        0.0261162019589882
+      ]
+    ],
+    "parentIds": [
+      "ZAG_ca5ef425a5aa62"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_b09cf40ed56ff5",
+    "nameEn": "Left Scaphoid bone",
+    "sourceNodeName": "Scaphoid bone.l",
+    "system": "skeletal",
+    "meshIds": [
+      "ZA_b09cf40ed56ff5"
+    ],
+    "directMeshIds": [
+      "ZA_b09cf40ed56ff5"
+    ],
+    "childIds": [],
+    "sourcePath": "SkeletalSystem100.fbx/RootNode/Bones of upper limb.g/Bones of free part of upper limb.g/Scaphoid bone.l",
+    "systems": [
+      "skeletal"
+    ],
+    "bounds": [
+      [
+        0.2575288324328553,
+        0.8464998751107263,
+        0.010125625161200082
+      ],
+      [
+        0.2820884191851192,
+        0.8627076281980937,
+        0.02601418884662243
+      ]
+    ],
+    "parentIds": [
+      "ZAG_ca5ef425a5aa62"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_36f81d029c1093",
+    "nameEn": "Left Trapezoid bone",
+    "sourceNodeName": "Trapezoid bone.l",
+    "system": "skeletal",
+    "meshIds": [
+      "ZA_36f81d029c1093"
+    ],
+    "directMeshIds": [
+      "ZA_36f81d029c1093"
+    ],
+    "childIds": [],
+    "sourcePath": "SkeletalSystem100.fbx/RootNode/Bones of upper limb.g/Bones of free part of upper limb.g/Trapezoid bone.l",
+    "systems": [
+      "skeletal"
+    ],
+    "bounds": [
+      [
+        0.27065755355450877,
+        0.8325561306886321,
+        0.012277489956967567
+      ],
+      [
+        0.2823717733687652,
+        0.845691744222282,
+        0.027822073734182894
+      ]
+    ],
+    "parentIds": [
+      "ZAG_ca5ef425a5aa62"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_0530466bc79afd",
+    "nameEn": "Left Teres major muscle",
+    "sourceNodeName": "Teres major muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_0530466bc79afd"
+    ],
+    "directMeshIds": [
+      "ZA_0530466bc79afd"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of upper limb.g/Muscles of upper limb.g/Scapulohumeral muscles.g/Teres major muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.09882185042860481,
+        1.2556480381763646,
+        -0.1000299298813243
+      ],
+      [
+        0.1844655430604363,
+        1.3417055637386373,
+        -0.017308306935837993
+      ]
+    ],
+    "parentIds": [
+      "ZAG_bf9267ee95fd00"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_a5879334290c5d",
+    "nameEn": "Left Acromial part of deltoid muscle",
+    "sourceNodeName": "Acromial part of deltoid muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_a5879334290c5d"
+    ],
+    "directMeshIds": [
+      "ZA_a5879334290c5d"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of upper limb.g/Muscles of upper limb.g/Scapulohumeral muscles.g/Deltoid muscle.g/Acromial part of deltoid muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.15944332716326368,
+        1.2686067956014437,
+        -0.06286651300383786
+      ],
+      [
+        0.23491403741834269,
+        1.4162116669569138,
+        0.0005333071155936064
+      ]
+    ],
+    "parentIds": [
+      "ZAG_cc8f84ea09a905"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_7a9d6ea261879b",
+    "nameEn": "Left Clavicular part of deltoid muscle",
+    "sourceNodeName": "Clavicular part of deltoid muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_7a9d6ea261879b"
+    ],
+    "directMeshIds": [
+      "ZA_7a9d6ea261879b"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of upper limb.g/Muscles of upper limb.g/Scapulohumeral muscles.g/Deltoid muscle.g/Clavicular part of deltoid muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.08446329886919464,
+        1.2682378647259782,
+        -0.0344363542622848
+      ],
+      [
+        0.2104665153748016,
+        1.4237074041892155,
+        0.02037123654087863
+      ]
+    ],
+    "parentIds": [
+      "ZAG_cc8f84ea09a905"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_667f1904e9a100",
+    "nameEn": "Left Scapular spinal part of deltoid muscle",
+    "sourceNodeName": "Scapular spinal part of deltoid muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_667f1904e9a100"
+    ],
+    "directMeshIds": [
+      "ZA_667f1904e9a100"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of upper limb.g/Muscles of upper limb.g/Scapulohumeral muscles.g/Deltoid muscle.g/Scapular spinal part of deltoid muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.0903062882039762,
+        1.2507618165950791,
+        -0.10307871834777264
+      ],
+      [
+        0.22706826789649817,
+        1.407200830485503,
+        -0.02301352047566917
+      ]
+    ],
+    "parentIds": [
+      "ZAG_cc8f84ea09a905"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_5e5d1a393c1cf3",
+    "nameEn": "Left Subscapularis muscle",
+    "sourceNodeName": "Subscapularis muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_5e5d1a393c1cf3"
+    ],
+    "directMeshIds": [
+      "ZA_5e5d1a393c1cf3"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of upper limb.g/Muscles of upper limb.g/Scapulohumeral muscles.g/Rotator cuff muscles.g/Subscapularis muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.06513299729660145,
+        1.2775101608492427,
+        -0.10633051983515457
+      ],
+      [
+        0.17015745390616593,
+        1.3920843372067457,
+        -0.0013665373597080866
+      ]
+    ],
+    "parentIds": [
+      "ZAG_b9326140d8b97f"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_44c5c6cd7114af",
+    "nameEn": "Left Supraspinatus muscle",
+    "sourceNodeName": "Supraspinatus muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_44c5c6cd7114af"
+    ],
+    "directMeshIds": [
+      "ZA_44c5c6cd7114af"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of upper limb.g/Muscles of upper limb.g/Scapulohumeral muscles.g/Rotator cuff muscles.g/Supraspinatus muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.06973338858958895,
+        1.3785214256475027,
+        -0.0958819036067452
+      ],
+      [
+        0.19478788897524557,
+        1.411288011930295,
+        -0.011102209850832349
+      ]
+    ],
+    "parentIds": [
+      "ZAG_b9326140d8b97f"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_ee7d30ed189cc0",
+    "nameEn": "Left Teres minor muscle",
+    "sourceNodeName": "Teres minor muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_ee7d30ed189cc0"
+    ],
+    "directMeshIds": [
+      "ZA_ee7d30ed189cc0"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of upper limb.g/Muscles of upper limb.g/Scapulohumeral muscles.g/Rotator cuff muscles.g/Teres minor muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.10110703268066298,
+        1.2947169864961288,
+        -0.09728662265402026
+      ],
+      [
+        0.1972273286732059,
+        1.3842158420264794,
+        -0.021403555903783306
+      ]
+    ],
+    "parentIds": [
+      "ZAG_b9326140d8b97f"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_03161128a5561b",
+    "nameEn": "Left Infraspinatus muscle",
+    "sourceNodeName": "Infraspinatus muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_03161128a5561b"
+    ],
+    "directMeshIds": [
+      "ZA_03161128a5561b"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of upper limb.g/Muscles of upper limb.g/Scapulohumeral muscles.g/Rotator cuff muscles.g/Infraspinatus muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.06298720221122096,
+        1.2859331668557195,
+        -0.11704860360143934
+      ],
+      [
+        0.1955491249783171,
+        1.3994913125258361,
+        -0.025253157921949196
+      ]
+    ],
+    "parentIds": [
+      "ZAG_b9326140d8b97f"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_b12f456528bb0b",
+    "nameEn": "Left Brachialis muscle",
+    "sourceNodeName": "Brachialis muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_b12f456528bb0b"
+    ],
+    "directMeshIds": [
+      "ZA_b12f456528bb0b"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of upper limb.g/Muscles of upper limb.g/Anterior compartment of arm.g/Brachialis muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.18199307100080733,
+        1.0521903738653895,
+        -0.04225198775906039
+      ],
+      [
+        0.2428887141739006,
+        1.284492244796038,
+        -0.015104070047937965
+      ]
+    ],
+    "parentIds": [
+      "ZAG_e23c9d3c5527d3"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_a43c8de9c98468",
+    "nameEn": "Left Coracobrachialis muscle",
+    "sourceNodeName": "Coracobrachialis muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_a43c8de9c98468"
+    ],
+    "directMeshIds": [
+      "ZA_a43c8de9c98468"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of upper limb.g/Muscles of upper limb.g/Anterior compartment of arm.g/Coracobrachialis muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.13484395971277968,
+        1.2329799099537138,
+        -0.03592050951975384
+      ],
+      [
+        0.1956706850143244,
+        1.3917141516214855,
+        -0.0008992484814974255
+      ]
+    ],
+    "parentIds": [
+      "ZAG_e23c9d3c5527d3"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_a91af534dae1f6",
+    "nameEn": "Left Long head of biceps brachii",
+    "sourceNodeName": "Long head of biceps brachii.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_a91af534dae1f6"
+    ],
+    "directMeshIds": [
+      "ZA_a91af534dae1f6"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of upper limb.g/Muscles of upper limb.g/Anterior compartment of arm.g/Biceps brachii muscle.g/Long head of biceps brachii.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.1422820979163846,
+        1.0508120474979217,
+        -0.041292040246047816
+      ],
+      [
+        0.23747876011543262,
+        1.4079303892278,
+        0.008411522563426232
+      ]
+    ],
+    "parentIds": [
+      "ZAG_f54a941af703cf"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_71907340123547",
+    "nameEn": "Left Short head of biceps brachii",
+    "sourceNodeName": "Short head of biceps brachii.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_71907340123547"
+    ],
+    "directMeshIds": [
+      "ZA_71907340123547"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of upper limb.g/Muscles of upper limb.g/Anterior compartment of arm.g/Biceps brachii muscle.g/Short head of biceps brachii.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.13818994289973532,
+        1.1241421896312374,
+        -0.026499223234899193
+      ],
+      [
+        0.2196807647890361,
+        1.3971996919866387,
+        0.00793202632283071
+      ]
+    ],
+    "parentIds": [
+      "ZAG_f54a941af703cf"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_4efcfd211439e7",
+    "nameEn": "Left Medial head of triceps brachii",
+    "sourceNodeName": "Medial head of triceps brachii.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_4efcfd211439e7"
+    ],
+    "directMeshIds": [
+      "ZA_4efcfd211439e7"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of upper limb.g/Muscles of upper limb.g/Posterior compartment of arm.g/Triceps brachii muscle.g/Medial head of triceps brachii.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.17233845527381506,
+        1.087199857165987,
+        -0.05738056215959059
+      ],
+      [
+        0.23464281328063386,
+        1.3215361161553831,
+        -0.030655565121787208
+      ]
+    ],
+    "parentIds": [
+      "ZAG_c9f1e355827577"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_36a3777a26bf14",
+    "nameEn": "Left Lateral head of triceps brachii",
+    "sourceNodeName": "Lateral head of triceps brachii.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_36a3777a26bf14"
+    ],
+    "directMeshIds": [
+      "ZA_36a3777a26bf14"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of upper limb.g/Muscles of upper limb.g/Posterior compartment of arm.g/Triceps brachii muscle.g/Lateral head of triceps brachii.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.18009913153135979,
+        1.0940252473552825,
+        -0.0841819590483182
+      ],
+      [
+        0.2362849091127335,
+        1.3588142950412223,
+        -0.03348433291057211
+      ]
+    ],
+    "parentIds": [
+      "ZAG_c9f1e355827577"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_63f89e7c95e870",
+    "nameEn": "Left Long head of triceps brachii",
+    "sourceNodeName": "Long head of triceps brachii.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_63f89e7c95e870"
+    ],
+    "directMeshIds": [
+      "ZA_63f89e7c95e870"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of upper limb.g/Muscles of upper limb.g/Posterior compartment of arm.g/Triceps brachii muscle.g/Long head of triceps brachii.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.1318507253471924,
+        1.0932818153305677,
+        -0.08574288983814478
+      ],
+      [
+        0.22357079193690224,
+        1.365356694457223,
+        -0.03835521596554106
+      ]
+    ],
+    "parentIds": [
+      "ZAG_c9f1e355827577"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_8379d9db10481c",
+    "nameEn": "Left Superficial head of pronator teres",
+    "sourceNodeName": "Superficial head of pronator teres.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_8379d9db10481c"
+    ],
+    "directMeshIds": [
+      "ZA_8379d9db10481c"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of upper limb.g/Muscles of upper limb.g/Anterior compartment of forearm.g/Superficial part of anterior compartment of forearm.g/Superficial head of pronator teres.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.19363697544242747,
+        0.973932362360739,
+        -0.03501751493711661
+      ],
+      [
+        0.26581098487697785,
+        1.124550493984132,
+        0.001055370161946012
+      ]
+    ],
+    "parentIds": [
+      "ZAG_0ecc87dfa6f179"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_7aa2ceafa51b11",
+    "nameEn": "Left Deep head of pronator teres",
+    "sourceNodeName": "Deep head of pronator teres.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_7aa2ceafa51b11"
+    ],
+    "directMeshIds": [
+      "ZA_7aa2ceafa51b11"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of upper limb.g/Muscles of upper limb.g/Anterior compartment of forearm.g/Superficial part of anterior compartment of forearm.g/Deep head of pronator teres.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.2109277645135303,
+        0.9841178280063396,
+        -0.028500623660441978
+      ],
+      [
+        0.2646890077930508,
+        1.0812136690901815,
+        -0.0030402714867381396
+      ]
+    ],
+    "parentIds": [
+      "ZAG_0ecc87dfa6f179"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_cd2553cf86aaa4",
+    "nameEn": "Left Humeral head of flexor carpi ulnaris",
+    "sourceNodeName": "Humeral head of flexor carpi ulnaris.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_cd2553cf86aaa4"
+    ],
+    "directMeshIds": [
+      "ZA_cd2553cf86aaa4"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of upper limb.g/Muscles of upper limb.g/Anterior compartment of forearm.g/Superficial part of anterior compartment of forearm.g/Humeral head of flexor carpi ulnaris.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.18357723561514813,
+        0.831261361256529,
+        -0.04183081724713953
+      ],
+      [
+        0.2545731239081212,
+        1.106967414569141,
+        0.03621319996200783
+      ]
+    ],
+    "parentIds": [
+      "ZAG_0ecc87dfa6f179"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_5fcb8cb7295337",
+    "nameEn": "Left Ulnar head of flexor carpi ulnaris",
+    "sourceNodeName": "Ulnar head of flexor carpi ulnaris.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_5fcb8cb7295337"
+    ],
+    "directMeshIds": [
+      "ZA_5fcb8cb7295337"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of upper limb.g/Muscles of upper limb.g/Anterior compartment of forearm.g/Superficial part of anterior compartment of forearm.g/Ulnar head of flexor carpi ulnaris.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.19544294237582185,
+        0.8817839718034647,
+        -0.05593699600692216
+      ],
+      [
+        0.23709328233760352,
+        1.1019020052780433,
+        0.014862008688104434
+      ]
+    ],
+    "parentIds": [
+      "ZAG_0ecc87dfa6f179"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_e940a187581a84",
+    "nameEn": "Left Humero-ulnar head of flexor digitorum superficialis",
+    "sourceNodeName": "Humero-ulnar head of flexor digitorum superficialis.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_e940a187581a84"
+    ],
+    "directMeshIds": [
+      "ZA_e940a187581a84"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of upper limb.g/Muscles of upper limb.g/Anterior compartment of forearm.g/Superficial part of anterior compartment of forearm.g/Humero-ulnar head of flexor digitorum superficialis.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.1839646395491236,
+        0.7221093574469808,
+        -0.03511836785361047
+      ],
+      [
+        0.31597586468275574,
+        1.1118565842690022,
+        0.0686236731233234
+      ]
+    ],
+    "parentIds": [
+      "ZAG_0ecc87dfa6f179"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_1221e9b449dec1",
+    "nameEn": "Left Flexor carpi radialis",
+    "sourceNodeName": "Flexor carpi radialis.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_1221e9b449dec1"
+    ],
+    "directMeshIds": [
+      "ZA_1221e9b449dec1"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of upper limb.g/Muscles of upper limb.g/Anterior compartment of forearm.g/Superficial part of anterior compartment of forearm.g/Flexor carpi radialis.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.19040967402305764,
+        0.8304675177867605,
+        -0.031554734496640334
+      ],
+      [
+        0.2810417547285773,
+        1.1163047375593613,
+        0.0360714963395438
+      ]
+    ],
+    "parentIds": [
+      "ZAG_0ecc87dfa6f179"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_cf05f22981e421",
+    "nameEn": "Left Palmaris longus muscle",
+    "sourceNodeName": "Palmaris longus muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_cf05f22981e421"
+    ],
+    "directMeshIds": [
+      "ZA_cf05f22981e421"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of upper limb.g/Muscles of upper limb.g/Anterior compartment of forearm.g/Superficial part of anterior compartment of forearm.g/Palmaris longus muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.18499187377773907,
+        0.7812719601608151,
+        -0.030955911465103604
+      ],
+      [
+        0.3001684643764148,
+        1.112609671011916,
+        0.04963864154171734
+      ]
+    ],
+    "parentIds": [
+      "ZAG_0ecc87dfa6f179"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_516bf4d2e848e6",
+    "nameEn": "Left Radial head of flexor digitorum superficialis",
+    "sourceNodeName": "Radial head of flexor digitorum superficialis.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_516bf4d2e848e6"
+    ],
+    "directMeshIds": [
+      "ZA_516bf4d2e848e6"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of upper limb.g/Muscles of upper limb.g/Anterior compartment of forearm.g/Superficial part of anterior compartment of forearm.g/Radial head of flexor digitorum superficialis.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.2332129514437961,
+        0.8641843504369003,
+        -0.020945346071812965
+      ],
+      [
+        0.26228188673814395,
+        1.0491246786045125,
+        0.032772338142018735
+      ]
+    ],
+    "parentIds": [
+      "ZAG_0ecc87dfa6f179"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_e3d535fd941421",
+    "nameEn": "Left Flexor digitorum profundus",
+    "sourceNodeName": "Flexor digitorum profundus.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_e3d535fd941421"
+    ],
+    "directMeshIds": [
+      "ZA_e3d535fd941421"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of upper limb.g/Muscles of upper limb.g/Anterior compartment of forearm.g/Deep part of anterior compartment of forearm.g/Flexor digitorum profundus.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.21052364553370204,
+        0.7114974800340345,
+        -0.03395526113539213
+      ],
+      [
+        0.31698285605799803,
+        1.076497943238673,
+        0.0881162654388411
+      ]
+    ],
+    "parentIds": [
+      "ZAG_e24613232564b3"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_a058431777eebd",
+    "nameEn": "Left Flexor pollicis longus",
+    "sourceNodeName": "Flexor pollicis longus.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_a058431777eebd"
+    ],
+    "directMeshIds": [
+      "ZA_a058431777eebd"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of upper limb.g/Muscles of upper limb.g/Anterior compartment of forearm.g/Deep part of anterior compartment of forearm.g/Flexor pollicis longus.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.24631429339713434,
+        0.7836355354296056,
+        -0.014404689651111635
+      ],
+      [
+        0.32436682183573823,
+        1.0217680260704516,
+        0.06642311983744938
+      ]
+    ],
+    "parentIds": [
+      "ZAG_e24613232564b3"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_96d60288eed331",
+    "nameEn": "Left Pronator quadratus",
+    "sourceNodeName": "Pronator quadratus.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_96d60288eed331"
+    ],
+    "directMeshIds": [
+      "ZA_96d60288eed331"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of upper limb.g/Muscles of upper limb.g/Anterior compartment of forearm.g/Deep part of anterior compartment of forearm.g/Pronator quadratus.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.23407478083729955,
+        0.8711096913754566,
+        0.0006968765833383217
+      ],
+      [
+        0.2807174212204249,
+        0.9232491503729233,
+        0.02537314857940496
+      ]
+    ],
+    "parentIds": [
+      "ZAG_e24613232564b3"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_7de3ecee021f02",
+    "nameEn": "Left Extensor digitorum",
+    "sourceNodeName": "Extensor digitorum.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_7de3ecee021f02"
+    ],
+    "directMeshIds": [
+      "ZA_7de3ecee021f02"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of upper limb.g/Muscles of upper limb.g/Posterior compartment of forearm.g/Superficial part of posterior compartment of forearm.g/Extensor digitorum.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.22980349954447718,
+        0.7243921155235654,
+        -0.05826111406085286
+      ],
+      [
+        0.31505980963834274,
+        1.1189869699202732,
+        0.06272819552459534
+      ]
+    ],
+    "parentIds": [
+      "ZAG_f62f76fa6fb008"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_eefa4f7158e3f3",
+    "nameEn": "Left Ulnar head of extensor carpi ulnaris",
+    "sourceNodeName": "Ulnar head of extensor carpi ulnaris.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_eefa4f7158e3f3"
+    ],
+    "directMeshIds": [
+      "ZA_eefa4f7158e3f3"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of upper limb.g/Muscles of upper limb.g/Posterior compartment of forearm.g/Superficial part of posterior compartment of forearm.g/Ulnar head of extensor carpi ulnaris.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.22030665847311806,
+        0.829328593616807,
+        -0.03219714876325439
+      ],
+      [
+        0.2433800177655644,
+        1.0342502596617735,
+        0.024785408948458345
+      ]
+    ],
+    "parentIds": [
+      "ZAG_f62f76fa6fb008"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_5cb3a2bee63c2a",
+    "nameEn": "Left Humeral head of extensor carpi ulnaris",
+    "sourceNodeName": "Humeral head of extensor carpi ulnaris.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_5cb3a2bee63c2a"
+    ],
+    "directMeshIds": [
+      "ZA_5cb3a2bee63c2a"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of upper limb.g/Muscles of upper limb.g/Posterior compartment of forearm.g/Superficial part of posterior compartment of forearm.g/Humeral head of extensor carpi ulnaris.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.22583377492425297,
+        0.8415135667854652,
+        -0.05958434163098439
+      ],
+      [
+        0.24495549545635487,
+        1.1304437372166942,
+        0.0177661036758935
+      ]
+    ],
+    "parentIds": [
+      "ZAG_f62f76fa6fb008"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_70b1b1cc481550",
+    "nameEn": "Left Brachioradialis muscle",
+    "sourceNodeName": "Brachioradialis muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_70b1b1cc481550"
+    ],
+    "directMeshIds": [
+      "ZA_70b1b1cc481550"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of upper limb.g/Muscles of upper limb.g/Posterior compartment of forearm.g/Superficial part of posterior compartment of forearm.g/Brachioradialis muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.21498243072729706,
+        0.8604025267778475,
+        -0.04727265345641804
+      ],
+      [
+        0.2897977863493788,
+        1.2094768762875803,
+        0.02208102735010954
+      ]
+    ],
+    "parentIds": [
+      "ZAG_f62f76fa6fb008"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_67d96bdf7b3165",
+    "nameEn": "Left Extensor carpi radialis longus",
+    "sourceNodeName": "Extensor carpi radialis longus.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_67d96bdf7b3165"
+    ],
+    "directMeshIds": [
+      "ZA_67d96bdf7b3165"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of upper limb.g/Muscles of upper limb.g/Posterior compartment of forearm.g/Superficial part of posterior compartment of forearm.g/Extensor carpi radialis longus.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.22726716765542992,
+        0.8288358130092081,
+        -0.05020320003555709
+      ],
+      [
+        0.2870069092755647,
+        1.1619615690444924,
+        0.020045798270720287
+      ]
+    ],
+    "parentIds": [
+      "ZAG_f62f76fa6fb008"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_cfdbf6cbd623a3",
+    "nameEn": "Left Extensor carpi radialis brevis",
+    "sourceNodeName": "Extensor carpi radialis brevis.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_cfdbf6cbd623a3"
+    ],
+    "directMeshIds": [
+      "ZA_cfdbf6cbd623a3"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of upper limb.g/Muscles of upper limb.g/Posterior compartment of forearm.g/Superficial part of posterior compartment of forearm.g/Extensor carpi radialis brevis.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.2358848978766774,
+        0.8256625638214845,
+        -0.05313890088270098
+      ],
+      [
+        0.28172121597455246,
+        1.1383492774093944,
+        0.01477081881333297
+      ]
+    ],
+    "parentIds": [
+      "ZAG_f62f76fa6fb008"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_3b2c3005c01a59",
+    "nameEn": "Left Anconeus muscle",
+    "sourceNodeName": "Anconeus muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_3b2c3005c01a59"
+    ],
+    "directMeshIds": [
+      "ZA_3b2c3005c01a59"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of upper limb.g/Muscles of upper limb.g/Posterior compartment of forearm.g/Superficial part of posterior compartment of forearm.g/Anconeus muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.21313114775242387,
+        1.0151994616091045,
+        -0.061825393081389304
+      ],
+      [
+        0.23693063780341808,
+        1.1198283002649356,
+        -0.03561924758918579
+      ]
+    ],
+    "parentIds": [
+      "ZAG_f62f76fa6fb008"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_ca4d528f440f02",
+    "nameEn": "Left Extensor digiti minimi",
+    "sourceNodeName": "Extensor digiti minimi.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_ca4d528f440f02"
+    ],
+    "directMeshIds": [
+      "ZA_ca4d528f440f02"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of upper limb.g/Muscles of upper limb.g/Posterior compartment of forearm.g/Superficial part of posterior compartment of forearm.g/Extensor digiti minimi.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.23440680602744357,
+        0.7724596878304003,
+        -0.04944989819152811
+      ],
+      [
+        0.2512127819054151,
+        1.1083547154925406,
+        0.04310742389409887
+      ]
+    ],
+    "parentIds": [
+      "ZAG_f62f76fa6fb008"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_77e174398671db",
+    "nameEn": "Left Supinator",
+    "sourceNodeName": "Supinator.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_77e174398671db"
+    ],
+    "directMeshIds": [
+      "ZA_77e174398671db"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of upper limb.g/Muscles of upper limb.g/Posterior compartment of forearm.g/Deep part of posterior compartment of forearm.g/Supinator.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.229561705059863,
+        0.9873349482621214,
+        -0.046990369418055844
+      ],
+      [
+        0.2624621832112822,
+        1.11528525437755,
+        -0.011380712252816868
+      ]
+    ],
+    "parentIds": [
+      "ZAG_3c7108a79b04e5"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_73dce339c1da98",
+    "nameEn": "Left Abductor pollicis longus",
+    "sourceNodeName": "Abductor pollicis longus.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_73dce339c1da98"
+    ],
+    "directMeshIds": [
+      "ZA_73dce339c1da98"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of upper limb.g/Muscles of upper limb.g/Posterior compartment of forearm.g/Deep part of posterior compartment of forearm.g/Abductor pollicis longus.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.23493955697330868,
+        0.8389426619170365,
+        -0.03260538058940366
+      ],
+      [
+        0.29898372605457163,
+        1.026746097043208,
+        0.03121229134755742
+      ]
+    ],
+    "parentIds": [
+      "ZAG_3c7108a79b04e5"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_d2da0649021084",
+    "nameEn": "Left Extensor indicis",
+    "sourceNodeName": "Extensor indicis.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_d2da0649021084"
+    ],
+    "directMeshIds": [
+      "ZA_d2da0649021084"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of upper limb.g/Muscles of upper limb.g/Posterior compartment of forearm.g/Deep part of posterior compartment of forearm.g/Extensor indicis.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.2370455252231155,
+        0.7148788721497956,
+        -0.006712576272232758
+      ],
+      [
+        0.31775038945513995,
+        0.9209243863396928,
+        0.07436985701961003
+      ]
+    ],
+    "parentIds": [
+      "ZAG_3c7108a79b04e5"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_6db63a86dba318",
+    "nameEn": "Left Extensor pollicis brevis",
+    "sourceNodeName": "Extensor pollicis brevis.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_6db63a86dba318"
+    ],
+    "directMeshIds": [
+      "ZA_6db63a86dba318"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of upper limb.g/Muscles of upper limb.g/Posterior compartment of forearm.g/Deep part of posterior compartment of forearm.g/Extensor pollicis brevis.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.24264217822088688,
+        0.807431657428358,
+        -0.011017810440437877
+      ],
+      [
+        0.3216507613936587,
+        0.9477504427474408,
+        0.04760340921548099
+      ]
+    ],
+    "parentIds": [
+      "ZAG_3c7108a79b04e5"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_25564dabaebe28",
+    "nameEn": "Left Extensor pollicis longus",
+    "sourceNodeName": "Extensor pollicis longus.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_25564dabaebe28"
+    ],
+    "directMeshIds": [
+      "ZA_25564dabaebe28"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of upper limb.g/Muscles of upper limb.g/Posterior compartment of forearm.g/Deep part of posterior compartment of forearm.g/Extensor pollicis longus.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.2317733385032726,
+        0.7811949105533479,
+        -0.026793817260313286
+      ],
+      [
+        0.3300245092464768,
+        0.9903320265483084,
+        0.06383801271698636
+      ]
+    ],
+    "parentIds": [
+      "ZAG_3c7108a79b04e5"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_0189a1f07caf72",
+    "nameEn": "Left Superficial head of flexor pollicis brevis",
+    "sourceNodeName": "Superficial head of flexor pollicis brevis.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_0189a1f07caf72"
+    ],
+    "directMeshIds": [
+      "ZA_0189a1f07caf72"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of upper limb.g/Muscles of upper limb.g/Muscles of hand.g/Superficial head of flexor pollicis brevis.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.2684265052850389,
+        0.816213632110192,
+        0.037860660358355044
+      ],
+      [
+        0.31185785316825365,
+        0.8470700566600309,
+        0.054389188774117955
+      ]
+    ],
+    "parentIds": [
+      "ZAG_630b396ee11a54"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_d0fbaf4eb5613d",
+    "nameEn": "Left Deep head of flexor pollicis brevis",
+    "sourceNodeName": "Deep head of flexor pollicis brevis.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_d0fbaf4eb5613d"
+    ],
+    "directMeshIds": [
+      "ZA_d0fbaf4eb5613d"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of upper limb.g/Muscles of upper limb.g/Muscles of hand.g/Deep head of flexor pollicis brevis.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.26653915211977963,
+        0.8234160420245697,
+        0.029750679710572374
+      ],
+      [
+        0.3158957903778291,
+        0.856669751114849,
+        0.04915500342455601
+      ]
+    ],
+    "parentIds": [
+      "ZAG_630b396ee11a54"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_9b3c68bb4c36ab",
+    "nameEn": "Left Oblique head of adductor pollicis",
+    "sourceNodeName": "Oblique head of adductor pollicis.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_9b3c68bb4c36ab"
+    ],
+    "directMeshIds": [
+      "ZA_9b3c68bb4c36ab"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of upper limb.g/Muscles of upper limb.g/Muscles of hand.g/Oblique head of adductor pollicis.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.2649596159711788,
+        0.8088414735903178,
+        0.022285473079707713
+      ],
+      [
+        0.30894181508845486,
+        0.8399583912010381,
+        0.04694515327810152
+      ]
+    ],
+    "parentIds": [
+      "ZAG_630b396ee11a54"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_51eebc76736262",
+    "nameEn": "Left Transverse head of adductor pollicis",
+    "sourceNodeName": "Transverse head of adductor pollicis.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_51eebc76736262"
+    ],
+    "directMeshIds": [
+      "ZA_51eebc76736262"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of upper limb.g/Muscles of upper limb.g/Muscles of hand.g/Transverse head of adductor pollicis.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.267166094271966,
+        0.7871278126920308,
+        0.023379005848586168
+      ],
+      [
+        0.3098465074388528,
+        0.8265687574441591,
+        0.04667457545202661
+      ]
+    ],
+    "parentIds": [
+      "ZAG_630b396ee11a54"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_cd442a73bcdc18",
+    "nameEn": "Left Abductor pollicis brevis",
+    "sourceNodeName": "Abductor pollicis brevis.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_cd442a73bcdc18"
+    ],
+    "directMeshIds": [
+      "ZA_cd442a73bcdc18"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of upper limb.g/Muscles of upper limb.g/Muscles of hand.g/Abductor pollicis brevis.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.27198548191380395,
+        0.8193526602855203,
+        0.022220008375478568
+      ],
+      [
+        0.3126637657196255,
+        0.8588410159413781,
+        0.0528405084953793
+      ]
+    ],
+    "parentIds": [
+      "ZAG_630b396ee11a54"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_905469bd0147e1",
+    "nameEn": "Left Opponens pollicis muscle",
+    "sourceNodeName": "Opponens pollicis muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_905469bd0147e1"
+    ],
+    "directMeshIds": [
+      "ZA_905469bd0147e1"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of upper limb.g/Muscles of upper limb.g/Muscles of hand.g/Opponens pollicis muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.2646788166228126,
+        0.8158359881764835,
+        0.02460020139971519
+      ],
+      [
+        0.3109783828961974,
+        0.8442713709520574,
+        0.053274444973535576
+      ]
+    ],
+    "parentIds": [
+      "ZAG_630b396ee11a54"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_63e0de94dcec5c",
+    "nameEn": "Left Abductor digiti minimi of hand",
+    "sourceNodeName": "Abductor digiti minimi of hand.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_63e0de94dcec5c"
+    ],
+    "directMeshIds": [
+      "ZA_63e0de94dcec5c"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of upper limb.g/Muscles of upper limb.g/Muscles of hand.g/Abductor digiti minimi of hand.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.22780719748213357,
+        0.7779539956611934,
+        0.030042519510045843
+      ],
+      [
+        0.24598577435654734,
+        0.8450021648154603,
+        0.04900399646455186
+      ]
+    ],
+    "parentIds": [
+      "ZAG_630b396ee11a54"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_5ae40611ccccc8",
+    "nameEn": "Left Flexor digiti minimi of hand",
+    "sourceNodeName": "Flexor digiti minimi of hand.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_5ae40611ccccc8"
+    ],
+    "directMeshIds": [
+      "ZA_5ae40611ccccc8"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of upper limb.g/Muscles of upper limb.g/Muscles of hand.g/Flexor digiti minimi of hand.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.23343598268446974,
+        0.7801847913810387,
+        0.03002503676774345
+      ],
+      [
+        0.25205288560383526,
+        0.8421051477425807,
+        0.048309492032405525
+      ]
+    ],
+    "parentIds": [
+      "ZAG_630b396ee11a54"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_9eb6958192ce9e",
+    "nameEn": "Left Opponens digiti minimi muscle of hand",
+    "sourceNodeName": "Opponens digiti minimi muscle of hand.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_9eb6958192ce9e"
+    ],
+    "directMeshIds": [
+      "ZA_9eb6958192ce9e"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of upper limb.g/Muscles of upper limb.g/Muscles of hand.g/Opponens digiti minimi muscle of hand.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.2350369965289451,
+        0.792902080752248,
+        0.026954932697066072
+      ],
+      [
+        0.25347440983678193,
+        0.840575518658782,
+        0.042325896136521254
+      ]
+    ],
+    "parentIds": [
+      "ZAG_630b396ee11a54"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_7bbf871ce12ad8",
+    "nameEn": "Left Lumbrical muscles of hand",
+    "sourceNodeName": "Lumbrical muscles of hand.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_7bbf871ce12ad8"
+    ],
+    "directMeshIds": [
+      "ZA_7bbf871ce12ad8"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of upper limb.g/Muscles of upper limb.g/Muscles of hand.g/Lumbrical muscles of hand.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.23151610121516206,
+        0.7315752061741201,
+        0.02608219478313431
+      ],
+      [
+        0.30728873053239547,
+        0.8244727448235161,
+        0.05819855237142289
+      ]
+    ],
+    "parentIds": [
+      "ZAG_630b396ee11a54"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_32df1127183b54",
+    "nameEn": "Left Dorsal interossei muscles of hand",
+    "sourceNodeName": "Dorsal interossei muscles of hand.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_32df1127183b54"
+    ],
+    "directMeshIds": [
+      "ZA_32df1127183b54"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of upper limb.g/Muscles of upper limb.g/Muscles of hand.g/Dorsal interossei muscles of hand.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.24285356419676563,
+        0.764397891010007,
+        0.01815765398583224
+      ],
+      [
+        0.30689536036011295,
+        0.8355454836094327,
+        0.04469392219631676
+      ]
+    ],
+    "parentIds": [
+      "ZAG_630b396ee11a54"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_8d4d4b8d5ee9f8",
+    "nameEn": "Left Palmar interossei muscles",
+    "sourceNodeName": "Palmar interossei muscles.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_8d4d4b8d5ee9f8"
+    ],
+    "directMeshIds": [
+      "ZA_8d4d4b8d5ee9f8"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Muscular system of upper limb.g/Muscles of upper limb.g/Muscles of hand.g/Palmar interossei muscles.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.2419278514298842,
+        0.7780838067107819,
+        0.02829238658228704
+      ],
+      [
+        0.24758567061391656,
+        0.816315931795765,
+        0.04637800446316506
+      ]
+    ],
+    "parentIds": [
+      "ZAG_630b396ee11a54"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_1d37b6a0104dad",
+    "nameEn": "Left Proper palmar digital branches of median nerve",
+    "sourceNodeName": "Proper palmar digital branches of median nerve.l",
+    "system": "nervous",
+    "meshIds": [
+      "ZA_1d37b6a0104dad"
+    ],
+    "directMeshIds": [
+      "ZA_1d37b6a0104dad"
+    ],
+    "childIds": [],
+    "sourcePath": "NervousSystem100.fbx/RootNode/Peripheral nervous system.g/Spinal nerves.g/Brachial plexus.g/Median nerve.l/Common palmar digital branches of median nerve.l/Proper palmar digital branches of median nerve.l",
+    "systems": [
+      "nervous"
+    ],
+    "bounds": [
+      [
+        0.2618870283060383,
+        0.7018299417738056,
+        0.035159701120654384
+      ],
+      [
+        0.32889527991803424,
+        0.8280918764699946,
+        0.09627424990366135
+      ]
+    ],
+    "parentIds": [
+      "ZAG_57b50ef1267ccb"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_57b50ef1267ccb",
+    "nameEn": "Left Common palmar digital branches of median nerve",
+    "sourceNodeName": "Common palmar digital branches of median nerve.l",
+    "system": "nervous",
+    "meshIds": [
+      "ZA_57b50ef1267ccb",
+      "ZA_1d37b6a0104dad"
+    ],
+    "directMeshIds": [
+      "ZA_57b50ef1267ccb"
+    ],
+    "childIds": [
+      "ZAG_1d37b6a0104dad"
+    ],
+    "sourcePath": "NervousSystem100.fbx/RootNode/Peripheral nervous system.g/Spinal nerves.g/Brachial plexus.g/Median nerve.l/Common palmar digital branches of median nerve.l",
+    "systems": [
+      "nervous"
+    ],
+    "bounds": [
+      [
+        0.2618870283060383,
+        0.7018299417738056,
+        0.03380165747969841
+      ],
+      [
+        0.32889527991803424,
+        0.8363836953917879,
+        0.09627424990366135
+      ]
+    ],
+    "parentIds": [
+      "ZAG_ae3052720b5fed"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_cacf09de8b1c3d",
+    "nameEn": "Left (Communicating branch of median nerve with ulnar nerve)",
+    "sourceNodeName": "(Communicating branch of median nerve with ulnar nerve).l",
+    "system": "nervous",
+    "meshIds": [
+      "ZA_cacf09de8b1c3d"
+    ],
+    "directMeshIds": [
+      "ZA_cacf09de8b1c3d"
+    ],
+    "childIds": [],
+    "sourcePath": "NervousSystem100.fbx/RootNode/Peripheral nervous system.g/Spinal nerves.g/Brachial plexus.g/Median nerve.l/(Communicating branch of median nerve with ulnar nerve).l",
+    "systems": [
+      "nervous"
+    ],
+    "bounds": [
+      [
+        0.24635738719721748,
+        0.8535519556256875,
+        0.02701960747338995
+      ],
+      [
+        0.25779579402243635,
+        0.867515850185167,
+        0.029409918571652264
+      ]
+    ],
+    "parentIds": [
+      "ZAG_ae3052720b5fed"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_c54b36db0493f4",
+    "nameEn": "Left Anterior interosseous nerve of forearm",
+    "sourceNodeName": "Anterior interosseous nerve of forearm.l",
+    "system": "nervous",
+    "meshIds": [
+      "ZA_c54b36db0493f4"
+    ],
+    "directMeshIds": [
+      "ZA_c54b36db0493f4"
+    ],
+    "childIds": [],
+    "sourcePath": "NervousSystem100.fbx/RootNode/Peripheral nervous system.g/Spinal nerves.g/Brachial plexus.g/Median nerve.l/Anterior interosseous nerve of forearm.l",
+    "systems": [
+      "nervous"
+    ],
+    "bounds": [
+      [
+        0.21427397951814478,
+        0.8840678542558186,
+        -0.02187074895673156
+      ],
+      [
+        0.2531785821132181,
+        1.0937205995418098,
+        0.013283724193479052
+      ]
+    ],
+    "parentIds": [
+      "ZAG_ae3052720b5fed"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_a061a29f267f0d",
+    "nameEn": "Left Palmar branch of median nerve",
+    "sourceNodeName": "Palmar branch of median nerve.l",
+    "system": "nervous",
+    "meshIds": [
+      "ZA_a061a29f267f0d"
+    ],
+    "directMeshIds": [
+      "ZA_a061a29f267f0d"
+    ],
+    "childIds": [],
+    "sourcePath": "NervousSystem100.fbx/RootNode/Peripheral nervous system.g/Spinal nerves.g/Brachial plexus.g/Median nerve.l/Palmar branch of median nerve.l",
+    "systems": [
+      "nervous"
+    ],
+    "bounds": [
+      [
+        0.2400569861637751,
+        0.8399862751192805,
+        0.01146959191551033
+      ],
+      [
+        0.27736113276986946,
+        0.9385899231139438,
+        0.045747305617431885
+      ]
+    ],
+    "parentIds": [
+      "ZAG_ae3052720b5fed"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_1a5b675e7033ad",
+    "nameEn": "Left Muscular branches of median nerve",
+    "sourceNodeName": "Muscular branches of median nerve.l",
+    "system": "nervous",
+    "meshIds": [
+      "ZA_1a5b675e7033ad"
+    ],
+    "directMeshIds": [
+      "ZA_1a5b675e7033ad"
+    ],
+    "childIds": [],
+    "sourcePath": "NervousSystem100.fbx/RootNode/Peripheral nervous system.g/Spinal nerves.g/Brachial plexus.g/Median nerve.l/Muscular branches of median nerve.l",
+    "systems": [
+      "nervous"
+    ],
+    "bounds": [
+      [
+        0.2116971944884102,
+        1.0090043684326766,
+        -0.014732397774377652
+      ],
+      [
+        0.23195953619812307,
+        1.06594719782097,
+        0.00814257284750524
+      ]
+    ],
+    "parentIds": [
+      "ZAG_ae3052720b5fed"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_ae3052720b5fed",
+    "nameEn": "Left Median nerve",
+    "sourceNodeName": "Median nerve.l",
+    "system": "nervous",
+    "meshIds": [
+      "ZA_ae3052720b5fed",
+      "ZA_57b50ef1267ccb",
+      "ZA_1d37b6a0104dad",
+      "ZA_cacf09de8b1c3d",
+      "ZA_c54b36db0493f4",
+      "ZA_a061a29f267f0d",
+      "ZA_1a5b675e7033ad"
+    ],
+    "directMeshIds": [
+      "ZA_ae3052720b5fed"
+    ],
+    "childIds": [
+      "ZAG_57b50ef1267ccb",
+      "ZAG_cacf09de8b1c3d",
+      "ZAG_c54b36db0493f4",
+      "ZAG_a061a29f267f0d",
+      "ZAG_1a5b675e7033ad"
+    ],
+    "sourcePath": "NervousSystem100.fbx/RootNode/Peripheral nervous system.g/Spinal nerves.g/Brachial plexus.g/Median nerve.l",
+    "systems": [
+      "nervous"
+    ],
+    "bounds": [
+      [
+        0.11048043616840875,
+        0.7018299417738056,
+        -0.0269649564084112
+      ],
+      [
+        0.32889527991803424,
+        1.3900535977863484,
+        0.09627424990366135
+      ]
+    ],
+    "parentIds": [
+      "ZAG_2cd78bf0a203be"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_d184db687e127a",
+    "nameEn": "Left Posterior division of superior trunk of brachial plexus",
+    "sourceNodeName": "Posterior division of superior trunk of brachial plexus.l",
+    "system": "nervous",
+    "meshIds": [
+      "ZA_d184db687e127a"
+    ],
+    "directMeshIds": [
+      "ZA_d184db687e127a"
+    ],
+    "childIds": [],
+    "sourcePath": "NervousSystem100.fbx/RootNode/Peripheral nervous system.g/Spinal nerves.g/Brachial plexus.g/Supraclavicular part of brachial plexus.g/Superior trunk of brachial plexus.l/Posterior division of superior trunk of brachial plexus.l",
+    "systems": [
+      "nervous"
+    ],
+    "bounds": [
+      [
+        0.08685273983933682,
+        1.3987357012621198,
+        -0.028370276533318632
+      ],
+      [
+        0.10136024911653344,
+        1.4189831238414647,
+        -0.025327385509732056
+      ]
+    ],
+    "parentIds": [
+      "ZAG_ac79657b7151b5"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_81fc9348dcfb61",
+    "nameEn": "Left Anterior division of superior trunk of brachial plexus",
+    "sourceNodeName": "Anterior division of superior trunk of brachial plexus.l",
+    "system": "nervous",
+    "meshIds": [
+      "ZA_81fc9348dcfb61"
+    ],
+    "directMeshIds": [
+      "ZA_81fc9348dcfb61"
+    ],
+    "childIds": [],
+    "sourcePath": "NervousSystem100.fbx/RootNode/Peripheral nervous system.g/Spinal nerves.g/Brachial plexus.g/Supraclavicular part of brachial plexus.g/Superior trunk of brachial plexus.l/Anterior division of superior trunk of brachial plexus.l",
+    "systems": [
+      "nervous"
+    ],
+    "bounds": [
+      [
+        0.08648533115088446,
+        1.3987277542175036,
+        -0.02885394445905806
+      ],
+      [
+        0.11092994569668434,
+        1.419296603255598,
+        -0.013470208310255572
+      ]
+    ],
+    "parentIds": [
+      "ZAG_ac79657b7151b5"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_ac79657b7151b5",
+    "nameEn": "Left Superior trunk of brachial plexus",
+    "sourceNodeName": "Superior trunk of brachial plexus.l",
+    "system": "nervous",
+    "meshIds": [
+      "ZA_ac79657b7151b5",
+      "ZA_d184db687e127a",
+      "ZA_81fc9348dcfb61"
+    ],
+    "directMeshIds": [
+      "ZA_ac79657b7151b5"
+    ],
+    "childIds": [
+      "ZAG_d184db687e127a",
+      "ZAG_81fc9348dcfb61"
+    ],
+    "sourcePath": "NervousSystem100.fbx/RootNode/Peripheral nervous system.g/Spinal nerves.g/Brachial plexus.g/Supraclavicular part of brachial plexus.g/Superior trunk of brachial plexus.l",
+    "systems": [
+      "nervous"
+    ],
+    "bounds": [
+      [
+        0.05308532004672922,
+        1.3987277542175036,
+        -0.028882665744750565
+      ],
+      [
+        0.11092994569668434,
+        1.4542553666132332,
+        -0.011504202701877006
+      ]
+    ],
+    "parentIds": [
+      "ZAG_7b2dd4131c3bc8"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_add6605baa8021",
+    "nameEn": "Left Anterior division of middle trunk of brachial plexus",
+    "sourceNodeName": "Anterior division of middle trunk of brachial plexus.l",
+    "system": "nervous",
+    "meshIds": [
+      "ZA_add6605baa8021"
+    ],
+    "directMeshIds": [
+      "ZA_add6605baa8021"
+    ],
+    "childIds": [],
+    "sourcePath": "NervousSystem100.fbx/RootNode/Peripheral nervous system.g/Spinal nerves.g/Brachial plexus.g/Supraclavicular part of brachial plexus.g/Middle trunk of brachial plexus.l/Anterior division of middle trunk of brachial plexus.l",
+    "systems": [
+      "nervous"
+    ],
+    "bounds": [
+      [
+        0.08319356715736927,
+        1.3984842217321778,
+        -0.02476671039605547
+      ],
+      [
+        0.11117169659409701,
+        1.4205205849056102,
+        -0.013364167956868851
+      ]
+    ],
+    "parentIds": [
+      "ZAG_581fc3ab620ed7"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_f483f9334899e4",
+    "nameEn": "Left Posterior division of middle trunk of brachial plexus",
+    "sourceNodeName": "Posterior division of middle trunk of brachial plexus.l",
+    "system": "nervous",
+    "meshIds": [
+      "ZA_f483f9334899e4"
+    ],
+    "directMeshIds": [
+      "ZA_f483f9334899e4"
+    ],
+    "childIds": [],
+    "sourcePath": "NervousSystem100.fbx/RootNode/Peripheral nervous system.g/Spinal nerves.g/Brachial plexus.g/Supraclavicular part of brachial plexus.g/Middle trunk of brachial plexus.l/Posterior division of middle trunk of brachial plexus.l",
+    "systems": [
+      "nervous"
+    ],
+    "bounds": [
+      [
+        0.08318288116010868,
+        1.3987466722639332,
+        -0.027305602788560913
+      ],
+      [
+        0.10134589417328989,
+        1.42053913308533,
+        -0.021318402564047247
+      ]
+    ],
+    "parentIds": [
+      "ZAG_581fc3ab620ed7"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_581fc3ab620ed7",
+    "nameEn": "Left Middle trunk of brachial plexus",
+    "sourceNodeName": "Middle trunk of brachial plexus.l",
+    "system": "nervous",
+    "meshIds": [
+      "ZA_581fc3ab620ed7",
+      "ZA_add6605baa8021",
+      "ZA_f483f9334899e4"
+    ],
+    "directMeshIds": [
+      "ZA_581fc3ab620ed7"
+    ],
+    "childIds": [
+      "ZAG_add6605baa8021",
+      "ZAG_f483f9334899e4"
+    ],
+    "sourcePath": "NervousSystem100.fbx/RootNode/Peripheral nervous system.g/Spinal nerves.g/Brachial plexus.g/Supraclavicular part of brachial plexus.g/Middle trunk of brachial plexus.l",
+    "systems": [
+      "nervous"
+    ],
+    "bounds": [
+      [
+        0.05156001826936598,
+        1.3984842217321778,
+        -0.02732475740821845
+      ],
+      [
+        0.11117169659409701,
+        1.4431437817440724,
+        -0.013364167956868851
+      ]
+    ],
+    "parentIds": [
+      "ZAG_7b2dd4131c3bc8"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_06bf0f499846a0",
+    "nameEn": "Left Anterior division of inferior trunk of brachial plexus",
+    "sourceNodeName": "Anterior division of inferior trunk of brachial plexus.l",
+    "system": "nervous",
+    "meshIds": [
+      "ZA_06bf0f499846a0"
+    ],
+    "directMeshIds": [
+      "ZA_06bf0f499846a0"
+    ],
+    "childIds": [],
+    "sourcePath": "NervousSystem100.fbx/RootNode/Peripheral nervous system.g/Spinal nerves.g/Brachial plexus.g/Supraclavicular part of brachial plexus.g/Inferior trunk of brachial plexus.l/Anterior division of inferior trunk of brachial plexus.l",
+    "systems": [
+      "nervous"
+    ],
+    "bounds": [
+      [
+        0.08223322718201166,
+        1.398279442808083,
+        -0.017741689626662692
+      ],
+      [
+        0.10163712717985796,
+        1.4177849047413036,
+        -0.00918056394295218
+      ]
+    ],
+    "parentIds": [
+      "ZAG_a3beda93bb72dc"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_36abc308c7a82e",
+    "nameEn": "Left Posterior division of inferior trunk of brachial plexus",
+    "sourceNodeName": "Posterior division of inferior trunk of brachial plexus.l",
+    "system": "nervous",
+    "meshIds": [
+      "ZA_36abc308c7a82e"
+    ],
+    "directMeshIds": [
+      "ZA_36abc308c7a82e"
+    ],
+    "childIds": [],
+    "sourcePath": "NervousSystem100.fbx/RootNode/Peripheral nervous system.g/Spinal nerves.g/Brachial plexus.g/Supraclavicular part of brachial plexus.g/Inferior trunk of brachial plexus.l/Posterior division of inferior trunk of brachial plexus.l",
+    "systems": [
+      "nervous"
+    ],
+    "bounds": [
+      [
+        0.08265126630057346,
+        1.3995392517851173,
+        -0.017791316001653776
+      ],
+      [
+        0.11070231458352023,
+        1.4179971792922204,
+        -0.013438343690844295
+      ]
+    ],
+    "parentIds": [
+      "ZAG_a3beda93bb72dc"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_a3beda93bb72dc",
+    "nameEn": "Left Inferior trunk of brachial plexus",
+    "sourceNodeName": "Inferior trunk of brachial plexus.l",
+    "system": "nervous",
+    "meshIds": [
+      "ZA_a3beda93bb72dc",
+      "ZA_06bf0f499846a0",
+      "ZA_36abc308c7a82e"
+    ],
+    "directMeshIds": [
+      "ZA_a3beda93bb72dc"
+    ],
+    "childIds": [
+      "ZAG_06bf0f499846a0",
+      "ZAG_36abc308c7a82e"
+    ],
+    "sourcePath": "NervousSystem100.fbx/RootNode/Peripheral nervous system.g/Spinal nerves.g/Brachial plexus.g/Supraclavicular part of brachial plexus.g/Inferior trunk of brachial plexus.l",
+    "systems": [
+      "nervous"
+    ],
+    "bounds": [
+      [
+        0.05446897880933187,
+        1.398279442808083,
+        -0.017791316001653776
+      ],
+      [
+        0.11070231458352023,
+        1.4372210600239257,
+        -0.00918056394295218
+      ]
+    ],
+    "parentIds": [
+      "ZAG_7b2dd4131c3bc8"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_7e34f9ff64bc4b",
+    "nameEn": "Left Roots of brachial plexus",
+    "sourceNodeName": "Roots of brachial plexus.l",
+    "system": "nervous",
+    "meshIds": [
+      "ZA_7e34f9ff64bc4b"
+    ],
+    "directMeshIds": [
+      "ZA_7e34f9ff64bc4b"
+    ],
+    "childIds": [],
+    "sourcePath": "NervousSystem100.fbx/RootNode/Peripheral nervous system.g/Spinal nerves.g/Brachial plexus.g/Supraclavicular part of brachial plexus.g/Roots of brachial plexus.l",
+    "systems": [
+      "nervous"
+    ],
+    "bounds": [
+      [
+        0.01310255302210595,
+        1.4331337656642809,
+        -0.03515440583084192
+      ],
+      [
+        0.056038386169601904,
+        1.5048150232331028,
+        -0.005516177391893438
+      ]
+    ],
+    "parentIds": [
+      "ZAG_7b2dd4131c3bc8"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_19bf5f71fe6ed0",
+    "nameEn": "Left Posterior cord of brachial plexus",
+    "sourceNodeName": "Posterior cord of brachial plexus.l",
+    "system": "nervous",
+    "meshIds": [
+      "ZA_19bf5f71fe6ed0"
+    ],
+    "directMeshIds": [
+      "ZA_19bf5f71fe6ed0"
+    ],
+    "childIds": [],
+    "sourcePath": "NervousSystem100.fbx/RootNode/Peripheral nervous system.g/Spinal nerves.g/Brachial plexus.g/Infraclavicular part of brachial plexus.g/Posterior cord of brachial plexus.l",
+    "systems": [
+      "nervous"
+    ],
+    "bounds": [
+      [
+        0.09996848272371026,
+        1.3783459858006177,
+        -0.027324992850822315
+      ],
+      [
+        0.12232886586760763,
+        1.4001695180567513,
+        -0.024736598776500883
+      ]
+    ],
+    "parentIds": [
+      "ZAG_84129347840f86"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_f6149a0430cf73",
+    "nameEn": "Left Lateral pectoral nerve",
+    "sourceNodeName": "Lateral pectoral nerve.l",
+    "system": "nervous",
+    "meshIds": [
+      "ZA_f6149a0430cf73"
+    ],
+    "directMeshIds": [
+      "ZA_f6149a0430cf73"
+    ],
+    "childIds": [],
+    "sourcePath": "NervousSystem100.fbx/RootNode/Peripheral nervous system.g/Spinal nerves.g/Brachial plexus.g/Branches of lateral cord of brachial plexus.g/Lateral pectoral nerve.l",
+    "systems": [
+      "nervous"
+    ],
+    "bounds": [
+      [
+        0.03546127375488927,
+        1.2267729829269947,
+        -0.015319838153453525
+      ],
+      [
+        0.13921750525523813,
+        1.400249024880087,
+        0.1245399902972953
+      ]
+    ],
+    "parentIds": [
+      "ZAG_481de9f6a44710"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_8c936945a002b3",
+    "nameEn": "Left Lateral antebrachial cutaneous nerve",
+    "sourceNodeName": "Lateral antebrachial cutaneous nerve.l",
+    "system": "nervous",
+    "meshIds": [
+      "ZA_8c936945a002b3"
+    ],
+    "directMeshIds": [
+      "ZA_8c936945a002b3"
+    ],
+    "childIds": [],
+    "sourcePath": "NervousSystem100.fbx/RootNode/Peripheral nervous system.g/Spinal nerves.g/Brachial plexus.g/Branches of lateral cord of brachial plexus.g/Musculocutaneous nerve.l/Lateral antebrachial cutaneous nerve.l",
+    "systems": [
+      "nervous"
+    ],
+    "bounds": [
+      [
+        0.22272911960199082,
+        0.9300965834215879,
+        -0.01733042041061131
+      ],
+      [
+        0.2754831984174823,
+        1.0920919824954032,
+        0.008911796300816488
+      ]
+    ],
+    "parentIds": [
+      "ZAG_2446f52b0c1bac"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_2446f52b0c1bac",
+    "nameEn": "Left Musculocutaneous nerve",
+    "sourceNodeName": "Musculocutaneous nerve.l",
+    "system": "nervous",
+    "meshIds": [
+      "ZA_2446f52b0c1bac",
+      "ZA_8c936945a002b3"
+    ],
+    "directMeshIds": [
+      "ZA_2446f52b0c1bac"
+    ],
+    "childIds": [
+      "ZAG_8c936945a002b3"
+    ],
+    "sourcePath": "NervousSystem100.fbx/RootNode/Peripheral nervous system.g/Spinal nerves.g/Brachial plexus.g/Branches of lateral cord of brachial plexus.g/Musculocutaneous nerve.l",
+    "systems": [
+      "nervous"
+    ],
+    "bounds": [
+      [
+        0.17456909573638713,
+        0.9300965834215879,
+        -0.028458171757048997
+      ],
+      [
+        0.2754831984174823,
+        1.31090330911922,
+        0.008911796300816488
+      ]
+    ],
+    "parentIds": [
+      "ZAG_481de9f6a44710"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_a539f855b4619e",
+    "nameEn": "Left Superior lateral brachial cutaneous nerve",
+    "sourceNodeName": "Superior lateral brachial cutaneous nerve.l",
+    "system": "nervous",
+    "meshIds": [
+      "ZA_a539f855b4619e"
+    ],
+    "directMeshIds": [
+      "ZA_a539f855b4619e"
+    ],
+    "childIds": [],
+    "sourcePath": "NervousSystem100.fbx/RootNode/Peripheral nervous system.g/Spinal nerves.g/Brachial plexus.g/Branches of posterior cord of brachial plexus.g/Axillary nerve.l/Superior lateral brachial cutaneous nerve.l",
+    "systems": [
+      "nervous"
+    ],
+    "bounds": [
+      [
+        0.16325925938069616,
+        1.3084389816469026,
+        -0.09070969898308096
+      ],
+      [
+        0.22981758843360303,
+        1.3645227633938344,
+        -0.036275736211292736
+      ]
+    ],
+    "parentIds": [
+      "ZAG_75404ef3ae591c"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_10900e9b20403b",
+    "nameEn": "Left Muscular branches of axillary nerve",
+    "sourceNodeName": "Muscular branches of axillary nerve.l",
+    "system": "nervous",
+    "meshIds": [
+      "ZA_10900e9b20403b"
+    ],
+    "directMeshIds": [
+      "ZA_10900e9b20403b"
+    ],
+    "childIds": [],
+    "sourcePath": "NervousSystem100.fbx/RootNode/Peripheral nervous system.g/Spinal nerves.g/Brachial plexus.g/Branches of posterior cord of brachial plexus.g/Axillary nerve.l/Muscular branches of axillary nerve.l",
+    "systems": [
+      "nervous"
+    ],
+    "bounds": [
+      [
+        0.16319253569342596,
+        1.3483580453920176,
+        -0.040016734130357105
+      ],
+      [
+        0.19665965325850138,
+        1.3698748111813055,
+        -0.018485135180596735
+      ]
+    ],
+    "parentIds": [
+      "ZAG_75404ef3ae591c"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_75404ef3ae591c",
+    "nameEn": "Left Axillary nerve",
+    "sourceNodeName": "Axillary nerve.l",
+    "system": "nervous",
+    "meshIds": [
+      "ZA_75404ef3ae591c",
+      "ZA_a539f855b4619e",
+      "ZA_10900e9b20403b"
+    ],
+    "directMeshIds": [
+      "ZA_75404ef3ae591c"
+    ],
+    "childIds": [
+      "ZAG_a539f855b4619e",
+      "ZAG_10900e9b20403b"
+    ],
+    "sourcePath": "NervousSystem100.fbx/RootNode/Peripheral nervous system.g/Spinal nerves.g/Brachial plexus.g/Branches of posterior cord of brachial plexus.g/Axillary nerve.l",
+    "systems": [
+      "nervous"
+    ],
+    "bounds": [
+      [
+        0.1098829954993254,
+        1.3084389816469026,
+        -0.09070969898308096
+      ],
+      [
+        0.22981758843360303,
+        1.4002214004666493,
+        -0.012620465870712663
+      ]
+    ],
+    "parentIds": [
+      "ZAG_5f7fe43aa6413c"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_cf5746a4fad080",
+    "nameEn": "Left Posterior interosseous nerve of forearm",
+    "sourceNodeName": "Posterior interosseous nerve of forearm.l",
+    "system": "nervous",
+    "meshIds": [
+      "ZA_cf5746a4fad080"
+    ],
+    "directMeshIds": [
+      "ZA_cf5746a4fad080"
+    ],
+    "childIds": [],
+    "sourcePath": "NervousSystem100.fbx/RootNode/Peripheral nervous system.g/Spinal nerves.g/Brachial plexus.g/Branches of posterior cord of brachial plexus.g/Radial nerve.l/Deep branch of radial nerve.l/Posterior interosseous nerve of forearm.l",
+    "systems": [
+      "nervous"
+    ],
+    "bounds": [
+      [
+        0.2383527516769948,
+        0.8958166242654556,
+        -0.031083693785547872
+      ],
+      [
+        0.2526568605307374,
+        1.0631105881873177,
+        0.00705028034205337
+      ]
+    ],
+    "parentIds": [
+      "ZAG_6e8704beca107a"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_6e8704beca107a",
+    "nameEn": "Left Deep branch of radial nerve",
+    "sourceNodeName": "Deep branch of radial nerve.l",
+    "system": "nervous",
+    "meshIds": [
+      "ZA_6e8704beca107a",
+      "ZA_cf5746a4fad080"
+    ],
+    "directMeshIds": [
+      "ZA_6e8704beca107a"
+    ],
+    "childIds": [
+      "ZAG_cf5746a4fad080"
+    ],
+    "sourcePath": "NervousSystem100.fbx/RootNode/Peripheral nervous system.g/Spinal nerves.g/Brachial plexus.g/Branches of posterior cord of brachial plexus.g/Radial nerve.l/Deep branch of radial nerve.l",
+    "systems": [
+      "nervous"
+    ],
+    "bounds": [
+      [
+        0.23328551212573,
+        0.8454590459663757,
+        -0.033151067680725295
+      ],
+      [
+        0.2661038041375972,
+        1.0920092228634786,
+        0.012558398584361998
+      ]
+    ],
+    "parentIds": [
+      "ZAG_d0a9eed40b8b56"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_aa6d83946eef09",
+    "nameEn": "Left Dorsal digital branches of radial nerve",
+    "sourceNodeName": "Dorsal digital branches of radial nerve.l",
+    "system": "nervous",
+    "meshIds": [
+      "ZA_aa6d83946eef09"
+    ],
+    "directMeshIds": [
+      "ZA_aa6d83946eef09"
+    ],
+    "childIds": [],
+    "sourcePath": "NervousSystem100.fbx/RootNode/Peripheral nervous system.g/Spinal nerves.g/Brachial plexus.g/Branches of posterior cord of brachial plexus.g/Radial nerve.l/Superficial branch of radial nerve.l/Dorsal digital branches of radial nerve.l",
+    "systems": [
+      "nervous"
+    ],
+    "bounds": [
+      [
+        0.2616253226159856,
+        0.70182689548454,
+        0.012680428051613806
+      ],
+      [
+        0.3337412941165757,
+        0.8344746012852633,
+        0.0900790014624424
+      ]
+    ],
+    "parentIds": [
+      "ZAG_2fbd3704c553aa"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_2fbd3704c553aa",
+    "nameEn": "Left Superficial branch of radial nerve",
+    "sourceNodeName": "Superficial branch of radial nerve.l",
+    "system": "nervous",
+    "meshIds": [
+      "ZA_2fbd3704c553aa",
+      "ZA_aa6d83946eef09"
+    ],
+    "directMeshIds": [
+      "ZA_2fbd3704c553aa"
+    ],
+    "childIds": [
+      "ZAG_aa6d83946eef09"
+    ],
+    "sourcePath": "NervousSystem100.fbx/RootNode/Peripheral nervous system.g/Spinal nerves.g/Brachial plexus.g/Branches of posterior cord of brachial plexus.g/Radial nerve.l/Superficial branch of radial nerve.l",
+    "systems": [
+      "nervous"
+    ],
+    "bounds": [
+      [
+        0.23319390535716217,
+        0.70182689548454,
+        -0.016913240559350378
+      ],
+      [
+        0.3337412941165757,
+        1.0919530230488153,
+        0.0900790014624424
+      ]
+    ],
+    "parentIds": [
+      "ZAG_d0a9eed40b8b56"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_7ed6df914d04c6",
+    "nameEn": "Left Posterior antebrachial cutaneous nerve",
+    "sourceNodeName": "Posterior antebrachial cutaneous nerve.l",
+    "system": "nervous",
+    "meshIds": [
+      "ZA_7ed6df914d04c6"
+    ],
+    "directMeshIds": [
+      "ZA_7ed6df914d04c6"
+    ],
+    "childIds": [],
+    "sourcePath": "NervousSystem100.fbx/RootNode/Peripheral nervous system.g/Spinal nerves.g/Brachial plexus.g/Branches of posterior cord of brachial plexus.g/Radial nerve.l/Posterior antebrachial cutaneous nerve.l",
+    "systems": [
+      "nervous"
+    ],
+    "bounds": [
+      [
+        0.23909328365030674,
+        0.8854270890469261,
+        -0.05654809910084043
+      ],
+      [
+        0.25494125181857663,
+        1.1162883681264306,
+        -0.007096382102428622
+      ]
+    ],
+    "parentIds": [
+      "ZAG_d0a9eed40b8b56"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_60a85f612815fc",
+    "nameEn": "Left Inferior lateral brachial cutaneous nerve",
+    "sourceNodeName": "Inferior lateral brachial cutaneous nerve.l",
+    "system": "nervous",
+    "meshIds": [
+      "ZA_60a85f612815fc"
+    ],
+    "directMeshIds": [
+      "ZA_60a85f612815fc"
+    ],
+    "childIds": [],
+    "sourcePath": "NervousSystem100.fbx/RootNode/Peripheral nervous system.g/Spinal nerves.g/Brachial plexus.g/Branches of posterior cord of brachial plexus.g/Radial nerve.l/Inferior lateral brachial cutaneous nerve.l",
+    "systems": [
+      "nervous"
+    ],
+    "bounds": [
+      [
+        0.21107994648824813,
+        1.1778121532754409,
+        -0.04695743321455259
+      ],
+      [
+        0.24113536245311437,
+        1.225353364620413,
+        -0.024922159720227707
+      ]
+    ],
+    "parentIds": [
+      "ZAG_d0a9eed40b8b56"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_3edc3d0969a411",
+    "nameEn": "Left Muscular branches of radial nerve",
+    "sourceNodeName": "Muscular branches of radial nerve.l",
+    "system": "nervous",
+    "meshIds": [
+      "ZA_3edc3d0969a411"
+    ],
+    "directMeshIds": [
+      "ZA_3edc3d0969a411"
+    ],
+    "childIds": [],
+    "sourcePath": "NervousSystem100.fbx/RootNode/Peripheral nervous system.g/Spinal nerves.g/Brachial plexus.g/Branches of posterior cord of brachial plexus.g/Radial nerve.l/Muscular branches of radial nerve.l",
+    "systems": [
+      "nervous"
+    ],
+    "bounds": [
+      [
+        0.20237952747303636,
+        1.0926577587321227,
+        -0.059521969199286276
+      ],
+      [
+        0.26436204618877285,
+        1.1597542833058876,
+        -0.0195273695631449
+      ]
+    ],
+    "parentIds": [
+      "ZAG_d0a9eed40b8b56"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_d0a9eed40b8b56",
+    "nameEn": "Left Radial nerve",
+    "sourceNodeName": "Radial nerve.l",
+    "system": "nervous",
+    "meshIds": [
+      "ZA_d0a9eed40b8b56",
+      "ZA_6e8704beca107a",
+      "ZA_cf5746a4fad080",
+      "ZA_2fbd3704c553aa",
+      "ZA_aa6d83946eef09",
+      "ZA_7ed6df914d04c6",
+      "ZA_60a85f612815fc",
+      "ZA_3edc3d0969a411"
+    ],
+    "directMeshIds": [
+      "ZA_d0a9eed40b8b56"
+    ],
+    "childIds": [
+      "ZAG_6e8704beca107a",
+      "ZAG_2fbd3704c553aa",
+      "ZAG_7ed6df914d04c6",
+      "ZAG_60a85f612815fc",
+      "ZAG_3edc3d0969a411"
+    ],
+    "sourcePath": "NervousSystem100.fbx/RootNode/Peripheral nervous system.g/Spinal nerves.g/Brachial plexus.g/Branches of posterior cord of brachial plexus.g/Radial nerve.l",
+    "systems": [
+      "nervous"
+    ],
+    "bounds": [
+      [
+        0.12087035017613865,
+        0.70182689548454,
+        -0.059521969199286276
+      ],
+      [
+        0.3337412941165757,
+        1.3797100371356625,
+        0.0900790014624424
+      ]
+    ],
+    "parentIds": [
+      "ZAG_5f7fe43aa6413c"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_c7a39d11c7cc18",
+    "nameEn": "Left Thoracodorsal nerve",
+    "sourceNodeName": "Thoracodorsal nerve.l",
+    "system": "nervous",
+    "meshIds": [
+      "ZA_c7a39d11c7cc18"
+    ],
+    "directMeshIds": [
+      "ZA_c7a39d11c7cc18"
+    ],
+    "childIds": [],
+    "sourcePath": "NervousSystem100.fbx/RootNode/Peripheral nervous system.g/Spinal nerves.g/Brachial plexus.g/Branches of posterior cord of brachial plexus.g/Thoracodorsal nerve.l",
+    "systems": [
+      "nervous"
+    ],
+    "bounds": [
+      [
+        0.0886336644565386,
+        1.218476365412302,
+        -0.10418280715674523
+      ],
+      [
+        0.1498469032816348,
+        1.3794837823133073,
+        -0.025182058532308947
+      ]
+    ],
+    "parentIds": [
+      "ZAG_5f7fe43aa6413c"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_e1592d36654f8d",
+    "nameEn": "Left Superior subscapular nerve",
+    "sourceNodeName": "Superior subscapular nerve.l",
+    "system": "nervous",
+    "meshIds": [
+      "ZA_e1592d36654f8d"
+    ],
+    "directMeshIds": [
+      "ZA_e1592d36654f8d"
+    ],
+    "childIds": [],
+    "sourcePath": "NervousSystem100.fbx/RootNode/Peripheral nervous system.g/Spinal nerves.g/Brachial plexus.g/Branches of posterior cord of brachial plexus.g/Superior subscapular nerve.l",
+    "systems": [
+      "nervous"
+    ],
+    "bounds": [
+      [
+        0.07978493521051033,
+        1.3521025890080813,
+        -0.08829239334158018
+      ],
+      [
+        0.11194191712133905,
+        1.3898856057367839,
+        -0.025539401313361486
+      ]
+    ],
+    "parentIds": [
+      "ZAG_5f7fe43aa6413c"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_138f5045dc0699",
+    "nameEn": "Left Inferior subscapular nerve",
+    "sourceNodeName": "Inferior subscapular nerve.l",
+    "system": "nervous",
+    "meshIds": [
+      "ZA_138f5045dc0699"
+    ],
+    "directMeshIds": [
+      "ZA_138f5045dc0699"
+    ],
+    "childIds": [],
+    "sourcePath": "NervousSystem100.fbx/RootNode/Peripheral nervous system.g/Spinal nerves.g/Brachial plexus.g/Branches of posterior cord of brachial plexus.g/Inferior subscapular nerve.l",
+    "systems": [
+      "nervous"
+    ],
+    "bounds": [
+      [
+        0.09414751430539214,
+        1.2891669540392459,
+        -0.09097813342474004
+      ],
+      [
+        0.11821829419308401,
+        1.3838725009969688,
+        -0.025323299019649498
+      ]
+    ],
+    "parentIds": [
+      "ZAG_5f7fe43aa6413c"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_54ee80e8b30139",
+    "nameEn": "Left Anterior branch of medial antebrachial cutaneous nerve",
+    "sourceNodeName": "Anterior branch of medial antebrachial cutaneous nerve.l",
+    "system": "nervous",
+    "meshIds": [
+      "ZA_54ee80e8b30139"
+    ],
+    "directMeshIds": [
+      "ZA_54ee80e8b30139"
+    ],
+    "childIds": [],
+    "sourcePath": "NervousSystem100.fbx/RootNode/Peripheral nervous system.g/Spinal nerves.g/Brachial plexus.g/Branches of medial cord of brachial plexus.g/Medial antebrachial cutaneous nerve.l/Anterior branch of medial antebrachial cutaneous nerve.l",
+    "systems": [
+      "nervous"
+    ],
+    "bounds": [
+      [
+        0.1887295545748383,
+        0.9293701792657824,
+        -0.01786391738557045
+      ],
+      [
+        0.23552892707511305,
+        1.1641688856869792,
+        0.020593104767341587
+      ]
+    ],
+    "parentIds": [
+      "ZAG_5cfab958ec8319"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_0cf82e402c84a2",
+    "nameEn": "Left Posterior branch of medial antebrachial cutaneous nerve",
+    "sourceNodeName": "Posterior branch of medial antebrachial cutaneous nerve.l",
+    "system": "nervous",
+    "meshIds": [
+      "ZA_0cf82e402c84a2"
+    ],
+    "directMeshIds": [
+      "ZA_0cf82e402c84a2"
+    ],
+    "childIds": [],
+    "sourcePath": "NervousSystem100.fbx/RootNode/Peripheral nervous system.g/Spinal nerves.g/Brachial plexus.g/Branches of medial cord of brachial plexus.g/Medial antebrachial cutaneous nerve.l/Posterior branch of medial antebrachial cutaneous nerve.l",
+    "systems": [
+      "nervous"
+    ],
+    "bounds": [
+      [
+        0.1820575192613615,
+        0.937313843948825,
+        -0.038127332977930896
+      ],
+      [
+        0.22657147043083106,
+        1.1641452376558754,
+        -0.012498627546748077
+      ]
+    ],
+    "parentIds": [
+      "ZAG_5cfab958ec8319"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_5cfab958ec8319",
+    "nameEn": "Left Medial antebrachial cutaneous nerve",
+    "sourceNodeName": "Medial antebrachial cutaneous nerve.l",
+    "system": "nervous",
+    "meshIds": [
+      "ZA_5cfab958ec8319",
+      "ZA_54ee80e8b30139",
+      "ZA_0cf82e402c84a2"
+    ],
+    "directMeshIds": [
+      "ZA_5cfab958ec8319"
+    ],
+    "childIds": [
+      "ZAG_54ee80e8b30139",
+      "ZAG_0cf82e402c84a2"
+    ],
+    "sourcePath": "NervousSystem100.fbx/RootNode/Peripheral nervous system.g/Spinal nerves.g/Brachial plexus.g/Branches of medial cord of brachial plexus.g/Medial antebrachial cutaneous nerve.l",
+    "systems": [
+      "nervous"
+    ],
+    "bounds": [
+      [
+        0.12890822991061163,
+        0.9293701792657824,
+        -0.038127332977930896
+      ],
+      [
+        0.23552892707511305,
+        1.367558834058254,
+        0.020593104767341587
+      ]
+    ],
+    "parentIds": [
+      "ZAG_5b10e55ceb6078"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_f2fc78b10c110e",
+    "nameEn": "Left Dorsal digital branches of ulnar nerve",
+    "sourceNodeName": "Dorsal digital branches of ulnar nerve.l",
+    "system": "nervous",
+    "meshIds": [
+      "ZA_f2fc78b10c110e"
+    ],
+    "directMeshIds": [
+      "ZA_f2fc78b10c110e"
+    ],
+    "childIds": [],
+    "sourcePath": "NervousSystem100.fbx/RootNode/Peripheral nervous system.g/Spinal nerves.g/Brachial plexus.g/Branches of medial cord of brachial plexus.g/Ulnar nerve.l/Dorsal branch of ulnar nerve.l/Dorsal digital branches of ulnar nerve.l",
+    "systems": [
+      "nervous"
+    ],
+    "bounds": [
+      [
+        0.22520070210644455,
+        0.7134950965099784,
+        0.02973845031771392
+      ],
+      [
+        0.25439781754199275,
+        0.7838439359856946,
+        0.08885663086300781
+      ]
+    ],
+    "parentIds": [
+      "ZAG_20687f4b2580a0"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_20687f4b2580a0",
+    "nameEn": "Left Dorsal branch of ulnar nerve",
+    "sourceNodeName": "Dorsal branch of ulnar nerve.l",
+    "system": "nervous",
+    "meshIds": [
+      "ZA_20687f4b2580a0",
+      "ZA_f2fc78b10c110e"
+    ],
+    "directMeshIds": [
+      "ZA_20687f4b2580a0"
+    ],
+    "childIds": [
+      "ZAG_f2fc78b10c110e"
+    ],
+    "sourcePath": "NervousSystem100.fbx/RootNode/Peripheral nervous system.g/Spinal nerves.g/Brachial plexus.g/Branches of medial cord of brachial plexus.g/Ulnar nerve.l/Dorsal branch of ulnar nerve.l",
+    "systems": [
+      "nervous"
+    ],
+    "bounds": [
+      [
+        0.22520070210644455,
+        0.7134950965099784,
+        0.012545254871547713
+      ],
+      [
+        0.25439781754199275,
+        0.8832352960659384,
+        0.08885663086300781
+      ]
+    ],
+    "parentIds": [
+      "ZAG_a48e1298264a7f"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_aa3e2fb12660ed",
+    "nameEn": "Left Proper palmar digital branches of ulnar nerve",
+    "sourceNodeName": "Proper palmar digital branches of ulnar nerve.l",
+    "system": "nervous",
+    "meshIds": [
+      "ZA_aa3e2fb12660ed"
+    ],
+    "directMeshIds": [
+      "ZA_aa3e2fb12660ed"
+    ],
+    "childIds": [],
+    "sourcePath": "NervousSystem100.fbx/RootNode/Peripheral nervous system.g/Spinal nerves.g/Brachial plexus.g/Branches of medial cord of brachial plexus.g/Ulnar nerve.l/Superficial branch of ulnar nerve.l/Common palmar digital branches of ulnar nerve.l/Proper palmar digital branches of ulnar nerve.l",
+    "systems": [
+      "nervous"
+    ],
+    "bounds": [
+      [
+        0.22487884068851907,
+        0.712721081072757,
+        0.030937389099808133
+      ],
+      [
+        0.25515417175754584,
+        0.8433511060274027,
+        0.09363661382931297
+      ]
+    ],
+    "parentIds": [
+      "ZAG_024bb396b6ef39"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_024bb396b6ef39",
+    "nameEn": "Left Common palmar digital branches of ulnar nerve",
+    "sourceNodeName": "Common palmar digital branches of ulnar nerve.l",
+    "system": "nervous",
+    "meshIds": [
+      "ZA_024bb396b6ef39",
+      "ZA_aa3e2fb12660ed"
+    ],
+    "directMeshIds": [
+      "ZA_024bb396b6ef39"
+    ],
+    "childIds": [
+      "ZAG_aa3e2fb12660ed"
+    ],
+    "sourcePath": "NervousSystem100.fbx/RootNode/Peripheral nervous system.g/Spinal nerves.g/Brachial plexus.g/Branches of medial cord of brachial plexus.g/Ulnar nerve.l/Superficial branch of ulnar nerve.l/Common palmar digital branches of ulnar nerve.l",
+    "systems": [
+      "nervous"
+    ],
+    "bounds": [
+      [
+        0.22487884068851907,
+        0.712721081072757,
+        0.030937389099808133
+      ],
+      [
+        0.26652243557742955,
+        0.8433512028849417,
+        0.09363661382931297
+      ]
+    ],
+    "parentIds": [
+      "ZAG_92d56aa7244129"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_92d56aa7244129",
+    "nameEn": "Left Superficial branch of ulnar nerve",
+    "sourceNodeName": "Superficial branch of ulnar nerve.l",
+    "system": "nervous",
+    "meshIds": [
+      "ZA_92d56aa7244129",
+      "ZA_024bb396b6ef39",
+      "ZA_aa3e2fb12660ed"
+    ],
+    "directMeshIds": [
+      "ZA_92d56aa7244129"
+    ],
+    "childIds": [
+      "ZAG_024bb396b6ef39"
+    ],
+    "sourcePath": "NervousSystem100.fbx/RootNode/Peripheral nervous system.g/Spinal nerves.g/Brachial plexus.g/Branches of medial cord of brachial plexus.g/Ulnar nerve.l/Superficial branch of ulnar nerve.l",
+    "systems": [
+      "nervous"
+    ],
+    "bounds": [
+      [
+        0.22487884068851907,
+        0.712721081072757,
+        0.01844518898865978
+      ],
+      [
+        0.26652243557742955,
+        0.8833615776909647,
+        0.09363661382931297
+      ]
+    ],
+    "parentIds": [
+      "ZAG_a48e1298264a7f"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_0640f07768a6bf",
+    "nameEn": "Left Palmar branch of ulnar nerve",
+    "sourceNodeName": "Palmar branch of ulnar nerve.l",
+    "system": "nervous",
+    "meshIds": [
+      "ZA_0640f07768a6bf"
+    ],
+    "directMeshIds": [
+      "ZA_0640f07768a6bf"
+    ],
+    "childIds": [],
+    "sourcePath": "NervousSystem100.fbx/RootNode/Peripheral nervous system.g/Spinal nerves.g/Brachial plexus.g/Branches of medial cord of brachial plexus.g/Ulnar nerve.l/Palmar branch of ulnar nerve.l",
+    "systems": [
+      "nervous"
+    ],
+    "bounds": [
+      [
+        0.21414878161717804,
+        0.8179615176479222,
+        -0.0047335143370121815
+      ],
+      [
+        0.2643122595370788,
+        0.9446988214490912,
+        0.0442500647869605
+      ]
+    ],
+    "parentIds": [
+      "ZAG_a48e1298264a7f"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_c5f70a44043551",
+    "nameEn": "Left Deep branch of ulnar nerve",
+    "sourceNodeName": "Deep branch of ulnar nerve.l",
+    "system": "nervous",
+    "meshIds": [
+      "ZA_c5f70a44043551"
+    ],
+    "directMeshIds": [
+      "ZA_c5f70a44043551"
+    ],
+    "childIds": [],
+    "sourcePath": "NervousSystem100.fbx/RootNode/Peripheral nervous system.g/Spinal nerves.g/Brachial plexus.g/Branches of medial cord of brachial plexus.g/Ulnar nerve.l/Deep branch of ulnar nerve.l",
+    "systems": [
+      "nervous"
+    ],
+    "bounds": [
+      [
+        0.24796096171258644,
+        0.8307071387424736,
+        0.02740665818294425
+      ],
+      [
+        0.2854666802995243,
+        0.8498207282240919,
+        0.033935778308027804
+      ]
+    ],
+    "parentIds": [
+      "ZAG_a48e1298264a7f"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_110f281d35c94b",
+    "nameEn": "Left Muscular branches of ulnar nerve",
+    "sourceNodeName": "Muscular branches of ulnar nerve.l",
+    "system": "nervous",
+    "meshIds": [
+      "ZA_110f281d35c94b"
+    ],
+    "directMeshIds": [
+      "ZA_110f281d35c94b"
+    ],
+    "childIds": [],
+    "sourcePath": "NervousSystem100.fbx/RootNode/Peripheral nervous system.g/Spinal nerves.g/Brachial plexus.g/Branches of medial cord of brachial plexus.g/Ulnar nerve.l/Muscular branches of ulnar nerve.l",
+    "systems": [
+      "nervous"
+    ],
+    "bounds": [
+      [
+        0.18896974550664258,
+        0.9955568495463173,
+        -0.035169345012001765
+      ],
+      [
+        0.22039699057251066,
+        1.0494519184358309,
+        -0.009657255080186791
+      ]
+    ],
+    "parentIds": [
+      "ZAG_a48e1298264a7f"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_a48e1298264a7f",
+    "nameEn": "Left Ulnar nerve",
+    "sourceNodeName": "Ulnar nerve.l",
+    "system": "nervous",
+    "meshIds": [
+      "ZA_a48e1298264a7f",
+      "ZA_20687f4b2580a0",
+      "ZA_f2fc78b10c110e",
+      "ZA_92d56aa7244129",
+      "ZA_024bb396b6ef39",
+      "ZA_aa3e2fb12660ed",
+      "ZA_0640f07768a6bf",
+      "ZA_c5f70a44043551",
+      "ZA_110f281d35c94b"
+    ],
+    "directMeshIds": [
+      "ZA_a48e1298264a7f"
+    ],
+    "childIds": [
+      "ZAG_20687f4b2580a0",
+      "ZAG_92d56aa7244129",
+      "ZAG_0640f07768a6bf",
+      "ZAG_c5f70a44043551",
+      "ZAG_110f281d35c94b"
+    ],
+    "sourcePath": "NervousSystem100.fbx/RootNode/Peripheral nervous system.g/Spinal nerves.g/Brachial plexus.g/Branches of medial cord of brachial plexus.g/Ulnar nerve.l",
+    "systems": [
+      "nervous"
+    ],
+    "bounds": [
+      [
+        0.10020650367349937,
+        0.712721081072757,
+        -0.04473972906273342
+      ],
+      [
+        0.2854666802995243,
+        1.3998473394505881,
+        0.09363661382931297
+      ]
+    ],
+    "parentIds": [
+      "ZAG_5b10e55ceb6078"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_51ee9aab84a53d",
+    "nameEn": "Left Medial brachial cutaneous nerve",
+    "sourceNodeName": "Medial brachial cutaneous nerve.l",
+    "system": "nervous",
+    "meshIds": [
+      "ZA_51ee9aab84a53d"
+    ],
+    "directMeshIds": [
+      "ZA_51ee9aab84a53d"
+    ],
+    "childIds": [],
+    "sourcePath": "NervousSystem100.fbx/RootNode/Peripheral nervous system.g/Spinal nerves.g/Brachial plexus.g/Branches of medial cord of brachial plexus.g/Medial brachial cutaneous nerve.l",
+    "systems": [
+      "nervous"
+    ],
+    "bounds": [
+      [
+        0.10020650739879035,
+        1.1965622288939795,
+        -0.05384647254437223
+      ],
+      [
+        0.17167835745739604,
+        1.3998474725396295,
+        -0.0035888955425697434
+      ]
+    ],
+    "parentIds": [
+      "ZAG_5b10e55ceb6078"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_24ec731fcc32b1",
+    "nameEn": "Left Medial pectoral nerve",
+    "sourceNodeName": "Medial pectoral nerve.l",
+    "system": "nervous",
+    "meshIds": [
+      "ZA_24ec731fcc32b1"
+    ],
+    "directMeshIds": [
+      "ZA_24ec731fcc32b1"
+    ],
+    "childIds": [],
+    "sourcePath": "NervousSystem100.fbx/RootNode/Peripheral nervous system.g/Spinal nerves.g/Brachial plexus.g/Branches of medial cord of brachial plexus.g/Medial pectoral nerve.l",
+    "systems": [
+      "nervous"
+    ],
+    "bounds": [
+      [
+        0.05886939032958363,
+        1.3387896506656733,
+        -0.012475824723420393
+      ],
+      [
+        0.10442267922179405,
+        1.4319667309766817,
+        0.04919326327344086
+      ]
+    ],
+    "parentIds": [
+      "ZAG_5b10e55ceb6078"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_c18a2ec0c55610",
+    "nameEn": "Left Dorsal scapular nerve",
+    "sourceNodeName": "Dorsal scapular nerve.l",
+    "system": "nervous",
+    "meshIds": [
+      "ZA_c18a2ec0c55610"
+    ],
+    "directMeshIds": [
+      "ZA_c18a2ec0c55610"
+    ],
+    "childIds": [],
+    "sourcePath": "NervousSystem100.fbx/RootNode/Peripheral nervous system.g/Spinal nerves.g/Brachial plexus.g/Supraclavicular branches of brachial plexus.g/Dorsal scapular nerve.l",
+    "systems": [
+      "nervous"
+    ],
+    "bounds": [
+      [
+        0.025435548935446892,
+        1.3041992728822855,
+        -0.10828382936115676
+      ],
+      [
+        0.058595983780817755,
+        1.483087736195523,
+        -0.010861359240214892
+      ]
+    ],
+    "parentIds": [
+      "ZAG_8634fcf81a54eb"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_b73108fe51220c",
+    "nameEn": "Left Long thoracic nerve",
+    "sourceNodeName": "Long thoracic nerve.l",
+    "system": "nervous",
+    "meshIds": [
+      "ZA_b73108fe51220c"
+    ],
+    "directMeshIds": [
+      "ZA_b73108fe51220c"
+    ],
+    "childIds": [],
+    "sourcePath": "NervousSystem100.fbx/RootNode/Peripheral nervous system.g/Spinal nerves.g/Brachial plexus.g/Supraclavicular branches of brachial plexus.g/Long thoracic nerve.l",
+    "systems": [
+      "nervous"
+    ],
+    "bounds": [
+      [
+        0.02298001405334162,
+        1.1950214082640322,
+        -0.05460409243453439
+      ],
+      [
+        0.14366301422612784,
+        1.482578464970767,
+        0.005468595465561812
+      ]
+    ],
+    "parentIds": [
+      "ZAG_8634fcf81a54eb"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_b38f9ed4c8486f",
+    "nameEn": "Left Suprascapular nerve",
+    "sourceNodeName": "Suprascapular nerve.l",
+    "system": "nervous",
+    "meshIds": [
+      "ZA_b38f9ed4c8486f"
+    ],
+    "directMeshIds": [
+      "ZA_b38f9ed4c8486f"
+    ],
+    "childIds": [],
+    "sourcePath": "NervousSystem100.fbx/RootNode/Peripheral nervous system.g/Spinal nerves.g/Brachial plexus.g/Supraclavicular branches of brachial plexus.g/Suprascapular nerve.l",
+    "systems": [
+      "nervous"
+    ],
+    "bounds": [
+      [
+        0.053810135017273525,
+        1.3162137546123684,
+        -0.0914625013548382
+      ],
+      [
+        0.14327218090780758,
+        1.4536136307546903,
+        -0.012509707274754155
+      ]
+    ],
+    "parentIds": [
+      "ZAG_8634fcf81a54eb"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_a6f1bb82df725d",
+    "nameEn": "Left Subclavian nerve",
+    "sourceNodeName": "Subclavian nerve.l",
+    "system": "nervous",
+    "meshIds": [
+      "ZA_a6f1bb82df725d"
+    ],
+    "directMeshIds": [
+      "ZA_a6f1bb82df725d"
+    ],
+    "childIds": [],
+    "sourcePath": "NervousSystem100.fbx/RootNode/Peripheral nervous system.g/Spinal nerves.g/Brachial plexus.g/Supraclavicular branches of brachial plexus.g/Subclavian nerve.l",
+    "systems": [
+      "nervous"
+    ],
+    "bounds": [
+      [
+        0.05374001109973828,
+        1.3960732759811618,
+        -0.013451650562092464
+      ],
+      [
+        0.06673304938841547,
+        1.4534747906909777,
+        0.028677289392289747
+      ]
+    ],
+    "parentIds": [
+      "ZAG_8634fcf81a54eb"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_997ce372d2ad95",
+    "nameEn": "Left Suprascapular artery",
+    "sourceNodeName": "Suprascapular artery.l",
+    "system": "arterial",
+    "meshIds": [
+      "ZA_997ce372d2ad95"
+    ],
+    "directMeshIds": [
+      "ZA_997ce372d2ad95"
+    ],
+    "childIds": [],
+    "sourcePath": "CardioVascular41.fbx/RootNode/Arterial system.g/Systemic arteries.g/Left subclavian artery/Thyrocervical trunk.l/Suprascapular artery.l",
+    "systems": [
+      "arterial"
+    ],
+    "bounds": [
+      [
+        0.04123919658371145,
+        1.3639295604070028,
+        -0.09183165484784317
+      ],
+      [
+        0.14391452800752053,
+        1.433416499613752,
+        0.004255130610059506
+      ]
+    ],
+    "parentIds": [
+      "ZAG_a0fdc4cb9ebe3a"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_444a59e0b4cc5b",
+    "nameEn": "Left Pectoral branches of thoraco-acromial artery",
+    "sourceNodeName": "Pectoral branches of thoraco-acromial artery.l",
+    "system": "arterial",
+    "meshIds": [
+      "ZA_444a59e0b4cc5b"
+    ],
+    "directMeshIds": [
+      "ZA_444a59e0b4cc5b"
+    ],
+    "childIds": [],
+    "sourcePath": "CardioVascular41.fbx/RootNode/Arterial system.g/Systemic arteries.g/Left subclavian artery/Axillary artery.l/Thoraco-acromial artery.l/Pectoral branches of thoraco-acromial artery.l",
+    "systems": [
+      "arterial"
+    ],
+    "bounds": [
+      [
+        0.09312009717354856,
+        1.2756218579228678,
+        0.002545393627967689
+      ],
+      [
+        0.12716808685562675,
+        1.397379852689659,
+        0.05129568103583754
+      ]
+    ],
+    "parentIds": [
+      "ZAG_16fc4de3c8c210"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_16fc4de3c8c210",
+    "nameEn": "Left Thoraco-acromial artery",
+    "sourceNodeName": "Thoraco-acromial artery.l",
+    "system": "arterial",
+    "meshIds": [
+      "ZA_16fc4de3c8c210",
+      "ZA_444a59e0b4cc5b"
+    ],
+    "directMeshIds": [
+      "ZA_16fc4de3c8c210"
+    ],
+    "childIds": [
+      "ZAG_444a59e0b4cc5b"
+    ],
+    "sourcePath": "CardioVascular41.fbx/RootNode/Arterial system.g/Systemic arteries.g/Left subclavian artery/Axillary artery.l/Thoraco-acromial artery.l",
+    "systems": [
+      "arterial"
+    ],
+    "bounds": [
+      [
+        0.0923243532678591,
+        1.2756218579228678,
+        -0.00610376813542603
+      ],
+      [
+        0.12716808685562675,
+        1.4053452943345157,
+        0.05129568103583754
+      ]
+    ],
+    "parentIds": [
+      "ZAG_a4a3108573b3a7"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_d726025377dcb1",
+    "nameEn": "Left Lateral thoracic artery",
+    "sourceNodeName": "Lateral thoracic artery.l",
+    "system": "arterial",
+    "meshIds": [
+      "ZA_d726025377dcb1"
+    ],
+    "directMeshIds": [
+      "ZA_d726025377dcb1"
+    ],
+    "childIds": [],
+    "sourcePath": "CardioVascular41.fbx/RootNode/Arterial system.g/Systemic arteries.g/Left subclavian artery/Axillary artery.l/Lateral thoracic artery.l",
+    "systems": [
+      "arterial"
+    ],
+    "bounds": [
+      [
+        0.1080862202026334,
+        1.1848693801036452,
+        -0.005211157852684991
+      ],
+      [
+        0.1305140197169837,
+        1.3960650247587996,
+        0.06700514013992953
+      ]
+    ],
+    "parentIds": [
+      "ZAG_a4a3108573b3a7"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_d4cf2458ebcd4b",
+    "nameEn": "Left Radial collateral artery",
+    "sourceNodeName": "Radial collateral artery.l",
+    "system": "arterial",
+    "meshIds": [
+      "ZA_d4cf2458ebcd4b"
+    ],
+    "directMeshIds": [
+      "ZA_d4cf2458ebcd4b"
+    ],
+    "childIds": [],
+    "sourcePath": "CardioVascular41.fbx/RootNode/Arterial system.g/Systemic arteries.g/Left subclavian artery/Axillary artery.l/Brachial artery.l/Deep brachial artery.l/Radial collateral artery.l",
+    "systems": [
+      "arterial"
+    ],
+    "bounds": [
+      [
+        0.2028874501087339,
+        1.0497327517618869,
+        -0.053019811229526946
+      ],
+      [
+        0.25376830581627285,
+        1.193469651154766,
+        -0.006785683470357196
+      ]
+    ],
+    "parentIds": [
+      "ZAG_5288766012b700"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_5e2c08a4e4aa2d",
+    "nameEn": "Left Middle collateral artery",
+    "sourceNodeName": "Middle collateral artery.l",
+    "system": "arterial",
+    "meshIds": [
+      "ZA_5e2c08a4e4aa2d"
+    ],
+    "directMeshIds": [
+      "ZA_5e2c08a4e4aa2d"
+    ],
+    "childIds": [],
+    "sourcePath": "CardioVascular41.fbx/RootNode/Arterial system.g/Systemic arteries.g/Left subclavian artery/Axillary artery.l/Brachial artery.l/Deep brachial artery.l/Middle collateral artery.l",
+    "systems": [
+      "arterial"
+    ],
+    "bounds": [
+      [
+        0.2028874519713791,
+        1.1174321018300553,
+        -0.055132264658931514
+      ],
+      [
+        0.22951887191512035,
+        1.1934696772317976,
+        -0.043897958178390234
+      ]
+    ],
+    "parentIds": [
+      "ZAG_5288766012b700"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_5288766012b700",
+    "nameEn": "Left Deep brachial artery",
+    "sourceNodeName": "Deep brachial artery.l",
+    "system": "arterial",
+    "meshIds": [
+      "ZA_5288766012b700",
+      "ZA_d4cf2458ebcd4b",
+      "ZA_5e2c08a4e4aa2d"
+    ],
+    "directMeshIds": [
+      "ZA_5288766012b700"
+    ],
+    "childIds": [
+      "ZAG_d4cf2458ebcd4b",
+      "ZAG_5e2c08a4e4aa2d"
+    ],
+    "sourcePath": "CardioVascular41.fbx/RootNode/Arterial system.g/Systemic arteries.g/Left subclavian artery/Axillary artery.l/Brachial artery.l/Deep brachial artery.l",
+    "systems": [
+      "arterial"
+    ],
+    "bounds": [
+      [
+        0.17047274320183844,
+        1.0497327517618869,
+        -0.055132264658931514
+      ],
+      [
+        0.25376830581627285,
+        1.2551752955839122,
+        -0.006785683470357196
+      ]
+    ],
+    "parentIds": [
+      "ZAG_b230536b99cf74"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_4c44fef1173868",
+    "nameEn": "Left Dorsal digital arteries of hand",
+    "sourceNodeName": "Dorsal digital arteries of hand.l",
+    "system": "arterial",
+    "meshIds": [
+      "ZA_4c44fef1173868"
+    ],
+    "directMeshIds": [
+      "ZA_4c44fef1173868"
+    ],
+    "childIds": [],
+    "sourcePath": "CardioVascular41.fbx/RootNode/Arterial system.g/Systemic arteries.g/Left subclavian artery/Axillary artery.l/Brachial artery.l/Radial artery.l/Dorsal carpal anastomosis.l/Dorsal metacarpal arteries.l/Dorsal digital arteries of hand.l",
+    "systems": [
+      "arterial"
+    ],
+    "bounds": [
+      [
+        0.22588958322489178,
+        0.7072137768628616,
+        0.018427613979825334
+      ],
+      [
+        0.32878460992203606,
+        0.8182535317317826,
+        0.09077209346141704
+      ]
+    ],
+    "parentIds": [
+      "ZAG_2de89e94942345"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_2de89e94942345",
+    "nameEn": "Left Dorsal metacarpal arteries",
+    "sourceNodeName": "Dorsal metacarpal arteries.l",
+    "system": "arterial",
+    "meshIds": [
+      "ZA_2de89e94942345",
+      "ZA_4c44fef1173868"
+    ],
+    "directMeshIds": [
+      "ZA_2de89e94942345"
+    ],
+    "childIds": [
+      "ZAG_4c44fef1173868"
+    ],
+    "sourcePath": "CardioVascular41.fbx/RootNode/Arterial system.g/Systemic arteries.g/Left subclavian artery/Axillary artery.l/Brachial artery.l/Radial artery.l/Dorsal carpal anastomosis.l/Dorsal metacarpal arteries.l",
+    "systems": [
+      "arterial"
+    ],
+    "bounds": [
+      [
+        0.22588958322489178,
+        0.7072137768628616,
+        0.007983107235222098
+      ],
+      [
+        0.32878460992203606,
+        0.8445492749822675,
+        0.09077209346141704
+      ]
+    ],
+    "parentIds": [
+      "ZAG_abf3919b3c91d1"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_abf3919b3c91d1",
+    "nameEn": "Left Dorsal carpal anastomosis",
+    "sourceNodeName": "Dorsal carpal anastomosis.l",
+    "system": "arterial",
+    "meshIds": [
+      "ZA_abf3919b3c91d1",
+      "ZA_2de89e94942345",
+      "ZA_4c44fef1173868"
+    ],
+    "directMeshIds": [
+      "ZA_abf3919b3c91d1"
+    ],
+    "childIds": [
+      "ZAG_2de89e94942345"
+    ],
+    "sourcePath": "CardioVascular41.fbx/RootNode/Arterial system.g/Systemic arteries.g/Left subclavian artery/Axillary artery.l/Brachial artery.l/Radial artery.l/Dorsal carpal anastomosis.l",
+    "systems": [
+      "arterial"
+    ],
+    "bounds": [
+      [
+        0.22588958322489178,
+        0.7072137768628616,
+        0.007804709386117663
+      ],
+      [
+        0.32878460992203606,
+        0.845250616381378,
+        0.09077209346141704
+      ]
+    ],
+    "parentIds": [
+      "ZAG_27c0bb6e65de3b"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_c88449a9f5f5c9",
+    "nameEn": "Left Palmar metacarpal arteries",
+    "sourceNodeName": "Palmar metacarpal arteries.l",
+    "system": "arterial",
+    "meshIds": [
+      "ZA_c88449a9f5f5c9"
+    ],
+    "directMeshIds": [
+      "ZA_c88449a9f5f5c9"
+    ],
+    "childIds": [],
+    "sourcePath": "CardioVascular41.fbx/RootNode/Arterial system.g/Systemic arteries.g/Left subclavian artery/Axillary artery.l/Brachial artery.l/Radial artery.l/Deep palmar arch.l/Palmar metacarpal arteries.l",
+    "systems": [
+      "arterial"
+    ],
+    "bounds": [
+      [
+        0.24811952511796181,
+        0.7964120813302614,
+        0.01564957557070777
+      ],
+      [
+        0.29024764163812994,
+        0.8366046984728609,
+        0.04098153843741404
+      ]
+    ],
+    "parentIds": [
+      "ZAG_917823e7946e4d"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_917823e7946e4d",
+    "nameEn": "Left Deep palmar arch",
+    "sourceNodeName": "Deep palmar arch.l",
+    "system": "arterial",
+    "meshIds": [
+      "ZA_917823e7946e4d",
+      "ZA_c88449a9f5f5c9"
+    ],
+    "directMeshIds": [
+      "ZA_917823e7946e4d"
+    ],
+    "childIds": [
+      "ZAG_c88449a9f5f5c9"
+    ],
+    "sourcePath": "CardioVascular41.fbx/RootNode/Arterial system.g/Systemic arteries.g/Left subclavian artery/Axillary artery.l/Brachial artery.l/Radial artery.l/Deep palmar arch.l",
+    "systems": [
+      "arterial"
+    ],
+    "bounds": [
+      [
+        0.24811952511796181,
+        0.7964120813302614,
+        0.01382985426964747
+      ],
+      [
+        0.29024764163812994,
+        0.8604062078744619,
+        0.04098153843741404
+      ]
+    ],
+    "parentIds": [
+      "ZAG_27c0bb6e65de3b"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_11ce3c191eb840",
+    "nameEn": "Left Palmar carpal branch of radial artery",
+    "sourceNodeName": "Palmar carpal branch of radial artery.l",
+    "system": "arterial",
+    "meshIds": [
+      "ZA_11ce3c191eb840"
+    ],
+    "directMeshIds": [
+      "ZA_11ce3c191eb840"
+    ],
+    "childIds": [],
+    "sourcePath": "CardioVascular41.fbx/RootNode/Arterial system.g/Systemic arteries.g/Left subclavian artery/Axillary artery.l/Brachial artery.l/Radial artery.l/Palmar carpal branch of radial artery.l",
+    "systems": [
+      "arterial"
+    ],
+    "bounds": [
+      [
+        0.24628846481524147,
+        0.8756418200477036,
+        0.021176479186433797
+      ],
+      [
+        0.2735686030959332,
+        0.8785679878920923,
+        0.026625220066002164
+      ]
+    ],
+    "parentIds": [
+      "ZAG_27c0bb6e65de3b"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_27c0bb6e65de3b",
+    "nameEn": "Left Radial artery",
+    "sourceNodeName": "Radial artery.l",
+    "system": "arterial",
+    "meshIds": [
+      "ZA_27c0bb6e65de3b",
+      "ZA_abf3919b3c91d1",
+      "ZA_2de89e94942345",
+      "ZA_4c44fef1173868",
+      "ZA_917823e7946e4d",
+      "ZA_c88449a9f5f5c9",
+      "ZA_11ce3c191eb840"
+    ],
+    "directMeshIds": [
+      "ZA_27c0bb6e65de3b"
+    ],
+    "childIds": [
+      "ZAG_abf3919b3c91d1",
+      "ZAG_917823e7946e4d",
+      "ZAG_11ce3c191eb840"
+    ],
+    "sourcePath": "CardioVascular41.fbx/RootNode/Arterial system.g/Systemic arteries.g/Left subclavian artery/Axillary artery.l/Brachial artery.l/Radial artery.l",
+    "systems": [
+      "arterial"
+    ],
+    "bounds": [
+      [
+        0.2228081720556994,
+        0.7072137768628616,
+        -0.01492227327368143
+      ],
+      [
+        0.32878460992203606,
+        1.0905568289046919,
+        0.09077209346141704
+      ]
+    ],
+    "parentIds": [
+      "ZAG_b230536b99cf74"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_c33467ab9c2605",
+    "nameEn": "Left (Ulnar recurrent artery)",
+    "sourceNodeName": "(Ulnar recurrent artery).l",
+    "system": "arterial",
+    "meshIds": [
+      "ZA_c33467ab9c2605"
+    ],
+    "directMeshIds": [
+      "ZA_c33467ab9c2605"
+    ],
+    "childIds": [],
+    "sourcePath": "CardioVascular41.fbx/RootNode/Arterial system.g/Systemic arteries.g/Left subclavian artery/Axillary artery.l/Brachial artery.l/Ulnar artery.l/(Ulnar recurrent artery).l",
+    "systems": [
+      "arterial"
+    ],
+    "bounds": [
+      [
+        0.20219354958772523,
+        1.0482621769168576,
+        -0.02905821690772457
+      ],
+      [
+        0.22436986406350468,
+        1.0735550858174032,
+        -0.011723771472582445
+      ]
+    ],
+    "parentIds": [
+      "ZAG_f81f57c3131e34"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_dc0f651b212505",
+    "nameEn": "Left Proper palmar digital arteries",
+    "sourceNodeName": "Proper palmar digital arteries.l",
+    "system": "arterial",
+    "meshIds": [
+      "ZA_dc0f651b212505"
+    ],
+    "directMeshIds": [
+      "ZA_dc0f651b212505"
+    ],
+    "childIds": [],
+    "sourcePath": "CardioVascular41.fbx/RootNode/Arterial system.g/Systemic arteries.g/Left subclavian artery/Axillary artery.l/Brachial artery.l/Ulnar artery.l/Superficial palmar arch.l/Common palmar digital arteries.l/Proper palmar digital arteries.l",
+    "systems": [
+      "arterial"
+    ],
+    "bounds": [
+      [
+        0.22503703935151395,
+        0.7078784403209145,
+        0.02266495832340625
+      ],
+      [
+        0.33199148514505983,
+        0.8686609253530219,
+        0.09408095586396178
+      ]
+    ],
+    "parentIds": [
+      "ZAG_a00f9dae07331c"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_a00f9dae07331c",
+    "nameEn": "Left Common palmar digital arteries",
+    "sourceNodeName": "Common palmar digital arteries.l",
+    "system": "arterial",
+    "meshIds": [
+      "ZA_a00f9dae07331c",
+      "ZA_dc0f651b212505"
+    ],
+    "directMeshIds": [
+      "ZA_a00f9dae07331c"
+    ],
+    "childIds": [
+      "ZAG_dc0f651b212505"
+    ],
+    "sourcePath": "CardioVascular41.fbx/RootNode/Arterial system.g/Systemic arteries.g/Left subclavian artery/Axillary artery.l/Brachial artery.l/Ulnar artery.l/Superficial palmar arch.l/Common palmar digital arteries.l",
+    "systems": [
+      "arterial"
+    ],
+    "bounds": [
+      [
+        0.22503703935151395,
+        0.7078784403209145,
+        0.02266495832340625
+      ],
+      [
+        0.33199148514505983,
+        0.8686609253530219,
+        0.09408095586396178
+      ]
+    ],
+    "parentIds": [
+      "ZAG_03e787cd272f0a"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_03e787cd272f0a",
+    "nameEn": "Left Superficial palmar arch",
+    "sourceNodeName": "Superficial palmar arch.l",
+    "system": "arterial",
+    "meshIds": [
+      "ZA_03e787cd272f0a",
+      "ZA_a00f9dae07331c",
+      "ZA_dc0f651b212505"
+    ],
+    "directMeshIds": [
+      "ZA_03e787cd272f0a"
+    ],
+    "childIds": [
+      "ZAG_a00f9dae07331c"
+    ],
+    "sourcePath": "CardioVascular41.fbx/RootNode/Arterial system.g/Systemic arteries.g/Left subclavian artery/Axillary artery.l/Brachial artery.l/Ulnar artery.l/Superficial palmar arch.l",
+    "systems": [
+      "arterial"
+    ],
+    "bounds": [
+      [
+        0.22503703935151395,
+        0.7078784403209145,
+        0.020429815108527836
+      ],
+      [
+        0.33199148514505983,
+        0.8784070146780557,
+        0.09408095586396178
+      ]
+    ],
+    "parentIds": [
+      "ZAG_f81f57c3131e34"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_3729357f9106a7",
+    "nameEn": "Left Dorsal carpal branch of ulnar artery",
+    "sourceNodeName": "Dorsal carpal branch of ulnar artery.l",
+    "system": "arterial",
+    "meshIds": [
+      "ZA_3729357f9106a7"
+    ],
+    "directMeshIds": [
+      "ZA_3729357f9106a7"
+    ],
+    "childIds": [],
+    "sourcePath": "CardioVascular41.fbx/RootNode/Arterial system.g/Systemic arteries.g/Left subclavian artery/Axillary artery.l/Brachial artery.l/Ulnar artery.l/Dorsal carpal branch of ulnar artery.l",
+    "systems": [
+      "arterial"
+    ],
+    "bounds": [
+      [
+        0.23808699875106448,
+        0.8359946620483423,
+        0.00810706530746743
+      ],
+      [
+        0.2624038892786242,
+        0.8605715864801027,
+        0.02755862014212269
+      ]
+    ],
+    "parentIds": [
+      "ZAG_f81f57c3131e34"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_84e901dc13a019",
+    "nameEn": "Left Recurrent interosseous artery",
+    "sourceNodeName": "Recurrent interosseous artery.l",
+    "system": "arterial",
+    "meshIds": [
+      "ZA_84e901dc13a019"
+    ],
+    "directMeshIds": [
+      "ZA_84e901dc13a019"
+    ],
+    "childIds": [],
+    "sourcePath": "CardioVascular41.fbx/RootNode/Arterial system.g/Systemic arteries.g/Left subclavian artery/Axillary artery.l/Brachial artery.l/Ulnar artery.l/Common interosseous artery.l/Recurrent interosseous artery.l",
+    "systems": [
+      "arterial"
+    ],
+    "bounds": [
+      [
+        0.22713896272190393,
+        1.0382656115998012,
+        -0.055037797937570555
+      ],
+      [
+        0.2403717388829305,
+        1.1181404583633974,
+        -0.007278997604199819
+      ]
+    ],
+    "parentIds": [
+      "ZAG_4a036cc0fbbd97"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_02d9b124a939a3",
+    "nameEn": "Left Posterior interosseous artery",
+    "sourceNodeName": "Posterior interosseous artery.l",
+    "system": "arterial",
+    "meshIds": [
+      "ZA_02d9b124a939a3"
+    ],
+    "directMeshIds": [
+      "ZA_02d9b124a939a3"
+    ],
+    "childIds": [],
+    "sourcePath": "CardioVascular41.fbx/RootNode/Arterial system.g/Systemic arteries.g/Left subclavian artery/Axillary artery.l/Brachial artery.l/Ulnar artery.l/Common interosseous artery.l/Posterior interosseous artery.l",
+    "systems": [
+      "arterial"
+    ],
+    "bounds": [
+      [
+        0.23254285587086101,
+        0.9073130903418183,
+        -0.01263749850521192
+      ],
+      [
+        0.25143137809183796,
+        1.0307981738969687,
+        0.015166193979416535
+      ]
+    ],
+    "parentIds": [
+      "ZAG_4a036cc0fbbd97"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_4a036cc0fbbd97",
+    "nameEn": "Left Common interosseous artery",
+    "sourceNodeName": "Common interosseous artery.l",
+    "system": "arterial",
+    "meshIds": [
+      "ZA_4a036cc0fbbd97",
+      "ZA_84e901dc13a019",
+      "ZA_02d9b124a939a3"
+    ],
+    "directMeshIds": [
+      "ZA_4a036cc0fbbd97"
+    ],
+    "childIds": [
+      "ZAG_84e901dc13a019",
+      "ZAG_02d9b124a939a3"
+    ],
+    "sourcePath": "CardioVascular41.fbx/RootNode/Arterial system.g/Systemic arteries.g/Left subclavian artery/Axillary artery.l/Brachial artery.l/Ulnar artery.l/Common interosseous artery.l",
+    "systems": [
+      "arterial"
+    ],
+    "bounds": [
+      [
+        0.22713896272190393,
+        0.9073130903418183,
+        -0.055037797937570555
+      ],
+      [
+        0.25143137809183796,
+        1.1181404583633974,
+        0.015166193979416535
+      ]
+    ],
+    "parentIds": [
+      "ZAG_f81f57c3131e34"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_f81f57c3131e34",
+    "nameEn": "Left Ulnar artery",
+    "sourceNodeName": "Ulnar artery.l",
+    "system": "arterial",
+    "meshIds": [
+      "ZA_f81f57c3131e34",
+      "ZA_c33467ab9c2605",
+      "ZA_03e787cd272f0a",
+      "ZA_a00f9dae07331c",
+      "ZA_dc0f651b212505",
+      "ZA_3729357f9106a7",
+      "ZA_4a036cc0fbbd97",
+      "ZA_84e901dc13a019",
+      "ZA_02d9b124a939a3"
+    ],
+    "directMeshIds": [
+      "ZA_f81f57c3131e34"
+    ],
+    "childIds": [
+      "ZAG_c33467ab9c2605",
+      "ZAG_03e787cd272f0a",
+      "ZAG_3729357f9106a7",
+      "ZAG_4a036cc0fbbd97"
+    ],
+    "sourcePath": "CardioVascular41.fbx/RootNode/Arterial system.g/Systemic arteries.g/Left subclavian artery/Axillary artery.l/Brachial artery.l/Ulnar artery.l",
+    "systems": [
+      "arterial"
+    ],
+    "bounds": [
+      [
+        0.20219354958772523,
+        0.7078784403209145,
+        -0.055037797937570555
+      ],
+      [
+        0.33199148514505983,
+        1.1181404583633974,
+        0.09408095586396178
+      ]
+    ],
+    "parentIds": [
+      "ZAG_b230536b99cf74"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_4c7b66d68cf039",
+    "nameEn": "Left Superior ulnar collateral artery",
+    "sourceNodeName": "Superior ulnar collateral artery.l",
+    "system": "arterial",
+    "meshIds": [
+      "ZA_4c7b66d68cf039"
+    ],
+    "directMeshIds": [
+      "ZA_4c7b66d68cf039"
+    ],
+    "childIds": [],
+    "sourcePath": "CardioVascular41.fbx/RootNode/Arterial system.g/Systemic arteries.g/Left subclavian artery/Axillary artery.l/Brachial artery.l/Superior ulnar collateral artery.l",
+    "systems": [
+      "arterial"
+    ],
+    "bounds": [
+      [
+        0.18128490857856375,
+        1.072637915496009,
+        -0.04634718451097081
+      ],
+      [
+        0.2034428890378661,
+        1.19249903779922,
+        -0.022115505033465883
+      ]
+    ],
+    "parentIds": [
+      "ZAG_b230536b99cf74"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_3076c7d77fae9c",
+    "nameEn": "Left Inferior ulnar collateral artery",
+    "sourceNodeName": "Inferior ulnar collateral artery.l",
+    "system": "arterial",
+    "meshIds": [
+      "ZA_3076c7d77fae9c"
+    ],
+    "directMeshIds": [
+      "ZA_3076c7d77fae9c"
+    ],
+    "childIds": [],
+    "sourcePath": "CardioVascular41.fbx/RootNode/Arterial system.g/Systemic arteries.g/Left subclavian artery/Axillary artery.l/Brachial artery.l/Inferior ulnar collateral artery.l",
+    "systems": [
+      "arterial"
+    ],
+    "bounds": [
+      [
+        0.20022404399127366,
+        1.0817116951782955,
+        -0.03698194721717608
+      ],
+      [
+        0.2049168719946702,
+        1.144987551795813,
+        -0.010487390237831762
+      ]
+    ],
+    "parentIds": [
+      "ZAG_b230536b99cf74"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_b230536b99cf74",
+    "nameEn": "Left Brachial artery",
+    "sourceNodeName": "Brachial artery.l",
+    "system": "arterial",
+    "meshIds": [
+      "ZA_b230536b99cf74",
+      "ZA_5288766012b700",
+      "ZA_d4cf2458ebcd4b",
+      "ZA_5e2c08a4e4aa2d",
+      "ZA_27c0bb6e65de3b",
+      "ZA_abf3919b3c91d1",
+      "ZA_2de89e94942345",
+      "ZA_4c44fef1173868",
+      "ZA_917823e7946e4d",
+      "ZA_c88449a9f5f5c9",
+      "ZA_11ce3c191eb840",
+      "ZA_f81f57c3131e34",
+      "ZA_c33467ab9c2605",
+      "ZA_03e787cd272f0a",
+      "ZA_a00f9dae07331c",
+      "ZA_dc0f651b212505",
+      "ZA_3729357f9106a7",
+      "ZA_4a036cc0fbbd97",
+      "ZA_84e901dc13a019",
+      "ZA_02d9b124a939a3",
+      "ZA_4c7b66d68cf039",
+      "ZA_3076c7d77fae9c"
+    ],
+    "directMeshIds": [
+      "ZA_b230536b99cf74"
+    ],
+    "childIds": [
+      "ZAG_5288766012b700",
+      "ZAG_27c0bb6e65de3b",
+      "ZAG_f81f57c3131e34",
+      "ZAG_4c7b66d68cf039",
+      "ZAG_3076c7d77fae9c"
+    ],
+    "sourcePath": "CardioVascular41.fbx/RootNode/Arterial system.g/Systemic arteries.g/Left subclavian artery/Axillary artery.l/Brachial artery.l",
+    "systems": [
+      "arterial"
+    ],
+    "bounds": [
+      [
+        0.1326845769055327,
+        0.7072137768628616,
+        -0.055132264658931514
+      ],
+      [
+        0.33199148514505983,
+        1.3660633685047596,
+        0.09408095586396178
+      ]
+    ],
+    "parentIds": [
+      "ZAG_a4a3108573b3a7"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_50e61cc6f2a57e",
+    "nameEn": "Left Anterior circumflex humeral artery",
+    "sourceNodeName": "Anterior circumflex humeral artery.l",
+    "system": "arterial",
+    "meshIds": [
+      "ZA_50e61cc6f2a57e"
+    ],
+    "directMeshIds": [
+      "ZA_50e61cc6f2a57e"
+    ],
+    "childIds": [],
+    "sourcePath": "CardioVascular41.fbx/RootNode/Arterial system.g/Systemic arteries.g/Left subclavian artery/Axillary artery.l/Anterior circumflex humeral artery.l",
+    "systems": [
+      "arterial"
+    ],
+    "bounds": [
+      [
+        0.1429882531874569,
+        1.3441155749692013,
+        -0.026380590875999227
+      ],
+      [
+        0.19144471042172712,
+        1.4074934917135817,
+        0.0081813706871783
+      ]
+    ],
+    "parentIds": [
+      "ZAG_a4a3108573b3a7"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_0632001c7df295",
+    "nameEn": "Left Posterior circumflex humeral artery",
+    "sourceNodeName": "Posterior circumflex humeral artery.l",
+    "system": "arterial",
+    "meshIds": [
+      "ZA_0632001c7df295"
+    ],
+    "directMeshIds": [
+      "ZA_0632001c7df295"
+    ],
+    "childIds": [],
+    "sourcePath": "CardioVascular41.fbx/RootNode/Arterial system.g/Systemic arteries.g/Left subclavian artery/Axillary artery.l/Posterior circumflex humeral artery.l",
+    "systems": [
+      "arterial"
+    ],
+    "bounds": [
+      [
+        0.13533681227420527,
+        1.3619827917267546,
+        -0.03474499999705285
+      ],
+      [
+        0.19118591636348178,
+        1.3719782069227173,
+        -0.010297981320091043
+      ]
+    ],
+    "parentIds": [
+      "ZAG_a4a3108573b3a7"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_41a47e399e9374",
+    "nameEn": "Left Thoracodorsal artery",
+    "sourceNodeName": "Thoracodorsal artery.l",
+    "system": "arterial",
+    "meshIds": [
+      "ZA_41a47e399e9374"
+    ],
+    "directMeshIds": [
+      "ZA_41a47e399e9374"
+    ],
+    "childIds": [],
+    "sourcePath": "CardioVascular41.fbx/RootNode/Arterial system.g/Systemic arteries.g/Left subclavian artery/Axillary artery.l/Subscapular artery.l/Thoracodorsal artery.l",
+    "systems": [
+      "arterial"
+    ],
+    "bounds": [
+      [
+        0.1292421562300401,
+        1.2758959417740063,
+        -0.0339107411891351
+      ],
+      [
+        0.13839414968580763,
+        1.352210417752974,
+        -0.014078254545049294
+      ]
+    ],
+    "parentIds": [
+      "ZAG_114760ab7470bf"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_6998f8d7ad5741",
+    "nameEn": "Left Circumflex scapular artery",
+    "sourceNodeName": "Circumflex scapular artery.l",
+    "system": "arterial",
+    "meshIds": [
+      "ZA_6998f8d7ad5741"
+    ],
+    "directMeshIds": [
+      "ZA_6998f8d7ad5741"
+    ],
+    "childIds": [],
+    "sourcePath": "CardioVascular41.fbx/RootNode/Arterial system.g/Systemic arteries.g/Left subclavian artery/Axillary artery.l/Subscapular artery.l/Circumflex scapular artery.l",
+    "systems": [
+      "arterial"
+    ],
+    "bounds": [
+      [
+        0.12972858043007462,
+        1.3446797916148583,
+        -0.055131002754800755
+      ],
+      [
+        0.14377139536720146,
+        1.364117403445344,
+        -0.014522026008277353
+      ]
+    ],
+    "parentIds": [
+      "ZAG_114760ab7470bf"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_114760ab7470bf",
+    "nameEn": "Left Subscapular artery",
+    "sourceNodeName": "Subscapular artery.l",
+    "system": "arterial",
+    "meshIds": [
+      "ZA_114760ab7470bf",
+      "ZA_41a47e399e9374",
+      "ZA_6998f8d7ad5741"
+    ],
+    "directMeshIds": [
+      "ZA_114760ab7470bf"
+    ],
+    "childIds": [
+      "ZAG_41a47e399e9374",
+      "ZAG_6998f8d7ad5741"
+    ],
+    "sourcePath": "CardioVascular41.fbx/RootNode/Arterial system.g/Systemic arteries.g/Left subclavian artery/Axillary artery.l/Subscapular artery.l",
+    "systems": [
+      "arterial"
+    ],
+    "bounds": [
+      [
+        0.1292421562300401,
+        1.2758959417740063,
+        -0.055131002754800755
+      ],
+      [
+        0.14377139536720146,
+        1.3657557005497054,
+        -0.009851905554371607
+      ]
+    ],
+    "parentIds": [
+      "ZAG_a4a3108573b3a7"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_a4a3108573b3a7",
+    "nameEn": "Left Axillary artery",
+    "sourceNodeName": "Axillary artery.l",
+    "system": "arterial",
+    "meshIds": [
+      "ZA_a4a3108573b3a7",
+      "ZA_16fc4de3c8c210",
+      "ZA_444a59e0b4cc5b",
+      "ZA_d726025377dcb1",
+      "ZA_b230536b99cf74",
+      "ZA_5288766012b700",
+      "ZA_d4cf2458ebcd4b",
+      "ZA_5e2c08a4e4aa2d",
+      "ZA_27c0bb6e65de3b",
+      "ZA_abf3919b3c91d1",
+      "ZA_2de89e94942345",
+      "ZA_4c44fef1173868",
+      "ZA_917823e7946e4d",
+      "ZA_c88449a9f5f5c9",
+      "ZA_11ce3c191eb840",
+      "ZA_f81f57c3131e34",
+      "ZA_c33467ab9c2605",
+      "ZA_03e787cd272f0a",
+      "ZA_a00f9dae07331c",
+      "ZA_dc0f651b212505",
+      "ZA_3729357f9106a7",
+      "ZA_4a036cc0fbbd97",
+      "ZA_84e901dc13a019",
+      "ZA_02d9b124a939a3",
+      "ZA_4c7b66d68cf039",
+      "ZA_3076c7d77fae9c",
+      "ZA_50e61cc6f2a57e",
+      "ZA_0632001c7df295",
+      "ZA_114760ab7470bf",
+      "ZA_41a47e399e9374",
+      "ZA_6998f8d7ad5741"
+    ],
+    "directMeshIds": [
+      "ZA_a4a3108573b3a7"
+    ],
+    "childIds": [
+      "ZAG_16fc4de3c8c210",
+      "ZAG_d726025377dcb1",
+      "ZAG_b230536b99cf74",
+      "ZAG_50e61cc6f2a57e",
+      "ZAG_0632001c7df295",
+      "ZAG_114760ab7470bf"
+    ],
+    "sourcePath": "CardioVascular41.fbx/RootNode/Arterial system.g/Systemic arteries.g/Left subclavian artery/Axillary artery.l",
+    "systems": [
+      "arterial"
+    ],
+    "bounds": [
+      [
+        0.07858440536783284,
+        0.7072137768628616,
+        -0.055132264658931514
+      ],
+      [
+        0.33199148514505983,
+        1.4143399504782865,
+        0.09408095586396178
+      ]
+    ],
+    "parentIds": [
+      "ZAG_49d62e71a46f3c"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_048b4879928bde",
+    "nameEn": "Left Dorsal digital veins of hand",
+    "sourceNodeName": "Dorsal digital veins of hand.l",
+    "system": "venous",
+    "meshIds": [
+      "ZA_048b4879928bde"
+    ],
+    "directMeshIds": [
+      "ZA_048b4879928bde"
+    ],
+    "childIds": [],
+    "sourcePath": "CardioVascular41.fbx/RootNode/Venous system.g/Systemic veins.g/Left subclavian vein/Axillary vein.l/Cephalic vein.l/Dorsal venous network of hand.l/Dorsal digital veins of hand.l",
+    "systems": [
+      "venous"
+    ],
+    "bounds": [
+      [
+        0.22523921447225118,
+        0.7084711187052067,
+        0.019047186883188263
+      ],
+      [
+        0.33141564082595054,
+        0.8677108015694089,
+        0.0922256918988412
+      ]
+    ],
+    "parentIds": [
+      "ZAG_c2ba11ed6cc586"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_c2ba11ed6cc586",
+    "nameEn": "Left Dorsal venous network of hand",
+    "sourceNodeName": "Dorsal venous network of hand.l",
+    "system": "venous",
+    "meshIds": [
+      "ZA_c2ba11ed6cc586",
+      "ZA_048b4879928bde"
+    ],
+    "directMeshIds": [
+      "ZA_c2ba11ed6cc586"
+    ],
+    "childIds": [
+      "ZAG_048b4879928bde"
+    ],
+    "sourcePath": "CardioVascular41.fbx/RootNode/Venous system.g/Systemic veins.g/Left subclavian vein/Axillary vein.l/Cephalic vein.l/Dorsal venous network of hand.l",
+    "systems": [
+      "venous"
+    ],
+    "bounds": [
+      [
+        0.22523921447225118,
+        0.7084711187052067,
+        0.01237040029474552
+      ],
+      [
+        0.33141564082595054,
+        0.8677108015694089,
+        0.0922256918988412
+      ]
+    ],
+    "parentIds": [
+      "ZAG_ef4cdccf17092a"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_ef4cdccf17092a",
+    "nameEn": "Left Cephalic vein",
+    "sourceNodeName": "Cephalic vein.l",
+    "system": "venous",
+    "meshIds": [
+      "ZA_ef4cdccf17092a",
+      "ZA_c2ba11ed6cc586",
+      "ZA_048b4879928bde"
+    ],
+    "directMeshIds": [
+      "ZA_ef4cdccf17092a"
+    ],
+    "childIds": [
+      "ZAG_c2ba11ed6cc586"
+    ],
+    "sourcePath": "CardioVascular41.fbx/RootNode/Venous system.g/Systemic veins.g/Left subclavian vein/Axillary vein.l/Cephalic vein.l",
+    "systems": [
+      "venous"
+    ],
+    "bounds": [
+      [
+        0.10602140713136388,
+        0.7084711187052067,
+        -0.018242479638898485
+      ],
+      [
+        0.33141564082595054,
+        1.3933493896097866,
+        0.0922256918988412
+      ]
+    ],
+    "parentIds": [
+      "ZAG_c1db7c3c36db6c"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_5dcb6395f6ab54",
+    "nameEn": "Left Median antebrachial vein",
+    "sourceNodeName": "Median antebrachial vein.l",
+    "system": "venous",
+    "meshIds": [
+      "ZA_5dcb6395f6ab54"
+    ],
+    "directMeshIds": [
+      "ZA_5dcb6395f6ab54"
+    ],
+    "childIds": [],
+    "sourcePath": "CardioVascular41.fbx/RootNode/Venous system.g/Systemic veins.g/Left subclavian vein/Axillary vein.l/Basilic vein.l/Median cubital vein.l/Median antebrachial vein.l",
+    "systems": [
+      "venous"
+    ],
+    "bounds": [
+      [
+        0.1880168322363906,
+        0.8675707240387225,
+        -0.016158090497360365
+      ],
+      [
+        0.2745937162762826,
+        1.0754333755230467,
+        0.03488879185029806
+      ]
+    ],
+    "parentIds": [
+      "ZAG_6f77c465a1fedf"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_6f77c465a1fedf",
+    "nameEn": "Left Median cubital vein",
+    "sourceNodeName": "Median cubital vein.l",
+    "system": "venous",
+    "meshIds": [
+      "ZA_6f77c465a1fedf",
+      "ZA_5dcb6395f6ab54"
+    ],
+    "directMeshIds": [
+      "ZA_6f77c465a1fedf"
+    ],
+    "childIds": [
+      "ZAG_5dcb6395f6ab54"
+    ],
+    "sourcePath": "CardioVascular41.fbx/RootNode/Venous system.g/Systemic veins.g/Left subclavian vein/Axillary vein.l/Basilic vein.l/Median cubital vein.l",
+    "systems": [
+      "venous"
+    ],
+    "bounds": [
+      [
+        0.1880168322363906,
+        0.8675707240387225,
+        -0.020399015990311065
+      ],
+      [
+        0.2745937162762826,
+        1.124765924398465,
+        0.03488879185029806
+      ]
+    ],
+    "parentIds": [
+      "ZAG_31cf3d7da7b551"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_31cf3d7da7b551",
+    "nameEn": "Left Basilic vein",
+    "sourceNodeName": "Basilic vein.l",
+    "system": "venous",
+    "meshIds": [
+      "ZA_31cf3d7da7b551",
+      "ZA_6f77c465a1fedf",
+      "ZA_5dcb6395f6ab54"
+    ],
+    "directMeshIds": [
+      "ZA_31cf3d7da7b551"
+    ],
+    "childIds": [
+      "ZAG_6f77c465a1fedf"
+    ],
+    "sourcePath": "CardioVascular41.fbx/RootNode/Venous system.g/Systemic veins.g/Left subclavian vein/Axillary vein.l/Basilic vein.l",
+    "systems": [
+      "venous"
+    ],
+    "bounds": [
+      [
+        0.15065436790734957,
+        0.8431329286659629,
+        -0.03296497418796418
+      ],
+      [
+        0.2745937162762826,
+        1.3099288591857834,
+        0.03488879185029806
+      ]
+    ],
+    "parentIds": [
+      "ZAG_c1db7c3c36db6c"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_f4fe3589704f88",
+    "nameEn": "Left Palmar digital veins",
+    "sourceNodeName": "Palmar digital veins.l",
+    "system": "venous",
+    "meshIds": [
+      "ZA_f4fe3589704f88"
+    ],
+    "directMeshIds": [
+      "ZA_f4fe3589704f88"
+    ],
+    "childIds": [],
+    "sourcePath": "CardioVascular41.fbx/RootNode/Venous system.g/Systemic veins.g/Left subclavian vein/Axillary vein.l/Brachial veins.l/Ulnar veins.l/Superficial venous palmar arch.l/Palmar digital veins.l",
+    "systems": [
+      "venous"
+    ],
+    "bounds": [
+      [
+        0.2258376674664555,
+        0.7075838921411329,
+        0.0236083379907162
+      ],
+      [
+        0.3257618943155976,
+        0.8301245868930005,
+        0.09280031514306245
+      ]
+    ],
+    "parentIds": [
+      "ZAG_14f9014b540cf8"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_14f9014b540cf8",
+    "nameEn": "Left Superficial venous palmar arch",
+    "sourceNodeName": "Superficial venous palmar arch.l",
+    "system": "venous",
+    "meshIds": [
+      "ZA_14f9014b540cf8",
+      "ZA_f4fe3589704f88"
+    ],
+    "directMeshIds": [
+      "ZA_14f9014b540cf8"
+    ],
+    "childIds": [
+      "ZAG_f4fe3589704f88"
+    ],
+    "sourcePath": "CardioVascular41.fbx/RootNode/Venous system.g/Systemic veins.g/Left subclavian vein/Axillary vein.l/Brachial veins.l/Ulnar veins.l/Superficial venous palmar arch.l",
+    "systems": [
+      "venous"
+    ],
+    "bounds": [
+      [
+        0.2258376674664555,
+        0.7075838921411329,
+        0.02077161925348375
+      ],
+      [
+        0.3257618943155976,
+        0.8709026082884352,
+        0.09280031514306245
+      ]
+    ],
+    "parentIds": [
+      "ZAG_18013973a1b806"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_18013973a1b806",
+    "nameEn": "Left Ulnar veins",
+    "sourceNodeName": "Ulnar veins.l",
+    "system": "venous",
+    "meshIds": [
+      "ZA_18013973a1b806",
+      "ZA_14f9014b540cf8",
+      "ZA_f4fe3589704f88"
+    ],
+    "directMeshIds": [
+      "ZA_18013973a1b806"
+    ],
+    "childIds": [
+      "ZAG_14f9014b540cf8"
+    ],
+    "sourcePath": "CardioVascular41.fbx/RootNode/Venous system.g/Systemic veins.g/Left subclavian vein/Axillary vein.l/Brachial veins.l/Ulnar veins.l",
+    "systems": [
+      "venous"
+    ],
+    "bounds": [
+      [
+        0.2258376674664555,
+        0.7075838921411329,
+        -0.020925671234891904
+      ],
+      [
+        0.3257618943155976,
+        1.0747510737299801,
+        0.09280031514306245
+      ]
+    ],
+    "parentIds": [
+      "ZAG_cfa48b1793358e"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_2f4e941dfb042c",
+    "nameEn": "Left Deep venous palmar arch",
+    "sourceNodeName": "Deep venous palmar arch.l",
+    "system": "venous",
+    "meshIds": [
+      "ZA_2f4e941dfb042c"
+    ],
+    "directMeshIds": [
+      "ZA_2f4e941dfb042c"
+    ],
+    "childIds": [],
+    "sourcePath": "CardioVascular41.fbx/RootNode/Venous system.g/Systemic veins.g/Left subclavian vein/Axillary vein.l/Brachial veins.l/Radial veins.l/Deep venous palmar arch.l",
+    "systems": [
+      "venous"
+    ],
+    "bounds": [
+      [
+        0.24394204214495363,
+        0.822789272764451,
+        0.016402913963157233
+      ],
+      [
+        0.2926527113303338,
+        0.8720395708691747,
+        0.03315453609831888
+      ]
+    ],
+    "parentIds": [
+      "ZAG_bbcf01c61f856d"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_bbcf01c61f856d",
+    "nameEn": "Left Radial veins",
+    "sourceNodeName": "Radial veins.l",
+    "system": "venous",
+    "meshIds": [
+      "ZA_bbcf01c61f856d",
+      "ZA_2f4e941dfb042c"
+    ],
+    "directMeshIds": [
+      "ZA_bbcf01c61f856d"
+    ],
+    "childIds": [
+      "ZAG_2f4e941dfb042c"
+    ],
+    "sourcePath": "CardioVascular41.fbx/RootNode/Venous system.g/Systemic veins.g/Left subclavian vein/Axillary vein.l/Brachial veins.l/Radial veins.l",
+    "systems": [
+      "venous"
+    ],
+    "bounds": [
+      [
+        0.22805173418369373,
+        0.822789272764451,
+        -0.016761974940114117
+      ],
+      [
+        0.2926527113303338,
+        1.0747575036704597,
+        0.03315453609831888
+      ]
+    ],
+    "parentIds": [
+      "ZAG_cfa48b1793358e"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_cfa48b1793358e",
+    "nameEn": "Left Brachial veins",
+    "sourceNodeName": "Brachial veins.l",
+    "system": "venous",
+    "meshIds": [
+      "ZA_cfa48b1793358e",
+      "ZA_18013973a1b806",
+      "ZA_14f9014b540cf8",
+      "ZA_f4fe3589704f88",
+      "ZA_bbcf01c61f856d",
+      "ZA_2f4e941dfb042c"
+    ],
+    "directMeshIds": [
+      "ZA_cfa48b1793358e"
+    ],
+    "childIds": [
+      "ZAG_18013973a1b806",
+      "ZAG_bbcf01c61f856d"
+    ],
+    "sourcePath": "CardioVascular41.fbx/RootNode/Venous system.g/Systemic veins.g/Left subclavian vein/Axillary vein.l/Brachial veins.l",
+    "systems": [
+      "venous"
+    ],
+    "bounds": [
+      [
+        0.15139370765745086,
+        0.7075838921411329,
+        -0.02625822821502262
+      ],
+      [
+        0.3257618943155976,
+        1.3111964337514133,
+        0.09280031514306245
+      ]
+    ],
+    "parentIds": [
+      "ZAG_c1db7c3c36db6c"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_0b86167d4d8eb3",
+    "nameEn": "Left Anterior circumflex humeral vein",
+    "sourceNodeName": "Anterior circumflex humeral vein.l",
+    "system": "venous",
+    "meshIds": [
+      "ZA_0b86167d4d8eb3"
+    ],
+    "directMeshIds": [
+      "ZA_0b86167d4d8eb3"
+    ],
+    "childIds": [],
+    "sourcePath": "CardioVascular41.fbx/RootNode/Venous system.g/Systemic veins.g/Left subclavian vein/Axillary vein.l/Anterior circumflex humeral vein.l",
+    "systems": [
+      "venous"
+    ],
+    "bounds": [
+      [
+        0.14155046236211632,
+        1.3405365261356947,
+        -0.026208215759145777
+      ],
+      [
+        0.19312621324318846,
+        1.4051726529912691,
+        0.00669406417174411
+      ]
+    ],
+    "parentIds": [
+      "ZAG_c1db7c3c36db6c"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_a28d3b3b6faa98",
+    "nameEn": "Left Posterior circumflex humeral vein",
+    "sourceNodeName": "Posterior circumflex humeral vein.l",
+    "system": "venous",
+    "meshIds": [
+      "ZA_a28d3b3b6faa98"
+    ],
+    "directMeshIds": [
+      "ZA_a28d3b3b6faa98"
+    ],
+    "childIds": [],
+    "sourcePath": "CardioVascular41.fbx/RootNode/Venous system.g/Systemic veins.g/Left subclavian vein/Axillary vein.l/Posterior circumflex humeral vein.l",
+    "systems": [
+      "venous"
+    ],
+    "bounds": [
+      [
+        0.13739292098043623,
+        1.3597174495081077,
+        -0.0357911921870532
+      ],
+      [
+        0.1890687834518359,
+        1.3688451050287764,
+        0.00043388461307752646
+      ]
+    ],
+    "parentIds": [
+      "ZAG_c1db7c3c36db6c"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_cef7975a14f503",
+    "nameEn": "Left Lateral thoracic vein",
+    "sourceNodeName": "Lateral thoracic vein.l",
+    "system": "venous",
+    "meshIds": [
+      "ZA_cef7975a14f503"
+    ],
+    "directMeshIds": [
+      "ZA_cef7975a14f503"
+    ],
+    "childIds": [],
+    "sourcePath": "CardioVascular41.fbx/RootNode/Venous system.g/Systemic veins.g/Left subclavian vein/Axillary vein.l/Lateral thoracic vein.l",
+    "systems": [
+      "venous"
+    ],
+    "bounds": [
+      [
+        0.06487188713428094,
+        1.0465920040596732,
+        -0.0027131194137943247
+      ],
+      [
+        0.13721211494442873,
+        1.3855281050006303,
+        0.12163463660551517
+      ]
+    ],
+    "parentIds": [
+      "ZAG_c1db7c3c36db6c"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_49eb1617aabb96",
+    "nameEn": "Left Thoracodorsal vein",
+    "sourceNodeName": "Thoracodorsal vein.l",
+    "system": "venous",
+    "meshIds": [
+      "ZA_49eb1617aabb96"
+    ],
+    "directMeshIds": [
+      "ZA_49eb1617aabb96"
+    ],
+    "childIds": [],
+    "sourcePath": "CardioVascular41.fbx/RootNode/Venous system.g/Systemic veins.g/Left subclavian vein/Axillary vein.l/Subscapular vein.l/Thoracodorsal vein.l",
+    "systems": [
+      "venous"
+    ],
+    "bounds": [
+      [
+        0.11529796032672944,
+        1.2704354701673168,
+        -0.002986373254893768
+      ],
+      [
+        0.13595242896599097,
+        1.385351205828423,
+        0.020428743969213143
+      ]
+    ],
+    "parentIds": [
+      "ZAG_552e85b7a1410c"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_b61509dee156b8",
+    "nameEn": "Left Circumflex scapular vein",
+    "sourceNodeName": "Circumflex scapular vein.l",
+    "system": "venous",
+    "meshIds": [
+      "ZA_b61509dee156b8"
+    ],
+    "directMeshIds": [
+      "ZA_b61509dee156b8"
+    ],
+    "childIds": [],
+    "sourcePath": "CardioVascular41.fbx/RootNode/Venous system.g/Systemic veins.g/Left subclavian vein/Axillary vein.l/Subscapular vein.l/Circumflex scapular vein.l",
+    "systems": [
+      "venous"
+    ],
+    "bounds": [
+      [
+        0.13394437220231134,
+        1.34568137909622,
+        -0.055233659090984925
+      ],
+      [
+        0.14615487094820725,
+        1.3673469096468296,
+        -0.0010059219463136105
+      ]
+    ],
+    "parentIds": [
+      "ZAG_552e85b7a1410c"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_552e85b7a1410c",
+    "nameEn": "Left Subscapular vein",
+    "sourceNodeName": "Subscapular vein.l",
+    "system": "venous",
+    "meshIds": [
+      "ZA_552e85b7a1410c",
+      "ZA_49eb1617aabb96",
+      "ZA_b61509dee156b8"
+    ],
+    "directMeshIds": [
+      "ZA_552e85b7a1410c"
+    ],
+    "childIds": [
+      "ZAG_49eb1617aabb96",
+      "ZAG_b61509dee156b8"
+    ],
+    "sourcePath": "CardioVascular41.fbx/RootNode/Venous system.g/Systemic veins.g/Left subclavian vein/Axillary vein.l/Subscapular vein.l",
+    "systems": [
+      "venous"
+    ],
+    "bounds": [
+      [
+        0.11529796032672944,
+        1.2704354701673168,
+        -0.055233659090984925
+      ],
+      [
+        0.14615487094820725,
+        1.385351205828423,
+        0.020428743969213143
+      ]
+    ],
+    "parentIds": [
+      "ZAG_c1db7c3c36db6c"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_c1db7c3c36db6c",
+    "nameEn": "Left Axillary vein",
+    "sourceNodeName": "Axillary vein.l",
+    "system": "venous",
+    "meshIds": [
+      "ZA_c1db7c3c36db6c",
+      "ZA_ef4cdccf17092a",
+      "ZA_c2ba11ed6cc586",
+      "ZA_048b4879928bde",
+      "ZA_31cf3d7da7b551",
+      "ZA_6f77c465a1fedf",
+      "ZA_5dcb6395f6ab54",
+      "ZA_cfa48b1793358e",
+      "ZA_18013973a1b806",
+      "ZA_14f9014b540cf8",
+      "ZA_f4fe3589704f88",
+      "ZA_bbcf01c61f856d",
+      "ZA_2f4e941dfb042c",
+      "ZA_0b86167d4d8eb3",
+      "ZA_a28d3b3b6faa98",
+      "ZA_cef7975a14f503",
+      "ZA_552e85b7a1410c",
+      "ZA_49eb1617aabb96",
+      "ZA_b61509dee156b8"
+    ],
+    "directMeshIds": [
+      "ZA_c1db7c3c36db6c"
+    ],
+    "childIds": [
+      "ZAG_ef4cdccf17092a",
+      "ZAG_31cf3d7da7b551",
+      "ZAG_cfa48b1793358e",
+      "ZAG_0b86167d4d8eb3",
+      "ZAG_a28d3b3b6faa98",
+      "ZAG_cef7975a14f503",
+      "ZAG_552e85b7a1410c"
+    ],
+    "sourcePath": "CardioVascular41.fbx/RootNode/Venous system.g/Systemic veins.g/Left subclavian vein/Axillary vein.l",
+    "systems": [
+      "venous"
+    ],
+    "bounds": [
+      [
+        0.06487188713428094,
+        0.7075838921411329,
+        -0.055233659090984925
+      ],
+      [
+        0.33141564082595054,
+        1.4051726529912691,
+        0.12163463660551517
+      ]
+    ],
+    "parentIds": [
+      "ZAG_2463e937c75c78"
+    ],
+    "kind": "structure"
+  }
+]

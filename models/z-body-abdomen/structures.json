@@ -1,0 +1,2417 @@
+[
+  {
+    "id": "ZAG_3b5abb7437a2b8",
+    "nameEn": "Diaphragm",
+    "sourceNodeName": "Diaphragm",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_3b5abb7437a2b8"
+    ],
+    "directMeshIds": [
+      "ZA_3b5abb7437a2b8"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Thoracic part of muscular system.g/Diaphragm",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        -0.12580665182345685,
+        1.0422530392833924,
+        -0.06699225894849638
+      ],
+      [
+        0.12496618573750728,
+        1.2621448834348832,
+        0.1009408877596556
+      ]
+    ],
+    "parentIds": [
+      "ZAG_de28553c1e4770"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_2847a6ba006008",
+    "nameEn": "Splenic artery",
+    "sourceNodeName": "Splenic artery",
+    "system": "arterial",
+    "meshIds": [
+      "ZA_2847a6ba006008"
+    ],
+    "directMeshIds": [
+      "ZA_2847a6ba006008"
+    ],
+    "childIds": [],
+    "sourcePath": "CardioVascular41.fbx/RootNode/Arterial system.g/Systemic arteries.g/Aorta.g/Abdominal aorta/Coeliac trunk/Splenic artery",
+    "systems": [
+      "arterial"
+    ],
+    "bounds": [
+      [
+        0.004249953716879542,
+        1.144295735283321,
+        -0.017590332977435574
+      ],
+      [
+        0.09893398226315366,
+        1.1688199122340555,
+        0.035894506148706214
+      ]
+    ],
+    "parentIds": [
+      "ZAG_3f46174d1fa443"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_9ec6b5e31560ff",
+    "nameEn": "Left gastric artery",
+    "sourceNodeName": "Left gastric artery",
+    "system": "arterial",
+    "meshIds": [
+      "ZA_9ec6b5e31560ff"
+    ],
+    "directMeshIds": [
+      "ZA_9ec6b5e31560ff"
+    ],
+    "childIds": [],
+    "sourcePath": "CardioVascular41.fbx/RootNode/Arterial system.g/Systemic arteries.g/Aorta.g/Abdominal aorta/Coeliac trunk/Left gastric artery",
+    "systems": [
+      "arterial"
+    ],
+    "bounds": [
+      [
+        0.0035562906831309205,
+        1.1539032834738223,
+        0.029600314100050804
+      ],
+      [
+        0.021595212941432327,
+        1.1782498881105905,
+        0.05659665101559801
+      ]
+    ],
+    "parentIds": [
+      "ZAG_3f46174d1fa443"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_95b44ea0a99d64",
+    "nameEn": "Proper hepatic artery",
+    "sourceNodeName": "Proper hepatic artery",
+    "system": "arterial",
+    "meshIds": [
+      "ZA_95b44ea0a99d64"
+    ],
+    "directMeshIds": [
+      "ZA_95b44ea0a99d64"
+    ],
+    "childIds": [],
+    "sourcePath": "CardioVascular41.fbx/RootNode/Arterial system.g/Systemic arteries.g/Aorta.g/Abdominal aorta/Coeliac trunk/Common hepatic artery/Proper hepatic artery",
+    "systems": [
+      "arterial"
+    ],
+    "bounds": [
+      [
+        -0.11244112421868314,
+        1.1443197584126985,
+        0.0459225860849397
+      ],
+      [
+        -0.02037866817617802,
+        1.1728531106814761,
+        0.07414400707158326
+      ]
+    ],
+    "parentIds": [
+      "ZAG_0dda26b692a945"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_7b899d4ce4db0a",
+    "nameEn": "Gastroduodenal artery",
+    "sourceNodeName": "Gastroduodenal artery",
+    "system": "arterial",
+    "meshIds": [
+      "ZA_7b899d4ce4db0a"
+    ],
+    "directMeshIds": [
+      "ZA_7b899d4ce4db0a"
+    ],
+    "childIds": [],
+    "sourcePath": "CardioVascular41.fbx/RootNode/Arterial system.g/Systemic arteries.g/Aorta.g/Abdominal aorta/Coeliac trunk/Common hepatic artery/Gastroduodenal artery",
+    "systems": [
+      "arterial"
+    ],
+    "bounds": [
+      [
+        -0.03486016632046932,
+        1.1290199029457846,
+        0.05900888949655153
+      ],
+      [
+        -0.020144597007366826,
+        1.1485049432907382,
+        0.08843878753029949
+      ]
+    ],
+    "parentIds": [
+      "ZAG_0dda26b692a945"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_0dda26b692a945",
+    "nameEn": "Common hepatic artery",
+    "sourceNodeName": "Common hepatic artery",
+    "system": "arterial",
+    "meshIds": [
+      "ZA_0dda26b692a945",
+      "ZA_95b44ea0a99d64",
+      "ZA_7b899d4ce4db0a"
+    ],
+    "directMeshIds": [
+      "ZA_0dda26b692a945"
+    ],
+    "childIds": [
+      "ZAG_95b44ea0a99d64",
+      "ZAG_7b899d4ce4db0a"
+    ],
+    "sourcePath": "CardioVascular41.fbx/RootNode/Arterial system.g/Systemic arteries.g/Aorta.g/Abdominal aorta/Coeliac trunk/Common hepatic artery",
+    "systems": [
+      "arterial"
+    ],
+    "bounds": [
+      [
+        -0.11244112421868314,
+        1.1290199029457846,
+        0.029872661578342462
+      ],
+      [
+        0.009876656481907753,
+        1.1728531106814761,
+        0.08843878753029949
+      ]
+    ],
+    "parentIds": [
+      "ZAG_3f46174d1fa443"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_3f46174d1fa443",
+    "nameEn": "Coeliac trunk",
+    "sourceNodeName": "Coeliac trunk",
+    "system": "arterial",
+    "meshIds": [
+      "ZA_3f46174d1fa443",
+      "ZA_2847a6ba006008",
+      "ZA_9ec6b5e31560ff",
+      "ZA_0dda26b692a945",
+      "ZA_95b44ea0a99d64",
+      "ZA_7b899d4ce4db0a"
+    ],
+    "directMeshIds": [
+      "ZA_3f46174d1fa443"
+    ],
+    "childIds": [
+      "ZAG_2847a6ba006008",
+      "ZAG_9ec6b5e31560ff",
+      "ZAG_0dda26b692a945"
+    ],
+    "sourcePath": "CardioVascular41.fbx/RootNode/Arterial system.g/Systemic arteries.g/Aorta.g/Abdominal aorta/Coeliac trunk",
+    "systems": [
+      "arterial"
+    ],
+    "bounds": [
+      [
+        -0.11244112421868314,
+        1.1290199029457846,
+        -0.017590332977435574
+      ],
+      [
+        0.09893398226315366,
+        1.1782498881105905,
+        0.08843878753029949
+      ]
+    ],
+    "parentIds": [
+      "ZAG_89c871621ecb90"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_2a06b78a9d7555",
+    "nameEn": "Stomach",
+    "sourceNodeName": "Stomach",
+    "system": "visceral",
+    "meshIds": [
+      "ZA_2a06b78a9d7555"
+    ],
+    "directMeshIds": [
+      "ZA_2a06b78a9d7555"
+    ],
+    "childIds": [],
+    "sourcePath": "VisceralSystem100.fbx/RootNode/Digestive system.g/Digestive canal.g/Stomach",
+    "systems": [
+      "visceral"
+    ],
+    "bounds": [
+      [
+        -0.028751823778181657,
+        1.1036782023683602,
+        -0.01649504312109956
+      ],
+      [
+        0.10542309684036674,
+        1.229142156608553,
+        0.08882422386597505
+      ]
+    ],
+    "parentIds": [
+      "ZAG_c9597bc6a58104"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_8814235835dbe9",
+    "nameEn": "Duodenum",
+    "sourceNodeName": "Duodenum",
+    "system": "visceral",
+    "meshIds": [
+      "ZA_8814235835dbe9"
+    ],
+    "directMeshIds": [
+      "ZA_8814235835dbe9"
+    ],
+    "childIds": [],
+    "sourcePath": "VisceralSystem100.fbx/RootNode/Digestive system.g/Digestive canal.g/Small intestine.g/Duodenum",
+    "systems": [
+      "visceral"
+    ],
+    "bounds": [
+      [
+        -0.0656240455985178,
+        1.0448769213822247,
+        0.005745805988395527
+      ],
+      [
+        0.0323296996363943,
+        1.143259791142094,
+        0.057378987085152676
+      ]
+    ],
+    "parentIds": [
+      "ZAG_b4f92073d56535"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_ffb7a877189e7a",
+    "nameEn": "Spleen",
+    "sourceNodeName": "Spleen",
+    "system": "lymphatic",
+    "meshIds": [
+      "ZA_ffb7a877189e7a"
+    ],
+    "directMeshIds": [
+      "ZA_ffb7a877189e7a"
+    ],
+    "childIds": [],
+    "sourcePath": "LymphoidOrgans100.fbx/RootNode/Secondary lymphoid organs.g/Spleen",
+    "systems": [
+      "lymphatic"
+    ],
+    "bounds": [
+      [
+        0.05563420079648495,
+        1.1263839688539807,
+        -0.05195114210575613
+      ],
+      [
+        0.11386805050075054,
+        1.196613899520753,
+        0.04311465910774904
+      ]
+    ],
+    "parentIds": [
+      "ZAG_568461033f4663"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_36ca5c9701a784",
+    "nameEn": "Meso-appendix",
+    "sourceNodeName": "Meso-appendix",
+    "system": "visceral",
+    "meshIds": [
+      "ZA_36ca5c9701a784"
+    ],
+    "directMeshIds": [
+      "ZA_36ca5c9701a784"
+    ],
+    "childIds": [],
+    "sourcePath": "VisceralSystem100.fbx/RootNode/Abdominopelvic cavity.g/Peritoneal structures.g/Mesocolon/Meso-appendix",
+    "systems": [
+      "visceral"
+    ],
+    "bounds": [
+      [
+        -0.07203438430421721,
+        0.9466796011725539,
+        -0.012859009567281669
+      ],
+      [
+        -0.022499496102543995,
+        0.9906740593708503,
+        0.02002566181335216
+      ]
+    ],
+    "parentIds": [
+      "ZAG_10c50be99792b6"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_10c50be99792b6",
+    "nameEn": "Mesocolon",
+    "sourceNodeName": "Mesocolon",
+    "system": "visceral",
+    "meshIds": [
+      "ZA_10c50be99792b6",
+      "ZA_36ca5c9701a784"
+    ],
+    "directMeshIds": [
+      "ZA_10c50be99792b6"
+    ],
+    "childIds": [
+      "ZAG_36ca5c9701a784"
+    ],
+    "sourcePath": "VisceralSystem100.fbx/RootNode/Abdominopelvic cavity.g/Peritoneal structures.g/Mesocolon",
+    "systems": [
+      "visceral"
+    ],
+    "bounds": [
+      [
+        -0.07203438430421721,
+        0.9466796011725539,
+        -0.012859009567281669
+      ],
+      [
+        0.0999408649900271,
+        1.1472465234499172,
+        0.08681990441688187
+      ]
+    ],
+    "parentIds": [
+      "ZAG_1925bdccb99e22"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_c8834cf6d085b1",
+    "nameEn": "Greater omentum",
+    "sourceNodeName": "Greater omentum",
+    "system": "visceral",
+    "meshIds": [
+      "ZA_c8834cf6d085b1"
+    ],
+    "directMeshIds": [
+      "ZA_c8834cf6d085b1"
+    ],
+    "childIds": [],
+    "sourcePath": "VisceralSystem100.fbx/RootNode/Abdominopelvic cavity.g/Peritoneal structures.g/Greater omentum",
+    "systems": [
+      "visceral"
+    ],
+    "bounds": [
+      [
+        -0.10256143978215934,
+        0.8795408992644398,
+        0.018614350309779804
+      ],
+      [
+        0.10926662493952641,
+        1.1628340128127335,
+        0.08806485113219747
+      ]
+    ],
+    "parentIds": [
+      "ZAG_1925bdccb99e22"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_98420971b78359",
+    "nameEn": "Lesser omentum",
+    "sourceNodeName": "Lesser omentum",
+    "system": "visceral",
+    "meshIds": [
+      "ZA_98420971b78359"
+    ],
+    "directMeshIds": [
+      "ZA_98420971b78359"
+    ],
+    "childIds": [],
+    "sourcePath": "VisceralSystem100.fbx/RootNode/Abdominopelvic cavity.g/Peritoneal structures.g/Lesser omentum",
+    "systems": [
+      "visceral"
+    ],
+    "bounds": [
+      [
+        -0.03456621793902347,
+        1.1419628474036383,
+        0.016711522844698793
+      ],
+      [
+        0.025421488846199408,
+        1.2000268439116404,
+        0.08068585604236952
+      ]
+    ],
+    "parentIds": [
+      "ZAG_1925bdccb99e22"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_1925bdccb99e22",
+    "nameEn": "Peritoneal structures",
+    "sourceNodeName": "Peritoneal structures.g",
+    "system": "visceral",
+    "meshIds": [
+      "ZA_10c50be99792b6",
+      "ZA_36ca5c9701a784",
+      "ZA_c8834cf6d085b1",
+      "ZA_98420971b78359"
+    ],
+    "directMeshIds": [],
+    "childIds": [
+      "ZAG_10c50be99792b6",
+      "ZAG_c8834cf6d085b1",
+      "ZAG_98420971b78359"
+    ],
+    "sourcePath": "VisceralSystem100.fbx/RootNode/Abdominopelvic cavity.g/Peritoneal structures.g",
+    "systems": [
+      "visceral"
+    ],
+    "bounds": [
+      [
+        -0.10256143978215934,
+        0.8795408992644398,
+        -0.012859009567281669
+      ],
+      [
+        0.10926662493952641,
+        1.2000268439116404,
+        0.08806485113219747
+      ]
+    ],
+    "parentIds": [
+      "ZAG_068587291b3f03"
+    ],
+    "kind": "group"
+  },
+  {
+    "id": "ZAG_068587291b3f03",
+    "nameEn": "Abdominopelvic cavity",
+    "sourceNodeName": "Abdominopelvic cavity.g",
+    "system": "visceral",
+    "meshIds": [
+      "ZA_10c50be99792b6",
+      "ZA_36ca5c9701a784",
+      "ZA_c8834cf6d085b1",
+      "ZA_98420971b78359"
+    ],
+    "directMeshIds": [],
+    "childIds": [
+      "ZAG_1925bdccb99e22"
+    ],
+    "sourcePath": "VisceralSystem100.fbx/RootNode/Abdominopelvic cavity.g",
+    "systems": [
+      "visceral"
+    ],
+    "bounds": [
+      [
+        -0.10256143978215934,
+        0.8795408992644398,
+        -0.012859009567281669
+      ],
+      [
+        0.10926662493952641,
+        1.2000268439116404,
+        0.08806485113219747
+      ]
+    ],
+    "parentIds": [
+      "ZAG_fedc2a540224f8"
+    ],
+    "kind": "group"
+  },
+  {
+    "id": "ZAG_00d42af6524b4e",
+    "nameEn": "Colic branch of ileocolic artery",
+    "sourceNodeName": "Colic branch of ileocolic artery",
+    "system": "arterial",
+    "meshIds": [
+      "ZA_00d42af6524b4e"
+    ],
+    "directMeshIds": [
+      "ZA_00d42af6524b4e"
+    ],
+    "childIds": [],
+    "sourcePath": "CardioVascular41.fbx/RootNode/Arterial system.g/Systemic arteries.g/Aorta.g/Abdominal aorta/Superior mesenteric artery/Ileocolic artery/Colic branch of ileocolic artery",
+    "systems": [
+      "arterial"
+    ],
+    "bounds": [
+      [
+        -0.07392247225612494,
+        1.0320916517152514,
+        0.015326948407030574
+      ],
+      [
+        -0.026405342327996087,
+        1.0657822672149557,
+        0.035793499011359316
+      ]
+    ],
+    "parentIds": [
+      "ZAG_87fe83238319a6"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_1ecdcf3f0d7c84",
+    "nameEn": "Ileal branch of ileocolic artery",
+    "sourceNodeName": "Ileal branch of ileocolic artery",
+    "system": "arterial",
+    "meshIds": [
+      "ZA_1ecdcf3f0d7c84"
+    ],
+    "directMeshIds": [
+      "ZA_1ecdcf3f0d7c84"
+    ],
+    "childIds": [],
+    "sourcePath": "CardioVascular41.fbx/RootNode/Arterial system.g/Systemic arteries.g/Aorta.g/Abdominal aorta/Superior mesenteric artery/Ileocolic artery/Ileal branch of ileocolic artery",
+    "systems": [
+      "arterial"
+    ],
+    "bounds": [
+      [
+        -0.05324578365688582,
+        1.0113972790972419,
+        0.023656386551047452
+      ],
+      [
+        -0.02917861983084992,
+        1.0309781118957178,
+        0.03521416778318654
+      ]
+    ],
+    "parentIds": [
+      "ZAG_87fe83238319a6"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_05a452c7b17a0a",
+    "nameEn": "Appendicular artery",
+    "sourceNodeName": "Appendicular artery",
+    "system": "arterial",
+    "meshIds": [
+      "ZA_05a452c7b17a0a"
+    ],
+    "directMeshIds": [
+      "ZA_05a452c7b17a0a"
+    ],
+    "childIds": [],
+    "sourcePath": "CardioVascular41.fbx/RootNode/Arterial system.g/Systemic arteries.g/Aorta.g/Abdominal aorta/Superior mesenteric artery/Ileocolic artery/Appendicular artery",
+    "systems": [
+      "arterial"
+    ],
+    "bounds": [
+      [
+        -0.055782491252423544,
+        0.9475610800316082,
+        -0.01116795087780198
+      ],
+      [
+        -0.021887913683734897,
+        1.0129459711747004,
+        0.026042039372610303
+      ]
+    ],
+    "parentIds": [
+      "ZAG_87fe83238319a6"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_87fe83238319a6",
+    "nameEn": "Ileocolic artery",
+    "sourceNodeName": "Ileocolic artery",
+    "system": "arterial",
+    "meshIds": [
+      "ZA_87fe83238319a6",
+      "ZA_00d42af6524b4e",
+      "ZA_1ecdcf3f0d7c84",
+      "ZA_05a452c7b17a0a"
+    ],
+    "directMeshIds": [
+      "ZA_87fe83238319a6"
+    ],
+    "childIds": [
+      "ZAG_00d42af6524b4e",
+      "ZAG_1ecdcf3f0d7c84",
+      "ZAG_05a452c7b17a0a"
+    ],
+    "sourcePath": "CardioVascular41.fbx/RootNode/Arterial system.g/Systemic arteries.g/Aorta.g/Abdominal aorta/Superior mesenteric artery/Ileocolic artery",
+    "systems": [
+      "arterial"
+    ],
+    "bounds": [
+      [
+        -0.07392247225612494,
+        0.9475610800316082,
+        -0.01116795087780198
+      ],
+      [
+        -0.005962586130502472,
+        1.0657822672149557,
+        0.04588241669041827
+      ]
+    ],
+    "parentIds": [
+      "ZAG_f23a29a2a3a1ec"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_f95c73abe3b64a",
+    "nameEn": "Marginal artery",
+    "sourceNodeName": "Marginal artery",
+    "system": "arterial",
+    "meshIds": [
+      "ZA_f95c73abe3b64a"
+    ],
+    "directMeshIds": [
+      "ZA_f95c73abe3b64a"
+    ],
+    "childIds": [],
+    "sourcePath": "CardioVascular41.fbx/RootNode/Arterial system.g/Systemic arteries.g/Aorta.g/Abdominal aorta/Superior mesenteric artery/Marginal artery",
+    "systems": [
+      "arterial"
+    ],
+    "bounds": [
+      [
+        -0.07128116223273802,
+        1.0062584512634904,
+        0.005041793840581277
+      ],
+      [
+        0.06487381926352125,
+        1.1405287195125675,
+        0.026045934534152573
+      ]
+    ],
+    "parentIds": [
+      "ZAG_f23a29a2a3a1ec"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_4a205da0da49e4",
+    "nameEn": "Right colic artery",
+    "sourceNodeName": "Right colic artery",
+    "system": "arterial",
+    "meshIds": [
+      "ZA_4a205da0da49e4"
+    ],
+    "directMeshIds": [
+      "ZA_4a205da0da49e4"
+    ],
+    "childIds": [],
+    "sourcePath": "CardioVascular41.fbx/RootNode/Arterial system.g/Systemic arteries.g/Aorta.g/Abdominal aorta/Superior mesenteric artery/Right colic artery",
+    "systems": [
+      "arterial"
+    ],
+    "bounds": [
+      [
+        -0.06885432369428743,
+        1.06034363572501,
+        0.0206464430358044
+      ],
+      [
+        -0.0071072076687931675,
+        1.0902880102397239,
+        0.051635033221906906
+      ]
+    ],
+    "parentIds": [
+      "ZAG_f23a29a2a3a1ec"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_a9eb87c2e4d6c7",
+    "nameEn": "Anterior inferior pancreaticoduodenal artery",
+    "sourceNodeName": "Anterior inferior pancreaticoduodenal artery",
+    "system": "arterial",
+    "meshIds": [
+      "ZA_a9eb87c2e4d6c7"
+    ],
+    "directMeshIds": [
+      "ZA_a9eb87c2e4d6c7"
+    ],
+    "childIds": [],
+    "sourcePath": "CardioVascular41.fbx/RootNode/Arterial system.g/Systemic arteries.g/Aorta.g/Abdominal aorta/Superior mesenteric artery/Inferior pancreaticoduodenal artery/Anterior inferior pancreaticoduodenal artery",
+    "systems": [
+      "arterial"
+    ],
+    "bounds": [
+      [
+        -0.06818801453628547,
+        1.0979612716438516,
+        0.021708926349132306
+      ],
+      [
+        0.062382898280401625,
+        1.1400089438969057,
+        0.08155448422106147
+      ]
+    ],
+    "parentIds": [
+      "ZAG_7e768a5ede1c63"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_7e768a5ede1c63",
+    "nameEn": "Inferior pancreaticoduodenal artery",
+    "sourceNodeName": "Inferior pancreaticoduodenal artery",
+    "system": "arterial",
+    "meshIds": [
+      "ZA_7e768a5ede1c63",
+      "ZA_a9eb87c2e4d6c7"
+    ],
+    "directMeshIds": [
+      "ZA_7e768a5ede1c63"
+    ],
+    "childIds": [
+      "ZAG_a9eb87c2e4d6c7"
+    ],
+    "sourcePath": "CardioVascular41.fbx/RootNode/Arterial system.g/Systemic arteries.g/Aorta.g/Abdominal aorta/Superior mesenteric artery/Inferior pancreaticoduodenal artery",
+    "systems": [
+      "arterial"
+    ],
+    "bounds": [
+      [
+        -0.06818801453628547,
+        1.0979612716438516,
+        0.021708926349132306
+      ],
+      [
+        0.062382898280401625,
+        1.1400089438969057,
+        0.08155448422106147
+      ]
+    ],
+    "parentIds": [
+      "ZAG_f23a29a2a3a1ec"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_ec46aa019b5338",
+    "nameEn": "Middle colic artery",
+    "sourceNodeName": "Middle colic artery",
+    "system": "arterial",
+    "meshIds": [
+      "ZA_ec46aa019b5338"
+    ],
+    "directMeshIds": [
+      "ZA_ec46aa019b5338"
+    ],
+    "childIds": [],
+    "sourcePath": "CardioVascular41.fbx/RootNode/Arterial system.g/Systemic arteries.g/Aorta.g/Abdominal aorta/Superior mesenteric artery/Middle colic artery",
+    "systems": [
+      "arterial"
+    ],
+    "bounds": [
+      [
+        -0.06743265044972657,
+        1.082477821374352,
+        0.022742076913405657
+      ],
+      [
+        -0.005661828539064801,
+        1.1138622650671997,
+        0.05053405848186193
+      ]
+    ],
+    "parentIds": [
+      "ZAG_f23a29a2a3a1ec"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_f23a29a2a3a1ec",
+    "nameEn": "Superior mesenteric artery",
+    "sourceNodeName": "Superior mesenteric artery",
+    "system": "arterial",
+    "meshIds": [
+      "ZA_f23a29a2a3a1ec",
+      "ZA_87fe83238319a6",
+      "ZA_00d42af6524b4e",
+      "ZA_1ecdcf3f0d7c84",
+      "ZA_05a452c7b17a0a",
+      "ZA_f95c73abe3b64a",
+      "ZA_4a205da0da49e4",
+      "ZA_7e768a5ede1c63",
+      "ZA_a9eb87c2e4d6c7",
+      "ZA_ec46aa019b5338"
+    ],
+    "directMeshIds": [
+      "ZA_f23a29a2a3a1ec"
+    ],
+    "childIds": [
+      "ZAG_87fe83238319a6",
+      "ZAG_f95c73abe3b64a",
+      "ZAG_4a205da0da49e4",
+      "ZAG_7e768a5ede1c63",
+      "ZAG_ec46aa019b5338"
+    ],
+    "sourcePath": "CardioVascular41.fbx/RootNode/Arterial system.g/Systemic arteries.g/Aorta.g/Abdominal aorta/Superior mesenteric artery",
+    "systems": [
+      "arterial"
+    ],
+    "bounds": [
+      [
+        -0.07392247225612494,
+        0.9475610800316082,
+        -0.01116795087780198
+      ],
+      [
+        0.06806259888865065,
+        1.1405287195125675,
+        0.08155448422106147
+      ]
+    ],
+    "parentIds": [
+      "ZAG_89c871621ecb90"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_e68345170abf13",
+    "nameEn": "Descending branch of left colic artery",
+    "sourceNodeName": "Descending branch of left colic artery",
+    "system": "arterial",
+    "meshIds": [
+      "ZA_e68345170abf13"
+    ],
+    "directMeshIds": [
+      "ZA_e68345170abf13"
+    ],
+    "childIds": [],
+    "sourcePath": "CardioVascular41.fbx/RootNode/Arterial system.g/Systemic arteries.g/Aorta.g/Abdominal aorta/Inferior mesenteric artery/Left colic artery/Descending branch of left colic artery",
+    "systems": [
+      "arterial"
+    ],
+    "bounds": [
+      [
+        0.02868723631545373,
+        1.0076547297352505,
+        0.012725433238957829
+      ],
+      [
+        0.0690207128340471,
+        1.0558493326473681,
+        0.03152009302495826
+      ]
+    ],
+    "parentIds": [
+      "ZAG_5a56650e84c0f9"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_926ffba1cf1d76",
+    "nameEn": "Ascending branch of left colic artery",
+    "sourceNodeName": "Ascending branch of left colic artery",
+    "system": "arterial",
+    "meshIds": [
+      "ZA_926ffba1cf1d76"
+    ],
+    "directMeshIds": [
+      "ZA_926ffba1cf1d76"
+    ],
+    "childIds": [],
+    "sourcePath": "CardioVascular41.fbx/RootNode/Arterial system.g/Systemic arteries.g/Aorta.g/Abdominal aorta/Inferior mesenteric artery/Left colic artery/Ascending branch of left colic artery",
+    "systems": [
+      "arterial"
+    ],
+    "bounds": [
+      [
+        0.030468165385880687,
+        1.0516333608232946,
+        0.016353298224951938
+      ],
+      [
+        0.054976058069146676,
+        1.1043482535948987,
+        0.031689450051507466
+      ]
+    ],
+    "parentIds": [
+      "ZAG_5a56650e84c0f9"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_5a56650e84c0f9",
+    "nameEn": "Left colic artery",
+    "sourceNodeName": "Left colic artery",
+    "system": "arterial",
+    "meshIds": [
+      "ZA_5a56650e84c0f9",
+      "ZA_e68345170abf13",
+      "ZA_926ffba1cf1d76"
+    ],
+    "directMeshIds": [
+      "ZA_5a56650e84c0f9"
+    ],
+    "childIds": [
+      "ZAG_e68345170abf13",
+      "ZAG_926ffba1cf1d76"
+    ],
+    "sourcePath": "CardioVascular41.fbx/RootNode/Arterial system.g/Systemic arteries.g/Aorta.g/Abdominal aorta/Inferior mesenteric artery/Left colic artery",
+    "systems": [
+      "arterial"
+    ],
+    "bounds": [
+      [
+        0.013343325072314359,
+        1.0076547297352505,
+        0.012725433238957829
+      ],
+      [
+        0.0690207128340471,
+        1.1043482535948987,
+        0.03866613094660984
+      ]
+    ],
+    "parentIds": [
+      "ZAG_841c1766aa0b9a"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_77594035d16e3f",
+    "nameEn": "Sigmoid arteries",
+    "sourceNodeName": "Sigmoid arteries",
+    "system": "arterial",
+    "meshIds": [
+      "ZA_77594035d16e3f"
+    ],
+    "directMeshIds": [
+      "ZA_77594035d16e3f"
+    ],
+    "childIds": [],
+    "sourcePath": "CardioVascular41.fbx/RootNode/Arterial system.g/Systemic arteries.g/Aorta.g/Abdominal aorta/Inferior mesenteric artery/Sigmoid arteries",
+    "systems": [
+      "arterial"
+    ],
+    "bounds": [
+      [
+        0.004535269048477386,
+        0.9511756688476141,
+        0.014355347670480252
+      ],
+      [
+        0.0705826628182094,
+        1.0384579787507169,
+        0.0362832658811139
+      ]
+    ],
+    "parentIds": [
+      "ZAG_841c1766aa0b9a"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_f63492d9f57dab",
+    "nameEn": "Superior anorectal artery",
+    "sourceNodeName": "Superior anorectal artery",
+    "system": "arterial",
+    "meshIds": [
+      "ZA_f63492d9f57dab"
+    ],
+    "directMeshIds": [
+      "ZA_f63492d9f57dab"
+    ],
+    "childIds": [],
+    "sourcePath": "CardioVascular41.fbx/RootNode/Arterial system.g/Systemic arteries.g/Aorta.g/Abdominal aorta/Inferior mesenteric artery/Superior anorectal artery",
+    "systems": [
+      "arterial"
+    ],
+    "bounds": [
+      [
+        -0.024946369613766076,
+        0.8291721999740568,
+        -0.05412938459614106
+      ],
+      [
+        0.006269578904092137,
+        0.9748555212566867,
+        0.01712933498398369
+      ]
+    ],
+    "parentIds": [
+      "ZAG_841c1766aa0b9a"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_841c1766aa0b9a",
+    "nameEn": "Inferior mesenteric artery",
+    "sourceNodeName": "Inferior mesenteric artery",
+    "system": "arterial",
+    "meshIds": [
+      "ZA_841c1766aa0b9a",
+      "ZA_5a56650e84c0f9",
+      "ZA_e68345170abf13",
+      "ZA_926ffba1cf1d76",
+      "ZA_77594035d16e3f",
+      "ZA_f63492d9f57dab"
+    ],
+    "directMeshIds": [
+      "ZA_841c1766aa0b9a"
+    ],
+    "childIds": [
+      "ZAG_5a56650e84c0f9",
+      "ZAG_77594035d16e3f",
+      "ZAG_f63492d9f57dab"
+    ],
+    "sourcePath": "CardioVascular41.fbx/RootNode/Arterial system.g/Systemic arteries.g/Aorta.g/Abdominal aorta/Inferior mesenteric artery",
+    "systems": [
+      "arterial"
+    ],
+    "bounds": [
+      [
+        -0.024946369613766076,
+        0.8291721999740568,
+        -0.05412938459614106
+      ],
+      [
+        0.0705826628182094,
+        1.1043482535948987,
+        0.03866613094660984
+      ]
+    ],
+    "parentIds": [
+      "ZAG_89c871621ecb90"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_01c71d94edd190",
+    "nameEn": "Hepatic portal vein",
+    "sourceNodeName": "Hepatic portal vein",
+    "system": "venous",
+    "meshIds": [
+      "ZA_01c71d94edd190"
+    ],
+    "directMeshIds": [
+      "ZA_01c71d94edd190"
+    ],
+    "childIds": [],
+    "sourcePath": "CardioVascular41.fbx/RootNode/Venous system.g/Systemic veins.g/Hepatic portal vein",
+    "systems": [
+      "venous"
+    ],
+    "bounds": [
+      [
+        -0.010120400644146385,
+        1.147591085972827,
+        0.027603572624386376
+      ],
+      [
+        -0.0012514212218605403,
+        1.1987920719514886,
+        0.033251066106757814
+      ]
+    ],
+    "parentIds": [
+      "ZAG_28f7409a24a60d"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_b1139d2bc8922b",
+    "nameEn": "Middle colic vein",
+    "sourceNodeName": "Middle colic vein",
+    "system": "venous",
+    "meshIds": [
+      "ZA_b1139d2bc8922b"
+    ],
+    "directMeshIds": [
+      "ZA_b1139d2bc8922b"
+    ],
+    "childIds": [],
+    "sourcePath": "CardioVascular41.fbx/RootNode/Venous system.g/Systemic veins.g/Hepatic portal vein.g/Tributaries of hepatic portal vein.g/Superior mesenteric vein/Middle colic vein",
+    "systems": [
+      "venous"
+    ],
+    "bounds": [
+      [
+        -0.06849712546881567,
+        1.060250465908869,
+        0.018826779512923882
+      ],
+      [
+        -0.011901845897612798,
+        1.1139249328892122,
+        0.04673733179718477
+      ]
+    ],
+    "parentIds": [
+      "ZAG_4aa0606a2626d4"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_76bbd35c754f86",
+    "nameEn": "Right colic vein",
+    "sourceNodeName": "Right colic vein",
+    "system": "venous",
+    "meshIds": [
+      "ZA_76bbd35c754f86"
+    ],
+    "directMeshIds": [
+      "ZA_76bbd35c754f86"
+    ],
+    "childIds": [],
+    "sourcePath": "CardioVascular41.fbx/RootNode/Venous system.g/Systemic veins.g/Hepatic portal vein.g/Tributaries of hepatic portal vein.g/Superior mesenteric vein/Right colic vein",
+    "systems": [
+      "venous"
+    ],
+    "bounds": [
+      [
+        -0.07391405450148097,
+        1.0063535620486428,
+        0.013533938334501177
+      ],
+      [
+        -0.026492936931030844,
+        1.073411488561626,
+        0.03196360076577089
+      ]
+    ],
+    "parentIds": [
+      "ZAG_4aa0606a2626d4"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_673937074ca284",
+    "nameEn": "Right gastro-omental vein",
+    "sourceNodeName": "Right gastro-omental vein",
+    "system": "venous",
+    "meshIds": [
+      "ZA_673937074ca284"
+    ],
+    "directMeshIds": [
+      "ZA_673937074ca284"
+    ],
+    "childIds": [],
+    "sourcePath": "CardioVascular41.fbx/RootNode/Venous system.g/Systemic veins.g/Hepatic portal vein.g/Tributaries of hepatic portal vein.g/Superior mesenteric vein/Right gastro-omental vein",
+    "systems": [
+      "venous"
+    ],
+    "bounds": [
+      [
+        -0.06660097497387583,
+        1.0905591536592425,
+        0.021287896144273854
+      ],
+      [
+        0.036230490158575004,
+        1.1346800624184397,
+        0.07992131039216378
+      ]
+    ],
+    "parentIds": [
+      "ZAG_4aa0606a2626d4"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_4aa0606a2626d4",
+    "nameEn": "Superior mesenteric vein",
+    "sourceNodeName": "Superior mesenteric vein",
+    "system": "venous",
+    "meshIds": [
+      "ZA_4aa0606a2626d4",
+      "ZA_b1139d2bc8922b",
+      "ZA_76bbd35c754f86",
+      "ZA_673937074ca284"
+    ],
+    "directMeshIds": [
+      "ZA_4aa0606a2626d4"
+    ],
+    "childIds": [
+      "ZAG_b1139d2bc8922b",
+      "ZAG_76bbd35c754f86",
+      "ZAG_673937074ca284"
+    ],
+    "sourcePath": "CardioVascular41.fbx/RootNode/Venous system.g/Systemic veins.g/Hepatic portal vein.g/Tributaries of hepatic portal vein.g/Superior mesenteric vein",
+    "systems": [
+      "venous"
+    ],
+    "bounds": [
+      [
+        -0.07391405450148097,
+        0.9852883303322311,
+        0.012616523272878639
+      ],
+      [
+        0.036230490158575004,
+        1.1481324238370778,
+        0.07992131039216378
+      ]
+    ],
+    "parentIds": [
+      "ZAG_a47e5e8834e154"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_57c438a096f74e",
+    "nameEn": "Left gastro-omental vein",
+    "sourceNodeName": "Left gastro-omental vein",
+    "system": "venous",
+    "meshIds": [
+      "ZA_57c438a096f74e"
+    ],
+    "directMeshIds": [
+      "ZA_57c438a096f74e"
+    ],
+    "childIds": [],
+    "sourcePath": "CardioVascular41.fbx/RootNode/Venous system.g/Systemic veins.g/Hepatic portal vein.g/Tributaries of hepatic portal vein.g/Splenic vein/Left gastro-omental vein",
+    "systems": [
+      "venous"
+    ],
+    "bounds": [
+      [
+        0.034903011830730565,
+        1.1171199054146013,
+        0.008552158434119193
+      ],
+      [
+        0.08626124826391923,
+        1.1599532778508124,
+        0.06432402956716952
+      ]
+    ],
+    "parentIds": [
+      "ZAG_bfd3e1ce2d20b2"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_f80b5f090b31d2",
+    "nameEn": "Sigmoid veins",
+    "sourceNodeName": "Sigmoid veins",
+    "system": "venous",
+    "meshIds": [
+      "ZA_f80b5f090b31d2"
+    ],
+    "directMeshIds": [
+      "ZA_f80b5f090b31d2"
+    ],
+    "childIds": [],
+    "sourcePath": "CardioVascular41.fbx/RootNode/Venous system.g/Systemic veins.g/Hepatic portal vein.g/Tributaries of hepatic portal vein.g/Splenic vein/Inferior mesenteric vein/Sigmoid veins",
+    "systems": [
+      "venous"
+    ],
+    "bounds": [
+      [
+        0.004754701758831175,
+        0.9506965768835998,
+        0.012835843997062142
+      ],
+      [
+        0.0706138306300542,
+        1.0386834294285263,
+        0.03620779071943437
+      ]
+    ],
+    "parentIds": [
+      "ZAG_3d361482fc7dff"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_3d361482fc7dff",
+    "nameEn": "Inferior mesenteric vein",
+    "sourceNodeName": "Inferior mesenteric vein",
+    "system": "venous",
+    "meshIds": [
+      "ZA_3d361482fc7dff",
+      "ZA_f80b5f090b31d2"
+    ],
+    "directMeshIds": [
+      "ZA_3d361482fc7dff"
+    ],
+    "childIds": [
+      "ZAG_f80b5f090b31d2"
+    ],
+    "sourcePath": "CardioVascular41.fbx/RootNode/Venous system.g/Systemic veins.g/Hepatic portal vein.g/Tributaries of hepatic portal vein.g/Splenic vein/Inferior mesenteric vein",
+    "systems": [
+      "venous"
+    ],
+    "bounds": [
+      [
+        0.004017183653733252,
+        0.9506965768835998,
+        0.012835843997062142
+      ],
+      [
+        0.0706138306300542,
+        1.1491979248591084,
+        0.037259557224370014
+      ]
+    ],
+    "parentIds": [
+      "ZAG_bfd3e1ce2d20b2"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_bfd3e1ce2d20b2",
+    "nameEn": "Splenic vein",
+    "sourceNodeName": "Splenic vein",
+    "system": "venous",
+    "meshIds": [
+      "ZA_bfd3e1ce2d20b2",
+      "ZA_57c438a096f74e",
+      "ZA_3d361482fc7dff",
+      "ZA_f80b5f090b31d2"
+    ],
+    "directMeshIds": [
+      "ZA_bfd3e1ce2d20b2"
+    ],
+    "childIds": [
+      "ZAG_57c438a096f74e",
+      "ZAG_3d361482fc7dff"
+    ],
+    "sourcePath": "CardioVascular41.fbx/RootNode/Venous system.g/Systemic veins.g/Hepatic portal vein.g/Tributaries of hepatic portal vein.g/Splenic vein",
+    "systems": [
+      "venous"
+    ],
+    "bounds": [
+      [
+        -0.005882634195954273,
+        0.9506965768835998,
+        -0.008920748286427168
+      ],
+      [
+        0.10023748383138027,
+        1.1692090500399623,
+        0.06432402956716952
+      ]
+    ],
+    "parentIds": [
+      "ZAG_a47e5e8834e154"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_a47e5e8834e154",
+    "nameEn": "Tributaries of hepatic portal vein",
+    "sourceNodeName": "Tributaries of hepatic portal vein.g",
+    "system": "venous",
+    "meshIds": [
+      "ZA_4aa0606a2626d4",
+      "ZA_b1139d2bc8922b",
+      "ZA_76bbd35c754f86",
+      "ZA_673937074ca284",
+      "ZA_bfd3e1ce2d20b2",
+      "ZA_57c438a096f74e",
+      "ZA_3d361482fc7dff",
+      "ZA_f80b5f090b31d2"
+    ],
+    "directMeshIds": [],
+    "childIds": [
+      "ZAG_4aa0606a2626d4",
+      "ZAG_bfd3e1ce2d20b2"
+    ],
+    "sourcePath": "CardioVascular41.fbx/RootNode/Venous system.g/Systemic veins.g/Hepatic portal vein.g/Tributaries of hepatic portal vein.g",
+    "systems": [
+      "venous"
+    ],
+    "bounds": [
+      [
+        -0.07391405450148097,
+        0.9506965768835998,
+        -0.008920748286427168
+      ],
+      [
+        0.10023748383138027,
+        1.1692090500399623,
+        0.07992131039216378
+      ]
+    ],
+    "parentIds": [
+      "ZAG_bbc32ac27db94e"
+    ],
+    "kind": "group"
+  },
+  {
+    "id": "ZAG_bbc32ac27db94e",
+    "nameEn": "Hepatic portal vein",
+    "sourceNodeName": "Hepatic portal vein.g",
+    "system": "venous",
+    "meshIds": [
+      "ZA_4aa0606a2626d4",
+      "ZA_b1139d2bc8922b",
+      "ZA_76bbd35c754f86",
+      "ZA_673937074ca284",
+      "ZA_bfd3e1ce2d20b2",
+      "ZA_57c438a096f74e",
+      "ZA_3d361482fc7dff",
+      "ZA_f80b5f090b31d2"
+    ],
+    "directMeshIds": [],
+    "childIds": [
+      "ZAG_a47e5e8834e154"
+    ],
+    "sourcePath": "CardioVascular41.fbx/RootNode/Venous system.g/Systemic veins.g/Hepatic portal vein.g",
+    "systems": [
+      "venous"
+    ],
+    "bounds": [
+      [
+        -0.07391405450148097,
+        0.9506965768835998,
+        -0.008920748286427168
+      ],
+      [
+        0.10023748383138027,
+        1.1692090500399623,
+        0.07992131039216378
+      ]
+    ],
+    "parentIds": [
+      "ZAG_28f7409a24a60d"
+    ],
+    "kind": "group"
+  },
+  {
+    "id": "ZAG_b579f1c03eb459",
+    "nameEn": "Jejunum",
+    "sourceNodeName": "Jejunum",
+    "system": "visceral",
+    "meshIds": [
+      "ZA_b579f1c03eb459"
+    ],
+    "directMeshIds": [
+      "ZA_b579f1c03eb459"
+    ],
+    "childIds": [],
+    "sourcePath": "VisceralSystem100.fbx/RootNode/Digestive system.g/Digestive canal.g/Small intestine.g/Jejunum",
+    "systems": [
+      "visceral"
+    ],
+    "bounds": [
+      [
+        -0.08260780458063863,
+        0.8810631652668677,
+        0.018891446683191683
+      ],
+      [
+        0.10036525882228364,
+        1.0897735316738721,
+        0.08097545193567146
+      ]
+    ],
+    "parentIds": [
+      "ZAG_b4f92073d56535"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_b4f92073d56535",
+    "nameEn": "Small intestine",
+    "sourceNodeName": "Small intestine.g",
+    "system": "visceral",
+    "meshIds": [
+      "ZA_8814235835dbe9",
+      "ZA_b579f1c03eb459"
+    ],
+    "directMeshIds": [],
+    "childIds": [
+      "ZAG_8814235835dbe9",
+      "ZAG_b579f1c03eb459"
+    ],
+    "sourcePath": "VisceralSystem100.fbx/RootNode/Digestive system.g/Digestive canal.g/Small intestine.g",
+    "systems": [
+      "visceral"
+    ],
+    "bounds": [
+      [
+        -0.08260780458063863,
+        0.8810631652668677,
+        0.005745805988395527
+      ],
+      [
+        0.10036525882228364,
+        1.143259791142094,
+        0.08097545193567146
+      ]
+    ],
+    "parentIds": [
+      "ZAG_c9597bc6a58104"
+    ],
+    "kind": "group"
+  },
+  {
+    "id": "ZAG_4eefc95da94c9d",
+    "nameEn": "Vermiform appendix",
+    "sourceNodeName": "Vermiform appendix",
+    "system": "visceral",
+    "meshIds": [
+      "ZA_4eefc95da94c9d"
+    ],
+    "directMeshIds": [
+      "ZA_4eefc95da94c9d"
+    ],
+    "childIds": [],
+    "sourcePath": "VisceralSystem100.fbx/RootNode/Digestive system.g/Digestive canal.g/Large intestine.g/Colon.g/Vermiform appendix",
+    "systems": [
+      "visceral"
+    ],
+    "bounds": [
+      [
+        -0.08842348207490773,
+        0.9403676469672152,
+        -0.01636253128152013
+      ],
+      [
+        -0.018863030010579776,
+        0.9584366591903917,
+        0.022642749003103625
+      ]
+    ],
+    "parentIds": [
+      "ZAG_7ac8750cee05ea"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_922fc374d403a4",
+    "nameEn": "Sigmoid colon",
+    "sourceNodeName": "Sigmoid colon",
+    "system": "visceral",
+    "meshIds": [
+      "ZA_922fc374d403a4"
+    ],
+    "directMeshIds": [
+      "ZA_922fc374d403a4"
+    ],
+    "childIds": [],
+    "sourcePath": "VisceralSystem100.fbx/RootNode/Digestive system.g/Digestive canal.g/Large intestine.g/Colon.g/Sigmoid colon",
+    "systems": [
+      "visceral"
+    ],
+    "bounds": [
+      [
+        -0.02621463137412182,
+        0.8037493443341849,
+        -0.07176436157584255
+      ],
+      [
+        0.035354720245605376,
+        0.9263793160544325,
+        -0.022356154936360437
+      ]
+    ],
+    "parentIds": [
+      "ZAG_7ac8750cee05ea"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_0346e487ef01e7",
+    "nameEn": "Ascending colon",
+    "sourceNodeName": "Ascending colon",
+    "system": "visceral",
+    "meshIds": [
+      "ZA_0346e487ef01e7"
+    ],
+    "directMeshIds": [
+      "ZA_0346e487ef01e7"
+    ],
+    "childIds": [],
+    "sourcePath": "VisceralSystem100.fbx/RootNode/Digestive system.g/Digestive canal.g/Large intestine.g/Colon.g/Ascending colon",
+    "systems": [
+      "visceral"
+    ],
+    "bounds": [
+      [
+        -0.11382491110472066,
+        0.9221087509502351,
+        -0.013120988211620981
+      ],
+      [
+        -0.06233624629840184,
+        1.1144891878564358,
+        0.042978145149071556
+      ]
+    ],
+    "parentIds": [
+      "ZAG_7ac8750cee05ea"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_131fcc6cfdb0ae",
+    "nameEn": "Descending colon",
+    "sourceNodeName": "Descending colon",
+    "system": "visceral",
+    "meshIds": [
+      "ZA_131fcc6cfdb0ae"
+    ],
+    "directMeshIds": [
+      "ZA_131fcc6cfdb0ae"
+    ],
+    "childIds": [],
+    "sourcePath": "VisceralSystem100.fbx/RootNode/Digestive system.g/Digestive canal.g/Large intestine.g/Colon.g/Descending colon",
+    "systems": [
+      "visceral"
+    ],
+    "bounds": [
+      [
+        -0.018241203058589884,
+        0.8712407733607798,
+        -0.05799055316880468
+      ],
+      [
+        0.11427837265843913,
+        1.1344689782247286,
+        0.035735234978588194
+      ]
+    ],
+    "parentIds": [
+      "ZAG_7ac8750cee05ea"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_c82d9152540e4e",
+    "nameEn": "Transverse colon",
+    "sourceNodeName": "Transverse colon",
+    "system": "visceral",
+    "meshIds": [
+      "ZA_c82d9152540e4e"
+    ],
+    "directMeshIds": [
+      "ZA_c82d9152540e4e"
+    ],
+    "childIds": [],
+    "sourcePath": "VisceralSystem100.fbx/RootNode/Digestive system.g/Digestive canal.g/Large intestine.g/Colon.g/Transverse colon",
+    "systems": [
+      "visceral"
+    ],
+    "bounds": [
+      [
+        -0.08729203719456725,
+        1.0667772585025481,
+        0.005984101389930886
+      ],
+      [
+        0.09914313962666363,
+        1.1351406999671898,
+        0.08129074558176373
+      ]
+    ],
+    "parentIds": [
+      "ZAG_7ac8750cee05ea"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_0621f837d515bb",
+    "nameEn": "Free taenia",
+    "sourceNodeName": "Free taenia",
+    "system": "visceral",
+    "meshIds": [
+      "ZA_0621f837d515bb"
+    ],
+    "directMeshIds": [
+      "ZA_0621f837d515bb"
+    ],
+    "childIds": [],
+    "sourcePath": "VisceralSystem100.fbx/RootNode/Digestive system.g/Digestive canal.g/Large intestine.g/Colon.g/Taeniae coli.g/Free taenia",
+    "systems": [
+      "visceral"
+    ],
+    "bounds": [
+      [
+        -0.07356952285411873,
+        0.9181973572253788,
+        -0.041174803507930895
+      ],
+      [
+        0.077559594294929,
+        1.1202377237187426,
+        0.052744555060026704
+      ]
+    ],
+    "parentIds": [
+      "ZAG_80636797beac4f"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_e4b9cfb43a8d39",
+    "nameEn": "Mesocolic taenia",
+    "sourceNodeName": "Mesocolic taenia",
+    "system": "visceral",
+    "meshIds": [
+      "ZA_e4b9cfb43a8d39"
+    ],
+    "directMeshIds": [
+      "ZA_e4b9cfb43a8d39"
+    ],
+    "childIds": [],
+    "sourcePath": "VisceralSystem100.fbx/RootNode/Digestive system.g/Digestive canal.g/Large intestine.g/Colon.g/Taeniae coli.g/Mesocolic taenia",
+    "systems": [
+      "visceral"
+    ],
+    "bounds": [
+      [
+        -0.1148960472093997,
+        0.8847166027757681,
+        -0.05496542054283399
+      ],
+      [
+        0.11035192046915464,
+        1.1323490588547926,
+        0.08227690267181405
+      ]
+    ],
+    "parentIds": [
+      "ZAG_80636797beac4f"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_4697e0d292a01e",
+    "nameEn": "Omental taenia",
+    "sourceNodeName": "Omental taenia",
+    "system": "visceral",
+    "meshIds": [
+      "ZA_4697e0d292a01e"
+    ],
+    "directMeshIds": [
+      "ZA_4697e0d292a01e"
+    ],
+    "childIds": [],
+    "sourcePath": "VisceralSystem100.fbx/RootNode/Digestive system.g/Digestive canal.g/Large intestine.g/Colon.g/Taeniae coli.g/Omental taenia",
+    "systems": [
+      "visceral"
+    ],
+    "bounds": [
+      [
+        -0.08195328893194102,
+        0.8806009488018708,
+        -0.019937303333586204
+      ],
+      [
+        0.0983332249311397,
+        1.0844465859462995,
+        0.05969140521667553
+      ]
+    ],
+    "parentIds": [
+      "ZAG_80636797beac4f"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_80636797beac4f",
+    "nameEn": "Taeniae coli",
+    "sourceNodeName": "Taeniae coli.g",
+    "system": "visceral",
+    "meshIds": [
+      "ZA_0621f837d515bb",
+      "ZA_e4b9cfb43a8d39",
+      "ZA_4697e0d292a01e"
+    ],
+    "directMeshIds": [],
+    "childIds": [
+      "ZAG_0621f837d515bb",
+      "ZAG_e4b9cfb43a8d39",
+      "ZAG_4697e0d292a01e"
+    ],
+    "sourcePath": "VisceralSystem100.fbx/RootNode/Digestive system.g/Digestive canal.g/Large intestine.g/Colon.g/Taeniae coli.g",
+    "systems": [
+      "visceral"
+    ],
+    "bounds": [
+      [
+        -0.1148960472093997,
+        0.8806009488018708,
+        -0.05496542054283399
+      ],
+      [
+        0.11035192046915464,
+        1.1323490588547926,
+        0.08227690267181405
+      ]
+    ],
+    "parentIds": [
+      "ZAG_7ac8750cee05ea"
+    ],
+    "kind": "group"
+  },
+  {
+    "id": "ZAG_7ac8750cee05ea",
+    "nameEn": "Colon",
+    "sourceNodeName": "Colon.g",
+    "system": "visceral",
+    "meshIds": [
+      "ZA_4eefc95da94c9d",
+      "ZA_922fc374d403a4",
+      "ZA_0346e487ef01e7",
+      "ZA_131fcc6cfdb0ae",
+      "ZA_c82d9152540e4e",
+      "ZA_0621f837d515bb",
+      "ZA_e4b9cfb43a8d39",
+      "ZA_4697e0d292a01e"
+    ],
+    "directMeshIds": [],
+    "childIds": [
+      "ZAG_4eefc95da94c9d",
+      "ZAG_922fc374d403a4",
+      "ZAG_0346e487ef01e7",
+      "ZAG_131fcc6cfdb0ae",
+      "ZAG_c82d9152540e4e",
+      "ZAG_80636797beac4f"
+    ],
+    "sourcePath": "VisceralSystem100.fbx/RootNode/Digestive system.g/Digestive canal.g/Large intestine.g/Colon.g",
+    "systems": [
+      "visceral"
+    ],
+    "bounds": [
+      [
+        -0.1148960472093997,
+        0.8037493443341849,
+        -0.07176436157584255
+      ],
+      [
+        0.11427837265843913,
+        1.1351406999671898,
+        0.08227690267181405
+      ]
+    ],
+    "parentIds": [
+      "ZAG_54d6bb604aaee2"
+    ],
+    "kind": "group"
+  },
+  {
+    "id": "ZAG_54d6bb604aaee2",
+    "nameEn": "Large intestine",
+    "sourceNodeName": "Large intestine.g",
+    "system": "visceral",
+    "meshIds": [
+      "ZA_4eefc95da94c9d",
+      "ZA_922fc374d403a4",
+      "ZA_0346e487ef01e7",
+      "ZA_131fcc6cfdb0ae",
+      "ZA_c82d9152540e4e",
+      "ZA_0621f837d515bb",
+      "ZA_e4b9cfb43a8d39",
+      "ZA_4697e0d292a01e"
+    ],
+    "directMeshIds": [],
+    "childIds": [
+      "ZAG_7ac8750cee05ea"
+    ],
+    "sourcePath": "VisceralSystem100.fbx/RootNode/Digestive system.g/Digestive canal.g/Large intestine.g",
+    "systems": [
+      "visceral"
+    ],
+    "bounds": [
+      [
+        -0.1148960472093997,
+        0.8037493443341849,
+        -0.07176436157584255
+      ],
+      [
+        0.11427837265843913,
+        1.1351406999671898,
+        0.08227690267181405
+      ]
+    ],
+    "parentIds": [
+      "ZAG_c9597bc6a58104"
+    ],
+    "kind": "group"
+  },
+  {
+    "id": "ZAG_2e38bc8b4196f9",
+    "nameEn": "Paracolic superior mesenteric nodes",
+    "sourceNodeName": "Paracolic superior mesenteric nodes",
+    "system": "lymphatic",
+    "meshIds": [
+      "ZA_2e38bc8b4196f9"
+    ],
+    "directMeshIds": [
+      "ZA_2e38bc8b4196f9"
+    ],
+    "childIds": [],
+    "sourcePath": "LymphoidOrgans100.fbx/RootNode/Secondary lymphoid organs.g/Lymph nodes.g/Abdominal lymph nodes.g/Visceral abdominal lymph nodes.g/Superior mesenteric nodes.g/Paracolic superior mesenteric nodes",
+    "systems": [
+      "lymphatic"
+    ],
+    "bounds": [
+      [
+        -0.0806129410627392,
+        0.9220839272512955,
+        0.001596923405022257
+      ],
+      [
+        0.09877505335352542,
+        1.078957579332596,
+        0.07321307720109105
+      ]
+    ],
+    "parentIds": [
+      "ZAG_ce7397ae49acdc"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_e0b7c6631b26ca",
+    "nameEn": "Central superior mesenteric nodes",
+    "sourceNodeName": "Central superior mesenteric nodes",
+    "system": "lymphatic",
+    "meshIds": [
+      "ZA_e0b7c6631b26ca"
+    ],
+    "directMeshIds": [
+      "ZA_e0b7c6631b26ca"
+    ],
+    "childIds": [],
+    "sourcePath": "LymphoidOrgans100.fbx/RootNode/Secondary lymphoid organs.g/Lymph nodes.g/Abdominal lymph nodes.g/Visceral abdominal lymph nodes.g/Superior mesenteric nodes.g/Central superior mesenteric nodes",
+    "systems": [
+      "lymphatic"
+    ],
+    "bounds": [
+      [
+        -0.009007105347075337,
+        1.0487025198725695,
+        0.04742275941043232
+      ],
+      [
+        -0.006439953363300008,
+        1.0977358550051834,
+        0.05456297591306855
+      ]
+    ],
+    "parentIds": [
+      "ZAG_ce7397ae49acdc"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_318948e8b69c44",
+    "nameEn": "Ileocolic nodes",
+    "sourceNodeName": "Ileocolic nodes",
+    "system": "lymphatic",
+    "meshIds": [
+      "ZA_318948e8b69c44"
+    ],
+    "directMeshIds": [
+      "ZA_318948e8b69c44"
+    ],
+    "childIds": [],
+    "sourcePath": "LymphoidOrgans100.fbx/RootNode/Secondary lymphoid organs.g/Lymph nodes.g/Abdominal lymph nodes.g/Visceral abdominal lymph nodes.g/Superior mesenteric nodes.g/Ileocolic nodes",
+    "systems": [
+      "lymphatic"
+    ],
+    "bounds": [
+      [
+        -0.0093085297628038,
+        1.104310646381826,
+        0.022069078755470976
+      ],
+      [
+        -0.001031069112975692,
+        1.1216464850475665,
+        0.028613223221254952
+      ]
+    ],
+    "parentIds": [
+      "ZAG_ce7397ae49acdc"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_0ce2b6e767db7b",
+    "nameEn": "Precaecal nodes",
+    "sourceNodeName": "Precaecal nodes",
+    "system": "lymphatic",
+    "meshIds": [
+      "ZA_0ce2b6e767db7b"
+    ],
+    "directMeshIds": [
+      "ZA_0ce2b6e767db7b"
+    ],
+    "childIds": [],
+    "sourcePath": "LymphoidOrgans100.fbx/RootNode/Secondary lymphoid organs.g/Lymph nodes.g/Abdominal lymph nodes.g/Visceral abdominal lymph nodes.g/Superior mesenteric nodes.g/Precaecal nodes",
+    "systems": [
+      "lymphatic"
+    ],
+    "bounds": [
+      [
+        -0.08250760540557431,
+        0.9585383020513565,
+        0.03939957030084617
+      ],
+      [
+        -0.07658837203963523,
+        0.9677213450632203,
+        0.04205606434182002
+      ]
+    ],
+    "parentIds": [
+      "ZAG_ce7397ae49acdc"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_9a40d49059188b",
+    "nameEn": "Retrocaecal nodes",
+    "sourceNodeName": "Retrocaecal nodes",
+    "system": "lymphatic",
+    "meshIds": [
+      "ZA_9a40d49059188b"
+    ],
+    "directMeshIds": [
+      "ZA_9a40d49059188b"
+    ],
+    "childIds": [],
+    "sourcePath": "LymphoidOrgans100.fbx/RootNode/Secondary lymphoid organs.g/Lymph nodes.g/Abdominal lymph nodes.g/Visceral abdominal lymph nodes.g/Superior mesenteric nodes.g/Retrocaecal nodes",
+    "systems": [
+      "lymphatic"
+    ],
+    "bounds": [
+      [
+        -0.0640037703104589,
+        0.9474560070405634,
+        -0.0003322794255085526
+      ],
+      [
+        -0.052667295078715544,
+        0.9566390494076522,
+        0.0067105858540367855
+      ]
+    ],
+    "parentIds": [
+      "ZAG_ce7397ae49acdc"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_feb117702045eb",
+    "nameEn": "Appendicular nodes",
+    "sourceNodeName": "Appendicular nodes",
+    "system": "lymphatic",
+    "meshIds": [
+      "ZA_feb117702045eb"
+    ],
+    "directMeshIds": [
+      "ZA_feb117702045eb"
+    ],
+    "childIds": [],
+    "sourcePath": "LymphoidOrgans100.fbx/RootNode/Secondary lymphoid organs.g/Lymph nodes.g/Abdominal lymph nodes.g/Visceral abdominal lymph nodes.g/Superior mesenteric nodes.g/Appendicular nodes",
+    "systems": [
+      "lymphatic"
+    ],
+    "bounds": [
+      [
+        -0.057682970896057284,
+        0.9551224101797439,
+        0.009983141411523604
+      ],
+      [
+        -0.03907578456009972,
+        0.9788370545780178,
+        0.0183594371624371
+      ]
+    ],
+    "parentIds": [
+      "ZAG_ce7397ae49acdc"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_48016fbbd40880",
+    "nameEn": "Juxta-intestinal mesenteric nodes",
+    "sourceNodeName": "Juxta-intestinal mesenteric nodes",
+    "system": "lymphatic",
+    "meshIds": [
+      "ZA_48016fbbd40880"
+    ],
+    "directMeshIds": [
+      "ZA_48016fbbd40880"
+    ],
+    "childIds": [],
+    "sourcePath": "LymphoidOrgans100.fbx/RootNode/Secondary lymphoid organs.g/Lymph nodes.g/Abdominal lymph nodes.g/Visceral abdominal lymph nodes.g/Superior mesenteric nodes.g/Juxta-intestinal mesenteric nodes",
+    "systems": [
+      "lymphatic"
+    ],
+    "bounds": [
+      [
+        -0.06771218207152636,
+        0.9140247863321384,
+        0.042128033946427355
+      ],
+      [
+        0.07573044387205086,
+        1.0616443992476565,
+        0.07338567159843486
+      ]
+    ],
+    "parentIds": [
+      "ZAG_ce7397ae49acdc"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_d8424882fe5df7",
+    "nameEn": "Middle colic nodes",
+    "sourceNodeName": "Middle colic nodes",
+    "system": "lymphatic",
+    "meshIds": [
+      "ZA_d8424882fe5df7"
+    ],
+    "directMeshIds": [
+      "ZA_d8424882fe5df7"
+    ],
+    "childIds": [],
+    "sourcePath": "LymphoidOrgans100.fbx/RootNode/Secondary lymphoid organs.g/Lymph nodes.g/Abdominal lymph nodes.g/Visceral abdominal lymph nodes.g/Superior mesenteric nodes.g/Middle colic nodes",
+    "systems": [
+      "lymphatic"
+    ],
+    "bounds": [
+      [
+        -0.06043513376535128,
+        1.0990209053852396,
+        0.022090214246349004
+      ],
+      [
+        -0.02045713983815018,
+        1.1131070286975209,
+        0.04805262541490137
+      ]
+    ],
+    "parentIds": [
+      "ZAG_ce7397ae49acdc"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_b746fdbdd3411f",
+    "nameEn": "Right colic nodes",
+    "sourceNodeName": "Right colic nodes",
+    "system": "lymphatic",
+    "meshIds": [
+      "ZA_b746fdbdd3411f"
+    ],
+    "directMeshIds": [
+      "ZA_b746fdbdd3411f"
+    ],
+    "childIds": [],
+    "sourcePath": "LymphoidOrgans100.fbx/RootNode/Secondary lymphoid organs.g/Lymph nodes.g/Abdominal lymph nodes.g/Visceral abdominal lymph nodes.g/Superior mesenteric nodes.g/Right colic nodes",
+    "systems": [
+      "lymphatic"
+    ],
+    "bounds": [
+      [
+        -0.05516182476829485,
+        1.1011764724848645,
+        0.030196390545378288
+      ],
+      [
+        -0.0205730841661628,
+        1.112165751672822,
+        0.05167870901798524
+      ]
+    ],
+    "parentIds": [
+      "ZAG_ce7397ae49acdc"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_ce7397ae49acdc",
+    "nameEn": "Superior mesenteric nodes",
+    "sourceNodeName": "Superior mesenteric nodes.g",
+    "system": "lymphatic",
+    "meshIds": [
+      "ZA_2e38bc8b4196f9",
+      "ZA_e0b7c6631b26ca",
+      "ZA_318948e8b69c44",
+      "ZA_0ce2b6e767db7b",
+      "ZA_9a40d49059188b",
+      "ZA_feb117702045eb",
+      "ZA_48016fbbd40880",
+      "ZA_d8424882fe5df7",
+      "ZA_b746fdbdd3411f"
+    ],
+    "directMeshIds": [],
+    "childIds": [
+      "ZAG_2e38bc8b4196f9",
+      "ZAG_e0b7c6631b26ca",
+      "ZAG_318948e8b69c44",
+      "ZAG_0ce2b6e767db7b",
+      "ZAG_9a40d49059188b",
+      "ZAG_feb117702045eb",
+      "ZAG_48016fbbd40880",
+      "ZAG_d8424882fe5df7",
+      "ZAG_b746fdbdd3411f"
+    ],
+    "sourcePath": "LymphoidOrgans100.fbx/RootNode/Secondary lymphoid organs.g/Lymph nodes.g/Abdominal lymph nodes.g/Visceral abdominal lymph nodes.g/Superior mesenteric nodes.g",
+    "systems": [
+      "lymphatic"
+    ],
+    "bounds": [
+      [
+        -0.08250760540557431,
+        0.9140247863321384,
+        -0.0003322794255085526
+      ],
+      [
+        0.09877505335352542,
+        1.1216464850475665,
+        0.07338567159843486
+      ]
+    ],
+    "parentIds": [
+      "ZAG_052e5087cce50b"
+    ],
+    "kind": "group"
+  },
+  {
+    "id": "ZAG_960cbc65727af1",
+    "nameEn": "Left colic nodes",
+    "sourceNodeName": "Left colic nodes",
+    "system": "lymphatic",
+    "meshIds": [
+      "ZA_960cbc65727af1"
+    ],
+    "directMeshIds": [
+      "ZA_960cbc65727af1"
+    ],
+    "childIds": [],
+    "sourcePath": "LymphoidOrgans100.fbx/RootNode/Secondary lymphoid organs.g/Lymph nodes.g/Abdominal lymph nodes.g/Visceral abdominal lymph nodes.g/Inferior mesenteric nodes.g/Left colic nodes",
+    "systems": [
+      "lymphatic"
+    ],
+    "bounds": [
+      [
+        0.039266364460882996,
+        1.0581743159841226,
+        0.01783429881633274
+      ],
+      [
+        0.04937086653136821,
+        1.091298136004566,
+        0.029344570613027917
+      ]
+    ],
+    "parentIds": [
+      "ZAG_74672b03294f47"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_ef1005f3803930",
+    "nameEn": "Sigmoid nodes",
+    "sourceNodeName": "Sigmoid nodes",
+    "system": "lymphatic",
+    "meshIds": [
+      "ZA_ef1005f3803930"
+    ],
+    "directMeshIds": [
+      "ZA_ef1005f3803930"
+    ],
+    "childIds": [],
+    "sourcePath": "LymphoidOrgans100.fbx/RootNode/Secondary lymphoid organs.g/Lymph nodes.g/Abdominal lymph nodes.g/Visceral abdominal lymph nodes.g/Inferior mesenteric nodes.g/Sigmoid nodes",
+    "systems": [
+      "lymphatic"
+    ],
+    "bounds": [
+      [
+        0.023520122010499803,
+        0.9533756649991824,
+        -0.023710823936239276
+      ],
+      [
+        0.05367934682015638,
+        1.0250721187617757,
+        0.027239176448549337
+      ]
+    ],
+    "parentIds": [
+      "ZAG_74672b03294f47"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_74672b03294f47",
+    "nameEn": "Inferior mesenteric nodes",
+    "sourceNodeName": "Inferior mesenteric nodes.g",
+    "system": "lymphatic",
+    "meshIds": [
+      "ZA_960cbc65727af1",
+      "ZA_ef1005f3803930"
+    ],
+    "directMeshIds": [],
+    "childIds": [
+      "ZAG_960cbc65727af1",
+      "ZAG_ef1005f3803930"
+    ],
+    "sourcePath": "LymphoidOrgans100.fbx/RootNode/Secondary lymphoid organs.g/Lymph nodes.g/Abdominal lymph nodes.g/Visceral abdominal lymph nodes.g/Inferior mesenteric nodes.g",
+    "systems": [
+      "lymphatic"
+    ],
+    "bounds": [
+      [
+        0.023520122010499803,
+        0.9533756649991824,
+        -0.023710823936239276
+      ],
+      [
+        0.05367934682015638,
+        1.091298136004566,
+        0.029344570613027917
+      ]
+    ],
+    "parentIds": [
+      "ZAG_052e5087cce50b"
+    ],
+    "kind": "group"
+  }
+]

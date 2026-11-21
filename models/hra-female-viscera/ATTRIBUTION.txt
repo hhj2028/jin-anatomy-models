@@ -1,0 +1,6 @@
+Kristen Browne and Heidi Schlehlein (2023), 3D Reference Organ Set for Female v1.5, HuBMAP / Human Reference Atlas. DOI: 10.48539/HBM352.BTSQ.586. CC BY 4.0.
+https://doi.org/10.48539/HBM352.BTSQ.586
+https://creativecommons.org/licenses/by/4.0/
+Source: https://raw.githubusercontent.com/hubmapconsortium/ccf-releases/main/v2.0/markdown/ref-organs/3d-vh-f-united.md
+Project lead: Katy Börner. Reviewers of united set: Bruce W. Herr II; Ellen M. Quardokus. Publisher: HuBMAP. Funder: NIH, OT2OD033756 and OT2OD026671. Original reference data acknowledged by source: NLM Visible Human Female.
+Changes: Selected previously unmounted original female colonic, renal and associated vascular meshes from the same official united GLB; original positions, topology and node identities retained; neutral material for app coloring; normalized normals and 18-bit Draco position quantization. The conflicting inferior mesenteric vein label/ontology is cleared in normalized metadata while raw source values remain available. No inferred anatomy, no inter-source registration.

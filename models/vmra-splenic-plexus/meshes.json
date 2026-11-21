@@ -1,0 +1,47 @@
+[
+  {
+    "id": "VMRA_SPLENIC_PLEXUS_01",
+    "conceptId": "",
+    "nameEn": "Splenic plexus",
+    "nameKo": "\ube44\uc7a5\uc2e0\uacbd\uc5bc\uae30",
+    "sourceNodeName": "Splenic plexus",
+    "sourcePath": "Illustrative autonomic pathways/Splenic plexus",
+    "sourceFile": "splenic-plexus.glb",
+    "system": "nervous",
+    "displaySystem": "nervous",
+    "meshIds": [
+      "VMRA_SPLENIC_PLEXUS_01"
+    ],
+    "bounds": [
+      [
+        0.014730334281921387,
+        1.1424168348312378,
+        -0.00533780874684453
+      ],
+      [
+        0.08628100156784058,
+        1.1636903285980225,
+        0.030479609966278076
+      ]
+    ],
+    "vertices": 21012,
+    "triangles": 42000,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "nerve",
+    "appearanceStyle": {
+      "color": "#dfaa37",
+      "roughness": 0.62
+    },
+    "elementId": "VMRA_SPLENIC_PLEXUS_01",
+    "anatomicalRepresentation": "illustrative-pathway",
+    "sourceDatasetId": "vmra-splenic-plexus",
+    "geometryClassification": "illustrative-authored",
+    "anchorSourceIds": [
+      "FJ3640",
+      "ZA_ffb7a877189e7a"
+    ],
+    "isMeasuredAnatomy": false,
+    "coverage": "Representative exterior periarterial splenic bundles and hilar approach only; proximal celiac ganglia and deep intraparenchymal arbor are not represented."
+  }
+]

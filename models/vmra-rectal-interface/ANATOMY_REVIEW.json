@@ -1,0 +1,90 @@
+{
+  "acceptedForBoundedRectalSlice": true,
+  "accepted": true,
+  "assetPin": {
+    "path": "anatomy-research/unified-body-v42/rectal-interface/package/rectal-interface.glb",
+    "bytes": 3817816,
+    "sha256": "712a3d5378f424fffbe7c54d98da945b70c168f6f23a89eb2bda4793c87c2d60"
+  },
+  "classification": "Source-derived educational distal accommodation; not measured anatomical registration",
+  "decision": "Retain all five original physical vessel/nerve extents under new IDs. Accept their bounded recorded distal adjustment in the composed body with frozen lower bowel and reviewed final23 intestinal field.",
+  "composedPins": [
+    {
+      "path": "anatomy-research/unified-body-v41/intestinal-source/lower-bowel-candidate/assets/lower-bowel.glb",
+      "bytes": 680488,
+      "sha256": "f26f37e771cf483a32e2271ab6545a153aea27e7b1e5b1271c3b1f45690e1359"
+    },
+    {
+      "path": "anatomy-research/unified-body-v42/ascending-accommodation/package/right-intestinal-block.glb",
+      "bytes": 4153608,
+      "sha256": "f7771252eb5b81c6d4e4b10b33d2d1b569347a34503c50c447dc993cc9d3ec48"
+    }
+  ],
+  "evidencePins": [
+    {
+      "path": "anatomy-research/unified-body-v42/rectal-interface/export-proof.json",
+      "bytes": 7584,
+      "sha256": "0ae375c65cde2811bba36a1766b4fcd532d2c7ec3ee943586c015923012186d5"
+    },
+    {
+      "path": "anatomy-research/unified-body-v42/rectal-interface/native-baseline.json",
+      "bytes": 6394696,
+      "sha256": "500d7a9771e8d82497d149ac0c25f262c4c43e80b3e2f92bf9ecf0f5f8e49711"
+    },
+    {
+      "path": "anatomy-research/unified-body-v42/rectal-interface/integrity-review.json",
+      "bytes": 100644,
+      "sha256": "0f49f515f7881313913baeed6042899a209ab7aec81a36743f4432d2c60654e5"
+    },
+    {
+      "path": "anatomy-research/unified-body-v42/rectal-interface/context-audit.json",
+      "bytes": 325115,
+      "sha256": "f14d0339326985ceeb451a24d08b857d42c90407fca799109f5db7c81c932747"
+    },
+    {
+      "path": "anatomy-research/unified-body-v42/rectal-interface/rectal-interface-sections.png",
+      "bytes": 248627,
+      "sha256": "70a84a3f1920c4d257056234981dcfbfd58db6f8e78aebfc263335762716df48"
+    },
+    {
+      "path": "anatomy-research/unified-body-v42/rectal-interface/peer-shared-independent-review.json",
+      "bytes": 426009,
+      "sha256": "ef486f4fa00085f0c03d30a5e574b9364753e1ef4b956ce08f7383af6e406dcf"
+    },
+    {
+      "path": "anatomy-research/unified-body-v42/rectal-interface/peer-self-contact-classification.json",
+      "bytes": 44026,
+      "sha256": "d840fdbf35c848fc0e58f45e9123f08fdf7c3b9a3c1c4448359f62e5d6d3bfb4"
+    },
+    {
+      "path": "anatomy-research/unified-body-v42/rectal-independent-review/independent-final-review.json",
+      "bytes": 7949,
+      "sha256": "23f971de17ee85029db4790d5a14eaae3d359ada573d56859d7b1e4126ee627d"
+    }
+  ],
+  "sourceScope": "Exact original source branches, raw vertex count, triangle rows/corners, UVs and material records retained. No origin, terminal branch or source component is deleted. Only recorded distal positions and their normals change.",
+  "checks": {
+    "withinOriginalTubeComponentSelfCrossings": 0,
+    "newRetainedContextCrossingPairs": 0,
+    "explicitRetainedContextPairs": 120,
+    "strictSweptBoundsRejects": 785,
+    "fourWallClassifiedLumenSamples": {
+      "VMRA_RIGHT_MIDDLE_RECTAL_ARTERY_01": 0,
+      "VMRA_RIGHT_MIDDLE_RECTAL_VEIN_01": 0,
+      "VMRA_RIGHT_INFERIOR_RECTAL_VEIN_01": 0,
+      "VMRA_RIGHT_VESICAL_PLEXUS_01": 0,
+      "VMRA_RIGHT_INFERIOR_RECTAL_ARTERY_01": 0
+    },
+    "originalMaterialsAndUvsRetained": true,
+    "sourceProximalOutsideFieldUnchanged": true,
+    "correctedMiddleVeinChildRootNearestSurfaceMm": 0.2976715677911616
+  },
+  "limitations": [
+    "The original native bowel is a single open wall. Its two-hit ray intervals classify external-envelope interior only; source wall thickness is unspecified, so native interior samples are not proven hollow-lumen intrusion.",
+    "The double-wall derived bowel permits exactly four-hit local X-ray intervals. Other ray topologies remain unclassified; zero tested lumen samples is not a universal continuous-volume certificate.",
+    "Valid wall entry remains; no new intramural network or complete terminal innervation is claimed.",
+    "Original vessel components are separately capped and can intersect at branch junctions. Source proximity is preserved or bounded, not converted to a welded flow graph.",
+    "Whole source extents and material appearance remain. Local station translations change distal trajectory and discrete edge geometry, and are authored model accommodation rather than measured specimen anatomy.",
+    "Vesical plexus is the original vesical source extent, not a newly inferred inferior hypogastric plexus or complete rectal innervation."
+  ]
+}

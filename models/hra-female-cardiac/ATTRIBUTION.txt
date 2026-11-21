@@ -1,0 +1,7 @@
+Kristen Browne and Heidi Schlehlein (2023), 3D Reference Organ Set for Female v1.5, HuBMAP / Human Reference Atlas. DOI: 10.48539/HBM352.BTSQ.586. CC BY 4.0.
+Source: https://cdn.humanatlas.io/hra-releases/v2.0/models/3d-vh-f-united.glb.7z
+License evidence: https://raw.githubusercontent.com/hubmapconsortium/ccf-releases/main/v2.0/markdown/ref-organs/3d-vh-f-united.md
+License: https://creativecommons.org/licenses/by/4.0/
+Source SHA256: 472567a56896b9b7890508da6501fbf858e56aaa30745365f7a71ade782b529c
+
+Selected 36 original named nodes; compacted buffers losslessly, retaining every attribute/index value, original surface, node identity/hierarchy/coordinates and material. Added navigation groups, exact canonical correspondences and source-review exclusions; no geometry synthesis, compression or smoothing.

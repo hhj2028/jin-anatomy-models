@@ -1,0 +1,663 @@
+{
+  "originalSourceDatasetId": "z-anatomy",
+  "sourceMetadataSHA256": "8995aa20f2d5eeb249bcec6579de3a695125a8ca1c7ece9875cf559a78f60ac6",
+  "chunkExtraction": [
+    {
+      "source": {
+        "path": "vmra-anatomy/dist/models/z-anatomy/z-anatomy-muscular-01.glb",
+        "bytes": 16753504,
+        "sha256": "3c55fb55f16af111454cf45f9775c0de482120053092973ccd830a0ae0a865de"
+      },
+      "output": {
+        "path": "anatomy-research/unified-body-v76/source-package/left-trunk-muscular-10.glb",
+        "bytes": 4573004,
+        "sha256": "4b62388a4156ae200ec76aef7d92d71d3ecb7c8b11fc397570009190ea246253"
+      },
+      "physicalIds": [
+        "ZA_4a8267f0e7d610",
+        "ZA_f41d5628f1dac6",
+        "ZA_e4de7a589daa03",
+        "ZA_5479c6ff9503f2",
+        "ZA_af09f395bbf529",
+        "ZA_d5576cec579db2",
+        "ZA_17d1fc249478dc",
+        "ZA_6022d773cc4382",
+        "ZA_7567d6c42adb21",
+        "ZA_99d334fa147c71",
+        "ZA_f589804d573100",
+        "ZA_acb41213bf37f8",
+        "ZA_324ccc9e892411",
+        "ZA_1c826d08c23bb7",
+        "ZA_3efa9a97c6a86a",
+        "ZA_8a0c794075422b",
+        "ZA_55fdbb244c6c6a",
+        "ZA_60d5bddd05f0a5",
+        "ZA_e8f04a6436689d",
+        "ZA_074bf82a56159f",
+        "ZA_beac3114de45f7",
+        "ZA_3351ca35dc654f",
+        "ZA_e6eb12113afc00",
+        "ZA_35ace5753d6ab5",
+        "ZA_7713af344e460b",
+        "ZA_c6ba2e38050b62",
+        "ZA_c40a9d725cd8c6",
+        "ZA_8b85c23f6abf94",
+        "ZA_7257119cf2c39d",
+        "ZA_2131354751b8df",
+        "ZA_64194f1733b26c",
+        "ZA_8414c4561055a3",
+        "ZA_e1097de9e48d75",
+        "ZA_9fb037d9e7e1f8",
+        "ZA_b4c1ee4a746c98",
+        "ZA_e91edc544b9cfb",
+        "ZA_206cbf29bbc995",
+        "ZA_ef7e5f7aa5f745",
+        "ZA_3986f91734fc1a",
+        "ZA_023a8afb2c563b",
+        "ZA_cc7c6828821b41",
+        "ZA_ed17380924855c",
+        "ZA_e8c8a918dbdfc5",
+        "ZA_abdd439037a897",
+        "ZA_5f717a44163d38",
+        "ZA_31ff27b0f4d7c3",
+        "ZA_be0359e7c763f4",
+        "ZA_fd6f4c77d94cd8",
+        "ZA_ac461f767fd0bb",
+        "ZA_bd616030f9ef57",
+        "ZA_3bd5766c9c9f5e",
+        "ZA_72696f4ec62f12",
+        "ZA_0fc49a360e2b23",
+        "ZA_77713789677c09",
+        "ZA_6ec293665e181b",
+        "ZA_21c8a346f30e97",
+        "ZA_6e147120766f7a",
+        "ZA_9d3110e5475a1f",
+        "ZA_e0663280afb6db",
+        "ZA_1324bf7875a8c7",
+        "ZA_6f1a25262b2773",
+        "ZA_8ef4431e86a2f2",
+        "ZA_3cafa3797e0fef",
+        "ZA_4aca8792cb0736",
+        "ZA_f75e9e20fe60cf",
+        "ZA_fdd0e0ea1a72e5",
+        "ZA_5010afc2892db1",
+        "ZA_2565787006b7c4",
+        "ZA_ac755afbe5489c",
+        "ZA_72cf45e627cec3",
+        "ZA_3da2881a46f4bf",
+        "ZA_0757c23a62d31d",
+        "ZA_c5f91bad1cc328",
+        "ZA_0ef9b54fe98de0",
+        "ZA_a8ecfe2a5104df",
+        "ZA_8eae777e2537d3",
+        "ZA_607fc9902feeb6",
+        "ZA_15d0978f961e75",
+        "ZA_ce818a6f24a4d0",
+        "ZA_d3cab2d9bcc107"
+      ],
+      "records": [
+        {
+          "physicalId": "ZA_4a8267f0e7d610",
+          "sourceNodeIndex": 159,
+          "sourceMeshIndex": 159,
+          "outputNodeIndex": 0,
+          "outputMeshIndex": 0
+        },
+        {
+          "physicalId": "ZA_f41d5628f1dac6",
+          "sourceNodeIndex": 168,
+          "sourceMeshIndex": 168,
+          "outputNodeIndex": 1,
+          "outputMeshIndex": 1
+        },
+        {
+          "physicalId": "ZA_e4de7a589daa03",
+          "sourceNodeIndex": 169,
+          "sourceMeshIndex": 169,
+          "outputNodeIndex": 2,
+          "outputMeshIndex": 2
+        },
+        {
+          "physicalId": "ZA_5479c6ff9503f2",
+          "sourceNodeIndex": 170,
+          "sourceMeshIndex": 170,
+          "outputNodeIndex": 3,
+          "outputMeshIndex": 3
+        },
+        {
+          "physicalId": "ZA_af09f395bbf529",
+          "sourceNodeIndex": 171,
+          "sourceMeshIndex": 171,
+          "outputNodeIndex": 4,
+          "outputMeshIndex": 4
+        },
+        {
+          "physicalId": "ZA_d5576cec579db2",
+          "sourceNodeIndex": 172,
+          "sourceMeshIndex": 172,
+          "outputNodeIndex": 5,
+          "outputMeshIndex": 5
+        },
+        {
+          "physicalId": "ZA_17d1fc249478dc",
+          "sourceNodeIndex": 173,
+          "sourceMeshIndex": 173,
+          "outputNodeIndex": 6,
+          "outputMeshIndex": 6
+        },
+        {
+          "physicalId": "ZA_6022d773cc4382",
+          "sourceNodeIndex": 174,
+          "sourceMeshIndex": 174,
+          "outputNodeIndex": 7,
+          "outputMeshIndex": 7
+        },
+        {
+          "physicalId": "ZA_7567d6c42adb21",
+          "sourceNodeIndex": 175,
+          "sourceMeshIndex": 175,
+          "outputNodeIndex": 8,
+          "outputMeshIndex": 8
+        },
+        {
+          "physicalId": "ZA_99d334fa147c71",
+          "sourceNodeIndex": 179,
+          "sourceMeshIndex": 179,
+          "outputNodeIndex": 9,
+          "outputMeshIndex": 9
+        },
+        {
+          "physicalId": "ZA_f589804d573100",
+          "sourceNodeIndex": 180,
+          "sourceMeshIndex": 180,
+          "outputNodeIndex": 10,
+          "outputMeshIndex": 10
+        },
+        {
+          "physicalId": "ZA_acb41213bf37f8",
+          "sourceNodeIndex": 181,
+          "sourceMeshIndex": 181,
+          "outputNodeIndex": 11,
+          "outputMeshIndex": 11
+        },
+        {
+          "physicalId": "ZA_324ccc9e892411",
+          "sourceNodeIndex": 185,
+          "sourceMeshIndex": 185,
+          "outputNodeIndex": 12,
+          "outputMeshIndex": 12
+        },
+        {
+          "physicalId": "ZA_1c826d08c23bb7",
+          "sourceNodeIndex": 186,
+          "sourceMeshIndex": 186,
+          "outputNodeIndex": 13,
+          "outputMeshIndex": 13
+        },
+        {
+          "physicalId": "ZA_3efa9a97c6a86a",
+          "sourceNodeIndex": 187,
+          "sourceMeshIndex": 187,
+          "outputNodeIndex": 14,
+          "outputMeshIndex": 14
+        },
+        {
+          "physicalId": "ZA_8a0c794075422b",
+          "sourceNodeIndex": 189,
+          "sourceMeshIndex": 189,
+          "outputNodeIndex": 15,
+          "outputMeshIndex": 15
+        },
+        {
+          "physicalId": "ZA_55fdbb244c6c6a",
+          "sourceNodeIndex": 193,
+          "sourceMeshIndex": 193,
+          "outputNodeIndex": 16,
+          "outputMeshIndex": 16
+        },
+        {
+          "physicalId": "ZA_60d5bddd05f0a5",
+          "sourceNodeIndex": 194,
+          "sourceMeshIndex": 194,
+          "outputNodeIndex": 17,
+          "outputMeshIndex": 17
+        },
+        {
+          "physicalId": "ZA_e8f04a6436689d",
+          "sourceNodeIndex": 195,
+          "sourceMeshIndex": 195,
+          "outputNodeIndex": 18,
+          "outputMeshIndex": 18
+        },
+        {
+          "physicalId": "ZA_074bf82a56159f",
+          "sourceNodeIndex": 197,
+          "sourceMeshIndex": 197,
+          "outputNodeIndex": 19,
+          "outputMeshIndex": 19
+        },
+        {
+          "physicalId": "ZA_beac3114de45f7",
+          "sourceNodeIndex": 199,
+          "sourceMeshIndex": 199,
+          "outputNodeIndex": 20,
+          "outputMeshIndex": 20
+        },
+        {
+          "physicalId": "ZA_3351ca35dc654f",
+          "sourceNodeIndex": 201,
+          "sourceMeshIndex": 201,
+          "outputNodeIndex": 21,
+          "outputMeshIndex": 21
+        },
+        {
+          "physicalId": "ZA_e6eb12113afc00",
+          "sourceNodeIndex": 203,
+          "sourceMeshIndex": 203,
+          "outputNodeIndex": 22,
+          "outputMeshIndex": 22
+        },
+        {
+          "physicalId": "ZA_35ace5753d6ab5",
+          "sourceNodeIndex": 206,
+          "sourceMeshIndex": 206,
+          "outputNodeIndex": 23,
+          "outputMeshIndex": 23
+        },
+        {
+          "physicalId": "ZA_7713af344e460b",
+          "sourceNodeIndex": 207,
+          "sourceMeshIndex": 207,
+          "outputNodeIndex": 24,
+          "outputMeshIndex": 24
+        },
+        {
+          "physicalId": "ZA_c6ba2e38050b62",
+          "sourceNodeIndex": 209,
+          "sourceMeshIndex": 209,
+          "outputNodeIndex": 25,
+          "outputMeshIndex": 25
+        },
+        {
+          "physicalId": "ZA_c40a9d725cd8c6",
+          "sourceNodeIndex": 212,
+          "sourceMeshIndex": 212,
+          "outputNodeIndex": 26,
+          "outputMeshIndex": 26
+        },
+        {
+          "physicalId": "ZA_8b85c23f6abf94",
+          "sourceNodeIndex": 213,
+          "sourceMeshIndex": 213,
+          "outputNodeIndex": 27,
+          "outputMeshIndex": 27
+        },
+        {
+          "physicalId": "ZA_7257119cf2c39d",
+          "sourceNodeIndex": 216,
+          "sourceMeshIndex": 216,
+          "outputNodeIndex": 28,
+          "outputMeshIndex": 28
+        },
+        {
+          "physicalId": "ZA_2131354751b8df",
+          "sourceNodeIndex": 218,
+          "sourceMeshIndex": 218,
+          "outputNodeIndex": 29,
+          "outputMeshIndex": 29
+        },
+        {
+          "physicalId": "ZA_64194f1733b26c",
+          "sourceNodeIndex": 221,
+          "sourceMeshIndex": 221,
+          "outputNodeIndex": 30,
+          "outputMeshIndex": 30
+        },
+        {
+          "physicalId": "ZA_8414c4561055a3",
+          "sourceNodeIndex": 222,
+          "sourceMeshIndex": 222,
+          "outputNodeIndex": 31,
+          "outputMeshIndex": 31
+        },
+        {
+          "physicalId": "ZA_e1097de9e48d75",
+          "sourceNodeIndex": 229,
+          "sourceMeshIndex": 229,
+          "outputNodeIndex": 32,
+          "outputMeshIndex": 32
+        },
+        {
+          "physicalId": "ZA_9fb037d9e7e1f8",
+          "sourceNodeIndex": 230,
+          "sourceMeshIndex": 230,
+          "outputNodeIndex": 33,
+          "outputMeshIndex": 33
+        },
+        {
+          "physicalId": "ZA_b4c1ee4a746c98",
+          "sourceNodeIndex": 231,
+          "sourceMeshIndex": 231,
+          "outputNodeIndex": 34,
+          "outputMeshIndex": 34
+        },
+        {
+          "physicalId": "ZA_e91edc544b9cfb",
+          "sourceNodeIndex": 232,
+          "sourceMeshIndex": 232,
+          "outputNodeIndex": 35,
+          "outputMeshIndex": 35
+        },
+        {
+          "physicalId": "ZA_206cbf29bbc995",
+          "sourceNodeIndex": 233,
+          "sourceMeshIndex": 233,
+          "outputNodeIndex": 36,
+          "outputMeshIndex": 36
+        },
+        {
+          "physicalId": "ZA_ef7e5f7aa5f745",
+          "sourceNodeIndex": 234,
+          "sourceMeshIndex": 234,
+          "outputNodeIndex": 37,
+          "outputMeshIndex": 37
+        },
+        {
+          "physicalId": "ZA_3986f91734fc1a",
+          "sourceNodeIndex": 238,
+          "sourceMeshIndex": 238,
+          "outputNodeIndex": 38,
+          "outputMeshIndex": 38
+        },
+        {
+          "physicalId": "ZA_023a8afb2c563b",
+          "sourceNodeIndex": 239,
+          "sourceMeshIndex": 239,
+          "outputNodeIndex": 39,
+          "outputMeshIndex": 39
+        },
+        {
+          "physicalId": "ZA_cc7c6828821b41",
+          "sourceNodeIndex": 240,
+          "sourceMeshIndex": 240,
+          "outputNodeIndex": 40,
+          "outputMeshIndex": 40
+        },
+        {
+          "physicalId": "ZA_ed17380924855c",
+          "sourceNodeIndex": 245,
+          "sourceMeshIndex": 245,
+          "outputNodeIndex": 41,
+          "outputMeshIndex": 41
+        },
+        {
+          "physicalId": "ZA_e8c8a918dbdfc5",
+          "sourceNodeIndex": 246,
+          "sourceMeshIndex": 246,
+          "outputNodeIndex": 42,
+          "outputMeshIndex": 42
+        },
+        {
+          "physicalId": "ZA_abdd439037a897",
+          "sourceNodeIndex": 247,
+          "sourceMeshIndex": 247,
+          "outputNodeIndex": 43,
+          "outputMeshIndex": 43
+        },
+        {
+          "physicalId": "ZA_5f717a44163d38",
+          "sourceNodeIndex": 248,
+          "sourceMeshIndex": 248,
+          "outputNodeIndex": 44,
+          "outputMeshIndex": 44
+        },
+        {
+          "physicalId": "ZA_31ff27b0f4d7c3",
+          "sourceNodeIndex": 251,
+          "sourceMeshIndex": 251,
+          "outputNodeIndex": 45,
+          "outputMeshIndex": 45
+        },
+        {
+          "physicalId": "ZA_be0359e7c763f4",
+          "sourceNodeIndex": 252,
+          "sourceMeshIndex": 252,
+          "outputNodeIndex": 46,
+          "outputMeshIndex": 46
+        },
+        {
+          "physicalId": "ZA_fd6f4c77d94cd8",
+          "sourceNodeIndex": 256,
+          "sourceMeshIndex": 256,
+          "outputNodeIndex": 47,
+          "outputMeshIndex": 47
+        },
+        {
+          "physicalId": "ZA_ac461f767fd0bb",
+          "sourceNodeIndex": 257,
+          "sourceMeshIndex": 257,
+          "outputNodeIndex": 48,
+          "outputMeshIndex": 48
+        },
+        {
+          "physicalId": "ZA_bd616030f9ef57",
+          "sourceNodeIndex": 260,
+          "sourceMeshIndex": 260,
+          "outputNodeIndex": 49,
+          "outputMeshIndex": 49
+        },
+        {
+          "physicalId": "ZA_3bd5766c9c9f5e",
+          "sourceNodeIndex": 263,
+          "sourceMeshIndex": 263,
+          "outputNodeIndex": 50,
+          "outputMeshIndex": 50
+        },
+        {
+          "physicalId": "ZA_72696f4ec62f12",
+          "sourceNodeIndex": 264,
+          "sourceMeshIndex": 264,
+          "outputNodeIndex": 51,
+          "outputMeshIndex": 51
+        },
+        {
+          "physicalId": "ZA_0fc49a360e2b23",
+          "sourceNodeIndex": 268,
+          "sourceMeshIndex": 268,
+          "outputNodeIndex": 52,
+          "outputMeshIndex": 52
+        },
+        {
+          "physicalId": "ZA_77713789677c09",
+          "sourceNodeIndex": 269,
+          "sourceMeshIndex": 269,
+          "outputNodeIndex": 53,
+          "outputMeshIndex": 53
+        },
+        {
+          "physicalId": "ZA_6ec293665e181b",
+          "sourceNodeIndex": 270,
+          "sourceMeshIndex": 270,
+          "outputNodeIndex": 54,
+          "outputMeshIndex": 54
+        },
+        {
+          "physicalId": "ZA_21c8a346f30e97",
+          "sourceNodeIndex": 274,
+          "sourceMeshIndex": 274,
+          "outputNodeIndex": 55,
+          "outputMeshIndex": 55
+        },
+        {
+          "physicalId": "ZA_6e147120766f7a",
+          "sourceNodeIndex": 275,
+          "sourceMeshIndex": 275,
+          "outputNodeIndex": 56,
+          "outputMeshIndex": 56
+        },
+        {
+          "physicalId": "ZA_9d3110e5475a1f",
+          "sourceNodeIndex": 276,
+          "sourceMeshIndex": 276,
+          "outputNodeIndex": 57,
+          "outputMeshIndex": 57
+        },
+        {
+          "physicalId": "ZA_e0663280afb6db",
+          "sourceNodeIndex": 279,
+          "sourceMeshIndex": 279,
+          "outputNodeIndex": 58,
+          "outputMeshIndex": 58
+        },
+        {
+          "physicalId": "ZA_1324bf7875a8c7",
+          "sourceNodeIndex": 280,
+          "sourceMeshIndex": 280,
+          "outputNodeIndex": 59,
+          "outputMeshIndex": 59
+        },
+        {
+          "physicalId": "ZA_6f1a25262b2773",
+          "sourceNodeIndex": 281,
+          "sourceMeshIndex": 281,
+          "outputNodeIndex": 60,
+          "outputMeshIndex": 60
+        },
+        {
+          "physicalId": "ZA_8ef4431e86a2f2",
+          "sourceNodeIndex": 286,
+          "sourceMeshIndex": 286,
+          "outputNodeIndex": 61,
+          "outputMeshIndex": 61
+        },
+        {
+          "physicalId": "ZA_3cafa3797e0fef",
+          "sourceNodeIndex": 287,
+          "sourceMeshIndex": 287,
+          "outputNodeIndex": 62,
+          "outputMeshIndex": 62
+        },
+        {
+          "physicalId": "ZA_4aca8792cb0736",
+          "sourceNodeIndex": 288,
+          "sourceMeshIndex": 288,
+          "outputNodeIndex": 63,
+          "outputMeshIndex": 63
+        },
+        {
+          "physicalId": "ZA_f75e9e20fe60cf",
+          "sourceNodeIndex": 297,
+          "sourceMeshIndex": 297,
+          "outputNodeIndex": 64,
+          "outputMeshIndex": 64
+        },
+        {
+          "physicalId": "ZA_fdd0e0ea1a72e5",
+          "sourceNodeIndex": 298,
+          "sourceMeshIndex": 298,
+          "outputNodeIndex": 65,
+          "outputMeshIndex": 65
+        },
+        {
+          "physicalId": "ZA_5010afc2892db1",
+          "sourceNodeIndex": 299,
+          "sourceMeshIndex": 299,
+          "outputNodeIndex": 66,
+          "outputMeshIndex": 66
+        },
+        {
+          "physicalId": "ZA_2565787006b7c4",
+          "sourceNodeIndex": 300,
+          "sourceMeshIndex": 300,
+          "outputNodeIndex": 67,
+          "outputMeshIndex": 67
+        },
+        {
+          "physicalId": "ZA_ac755afbe5489c",
+          "sourceNodeIndex": 301,
+          "sourceMeshIndex": 301,
+          "outputNodeIndex": 68,
+          "outputMeshIndex": 68
+        },
+        {
+          "physicalId": "ZA_72cf45e627cec3",
+          "sourceNodeIndex": 302,
+          "sourceMeshIndex": 302,
+          "outputNodeIndex": 69,
+          "outputMeshIndex": 69
+        },
+        {
+          "physicalId": "ZA_3da2881a46f4bf",
+          "sourceNodeIndex": 303,
+          "sourceMeshIndex": 303,
+          "outputNodeIndex": 70,
+          "outputMeshIndex": 70
+        },
+        {
+          "physicalId": "ZA_0757c23a62d31d",
+          "sourceNodeIndex": 307,
+          "sourceMeshIndex": 307,
+          "outputNodeIndex": 71,
+          "outputMeshIndex": 71
+        },
+        {
+          "physicalId": "ZA_c5f91bad1cc328",
+          "sourceNodeIndex": 308,
+          "sourceMeshIndex": 308,
+          "outputNodeIndex": 72,
+          "outputMeshIndex": 72
+        },
+        {
+          "physicalId": "ZA_0ef9b54fe98de0",
+          "sourceNodeIndex": 309,
+          "sourceMeshIndex": 309,
+          "outputNodeIndex": 73,
+          "outputMeshIndex": 73
+        },
+        {
+          "physicalId": "ZA_a8ecfe2a5104df",
+          "sourceNodeIndex": 312,
+          "sourceMeshIndex": 312,
+          "outputNodeIndex": 74,
+          "outputMeshIndex": 74
+        },
+        {
+          "physicalId": "ZA_8eae777e2537d3",
+          "sourceNodeIndex": 313,
+          "sourceMeshIndex": 313,
+          "outputNodeIndex": 75,
+          "outputMeshIndex": 75
+        },
+        {
+          "physicalId": "ZA_607fc9902feeb6",
+          "sourceNodeIndex": 321,
+          "sourceMeshIndex": 321,
+          "outputNodeIndex": 76,
+          "outputMeshIndex": 76
+        },
+        {
+          "physicalId": "ZA_15d0978f961e75",
+          "sourceNodeIndex": 323,
+          "sourceMeshIndex": 323,
+          "outputNodeIndex": 77,
+          "outputMeshIndex": 77
+        },
+        {
+          "physicalId": "ZA_ce818a6f24a4d0",
+          "sourceNodeIndex": 327,
+          "sourceMeshIndex": 327,
+          "outputNodeIndex": 78,
+          "outputMeshIndex": 78
+        },
+        {
+          "physicalId": "ZA_d3cab2d9bcc107",
+          "sourceNodeIndex": 328,
+          "sourceMeshIndex": 328,
+          "outputNodeIndex": 79,
+          "outputMeshIndex": 79
+        }
+      ],
+      "bytes": 4573004
+    }
+  ]
+}

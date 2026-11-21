@@ -1,0 +1,4490 @@
+[
+  {
+    "id": "VH_F_celiac_trunk",
+    "conceptId": "FMA:14812",
+    "nameEn": "Celiac trunk",
+    "system": "arterial",
+    "displaySystem": "arterial",
+    "meshIds": [
+      "VH_F_celiac_trunk"
+    ],
+    "bounds": [
+      [
+        0.0017321633640676737,
+        0.30408942699432373,
+        -0.08335699141025543
+      ],
+      [
+        0.012159275822341442,
+        0.3138108253479004,
+        -0.06506521254777908
+      ]
+    ],
+    "vertices": 228,
+    "triangles": 384,
+    "sourceTriangles": 384,
+    "kind": "structure",
+    "sourceNodeName": "VH_F_celiac_trunk",
+    "sourceNodeIndex": 764,
+    "sourceMeshIndex": 651,
+    "sourceMeshName": "VH_F_celiac_trunk",
+    "sourceParentName": "VH_F_arteries_of_large_intestine",
+    "sourcePath": "VH_F/VH_F_circulatory_system/VH_F_blood_vasculature/VH_F_blood_vasculature_of_large_intestine/VH_F_arteries_of_large_intestine/VH_F_celiac_trunk",
+    "sourceFile": "3d-vh-f-united.glb",
+    "sourceMetadata": {
+      "anatomical_structure_of": "#VHFBloodVasculature",
+      "source_spatial_entity": "#VHFemaleOrgans",
+      "label": "Celiac trunk",
+      "ontologyid": "FMA:14812",
+      "representation_of": "http://purl.org/sig/ont/fma/fma14812",
+      "glb_file_of_single_organs": "3d-vh-f-blood-vasculature\n"
+    },
+    "sourceMaterialNames": [
+      "Arteries_Mat"
+    ],
+    "sourceMaterialIndices": [
+      69
+    ],
+    "sourcePrimitiveAccessorHashes": [
+      {
+        "POSITION": "33599921833dec4e75b21943f4f30ad705ac9200669825c25edae0e199ea372e",
+        "NORMAL": "239fb97d461ca883e621698d9312d3dd892fe3667398c06e9397daa013afc1cb",
+        "INDICES": "135046e2d1f3aacdcb5e21eb8c3b9df39ad296965efadcd73651abc6164078be"
+      }
+    ],
+    "license": "CC-BY-4.0",
+    "materialPolicy": "preserve-original",
+    "appearance": "source-preserve",
+    "hasUV": false,
+    "hasBaseColorTexture": false,
+    "hasNormalTexture": false,
+    "defaultVisible": true,
+    "anatomicalRole": "arterial vessel",
+    "sourceQualityIssue": {
+      "type": "misleading source organizational parent",
+      "resolution": "Celiac identity agrees in node, label, FMA14812 and artery material. Source arteries_of_large_intestine folder is retained as provenance only, never used as a blood-supply or branch-of relationship."
+    }
+  },
+  {
+    "id": "VH_F_splenic_artery",
+    "conceptId": "UBERON:0001194",
+    "nameEn": "Splenic artery",
+    "system": "arterial",
+    "displaySystem": "arterial",
+    "meshIds": [
+      "VH_F_splenic_artery"
+    ],
+    "bounds": [
+      [
+        0.005536928772926331,
+        0.2818797826766968,
+        -0.12268572300672531
+      ],
+      [
+        0.10323753207921982,
+        0.3560258746147156,
+        -0.04856806993484497
+      ]
+    ],
+    "vertices": 2960,
+    "triangles": 5894,
+    "sourceTriangles": 5894,
+    "kind": "structure",
+    "sourceNodeName": "VH_F_splenic_artery",
+    "sourceNodeIndex": 775,
+    "sourceMeshIndex": 659,
+    "sourceMeshName": "VH_F_splenic_artery",
+    "sourceParentName": "VH_F_arteries_of_spleen",
+    "sourcePath": "VH_F/VH_F_circulatory_system/VH_F_blood_vasculature/VH_F_blood_vasculature_of_spleen/VH_F_arteries_of_spleen/VH_F_splenic_artery",
+    "sourceFile": "3d-vh-f-united.glb",
+    "sourceMetadata": {
+      "anatomical_structure_of": "#VHFBloodVasculature",
+      "source_spatial_entity": "#VHFemaleOrgans",
+      "label": "splenic artery",
+      "ontologyid": "UBERON:0001194",
+      "representation_of": "http://purl.obolibrary.org/obo/UBERON_0001194",
+      "glb_file_of_single_organs": "3d-vh-f-blood-vasculature\n"
+    },
+    "sourceMaterialNames": [
+      "Arteries_Mat"
+    ],
+    "sourceMaterialIndices": [
+      69
+    ],
+    "sourcePrimitiveAccessorHashes": [
+      {
+        "POSITION": "79e7518ca01925ad0b9a6c1d68014fbeb671932af4bd4d2ba4e70567a15fcbe1",
+        "NORMAL": "b04c965d97e16e4054e235c162514745216f83fea577d2721bccebb0e7e45f7f",
+        "INDICES": "6637535e10270b44de7c3d3c5994de419fb88c347a2cdd417169c0d49beb65ee"
+      }
+    ],
+    "license": "CC-BY-4.0",
+    "materialPolicy": "preserve-original",
+    "appearance": "source-preserve",
+    "hasUV": false,
+    "hasBaseColorTexture": false,
+    "hasNormalTexture": false,
+    "defaultVisible": true,
+    "anatomicalRole": "arterial vessel"
+  },
+  {
+    "id": "VH_F_cystic_artery",
+    "conceptId": "UBERON:0039222",
+    "nameEn": "Cystic artery",
+    "system": "arterial",
+    "displaySystem": "arterial",
+    "meshIds": [
+      "VH_F_cystic_artery"
+    ],
+    "bounds": [
+      [
+        -0.08538519591093063,
+        0.2676711976528168,
+        -0.06894750148057938
+      ],
+      [
+        -0.04158759489655495,
+        0.3258405327796936,
+        -0.028168966993689537
+      ]
+    ],
+    "vertices": 725,
+    "triangles": 1430,
+    "sourceTriangles": 1430,
+    "kind": "structure",
+    "sourceNodeName": "VH_F_cystic_artery",
+    "sourceNodeIndex": 780,
+    "sourceMeshIndex": 661,
+    "sourceMeshName": "VH_F_cystic_artery",
+    "sourceParentName": "VH_F_arteries_of_gallbladder",
+    "sourcePath": "VH_F/VH_F_circulatory_system/VH_F_blood_vasculature/VH_F_blood_vasculature_of_gallbladder/VH_F_arteries_of_gallbladder/VH_F_cystic_artery",
+    "sourceFile": "3d-vh-f-united.glb",
+    "sourceMetadata": {
+      "anatomical_structure_of": "#VHFBloodVasculature",
+      "source_spatial_entity": "#VHFemaleOrgans",
+      "label": "cystic artery",
+      "ontologyid": "UBERON:0039222",
+      "representation_of": "http://purl.obolibrary.org/obo/UBERON_0039222",
+      "glb_file_of_single_organs": "3d-vh-f-blood-vasculature\n"
+    },
+    "sourceMaterialNames": [
+      "Arteries_Mat"
+    ],
+    "sourceMaterialIndices": [
+      69
+    ],
+    "sourcePrimitiveAccessorHashes": [
+      {
+        "POSITION": "c55a9b2fc3d7bc14252be51106c836255250e2fb607a921fc64f4deb9dfafc06",
+        "NORMAL": "bb1974b43861efbb2cfb5ba8b4f071c41c066065fe0aa9820480905a06ecde29",
+        "INDICES": "327f99d6a3693a0916c5eef290a1146d084e955dd6dd6ff819a023a90fac4d52"
+      }
+    ],
+    "license": "CC-BY-4.0",
+    "materialPolicy": "preserve-original",
+    "appearance": "source-preserve",
+    "hasUV": false,
+    "hasBaseColorTexture": false,
+    "hasNormalTexture": false,
+    "defaultVisible": true,
+    "anatomicalRole": "arterial vessel"
+  },
+  {
+    "id": "VH_F_middle_hepatic_artery_branch_of_left_hepatic_artery",
+    "conceptId": "",
+    "nameEn": "Middle hepatic artery branch of left hepatic artery",
+    "system": "arterial",
+    "displaySystem": "arterial",
+    "meshIds": [
+      "VH_F_middle_hepatic_artery_branch_of_left_hepatic_artery"
+    ],
+    "bounds": [
+      [
+        -0.03101140446960926,
+        0.33583033084869385,
+        -0.04377174377441406
+      ],
+      [
+        -0.013801904395222664,
+        0.3465065062046051,
+        -0.028012365102767944
+      ]
+    ],
+    "vertices": 253,
+    "triangles": 468,
+    "sourceTriangles": 468,
+    "kind": "structure",
+    "sourceNodeName": "VH_F_middle_hepatic_artery_branch_of_left_hepatic_artery",
+    "sourceNodeIndex": 785,
+    "sourceMeshIndex": 663,
+    "sourceMeshName": "VH_F_middle_hepatic_artery_branch_of_left_hepatic_artery",
+    "sourceParentName": "VH_F_arteries_of_liver",
+    "sourcePath": "VH_F/VH_F_circulatory_system/VH_F_blood_vasculature/VH_F_blood_vasculature_of_liver/VH_F_arteries_of_liver/VH_F_middle_hepatic_artery_branch_of_left_hepatic_artery",
+    "sourceFile": "3d-vh-f-united.glb",
+    "sourceMetadata": {
+      "anatomical_structure_of": "#VHFBloodVasculature",
+      "source_spatial_entity": "#VHFemaleOrgans",
+      "label": "-",
+      "ontologyid": "-",
+      "representation_of": "-",
+      "glb_file_of_single_organs": "3d-vh-f-blood-vasculature\n"
+    },
+    "sourceMaterialNames": [
+      "Arteries_Mat"
+    ],
+    "sourceMaterialIndices": [
+      69
+    ],
+    "sourcePrimitiveAccessorHashes": [
+      {
+        "POSITION": "bd14f2d36af06d07f2e9edc1ec4c059fd93f909195e9ee9a9c112d959858848e",
+        "NORMAL": "77464ac7f186e6000d9f509e9b905146f7afca24a6e02c372d8b652e2bb69ac5",
+        "INDICES": "1577288e68cac0580b225118679e9bc32478763cf372900579e6c3d92913e7b9"
+      }
+    ],
+    "license": "CC-BY-4.0",
+    "materialPolicy": "preserve-original",
+    "appearance": "source-preserve",
+    "hasUV": false,
+    "hasBaseColorTexture": false,
+    "hasNormalTexture": false,
+    "defaultVisible": true,
+    "anatomicalRole": "arterial vessel",
+    "sourceQualityIssue": {
+      "type": "missing source ontology",
+      "resolution": "Source node identity retained; no ontology code invented."
+    }
+  },
+  {
+    "id": "VH_F_proper_hepatic_artery",
+    "conceptId": "FMA:14772",
+    "nameEn": "Hepatic artery proper",
+    "system": "arterial",
+    "displaySystem": "arterial",
+    "meshIds": [
+      "VH_F_proper_hepatic_artery"
+    ],
+    "bounds": [
+      [
+        -0.032753270119428635,
+        0.309021532535553,
+        -0.06104857474565506
+      ],
+      [
+        -0.013924301601946354,
+        0.3317640721797943,
+        -0.05307137221097946
+      ]
+    ],
+    "vertices": 338,
+    "triangles": 620,
+    "sourceTriangles": 620,
+    "kind": "structure",
+    "sourceNodeName": "VH_F_proper_hepatic_artery",
+    "sourceNodeIndex": 786,
+    "sourceMeshIndex": 664,
+    "sourceMeshName": "VH_F_proper_hepatic_artery",
+    "sourceParentName": "VH_F_arteries_of_liver",
+    "sourcePath": "VH_F/VH_F_circulatory_system/VH_F_blood_vasculature/VH_F_blood_vasculature_of_liver/VH_F_arteries_of_liver/VH_F_proper_hepatic_artery",
+    "sourceFile": "3d-vh-f-united.glb",
+    "sourceMetadata": {
+      "anatomical_structure_of": "#VHFBloodVasculature",
+      "source_spatial_entity": "#VHFemaleOrgans",
+      "label": "Hepatic artery proper",
+      "ontologyid": "FMA:14772",
+      "representation_of": "http://purl.org/sig/ont/fma/fma14772",
+      "glb_file_of_single_organs": "3d-vh-f-blood-vasculature\n"
+    },
+    "sourceMaterialNames": [
+      "Arteries_Mat"
+    ],
+    "sourceMaterialIndices": [
+      69
+    ],
+    "sourcePrimitiveAccessorHashes": [
+      {
+        "POSITION": "95435c6f6b00e2e3855f95ff1641f987fef3025a0d349465df780cdcbf645317",
+        "NORMAL": "0de36580b61664210e4bfa5ae1ed49cca12eaf4718154585624ed928e3187027",
+        "INDICES": "f781961eeacb935cf8ce35ea7205b19873dbc69a92f08df5569c89acb88da98c"
+      }
+    ],
+    "license": "CC-BY-4.0",
+    "materialPolicy": "preserve-original",
+    "appearance": "source-preserve",
+    "hasUV": false,
+    "hasBaseColorTexture": false,
+    "hasNormalTexture": false,
+    "defaultVisible": true,
+    "anatomicalRole": "arterial vessel"
+  },
+  {
+    "id": "VH_F_right_hepatic_artery",
+    "conceptId": "FMA:14778",
+    "nameEn": "Right hepatic artery",
+    "system": "arterial",
+    "displaySystem": "arterial",
+    "meshIds": [
+      "VH_F_right_hepatic_artery"
+    ],
+    "bounds": [
+      [
+        -0.05528474226593971,
+        0.3229373097419739,
+        -0.07628457993268967
+      ],
+      [
+        -0.031925786286592484,
+        0.33390963077545166,
+        -0.05593729019165039
+      ]
+    ],
+    "vertices": 355,
+    "triangles": 652,
+    "sourceTriangles": 652,
+    "kind": "structure",
+    "sourceNodeName": "VH_F_right_hepatic_artery",
+    "sourceNodeIndex": 787,
+    "sourceMeshIndex": 665,
+    "sourceMeshName": "VH_F_right_hepatic_artery",
+    "sourceParentName": "VH_F_arteries_of_liver",
+    "sourcePath": "VH_F/VH_F_circulatory_system/VH_F_blood_vasculature/VH_F_blood_vasculature_of_liver/VH_F_arteries_of_liver/VH_F_right_hepatic_artery",
+    "sourceFile": "3d-vh-f-united.glb",
+    "sourceMetadata": {
+      "anatomical_structure_of": "#VHFBloodVasculature",
+      "source_spatial_entity": "#VHFemaleOrgans",
+      "label": "Right hepatic artery",
+      "ontologyid": "FMA:14778",
+      "representation_of": "http://purl.org/sig/ont/fma/fma14778",
+      "glb_file_of_single_organs": "3d-vh-f-blood-vasculature\n"
+    },
+    "sourceMaterialNames": [
+      "Arteries_Mat"
+    ],
+    "sourceMaterialIndices": [
+      69
+    ],
+    "sourcePrimitiveAccessorHashes": [
+      {
+        "POSITION": "386e2dce3da25eb7e387a5124fee63767e6b1f364b6e2c2a309f3ebb39b0c39f",
+        "NORMAL": "d2ccff10a1c393a59cd8a3b42705e97aa5536ec0295494caee916151fd4a731c",
+        "INDICES": "519b917309d912c3dbe9f367d12b181e715fe097e13d33bc94d9d353e4b614c9"
+      }
+    ],
+    "license": "CC-BY-4.0",
+    "materialPolicy": "preserve-original",
+    "appearance": "source-preserve",
+    "hasUV": false,
+    "hasBaseColorTexture": false,
+    "hasNormalTexture": false,
+    "defaultVisible": true,
+    "anatomicalRole": "arterial vessel"
+  },
+  {
+    "id": "VH_F_common_hepatic_artery",
+    "conceptId": "UBERON:0005436",
+    "nameEn": "Common hepatic artery",
+    "system": "arterial",
+    "displaySystem": "arterial",
+    "meshIds": [
+      "VH_F_common_hepatic_artery"
+    ],
+    "bounds": [
+      [
+        -0.017323940992355347,
+        0.3039710819721222,
+        -0.07055635750293732
+      ],
+      [
+        0.005126246251165867,
+        0.31275156140327454,
+        -0.052645351737737656
+      ]
+    ],
+    "vertices": 323,
+    "triangles": 582,
+    "sourceTriangles": 582,
+    "kind": "structure",
+    "sourceNodeName": "VH_F_common_hepatic_artery",
+    "sourceNodeIndex": 788,
+    "sourceMeshIndex": 666,
+    "sourceMeshName": "VH_F_common_hepatic_artery",
+    "sourceParentName": "VH_F_arteries_of_liver",
+    "sourcePath": "VH_F/VH_F_circulatory_system/VH_F_blood_vasculature/VH_F_blood_vasculature_of_liver/VH_F_arteries_of_liver/VH_F_common_hepatic_artery",
+    "sourceFile": "3d-vh-f-united.glb",
+    "sourceMetadata": {
+      "anatomical_structure_of": "#VHFBloodVasculature",
+      "source_spatial_entity": "#VHFemaleOrgans",
+      "label": "common hepatic artery",
+      "ontologyid": "UBERON:0005436",
+      "representation_of": "http://purl.obolibrary.org/obo/UBERON_0005436",
+      "glb_file_of_single_organs": "3d-vh-f-blood-vasculature\n"
+    },
+    "sourceMaterialNames": [
+      "Arteries_Mat"
+    ],
+    "sourceMaterialIndices": [
+      69
+    ],
+    "sourcePrimitiveAccessorHashes": [
+      {
+        "POSITION": "9991b0985cf19752f4e3cffe199dea0cc15ec4d702590d2a40195485772e9a21",
+        "NORMAL": "db56533c53b76fd462d7edb969d61fd58b4e0c2e9a5748fe3c90068b5f1b855e",
+        "INDICES": "82e3cb007546e37516c639a92d77a5af2af1d426be838e64783e3ded45c7a01c"
+      }
+    ],
+    "license": "CC-BY-4.0",
+    "materialPolicy": "preserve-original",
+    "appearance": "source-preserve",
+    "hasUV": false,
+    "hasBaseColorTexture": false,
+    "hasNormalTexture": false,
+    "defaultVisible": true,
+    "anatomicalRole": "arterial vessel"
+  },
+  {
+    "id": "VH_F_posterior_segmental_right_hepatic_artery",
+    "conceptId": "",
+    "nameEn": "Posterior segmental right hepatic artery",
+    "system": "arterial",
+    "displaySystem": "arterial",
+    "meshIds": [
+      "VH_F_posterior_segmental_right_hepatic_artery"
+    ],
+    "bounds": [
+      [
+        -0.05661720037460327,
+        0.3277139961719513,
+        -0.11249028891324997
+      ],
+      [
+        -0.04989844188094139,
+        0.33655524253845215,
+        -0.07028662413358688
+      ]
+    ],
+    "vertices": 408,
+    "triangles": 762,
+    "sourceTriangles": 762,
+    "kind": "structure",
+    "sourceNodeName": "VH_F_posterior_segmental_right_hepatic_artery",
+    "sourceNodeIndex": 789,
+    "sourceMeshIndex": 667,
+    "sourceMeshName": "VH_F_posterior_segmental_right_hepatic_artery",
+    "sourceParentName": "VH_F_arteries_of_liver",
+    "sourcePath": "VH_F/VH_F_circulatory_system/VH_F_blood_vasculature/VH_F_blood_vasculature_of_liver/VH_F_arteries_of_liver/VH_F_posterior_segmental_right_hepatic_artery",
+    "sourceFile": "3d-vh-f-united.glb",
+    "sourceMetadata": {
+      "anatomical_structure_of": "#VHFBloodVasculature",
+      "source_spatial_entity": "#VHFemaleOrgans",
+      "label": "-",
+      "ontologyid": "-",
+      "representation_of": "-",
+      "glb_file_of_single_organs": "-\n"
+    },
+    "sourceMaterialNames": [
+      "Arteries_Mat"
+    ],
+    "sourceMaterialIndices": [
+      69
+    ],
+    "sourcePrimitiveAccessorHashes": [
+      {
+        "POSITION": "d59ff01719da339a185fc2efc3786e7be76c7a48a5fcd8af83b3925f5e601268",
+        "NORMAL": "f56523f0ed73fb03ca5e72a6cedd9b3686d71b8a40ebf19b0cee67af12829133",
+        "INDICES": "bd10d8780e8eef7f1e5ebab1f615748427810eecc3d26f47e8dbac90777cf367"
+      }
+    ],
+    "license": "CC-BY-4.0",
+    "materialPolicy": "preserve-original",
+    "appearance": "source-preserve",
+    "hasUV": false,
+    "hasBaseColorTexture": false,
+    "hasNormalTexture": false,
+    "defaultVisible": true,
+    "anatomicalRole": "arterial vessel",
+    "sourceQualityIssue": {
+      "type": "missing source ontology",
+      "resolution": "Source node identity retained; no ontology code invented."
+    }
+  },
+  {
+    "id": "VH_F_anterior_segmental_right_hepatic_artery",
+    "conceptId": "",
+    "nameEn": "Anterior segmental right hepatic artery",
+    "system": "arterial",
+    "displaySystem": "arterial",
+    "meshIds": [
+      "VH_F_anterior_segmental_right_hepatic_artery"
+    ],
+    "bounds": [
+      [
+        -0.06616105139255524,
+        0.3291158974170685,
+        -0.07469773292541504
+      ],
+      [
+        -0.05418527498841286,
+        0.33764851093292236,
+        -0.06596080958843231
+      ]
+    ],
+    "vertices": 160,
+    "triangles": 270,
+    "sourceTriangles": 270,
+    "kind": "structure",
+    "sourceNodeName": "VH_F_anterior_segmental_right_hepatic_artery",
+    "sourceNodeIndex": 790,
+    "sourceMeshIndex": 668,
+    "sourceMeshName": "VH_F_anterior_segmental_right_hepatic_artery",
+    "sourceParentName": "VH_F_arteries_of_liver",
+    "sourcePath": "VH_F/VH_F_circulatory_system/VH_F_blood_vasculature/VH_F_blood_vasculature_of_liver/VH_F_arteries_of_liver/VH_F_anterior_segmental_right_hepatic_artery",
+    "sourceFile": "3d-vh-f-united.glb",
+    "sourceMetadata": {
+      "anatomical_structure_of": "#VHFBloodVasculature",
+      "source_spatial_entity": "#VHFemaleOrgans",
+      "label": "-",
+      "ontologyid": "-",
+      "representation_of": "-",
+      "glb_file_of_single_organs": "3d-vh-f-blood-vasculature\n"
+    },
+    "sourceMaterialNames": [
+      "Arteries_Mat"
+    ],
+    "sourceMaterialIndices": [
+      69
+    ],
+    "sourcePrimitiveAccessorHashes": [
+      {
+        "POSITION": "00fc9e99755b33cb1a22bc1fc8bc0381a4d2dab5f1aade8f72140cea595dd61c",
+        "NORMAL": "9a170765ff509ecd4ef3dbbe661dbee56068c03b1c81c9f97ed587f096689fa4",
+        "INDICES": "749d65ff03ef912fdf0e50c968afe9346ab7f775218a2c8283af7278d0396def"
+      }
+    ],
+    "license": "CC-BY-4.0",
+    "materialPolicy": "preserve-original",
+    "appearance": "source-preserve",
+    "hasUV": false,
+    "hasBaseColorTexture": false,
+    "hasNormalTexture": false,
+    "defaultVisible": true,
+    "anatomicalRole": "arterial vessel",
+    "sourceQualityIssue": {
+      "type": "missing source ontology",
+      "resolution": "Source node identity retained; no ontology code invented."
+    }
+  },
+  {
+    "id": "VH_F_left_hepatic_artery",
+    "conceptId": "FMA:14779",
+    "nameEn": "Left hepatic artery",
+    "system": "arterial",
+    "displaySystem": "arterial",
+    "meshIds": [
+      "VH_F_left_hepatic_artery"
+    ],
+    "bounds": [
+      [
+        -0.029460398480296135,
+        0.328939288854599,
+        -0.057184427976608276
+      ],
+      [
+        0.025523845106363297,
+        0.36053699254989624,
+        -0.0380198135972023
+      ]
+    ],
+    "vertices": 666,
+    "triangles": 1276,
+    "sourceTriangles": 1276,
+    "kind": "structure",
+    "sourceNodeName": "VH_F_left_hepatic_artery",
+    "sourceNodeIndex": 791,
+    "sourceMeshIndex": 669,
+    "sourceMeshName": "VH_F_left_hepatic_artery",
+    "sourceParentName": "VH_F_arteries_of_liver",
+    "sourcePath": "VH_F/VH_F_circulatory_system/VH_F_blood_vasculature/VH_F_blood_vasculature_of_liver/VH_F_arteries_of_liver/VH_F_left_hepatic_artery",
+    "sourceFile": "3d-vh-f-united.glb",
+    "sourceMetadata": {
+      "anatomical_structure_of": "#VHFBloodVasculature",
+      "source_spatial_entity": "#VHFemaleOrgans",
+      "label": "Left hepatic artery",
+      "ontologyid": "FMA:14779",
+      "representation_of": "http://purl.org/sig/ont/fma/fma14779",
+      "glb_file_of_single_organs": "3d-vh-f-blood-vasculature\n"
+    },
+    "sourceMaterialNames": [
+      "Arteries_Mat"
+    ],
+    "sourceMaterialIndices": [
+      69
+    ],
+    "sourcePrimitiveAccessorHashes": [
+      {
+        "POSITION": "e817941727416aee653feaf9cd6d0ae615bc0cf9f3eb1a5cafac1d0a80c169a5",
+        "NORMAL": "34d264d3f304894e0ca9af212325d338f4871d1a522508d0223cc560737bdf0f",
+        "INDICES": "354279dbdf17bd2cd96dd9fb60a48711298f8fe6b6dc1dc7863ce916bdfc3c02"
+      }
+    ],
+    "license": "CC-BY-4.0",
+    "materialPolicy": "preserve-original",
+    "appearance": "source-preserve",
+    "hasUV": false,
+    "hasBaseColorTexture": false,
+    "hasNormalTexture": false,
+    "defaultVisible": true,
+    "anatomicalRole": "arterial vessel"
+  },
+  {
+    "id": "VH_F_descending_aorta_a",
+    "conceptId": "UBERON:0001514",
+    "nameEn": "Descending aorta",
+    "system": "arterial",
+    "displaySystem": "arterial",
+    "meshIds": [
+      "VH_F_descending_aorta_a"
+    ],
+    "bounds": [
+      [
+        0.010528108105063438,
+        0.3771907091140747,
+        -0.13187435269355774
+      ],
+      [
+        0.03874223679304123,
+        0.5280540585517883,
+        -0.09432603418827057
+      ]
+    ],
+    "vertices": 3040,
+    "triangles": 6004,
+    "sourceTriangles": 6004,
+    "kind": "structure",
+    "sourceNodeName": "VH_F_descending_aorta_a",
+    "sourceNodeIndex": 838,
+    "sourceMeshIndex": 705,
+    "sourceMeshName": "VH_F_descending_aorta_a",
+    "sourceParentName": "VH_F_descending_aorta",
+    "sourcePath": "VH_F/VH_F_circulatory_system/VH_F_blood_vasculature/VH_F_blood_vasculature_of_heart/VH_F_arteries_of_heart/VH_F_aorta/VH_F_descending_aorta/VH_F_descending_aorta_a",
+    "sourceFile": "3d-vh-f-united.glb",
+    "sourceMetadata": {
+      "anatomical_structure_of": "#VHFBloodVasculature",
+      "source_spatial_entity": "#VHFemaleOrgans",
+      "label": "descending aorta",
+      "ontologyid": "UBERON:0001514",
+      "representation_of": "http://purl.obolibrary.org/obo/UBERON_0001514",
+      "glb_file_of_single_organs": "VH_F_Heart\n"
+    },
+    "sourceMaterialNames": [
+      "Arteries_Mat"
+    ],
+    "sourceMaterialIndices": [
+      69
+    ],
+    "sourcePrimitiveAccessorHashes": [
+      {
+        "POSITION": "3ea71592e3f9d251cdfda509f1371f3370e1431f4affdfb77c2f99843829c154",
+        "NORMAL": "99f00f164c23b19ab0bc6d54030ac30a8ec334f53cf07d0cd2515ca29500fae3",
+        "COLOR_0": "5e1a8758b787a785e72250c1e90e6aa265dd4193b386863638c732ad2933e533",
+        "INDICES": "5e636d7048493d54486fece06e119e91f750eca6c3dbfa6e5a55d3ad0f4cbdbc"
+      }
+    ],
+    "license": "CC-BY-4.0",
+    "materialPolicy": "preserve-original",
+    "appearance": "source-preserve",
+    "hasUV": false,
+    "hasBaseColorTexture": false,
+    "hasNormalTexture": false,
+    "defaultVisible": true,
+    "anatomicalRole": "arterial vessel",
+    "scopeNote": "Original descending-aorta piece a; not relabeled as an independently segmented abdominal aorta."
+  },
+  {
+    "id": "VH_F_descending_aorta_b",
+    "conceptId": "UBERON:0001514",
+    "nameEn": "Descending aorta",
+    "system": "arterial",
+    "displaySystem": "arterial",
+    "meshIds": [
+      "VH_F_descending_aorta_b"
+    ],
+    "bounds": [
+      [
+        -0.0066095259971916676,
+        0.1659040004014969,
+        -0.11745863407850266
+      ],
+      [
+        0.03634387254714966,
+        0.3844245970249176,
+        -0.048240337520837784
+      ]
+    ],
+    "vertices": 4051,
+    "triangles": 7930,
+    "sourceTriangles": 7930,
+    "kind": "structure",
+    "sourceNodeName": "VH_F_descending_aorta_b",
+    "sourceNodeIndex": 839,
+    "sourceMeshIndex": 706,
+    "sourceMeshName": "VH_F_descending_aorta_b",
+    "sourceParentName": "VH_F_descending_aorta",
+    "sourcePath": "VH_F/VH_F_circulatory_system/VH_F_blood_vasculature/VH_F_blood_vasculature_of_heart/VH_F_arteries_of_heart/VH_F_aorta/VH_F_descending_aorta/VH_F_descending_aorta_b",
+    "sourceFile": "3d-vh-f-united.glb",
+    "sourceMetadata": {
+      "anatomical_structure_of": "#VHFBloodVasculature",
+      "source_spatial_entity": "#VHFemaleOrgans",
+      "label": "descending aorta",
+      "ontologyid": "UBERON:0001514",
+      "representation_of": "http://purl.obolibrary.org/obo/UBERON_0001514",
+      "glb_file_of_single_organs": "VH_F_Heart\n"
+    },
+    "sourceMaterialNames": [
+      "Arteries_Mat"
+    ],
+    "sourceMaterialIndices": [
+      69
+    ],
+    "sourcePrimitiveAccessorHashes": [
+      {
+        "POSITION": "d9ed15cc5f2926288e41f3ebe9b94b90eb037278b5568d401cc154618fd950da",
+        "NORMAL": "fa2f281367088403ed8b6911907bb61c0daec1031731fde447bc867a88e3e420",
+        "COLOR_0": "e91d6621ff9935d5f254eb7ee6a7e3a1b79560d69bcd964ad1d253b0c01718b9",
+        "INDICES": "aa22268de43f5cf766899b742863ea8c0f8ae60a8fd66e9700dc7a0e42863c8b"
+      }
+    ],
+    "license": "CC-BY-4.0",
+    "materialPolicy": "preserve-original",
+    "appearance": "source-preserve",
+    "hasUV": false,
+    "hasBaseColorTexture": false,
+    "hasNormalTexture": false,
+    "defaultVisible": true,
+    "anatomicalRole": "arterial vessel",
+    "scopeNote": "Original descending-aorta piece b; not relabeled as an independently segmented abdominal aorta."
+  },
+  {
+    "id": "VH_F_splenic_vein",
+    "conceptId": "UBERON:0003713",
+    "nameEn": "Splenic vein",
+    "system": "venous",
+    "displaySystem": "venous",
+    "meshIds": [
+      "VH_F_splenic_vein"
+    ],
+    "bounds": [
+      [
+        -0.009293079376220703,
+        0.2553093731403351,
+        -0.12470801919698715
+      ],
+      [
+        0.09936650842428207,
+        0.35601678490638733,
+        -0.04432205110788345
+      ]
+    ],
+    "vertices": 4703,
+    "triangles": 9254,
+    "sourceTriangles": 9254,
+    "kind": "structure",
+    "sourceNodeName": "VH_F_splenic_vein",
+    "sourceNodeIndex": 777,
+    "sourceMeshIndex": 660,
+    "sourceMeshName": "VH_F_splenic_vein",
+    "sourceParentName": "VH_F_veins_of_spleen",
+    "sourcePath": "VH_F/VH_F_circulatory_system/VH_F_blood_vasculature/VH_F_blood_vasculature_of_spleen/VH_F_veins_of_spleen/VH_F_splenic_vein",
+    "sourceFile": "3d-vh-f-united.glb",
+    "sourceMetadata": {
+      "anatomical_structure_of": "#VHFBloodVasculature",
+      "source_spatial_entity": "#VHFemaleOrgans",
+      "label": "splenic vein",
+      "ontologyid": "UBERON:0003713",
+      "representation_of": "http://purl.obolibrary.org/obo/UBERON_0003713",
+      "glb_file_of_single_organs": "3d-vh-f-blood-vasculature\n"
+    },
+    "sourceMaterialNames": [
+      "Vein_mat"
+    ],
+    "sourceMaterialIndices": [
+      70
+    ],
+    "sourcePrimitiveAccessorHashes": [
+      {
+        "POSITION": "f030668475c229d2b1b6371db8f548e6c91158bd5060b3f75fd4e573becb3704",
+        "NORMAL": "99a8db3bccf04ea1f237f50e5c718088935c4fe3e826d77f785f9340140498ae",
+        "INDICES": "5cc860835b9f1f3a95674c36a3db3d7e9d0f64d56077fc963f08ff7300f3b63b"
+      }
+    ],
+    "license": "CC-BY-4.0",
+    "materialPolicy": "preserve-original",
+    "appearance": "source-preserve",
+    "hasUV": false,
+    "hasBaseColorTexture": false,
+    "hasNormalTexture": false,
+    "defaultVisible": true,
+    "anatomicalRole": "venous vessel"
+  },
+  {
+    "id": "VH_F_cystic_vein",
+    "conceptId": "UBERON:0035392",
+    "nameEn": "Cystic vein",
+    "system": "venous",
+    "displaySystem": "venous",
+    "meshIds": [
+      "VH_F_cystic_vein"
+    ],
+    "bounds": [
+      [
+        -0.08323772251605988,
+        0.2695486843585968,
+        -0.06729111075401306
+      ],
+      [
+        -0.036597948521375656,
+        0.323972225189209,
+        -0.02909328229725361
+      ]
+    ],
+    "vertices": 1630,
+    "triangles": 3240,
+    "sourceTriangles": 3240,
+    "kind": "structure",
+    "sourceNodeName": "VH_F_cystic_vein",
+    "sourceNodeIndex": 782,
+    "sourceMeshIndex": 662,
+    "sourceMeshName": "VH_F_cystic_vein",
+    "sourceParentName": "VH_F_veins_of_gallbladder",
+    "sourcePath": "VH_F/VH_F_circulatory_system/VH_F_blood_vasculature/VH_F_blood_vasculature_of_gallbladder/VH_F_veins_of_gallbladder/VH_F_cystic_vein",
+    "sourceFile": "3d-vh-f-united.glb",
+    "sourceMetadata": {
+      "anatomical_structure_of": "#VHFBloodVasculature",
+      "source_spatial_entity": "#VHFemaleOrgans",
+      "label": "cystic vein",
+      "ontologyid": "UBERON:0035392",
+      "representation_of": "http://purl.obolibrary.org/obo/UBERON_0035392",
+      "glb_file_of_single_organs": "3d-vh-f-blood-vasculature\n"
+    },
+    "sourceMaterialNames": [
+      "Vein_mat"
+    ],
+    "sourceMaterialIndices": [
+      70
+    ],
+    "sourcePrimitiveAccessorHashes": [
+      {
+        "POSITION": "898bbe2e15894face20d7081fc0d6e9ee60d04b7281bd6ca8268588bb18989c9",
+        "NORMAL": "4b04d993638f6006c5aea6a326ac97ce36f0600371ffb5fb41f18a731784dfc4",
+        "INDICES": "9bfc5b3c591aa57734cb5f12fae9703da3e487ae1f70a7005364b116796216f2"
+      }
+    ],
+    "license": "CC-BY-4.0",
+    "materialPolicy": "preserve-original",
+    "appearance": "source-preserve",
+    "hasUV": false,
+    "hasBaseColorTexture": false,
+    "hasNormalTexture": false,
+    "defaultVisible": true,
+    "anatomicalRole": "venous vessel"
+  },
+  {
+    "id": "VH_F_hepatic_portal_vein",
+    "conceptId": "UBERON:0001639",
+    "nameEn": "Hepatic portal vein",
+    "system": "venous",
+    "displaySystem": "venous",
+    "meshIds": [
+      "VH_F_hepatic_portal_vein"
+    ],
+    "bounds": [
+      [
+        -0.03664742037653923,
+        0.27032771706581116,
+        -0.06757401674985886
+      ],
+      [
+        -0.0020952154882252216,
+        0.33338361978530884,
+        -0.05080728232860565
+      ]
+    ],
+    "vertices": 1165,
+    "triangles": 2262,
+    "sourceTriangles": 2262,
+    "kind": "structure",
+    "sourceNodeName": "VH_F_hepatic_portal_vein",
+    "sourceNodeIndex": 793,
+    "sourceMeshIndex": 670,
+    "sourceMeshName": "VH_F_hepatic_portal_vein",
+    "sourceParentName": "VH_F_veins_of_liver",
+    "sourcePath": "VH_F/VH_F_circulatory_system/VH_F_blood_vasculature/VH_F_blood_vasculature_of_liver/VH_F_veins_of_liver/VH_F_hepatic_portal_vein",
+    "sourceFile": "3d-vh-f-united.glb",
+    "sourceMetadata": {
+      "anatomical_structure_of": "#VHFBloodVasculature",
+      "source_spatial_entity": "#VHFemaleOrgans",
+      "label": "hepatic portal vein",
+      "ontologyid": "UBERON:0001639",
+      "representation_of": "http://purl.obolibrary.org/obo/UBERON_0001639",
+      "glb_file_of_single_organs": "3d-vh-f-blood-vasculature\n"
+    },
+    "sourceMaterialNames": [
+      "Vein_mat"
+    ],
+    "sourceMaterialIndices": [
+      70
+    ],
+    "sourcePrimitiveAccessorHashes": [
+      {
+        "POSITION": "405045165378858020d4cf3737e063311e15f812ebf58a2bce329a9b1bd18176",
+        "NORMAL": "60e9df1f089ca6bf3c22d7473e86f95ab68d8ec4e3f3889a0b85a87c8ddad2ae",
+        "INDICES": "e060c8d09ee783214471d4d242c81a14d6b163b727543dbe7882501c32997742"
+      }
+    ],
+    "license": "CC-BY-4.0",
+    "materialPolicy": "preserve-original",
+    "appearance": "source-preserve",
+    "hasUV": false,
+    "hasBaseColorTexture": false,
+    "hasNormalTexture": false,
+    "defaultVisible": true,
+    "anatomicalRole": "venous vessel"
+  },
+  {
+    "id": "VH_F_middle_hepatic_vein",
+    "conceptId": "FMA:14340",
+    "nameEn": "Middle hepatic vein",
+    "system": "venous",
+    "displaySystem": "venous",
+    "meshIds": [
+      "VH_F_middle_hepatic_vein"
+    ],
+    "bounds": [
+      [
+        -0.048028506338596344,
+        0.35066089034080505,
+        -0.08159761875867844
+      ],
+      [
+        0.0010968156857416034,
+        0.3895765542984009,
+        -0.04800902307033539
+      ]
+    ],
+    "vertices": 433,
+    "triangles": 824,
+    "sourceTriangles": 824,
+    "kind": "structure",
+    "sourceNodeName": "VH_F_middle_hepatic_vein",
+    "sourceNodeIndex": 794,
+    "sourceMeshIndex": 671,
+    "sourceMeshName": "VH_F_middle_hepatic_vein",
+    "sourceParentName": "VH_F_veins_of_liver",
+    "sourcePath": "VH_F/VH_F_circulatory_system/VH_F_blood_vasculature/VH_F_blood_vasculature_of_liver/VH_F_veins_of_liver/VH_F_middle_hepatic_vein",
+    "sourceFile": "3d-vh-f-united.glb",
+    "sourceMetadata": {
+      "anatomical_structure_of": "#VHFBloodVasculature",
+      "source_spatial_entity": "#VHFemaleOrgans",
+      "label": "Middle hepatic vein",
+      "ontologyid": "FMA:14340",
+      "representation_of": "http://purl.org/sig/ont/fma/fma14340",
+      "glb_file_of_single_organs": "3d-vh-f-blood-vasculature\n"
+    },
+    "sourceMaterialNames": [
+      "Vein_mat"
+    ],
+    "sourceMaterialIndices": [
+      70
+    ],
+    "sourcePrimitiveAccessorHashes": [
+      {
+        "POSITION": "9e72a9776b274e8d9767bdbfe010135eaada5716d9dac5a66a281736fa0be2b3",
+        "NORMAL": "3a7fd2d4f8fc1b673871d1c37ac33a16667fece198364016e49a1471b5568bd1",
+        "INDICES": "9e063705b4f0a86bc84899ab4762e2cc563a31b5449a8b1f82074b51cba1d057"
+      }
+    ],
+    "license": "CC-BY-4.0",
+    "materialPolicy": "preserve-original",
+    "appearance": "source-preserve",
+    "hasUV": false,
+    "hasBaseColorTexture": false,
+    "hasNormalTexture": false,
+    "defaultVisible": true,
+    "anatomicalRole": "venous vessel"
+  },
+  {
+    "id": "VH_F_left_hepatic_vein",
+    "conceptId": "FMA:14339",
+    "nameEn": "Left hepatic vein",
+    "system": "venous",
+    "displaySystem": "venous",
+    "meshIds": [
+      "VH_F_left_hepatic_vein"
+    ],
+    "bounds": [
+      [
+        -0.0032920001540333033,
+        0.35751059651374817,
+        -0.07959870994091034
+      ],
+      [
+        0.015818150714039803,
+        0.3936774432659149,
+        -0.03967396542429924
+      ]
+    ],
+    "vertices": 346,
+    "triangles": 650,
+    "sourceTriangles": 650,
+    "kind": "structure",
+    "sourceNodeName": "VH_F_left_hepatic_vein",
+    "sourceNodeIndex": 795,
+    "sourceMeshIndex": 672,
+    "sourceMeshName": "VH_F_left_hepatic_vein",
+    "sourceParentName": "VH_F_veins_of_liver",
+    "sourcePath": "VH_F/VH_F_circulatory_system/VH_F_blood_vasculature/VH_F_blood_vasculature_of_liver/VH_F_veins_of_liver/VH_F_left_hepatic_vein",
+    "sourceFile": "3d-vh-f-united.glb",
+    "sourceMetadata": {
+      "anatomical_structure_of": "#VHFBloodVasculature",
+      "source_spatial_entity": "#VHFemaleOrgans",
+      "label": "Left hepatic vein",
+      "ontologyid": "FMA:14339",
+      "representation_of": "http://purl.org/sig/ont/fma/fma14339",
+      "glb_file_of_single_organs": "3d-vh-f-blood-vasculature\n"
+    },
+    "sourceMaterialNames": [
+      "Vein_mat"
+    ],
+    "sourceMaterialIndices": [
+      70
+    ],
+    "sourcePrimitiveAccessorHashes": [
+      {
+        "POSITION": "470acb6f5a5532edb1ea6f53e9a41bbb3cbfced887cdb3e31bed99d9adef6367",
+        "NORMAL": "2fd980ff8cf3093e2c179a5030c3e0ce373dfe7dc5683cfa0f579b8aed9881f8",
+        "INDICES": "a7ffafa754b4b21b127ee9983b13da47d8be5f55ff629528300d65fb7a76e617"
+      }
+    ],
+    "license": "CC-BY-4.0",
+    "materialPolicy": "preserve-original",
+    "appearance": "source-preserve",
+    "hasUV": false,
+    "hasBaseColorTexture": false,
+    "hasNormalTexture": false,
+    "defaultVisible": true,
+    "anatomicalRole": "venous vessel"
+  },
+  {
+    "id": "VH_F_right_hepatic_vein",
+    "conceptId": "FMA:14338",
+    "nameEn": "Right hepatic vein",
+    "system": "venous",
+    "displaySystem": "venous",
+    "meshIds": [
+      "VH_F_right_hepatic_vein"
+    ],
+    "bounds": [
+      [
+        -0.08951888978481293,
+        0.3797873556613922,
+        -0.09930547326803207
+      ],
+      [
+        -0.016301874071359634,
+        0.4000343680381775,
+        -0.08581496775150299
+      ]
+    ],
+    "vertices": 540,
+    "triangles": 1044,
+    "sourceTriangles": 1044,
+    "kind": "structure",
+    "sourceNodeName": "VH_F_right_hepatic_vein",
+    "sourceNodeIndex": 796,
+    "sourceMeshIndex": 673,
+    "sourceMeshName": "VH_F_right_hepatic_vein",
+    "sourceParentName": "VH_F_veins_of_liver",
+    "sourcePath": "VH_F/VH_F_circulatory_system/VH_F_blood_vasculature/VH_F_blood_vasculature_of_liver/VH_F_veins_of_liver/VH_F_right_hepatic_vein",
+    "sourceFile": "3d-vh-f-united.glb",
+    "sourceMetadata": {
+      "anatomical_structure_of": "#VHFBloodVasculature",
+      "source_spatial_entity": "#VHFemaleOrgans",
+      "label": "Right hepatic vein",
+      "ontologyid": "FMA:14338",
+      "representation_of": "http://purl.org/sig/ont/fma/fma14338",
+      "glb_file_of_single_organs": "3d-vh-f-blood-vasculature\n"
+    },
+    "sourceMaterialNames": [
+      "Vein_mat"
+    ],
+    "sourceMaterialIndices": [
+      70
+    ],
+    "sourcePrimitiveAccessorHashes": [
+      {
+        "POSITION": "ef5e7aed055cf54b62acdeea99c8255c64b9a7aa80692ebc563da76a9d8ea938",
+        "NORMAL": "7e7d1b2658db41db6ffb73c76f771e9f6c9c651082c9866858861eea307fc1bc",
+        "INDICES": "b81b1fefc3bb887b93a42cb1d5e76a2c6969dd8028dd696e2d70ed46c47a8c49"
+      }
+    ],
+    "license": "CC-BY-4.0",
+    "materialPolicy": "preserve-original",
+    "appearance": "source-preserve",
+    "hasUV": false,
+    "hasBaseColorTexture": false,
+    "hasNormalTexture": false,
+    "defaultVisible": true,
+    "anatomicalRole": "venous vessel"
+  },
+  {
+    "id": "VH_F_right_branch_of_portal_vein",
+    "conceptId": "",
+    "nameEn": "Right branch of portal vein",
+    "system": "venous",
+    "displaySystem": "venous",
+    "meshIds": [
+      "VH_F_right_branch_of_portal_vein"
+    ],
+    "bounds": [
+      [
+        -0.0624496154487133,
+        0.32104575634002686,
+        -0.07849207520484924
+      ],
+      [
+        -0.030116382986307144,
+        0.33432403206825256,
+        -0.0621209554374218
+      ]
+    ],
+    "vertices": 940,
+    "triangles": 1788,
+    "sourceTriangles": 1788,
+    "kind": "structure",
+    "sourceNodeName": "VH_F_right_branch_of_portal_vein",
+    "sourceNodeIndex": 797,
+    "sourceMeshIndex": 674,
+    "sourceMeshName": "VH_F_right_branch_of_portal_vein",
+    "sourceParentName": "VH_F_veins_of_liver",
+    "sourcePath": "VH_F/VH_F_circulatory_system/VH_F_blood_vasculature/VH_F_blood_vasculature_of_liver/VH_F_veins_of_liver/VH_F_right_branch_of_portal_vein",
+    "sourceFile": "3d-vh-f-united.glb",
+    "sourceMetadata": {
+      "anatomical_structure_of": "#VHFBloodVasculature",
+      "source_spatial_entity": "#VHFemaleOrgans",
+      "label": "-",
+      "ontologyid": "-",
+      "representation_of": "-",
+      "glb_file_of_single_organs": "3d-vh-f-blood-vasculature\n"
+    },
+    "sourceMaterialNames": [
+      "Vein_mat"
+    ],
+    "sourceMaterialIndices": [
+      70
+    ],
+    "sourcePrimitiveAccessorHashes": [
+      {
+        "POSITION": "97cebaea6fa9da75634dd92e1b25efeee325cdec0a125941680b8b1c59427635",
+        "NORMAL": "22cb1bd48ec0fbe73a9a5135bd4bff9adc7c4af373052e0e3402d050b358be16",
+        "INDICES": "8e3de64d2b3d99c938e50926f3065d25a2dd1a94ea64f6d42bd30d8c171eded8"
+      }
+    ],
+    "license": "CC-BY-4.0",
+    "materialPolicy": "preserve-original",
+    "appearance": "source-preserve",
+    "hasUV": false,
+    "hasBaseColorTexture": false,
+    "hasNormalTexture": false,
+    "defaultVisible": true,
+    "anatomicalRole": "venous vessel",
+    "sourceQualityIssue": {
+      "type": "missing source ontology",
+      "resolution": "Source node identity retained; no ontology code invented."
+    }
+  },
+  {
+    "id": "VH_F_left_branch_of_portal_vein",
+    "conceptId": "",
+    "nameEn": "Left branch of portal vein",
+    "system": "venous",
+    "displaySystem": "venous",
+    "meshIds": [
+      "VH_F_left_branch_of_portal_vein"
+    ],
+    "bounds": [
+      [
+        -0.03203492611646652,
+        0.3255898654460907,
+        -0.06562598794698715
+      ],
+      [
+        -0.005403748247772455,
+        0.3450605571269989,
+        -0.039761073887348175
+      ]
+    ],
+    "vertices": 832,
+    "triangles": 1612,
+    "sourceTriangles": 1612,
+    "kind": "structure",
+    "sourceNodeName": "VH_F_left_branch_of_portal_vein",
+    "sourceNodeIndex": 798,
+    "sourceMeshIndex": 675,
+    "sourceMeshName": "VH_F_left_branch_of_portal_vein",
+    "sourceParentName": "VH_F_veins_of_liver",
+    "sourcePath": "VH_F/VH_F_circulatory_system/VH_F_blood_vasculature/VH_F_blood_vasculature_of_liver/VH_F_veins_of_liver/VH_F_left_branch_of_portal_vein",
+    "sourceFile": "3d-vh-f-united.glb",
+    "sourceMetadata": {
+      "anatomical_structure_of": "#VHFBloodVasculature",
+      "source_spatial_entity": "#VHFemaleOrgans",
+      "label": "-",
+      "ontologyid": "-",
+      "representation_of": "-",
+      "glb_file_of_single_organs": "3d-vh-f-blood-vasculature\n"
+    },
+    "sourceMaterialNames": [
+      "Vein_mat"
+    ],
+    "sourceMaterialIndices": [
+      70
+    ],
+    "sourcePrimitiveAccessorHashes": [
+      {
+        "POSITION": "8fcbad9fdf68836c90be1364df713880a3b5f91b8009faba2c656b813cd2e8e9",
+        "NORMAL": "138683380210bf94008c9834ffc735bfd104cb8bce676d8564a59075e2cb1954",
+        "INDICES": "ff3166e5017b8658e000be0e9c9618614bfb231b6900796ea64387ce9f669f4f"
+      }
+    ],
+    "license": "CC-BY-4.0",
+    "materialPolicy": "preserve-original",
+    "appearance": "source-preserve",
+    "hasUV": false,
+    "hasBaseColorTexture": false,
+    "hasNormalTexture": false,
+    "defaultVisible": true,
+    "anatomicalRole": "venous vessel",
+    "sourceQualityIssue": {
+      "type": "missing source ontology",
+      "resolution": "Source node identity retained; no ontology code invented."
+    }
+  },
+  {
+    "id": "VH_F_coronary_ligament_of_liver",
+    "conceptId": "UBERON:0013138",
+    "nameEn": "Coronary ligament of liver",
+    "system": "connective",
+    "displaySystem": "connective",
+    "meshIds": [
+      "VH_F_coronary_ligament_of_liver"
+    ],
+    "bounds": [
+      [
+        -0.12351681292057037,
+        0.29991981387138367,
+        -0.14340360462665558
+      ],
+      [
+        0.038809455931186676,
+        0.4223542809486389,
+        -0.0503590852022171
+      ]
+    ],
+    "vertices": 1232,
+    "triangles": 2426,
+    "sourceTriangles": 2426,
+    "kind": "structure",
+    "sourceNodeName": "VH_F_coronary_ligament_of_liver",
+    "sourceNodeIndex": 547,
+    "sourceMeshIndex": 490,
+    "sourceMeshName": "VH_F_coronary_ligament_of_liver",
+    "sourceParentName": "VH_F_ligament_of_liver",
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_liver/VH_F_ligament_of_liver/VH_F_coronary_ligament_of_liver",
+    "sourceFile": "3d-vh-f-united.glb",
+    "sourceMetadata": {
+      "anatomical_structure_of": "#VHFLiver",
+      "source_spatial_entity": "#VHFemaleOrgans",
+      "label": "coronary ligament of liver",
+      "ontologyid": "UBERON:0013138",
+      "representation_of": "http://purl.obolibrary.org/obo/UBERON_0013138",
+      "glb_file_of_single_organs": "VH_F_Liver\n"
+    },
+    "sourceMaterialNames": [
+      "Ligament_mat"
+    ],
+    "sourceMaterialIndices": [
+      5
+    ],
+    "sourcePrimitiveAccessorHashes": [
+      {
+        "POSITION": "5ad06326070a937b6c11c7d6b1accb361545253860ed00e721393537dfe87794",
+        "NORMAL": "f5bc467a87bc668a0764930805315645303d8c0a8775d9252500083237b103e4",
+        "INDICES": "65303d0b83ba620b6c33f105e21bc13f9e5297f8b7d6fb45560102d4720b4266"
+      }
+    ],
+    "license": "CC-BY-4.0",
+    "materialPolicy": "preserve-original",
+    "appearance": "source-preserve",
+    "hasUV": false,
+    "hasBaseColorTexture": false,
+    "hasNormalTexture": false,
+    "defaultVisible": false,
+    "anatomicalRole": "gross liver ligament"
+  },
+  {
+    "id": "VH_F_falciform_ligament",
+    "conceptId": "UBERON:0001247",
+    "nameEn": "Falciform ligament",
+    "system": "connective",
+    "displaySystem": "connective",
+    "meshIds": [
+      "VH_F_falciform_ligament"
+    ],
+    "bounds": [
+      [
+        -0.03852479159832001,
+        0.29369208216667175,
+        -0.051487039774656296
+      ],
+      [
+        0.016790499910712242,
+        0.401004821062088,
+        0.007835148833692074
+      ]
+    ],
+    "vertices": 268,
+    "triangles": 516,
+    "sourceTriangles": 516,
+    "kind": "structure",
+    "sourceNodeName": "VH_F_falciform_ligament",
+    "sourceNodeIndex": 548,
+    "sourceMeshIndex": 491,
+    "sourceMeshName": "VH_F_falciform_ligament",
+    "sourceParentName": "VH_F_ligament_of_liver",
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_liver/VH_F_ligament_of_liver/VH_F_falciform_ligament",
+    "sourceFile": "3d-vh-f-united.glb",
+    "sourceMetadata": {
+      "anatomical_structure_of": "#VHFLiver",
+      "source_spatial_entity": "#VHFemaleOrgans",
+      "label": "falciform ligament",
+      "ontologyid": "UBERON:0001247",
+      "representation_of": "http://purl.obolibrary.org/obo/UBERON_0001247",
+      "glb_file_of_single_organs": "VH_F_Liver\n"
+    },
+    "sourceMaterialNames": [
+      "Ligament_mat"
+    ],
+    "sourceMaterialIndices": [
+      5
+    ],
+    "sourcePrimitiveAccessorHashes": [
+      {
+        "POSITION": "5e9f28c24258f2097fb511c32fee7888266edd801584dbf8582956627363de96",
+        "NORMAL": "d25fea90e49d34f443690016f9ed55d1c22890c5953aa0ecf0c18c8a8b8421b6",
+        "INDICES": "fd4652a6ba89af06b587b8357cd9d9f77081c44fdf4b2e21313836ddd89aa134"
+      }
+    ],
+    "license": "CC-BY-4.0",
+    "materialPolicy": "preserve-original",
+    "appearance": "source-preserve",
+    "hasUV": false,
+    "hasBaseColorTexture": false,
+    "hasNormalTexture": false,
+    "defaultVisible": false,
+    "anatomicalRole": "gross liver ligament"
+  },
+  {
+    "id": "VH_F_triangular_ligament_of_liver",
+    "conceptId": "UBERON:0035444",
+    "nameEn": "Triangular ligament of liver",
+    "system": "connective",
+    "displaySystem": "connective",
+    "meshIds": [
+      "VH_F_triangular_ligament_of_liver"
+    ],
+    "bounds": [
+      [
+        0.031979747116565704,
+        0.39306342601776123,
+        -0.08140312880277634
+      ],
+      [
+        0.06642086058855057,
+        0.4005005657672882,
+        -0.07174532860517502
+      ]
+    ],
+    "vertices": 152,
+    "triangles": 276,
+    "sourceTriangles": 276,
+    "kind": "structure",
+    "sourceNodeName": "VH_F_triangular_ligament_of_liver",
+    "sourceNodeIndex": 549,
+    "sourceMeshIndex": 492,
+    "sourceMeshName": "VH_F_triangular_ligament_of_liver",
+    "sourceParentName": "VH_F_ligament_of_liver",
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_liver/VH_F_ligament_of_liver/VH_F_triangular_ligament_of_liver",
+    "sourceFile": "3d-vh-f-united.glb",
+    "sourceMetadata": {
+      "anatomical_structure_of": "#VHFLiver",
+      "source_spatial_entity": "#VHFemaleOrgans",
+      "label": "triangular ligament of liver",
+      "ontologyid": "UBERON:0035444",
+      "representation_of": "http://purl.obolibrary.org/obo/UBERON_0035444",
+      "glb_file_of_single_organs": "VH_F_Liver\n"
+    },
+    "sourceMaterialNames": [
+      "Ligament_mat"
+    ],
+    "sourceMaterialIndices": [
+      5
+    ],
+    "sourcePrimitiveAccessorHashes": [
+      {
+        "POSITION": "2c3b80186f63ae5f64098ec9ac9d17619b5090bcaeab6e747d8a60abaa3c8482",
+        "NORMAL": "cd4cd17bc03f3abe23a4d67c3ed04960bf7fe565109d6fd4413b10c4271d3c7f",
+        "INDICES": "8d6dc3f283ef6d1c5fa8de40d2635ce58a8cd51d8da317c25c7175ff8ed0bbf8"
+      }
+    ],
+    "license": "CC-BY-4.0",
+    "materialPolicy": "preserve-original",
+    "appearance": "source-preserve",
+    "hasUV": false,
+    "hasBaseColorTexture": false,
+    "hasNormalTexture": false,
+    "defaultVisible": false,
+    "anatomicalRole": "gross liver ligament"
+  },
+  {
+    "id": "VH_F_ligamentum_venosum",
+    "conceptId": "UBERON:0006587",
+    "nameEn": "Ligamentum venosum",
+    "system": "connective",
+    "displaySystem": "connective",
+    "meshIds": [
+      "VH_F_ligamentum_venosum"
+    ],
+    "bounds": [
+      [
+        -0.002934637013822794,
+        0.3137408196926117,
+        -0.08456677943468094
+      ],
+      [
+        0.0384419709444046,
+        0.3987853527069092,
+        -0.04972543194890022
+      ]
+    ],
+    "vertices": 364,
+    "triangles": 702,
+    "sourceTriangles": 702,
+    "kind": "structure",
+    "sourceNodeName": "VH_F_ligamentum_venosum",
+    "sourceNodeIndex": 550,
+    "sourceMeshIndex": 493,
+    "sourceMeshName": "VH_F_ligamentum_venosum",
+    "sourceParentName": "VH_F_ligament_of_liver",
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_liver/VH_F_ligament_of_liver/VH_F_ligamentum_venosum",
+    "sourceFile": "3d-vh-f-united.glb",
+    "sourceMetadata": {
+      "anatomical_structure_of": "#VHFLiver",
+      "source_spatial_entity": "#VHFemaleOrgans",
+      "label": "ligamentum venosum",
+      "ontologyid": "UBERON:0006587",
+      "representation_of": "http://purl.obolibrary.org/obo/UBERON_0006587",
+      "glb_file_of_single_organs": "VH_F_Liver\n"
+    },
+    "sourceMaterialNames": [
+      "Ligament_mat"
+    ],
+    "sourceMaterialIndices": [
+      5
+    ],
+    "sourcePrimitiveAccessorHashes": [
+      {
+        "POSITION": "a9e8db29b755441b32e8b6118bd6941d357bc81f0f2fb6b86f089eb2cdc12b16",
+        "NORMAL": "ffcd7ae257c989071f6f97704b056975010528f418900d72953c6ba3a9fe3d25",
+        "INDICES": "5bc82ee1d797bc559668e21fcdbc97d0d00c4353413a5d088cf17102f2e4f861"
+      }
+    ],
+    "license": "CC-BY-4.0",
+    "materialPolicy": "preserve-original",
+    "appearance": "source-preserve",
+    "hasUV": false,
+    "hasBaseColorTexture": false,
+    "hasNormalTexture": false,
+    "defaultVisible": false,
+    "anatomicalRole": "gross liver ligament"
+  },
+  {
+    "id": "VH_F_round_ligament_of_liver",
+    "conceptId": "UBERON:0006588",
+    "nameEn": "Round ligament of liver",
+    "system": "connective",
+    "displaySystem": "connective",
+    "meshIds": [
+      "VH_F_round_ligament_of_liver"
+    ],
+    "bounds": [
+      [
+        -0.04196837916970253,
+        0.28625234961509705,
+        -0.04293685406446457
+      ],
+      [
+        -0.017031706869602203,
+        0.3243442177772522,
+        0.0030297674238681793
+      ]
+    ],
+    "vertices": 294,
+    "triangles": 558,
+    "sourceTriangles": 558,
+    "kind": "structure",
+    "sourceNodeName": "VH_F_round_ligament_of_liver",
+    "sourceNodeIndex": 551,
+    "sourceMeshIndex": 494,
+    "sourceMeshName": "VH_F_round_ligament_of_liver",
+    "sourceParentName": "VH_F_ligament_of_liver",
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_liver/VH_F_ligament_of_liver/VH_F_round_ligament_of_liver",
+    "sourceFile": "3d-vh-f-united.glb",
+    "sourceMetadata": {
+      "anatomical_structure_of": "#VHFLiver",
+      "source_spatial_entity": "#VHFemaleOrgans",
+      "label": "round ligament of liver",
+      "ontologyid": "UBERON:0006588",
+      "representation_of": "http://purl.obolibrary.org/obo/UBERON_0006588",
+      "glb_file_of_single_organs": "VH_F_Liver\n"
+    },
+    "sourceMaterialNames": [
+      "Ligament_mat"
+    ],
+    "sourceMaterialIndices": [
+      5
+    ],
+    "sourcePrimitiveAccessorHashes": [
+      {
+        "POSITION": "a3bd07630ef7b7163510796c2304ece5729f73559c22215898a14adaf3524def",
+        "NORMAL": "3b5258cbf7f37d9129f5d57f4a7faf21d41c8c4d1f4ec85aaf895750231e41dc",
+        "INDICES": "3857917d65e41baaa913883308c1a17a7e9ae261a8b3cf629498b92b6fa963b3"
+      }
+    ],
+    "license": "CC-BY-4.0",
+    "materialPolicy": "preserve-original",
+    "appearance": "source-preserve",
+    "hasUV": false,
+    "hasBaseColorTexture": false,
+    "hasNormalTexture": false,
+    "defaultVisible": false,
+    "anatomicalRole": "gross liver ligament"
+  },
+  {
+    "id": "VH_F_hepataduodenal_ligament",
+    "conceptId": "UBERON:0012472",
+    "nameEn": "Hepatoduodenal ligament",
+    "system": "connective",
+    "displaySystem": "connective",
+    "meshIds": [
+      "VH_F_hepataduodenal_ligament"
+    ],
+    "bounds": [
+      [
+        -0.06146339327096939,
+        0.2921672463417053,
+        -0.07472928613424301
+      ],
+      [
+        -0.0006794559303671122,
+        0.32219669222831726,
+        -0.0361003503203392
+      ]
+    ],
+    "vertices": 568,
+    "triangles": 1094,
+    "sourceTriangles": 1094,
+    "kind": "structure",
+    "sourceNodeName": "VH_F_hepataduodenal_ligament",
+    "sourceNodeIndex": 552,
+    "sourceMeshIndex": 495,
+    "sourceMeshName": "VH_F_hepataduodenal_ligament",
+    "sourceParentName": "VH_F_ligament_of_liver",
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_liver/VH_F_ligament_of_liver/VH_F_hepataduodenal_ligament",
+    "sourceFile": "3d-vh-f-united.glb",
+    "sourceMetadata": {
+      "anatomical_structure_of": "#VHFLiver",
+      "source_spatial_entity": "#VHFemaleOrgans",
+      "label": "hepatoduodenal ligament",
+      "ontologyid": "UBERON:0012472",
+      "representation_of": "http://purl.obolibrary.org/obo/UBERON_0012472",
+      "glb_file_of_single_organs": "VH_F_Liver\n"
+    },
+    "sourceMaterialNames": [
+      "Ligament_mat"
+    ],
+    "sourceMaterialIndices": [
+      5
+    ],
+    "sourcePrimitiveAccessorHashes": [
+      {
+        "POSITION": "bb12149730e59220144743dc09a9481d52a0c8cc4a06a9ad2972a92fdda6984e",
+        "NORMAL": "342a2f9f3aa677f069356758eeba57e55f2544ead02f6366281b3449aa5e84f3",
+        "INDICES": "f223b8dcba551e5e76a40ceff487cc1db93ca3ea476d1ed2c31651b884ff6673"
+      }
+    ],
+    "license": "CC-BY-4.0",
+    "materialPolicy": "preserve-original",
+    "appearance": "source-preserve",
+    "hasUV": false,
+    "hasBaseColorTexture": false,
+    "hasNormalTexture": false,
+    "defaultVisible": false,
+    "anatomicalRole": "gross liver ligament",
+    "sourceQualityIssue": {
+      "type": "source node spelling",
+      "resolution": "Original hepataduodenal node ID retained. Display follows explicit source label hepatoduodenal ligament and UBERON:0012472."
+    }
+  },
+  {
+    "id": "VH_F_gastric_impression_of_liver",
+    "conceptId": "FMA:14487",
+    "nameEn": "Gastric impression of liver",
+    "system": "visceral",
+    "displaySystem": "visceral",
+    "meshIds": [
+      "VH_F_gastric_impression_of_liver"
+    ],
+    "bounds": [
+      [
+        -0.0036454414948821068,
+        0.2682228088378906,
+        -0.07579582184553146
+      ],
+      [
+        0.09402097761631012,
+        0.38483163714408875,
+        -0.0011343936203047633
+      ]
+    ],
+    "vertices": 1550,
+    "triangles": 2970,
+    "sourceTriangles": 2970,
+    "kind": "structure",
+    "sourceNodeName": "VH_F_gastric_impression_of_liver",
+    "sourceNodeIndex": 521,
+    "sourceMeshIndex": 470,
+    "sourceMeshName": "VH_F_gastric_impression_of_liver",
+    "sourceParentName": "VH_F_liver",
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_liver/VH_F_gastric_impression_of_liver",
+    "sourceFile": "3d-vh-f-united.glb",
+    "sourceMetadata": {
+      "anatomical_structure_of": "#VHFLiver",
+      "source_spatial_entity": "#VHFemaleOrgans",
+      "label": "gastric impression of liver",
+      "ontologyid": "FMA:14487",
+      "representation_of": "http://purl.org/sig/ont/fma/fma14487",
+      "glb_file_of_single_organs": "VH_F_Liver\n"
+    },
+    "sourceMaterialNames": [
+      "Liver_mat"
+    ],
+    "sourceMaterialIndices": [
+      63
+    ],
+    "sourcePrimitiveAccessorHashes": [
+      {
+        "POSITION": "3fb6f8bcf89a12826f249c4d37bb18762697f420b17a54ae21cbd1368096d023",
+        "NORMAL": "76eeb9b6af501cabdf20eb318535eb98cbf3b6c37744a4843c1cad6259b98fa6",
+        "INDICES": "b32709ba9407d81f2e0b9dcbe72f37d2e1350abe3c42bf7dec20fef7873ba4a0"
+      }
+    ],
+    "license": "CC-BY-4.0",
+    "materialPolicy": "preserve-original",
+    "appearance": "source-preserve",
+    "hasUV": false,
+    "hasBaseColorTexture": false,
+    "hasNormalTexture": false,
+    "defaultVisible": false,
+    "anatomicalRole": "source surface or landmark; optional context"
+  },
+  {
+    "id": "VH_F_suprarenal_impression_of_liver",
+    "conceptId": "FMA:14489",
+    "nameEn": "Suprarenal impression of liver",
+    "system": "visceral",
+    "displaySystem": "visceral",
+    "meshIds": [
+      "VH_F_suprarenal_impression_of_liver"
+    ],
+    "bounds": [
+      [
+        -0.06846342980861664,
+        0.30476754903793335,
+        -0.13224874436855316
+      ],
+      [
+        -0.03795311227440834,
+        0.3213357925415039,
+        -0.09702840447425842
+      ]
+    ],
+    "vertices": 68,
+    "triangles": 87,
+    "sourceTriangles": 87,
+    "kind": "structure",
+    "sourceNodeName": "VH_F_suprarenal_impression_of_liver",
+    "sourceNodeIndex": 522,
+    "sourceMeshIndex": 471,
+    "sourceMeshName": "VH_F_suprarenal_impression_of_liver",
+    "sourceParentName": "VH_F_liver",
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_liver/VH_F_suprarenal_impression_of_liver",
+    "sourceFile": "3d-vh-f-united.glb",
+    "sourceMetadata": {
+      "anatomical_structure_of": "#VHFLiver",
+      "source_spatial_entity": "#VHFemaleOrgans",
+      "label": "Suprarenal impression of liver",
+      "ontologyid": "FMA:14489",
+      "representation_of": "http://purl.org/sig/ont/fma/fma14489",
+      "glb_file_of_single_organs": "VH_F_Liver\n"
+    },
+    "sourceMaterialNames": [
+      "Liver_mat"
+    ],
+    "sourceMaterialIndices": [
+      63
+    ],
+    "sourcePrimitiveAccessorHashes": [
+      {
+        "POSITION": "dc66ca3119b56b74d4f643a498596bf7bba45ada80dcdacc796da9b7b373cc04",
+        "NORMAL": "eb913b369140b04d22ee31d04435156aa773072f9f74815c58216b1677358dbb",
+        "INDICES": "0a8ee61b8d70a91bfd099de2d82ea532d02ce371d238515d7101206e8d2f3447"
+      }
+    ],
+    "license": "CC-BY-4.0",
+    "materialPolicy": "preserve-original",
+    "appearance": "source-preserve",
+    "hasUV": false,
+    "hasBaseColorTexture": false,
+    "hasNormalTexture": false,
+    "defaultVisible": false,
+    "anatomicalRole": "source surface or landmark; optional context"
+  },
+  {
+    "id": "VH_F_renal_impression_of_liver",
+    "conceptId": "FMA:14488",
+    "nameEn": "Renal impression of liver",
+    "system": "visceral",
+    "displaySystem": "visceral",
+    "meshIds": [
+      "VH_F_renal_impression_of_liver"
+    ],
+    "bounds": [
+      [
+        -0.09399621933698654,
+        0.2687889337539673,
+        -0.13096632063388824
+      ],
+      [
+        -0.0380854457616806,
+        0.3120324909687042,
+        -0.08119681477546692
+      ]
+    ],
+    "vertices": 514,
+    "triangles": 954,
+    "sourceTriangles": 954,
+    "kind": "structure",
+    "sourceNodeName": "VH_F_renal_impression_of_liver",
+    "sourceNodeIndex": 523,
+    "sourceMeshIndex": 472,
+    "sourceMeshName": "VH_F_renal_impression_of_liver",
+    "sourceParentName": "VH_F_liver",
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_liver/VH_F_renal_impression_of_liver",
+    "sourceFile": "3d-vh-f-united.glb",
+    "sourceMetadata": {
+      "anatomical_structure_of": "#VHFLiver",
+      "source_spatial_entity": "#VHFemaleOrgans",
+      "label": "renal impression of liver",
+      "ontologyid": "FMA:14488",
+      "representation_of": "http://purl.org/sig/ont/fma/fma14488",
+      "glb_file_of_single_organs": "VH_F_Liver\n"
+    },
+    "sourceMaterialNames": [
+      "Liver_mat"
+    ],
+    "sourceMaterialIndices": [
+      63
+    ],
+    "sourcePrimitiveAccessorHashes": [
+      {
+        "POSITION": "a161426e7921ffd9cca17cacee7072ec7b4a260987c6867f9e018831324f6502",
+        "NORMAL": "d02aba0b4fc327e85dcd6ecee16ef836ab08024c711b09a14fa950e56f9003e5",
+        "INDICES": "38300c77aba06b78ad05a5844d03ca04a514699cb802f73b3ee3dc121c59808f"
+      }
+    ],
+    "license": "CC-BY-4.0",
+    "materialPolicy": "preserve-original",
+    "appearance": "source-preserve",
+    "hasUV": false,
+    "hasBaseColorTexture": false,
+    "hasNormalTexture": false,
+    "defaultVisible": false,
+    "anatomicalRole": "source surface or landmark; optional context"
+  },
+  {
+    "id": "VH_F_duodenal_impression_of_liver",
+    "conceptId": "FMA:14485",
+    "nameEn": "Duodenal impression of liver",
+    "system": "visceral",
+    "displaySystem": "visceral",
+    "meshIds": [
+      "VH_F_duodenal_impression_of_liver"
+    ],
+    "bounds": [
+      [
+        -0.0594903901219368,
+        0.2883029580116272,
+        -0.08336348086595535
+      ],
+      [
+        -0.04547400772571564,
+        0.30099084973335266,
+        -0.07243173569440842
+      ]
+    ],
+    "vertices": 45,
+    "triangles": 68,
+    "sourceTriangles": 68,
+    "kind": "structure",
+    "sourceNodeName": "VH_F_duodenal_impression_of_liver",
+    "sourceNodeIndex": 524,
+    "sourceMeshIndex": 473,
+    "sourceMeshName": "VH_F_duodenal_impression_of_liver",
+    "sourceParentName": "VH_F_liver",
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_liver/VH_F_duodenal_impression_of_liver",
+    "sourceFile": "3d-vh-f-united.glb",
+    "sourceMetadata": {
+      "anatomical_structure_of": "#VHFLiver",
+      "source_spatial_entity": "#VHFemaleOrgans",
+      "label": "duodenal impression of liver",
+      "ontologyid": "FMA:14485",
+      "representation_of": "http://purl.org/sig/ont/fma/fma14485",
+      "glb_file_of_single_organs": "VH_F_Liver\n"
+    },
+    "sourceMaterialNames": [
+      "Liver_mat"
+    ],
+    "sourceMaterialIndices": [
+      63
+    ],
+    "sourcePrimitiveAccessorHashes": [
+      {
+        "POSITION": "33b056ab0561e8f72ba2adc5e217b708bba15033e902e417cd608663208cd76f",
+        "NORMAL": "d1b896dd24cd79b6b3f8874a5d537bf63458de386557a5b02802105fec436720",
+        "INDICES": "7f6615efe8428338723ceb35b7ce40333b0d443d87e507e3e9a794a6bc15fe5b"
+      }
+    ],
+    "license": "CC-BY-4.0",
+    "materialPolicy": "preserve-original",
+    "appearance": "source-preserve",
+    "hasUV": false,
+    "hasBaseColorTexture": false,
+    "hasNormalTexture": false,
+    "defaultVisible": false,
+    "anatomicalRole": "source surface or landmark; optional context"
+  },
+  {
+    "id": "VH_F_esophageal_impression_of_liver",
+    "conceptId": "FMA:14486",
+    "nameEn": "Esophageal impression of liver",
+    "system": "visceral",
+    "displaySystem": "visceral",
+    "meshIds": [
+      "VH_F_esophageal_impression_of_liver"
+    ],
+    "bounds": [
+      [
+        0.010792951099574566,
+        0.33780211210250854,
+        -0.08061622083187103
+      ],
+      [
+        0.03451649472117424,
+        0.38119181990623474,
+        -0.06412878632545471
+      ]
+    ],
+    "vertices": 212,
+    "triangles": 374,
+    "sourceTriangles": 374,
+    "kind": "structure",
+    "sourceNodeName": "VH_F_esophageal_impression_of_liver",
+    "sourceNodeIndex": 525,
+    "sourceMeshIndex": 474,
+    "sourceMeshName": "VH_F_esophageal_impression_of_liver",
+    "sourceParentName": "VH_F_liver",
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_liver/VH_F_esophageal_impression_of_liver",
+    "sourceFile": "3d-vh-f-united.glb",
+    "sourceMetadata": {
+      "anatomical_structure_of": "#VHFLiver",
+      "source_spatial_entity": "#VHFemaleOrgans",
+      "label": "esophageal impression of liver",
+      "ontologyid": "FMA:14486",
+      "representation_of": "http://purl.org/sig/ont/fma/fma14486",
+      "glb_file_of_single_organs": "VH_F_Liver\n"
+    },
+    "sourceMaterialNames": [
+      "Liver_mat"
+    ],
+    "sourceMaterialIndices": [
+      63
+    ],
+    "sourcePrimitiveAccessorHashes": [
+      {
+        "POSITION": "d590a4263e24ed542432cdd6269fb58abe187f2183a2fc913940ecc67f132a59",
+        "NORMAL": "0bfda4fcb94e51b3171c5f5dc3de91914b030c6a49bf3c4c1ffe74ea7cf54b6d",
+        "INDICES": "28400b6ad39c5f01017810410500a2a24d66867feb0e168eed4f5f6fe4c17551"
+      }
+    ],
+    "license": "CC-BY-4.0",
+    "materialPolicy": "preserve-original",
+    "appearance": "source-preserve",
+    "hasUV": false,
+    "hasBaseColorTexture": false,
+    "hasNormalTexture": false,
+    "defaultVisible": false,
+    "anatomicalRole": "source surface or landmark; optional context"
+  },
+  {
+    "id": "VH_F_porta_hepatis",
+    "conceptId": "FMA:15758",
+    "nameEn": "Porta hepatis",
+    "system": "visceral",
+    "displaySystem": "visceral",
+    "meshIds": [
+      "VH_F_porta_hepatis"
+    ],
+    "bounds": [
+      [
+        -0.057310573756694794,
+        0.2968502342700958,
+        -0.07437004894018173
+      ],
+      [
+        -0.008243336342275143,
+        0.3345215618610382,
+        -0.033628690987825394
+      ]
+    ],
+    "vertices": 458,
+    "triangles": 850,
+    "sourceTriangles": 850,
+    "kind": "structure",
+    "sourceNodeName": "VH_F_porta_hepatis",
+    "sourceNodeIndex": 526,
+    "sourceMeshIndex": 475,
+    "sourceMeshName": "VH_F_porta_hepatis",
+    "sourceParentName": "VH_F_liver",
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_liver/VH_F_porta_hepatis",
+    "sourceFile": "3d-vh-f-united.glb",
+    "sourceMetadata": {
+      "anatomical_structure_of": "#VHFLiver",
+      "source_spatial_entity": "#VHFemaleOrgans",
+      "label": "porta hepatis",
+      "ontologyid": "FMA:15758",
+      "representation_of": "http://purl.org/sig/ont/fma/fma15758",
+      "glb_file_of_single_organs": "VH_F_Liver\n"
+    },
+    "sourceMaterialNames": [
+      "Liver_mat"
+    ],
+    "sourceMaterialIndices": [
+      63
+    ],
+    "sourcePrimitiveAccessorHashes": [
+      {
+        "POSITION": "3c7d5619ac876b08038a48aba2d55b50c6d4f772f78131f05984570d91a073b5",
+        "NORMAL": "56641c74571aed92de1919e1279c527dd292c8bef231917f1a2bc6f70755a26a",
+        "INDICES": "2af4209dfd2f95655acb6a43fcbc052e57267b121f6bb432998aec41f2c3c669"
+      }
+    ],
+    "license": "CC-BY-4.0",
+    "materialPolicy": "preserve-original",
+    "appearance": "source-preserve",
+    "hasUV": false,
+    "hasBaseColorTexture": false,
+    "hasNormalTexture": false,
+    "defaultVisible": false,
+    "anatomicalRole": "source surface or landmark; optional context"
+  },
+  {
+    "id": "VH_F_colic_impression_of_liver",
+    "conceptId": "FMA:14484",
+    "nameEn": "Colic impression of liver",
+    "system": "visceral",
+    "displaySystem": "visceral",
+    "meshIds": [
+      "VH_F_colic_impression_of_liver"
+    ],
+    "bounds": [
+      [
+        -0.10991223156452179,
+        0.2625395655632019,
+        -0.08322736620903015
+      ],
+      [
+        -0.03303024545311928,
+        0.2943666875362396,
+        -0.012934878468513489
+      ]
+    ],
+    "vertices": 331,
+    "triangles": 584,
+    "sourceTriangles": 584,
+    "kind": "structure",
+    "sourceNodeName": "VH_F_colic_impression_of_liver",
+    "sourceNodeIndex": 527,
+    "sourceMeshIndex": 476,
+    "sourceMeshName": "VH_F_colic_impression_of_liver",
+    "sourceParentName": "VH_F_liver",
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_liver/VH_F_colic_impression_of_liver",
+    "sourceFile": "3d-vh-f-united.glb",
+    "sourceMetadata": {
+      "anatomical_structure_of": "#VHFLiver",
+      "source_spatial_entity": "#VHFemaleOrgans",
+      "label": "colic impression of liver",
+      "ontologyid": "FMA:14484",
+      "representation_of": "http://purl.org/sig/ont/fma/fma14484",
+      "glb_file_of_single_organs": "VH_F_Liver\n"
+    },
+    "sourceMaterialNames": [
+      "Liver_mat"
+    ],
+    "sourceMaterialIndices": [
+      63
+    ],
+    "sourcePrimitiveAccessorHashes": [
+      {
+        "POSITION": "019578f798daaf4ffae09011aafc10007f4a23c04eb06381c9debbd4442eef60",
+        "NORMAL": "8349eaaa89eaa0762ce76c841d44009f4935771f6adebdbdc0ab03c959626510",
+        "INDICES": "31e87bad8193bca3544805e10b44154dd4f96181b51f96b32a325ba0770372b5"
+      }
+    ],
+    "license": "CC-BY-4.0",
+    "materialPolicy": "preserve-original",
+    "appearance": "source-preserve",
+    "hasUV": false,
+    "hasBaseColorTexture": false,
+    "hasNormalTexture": false,
+    "defaultVisible": false,
+    "anatomicalRole": "source surface or landmark; optional context"
+  },
+  {
+    "id": "VH_F_capsule_of_the_liver",
+    "conceptId": "UBERON:0016479",
+    "nameEn": "Capsule of the liver",
+    "system": "visceral",
+    "displaySystem": "visceral",
+    "meshIds": [
+      "VH_F_capsule_of_the_liver"
+    ],
+    "bounds": [
+      [
+        -0.13488732278347015,
+        0.2625870108604431,
+        -0.1400981992483139
+      ],
+      [
+        0.1122201681137085,
+        0.4324977397918701,
+        0.012434097006917
+      ]
+    ],
+    "vertices": 15133,
+    "triangles": 30034,
+    "sourceTriangles": 30034,
+    "kind": "structure",
+    "sourceNodeName": "VH_F_capsule_of_the_liver",
+    "sourceNodeIndex": 528,
+    "sourceMeshIndex": 477,
+    "sourceMeshName": "VH_F_capsule_of_the_liver",
+    "sourceParentName": "VH_F_liver",
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_liver/VH_F_capsule_of_the_liver",
+    "sourceFile": "3d-vh-f-united.glb",
+    "sourceMetadata": {
+      "anatomical_structure_of": "#VHFLiver",
+      "source_spatial_entity": "#VHFemaleOrgans",
+      "label": "capsule of the liver",
+      "ontologyid": "UBERON:0016479",
+      "representation_of": "http://purl.obolibrary.org/obo/UBERON_0016479",
+      "glb_file_of_single_organs": "VH_F_Liver\n"
+    },
+    "sourceMaterialNames": [
+      "Liver_mat"
+    ],
+    "sourceMaterialIndices": [
+      63
+    ],
+    "sourcePrimitiveAccessorHashes": [
+      {
+        "POSITION": "7fd3ac63a013bf9e19d3712b0f6858d6f9d726bcb7c77f74516b693a731db7a1",
+        "NORMAL": "5423d0108994f434b726d2c309b459104935949a7fdb82da9874f23f445f4c83",
+        "INDICES": "fe2132fb29543bea9290e0da432f2b99d14db4f4c5754b6459bb051a4c92c5f4"
+      }
+    ],
+    "license": "CC-BY-4.0",
+    "materialPolicy": "preserve-original",
+    "appearance": "source-preserve",
+    "hasUV": false,
+    "hasBaseColorTexture": false,
+    "hasNormalTexture": false,
+    "defaultVisible": false,
+    "anatomicalRole": "source surface or landmark; optional context"
+  },
+  {
+    "id": "VH_F_bare_area_of_liver",
+    "conceptId": "UBERON:0001149",
+    "nameEn": "Bare area of liver",
+    "system": "visceral",
+    "displaySystem": "visceral",
+    "meshIds": [
+      "VH_F_bare_area_of_liver"
+    ],
+    "bounds": [
+      [
+        -0.11884476244449615,
+        0.3048211336135864,
+        -0.15384282171726227
+      ],
+      [
+        0.04120996966958046,
+        0.4151679277420044,
+        -0.05392007157206535
+      ]
+    ],
+    "vertices": 3048,
+    "triangles": 5864,
+    "sourceTriangles": 5864,
+    "kind": "structure",
+    "sourceNodeName": "VH_F_bare_area_of_liver",
+    "sourceNodeIndex": 529,
+    "sourceMeshIndex": 478,
+    "sourceMeshName": "VH_F_bare_area_of_liver",
+    "sourceParentName": "VH_F_liver",
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_liver/VH_F_bare_area_of_liver",
+    "sourceFile": "3d-vh-f-united.glb",
+    "sourceMetadata": {
+      "anatomical_structure_of": "#VHFLiver",
+      "source_spatial_entity": "#VHFemaleOrgans",
+      "label": "bare area of liver",
+      "ontologyid": "UBERON:0001149",
+      "representation_of": "http://purl.obolibrary.org/obo/UBERON_0001149",
+      "glb_file_of_single_organs": "VH_F_Liver\n"
+    },
+    "sourceMaterialNames": [
+      "Liver_mat"
+    ],
+    "sourceMaterialIndices": [
+      63
+    ],
+    "sourcePrimitiveAccessorHashes": [
+      {
+        "POSITION": "af07df88efa0705babd1cc2b07458ad563a42ddc6a22df4d8f7da5e48d0997c2",
+        "NORMAL": "a70b01772772141066622b1b1caf4bfe3722806f5399f1e3e471dc1b41c83298",
+        "INDICES": "444c71a63d8e644fa518b5e0936d4f3835ac94c99b3ab72a75a82fcf74533de8"
+      }
+    ],
+    "license": "CC-BY-4.0",
+    "materialPolicy": "preserve-original",
+    "appearance": "source-preserve",
+    "hasUV": false,
+    "hasBaseColorTexture": false,
+    "hasNormalTexture": false,
+    "defaultVisible": false,
+    "anatomicalRole": "source surface or landmark; optional context"
+  },
+  {
+    "id": "VH_F_diaphragmatic_surface_of_liver",
+    "conceptId": "FMA:15729",
+    "nameEn": "Diaphragmatic surface of liver",
+    "system": "visceral",
+    "displaySystem": "visceral",
+    "meshIds": [
+      "VH_F_diaphragmatic_surface_of_liver"
+    ],
+    "bounds": [
+      [
+        -0.11645153909921646,
+        0.2625250816345215,
+        -0.14256133139133453
+      ],
+      [
+        0.1114019826054573,
+        0.3976861238479614,
+        0.00897550955414772
+      ]
+    ],
+    "vertices": 6368,
+    "triangles": 12448,
+    "sourceTriangles": 12448,
+    "kind": "structure",
+    "sourceNodeName": "VH_F_diaphragmatic_surface_of_liver",
+    "sourceNodeIndex": 530,
+    "sourceMeshIndex": 479,
+    "sourceMeshName": "VH_F_diaphragmatic_surface_of_liver",
+    "sourceParentName": "VH_F_liver",
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_liver/VH_F_diaphragmatic_surface_of_liver",
+    "sourceFile": "3d-vh-f-united.glb",
+    "sourceMetadata": {
+      "anatomical_structure_of": "#VHFLiver",
+      "source_spatial_entity": "#VHFemaleOrgans",
+      "label": "diaphragmatic surface of liver",
+      "ontologyid": "FMA:15729",
+      "representation_of": "http://purl.org/sig/ont/fma/fma15729",
+      "glb_file_of_single_organs": "VH_F_Liver\n"
+    },
+    "sourceMaterialNames": [
+      "Liver_mat"
+    ],
+    "sourceMaterialIndices": [
+      63
+    ],
+    "sourcePrimitiveAccessorHashes": [
+      {
+        "POSITION": "47afe65a6d120d94331c879efc158beb651e99e938a235d0f710d268e2e51409",
+        "NORMAL": "cc44b7b6704d160412f0997c689bfad517abe891753be0ecd3a502545b93f69f",
+        "INDICES": "1e4fee1f8aa511aebeeaf3a65b7b90e461749dc84cbd9e24a2117b9afefbd839"
+      }
+    ],
+    "license": "CC-BY-4.0",
+    "materialPolicy": "preserve-original",
+    "appearance": "source-preserve",
+    "hasUV": false,
+    "hasBaseColorTexture": false,
+    "hasNormalTexture": false,
+    "defaultVisible": false,
+    "anatomicalRole": "source surface or landmark; optional context"
+  },
+  {
+    "id": "VH_F_left_anterolateral_segment",
+    "conceptId": "",
+    "nameEn": "Left anterolateral segment",
+    "system": "visceral",
+    "displaySystem": "visceral",
+    "meshIds": [
+      "VH_F_left_anterolateral_segment"
+    ],
+    "bounds": [
+      [
+        -0.03790036961436272,
+        0.26397860050201416,
+        -0.06175176799297333
+      ],
+      [
+        0.09017767012119293,
+        0.3340069055557251,
+        0.01239237654954195
+      ]
+    ],
+    "vertices": 2541,
+    "triangles": 4904,
+    "sourceTriangles": 4904,
+    "kind": "structure",
+    "sourceNodeName": "VH_F_left_anterolateral_segment",
+    "sourceNodeIndex": 534,
+    "sourceMeshIndex": 480,
+    "sourceMeshName": "VH_F_left_anterolateral_segment",
+    "sourceParentName": "VH_F_liver_left_lateral_lobe",
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_liver/VH_F_couinaud_liver_segment/VH_F_left_lobe_of_liver/VH_F_liver_left_lateral_lobe/VH_F_left_anterolateral_segment",
+    "sourceFile": "3d-vh-f-united.glb",
+    "sourceMetadata": {
+      "anatomical_structure_of": "-",
+      "source_spatial_entity": "#VHFemaleOrgans",
+      "label": "-",
+      "ontologyid": "-",
+      "representation_of": "-",
+      "glb_file_of_single_organs": "VH_F_Liver\n"
+    },
+    "sourceMaterialNames": [
+      "Liver_mat"
+    ],
+    "sourceMaterialIndices": [
+      63
+    ],
+    "sourcePrimitiveAccessorHashes": [
+      {
+        "POSITION": "07e2f242e2dbedba41e2aaa1d6e55e5204604a5b4639c451fce5dab8f0bc0885",
+        "NORMAL": "ec36b8f846ac5f274a9bd4b6f86b57072ec91c959d08ab6cacfec48341fcef8e",
+        "INDICES": "b4a6a27fef6fb3d8f143bf7e875039222648a7a9b4d0ad6699e76dddbb7ca115"
+      }
+    ],
+    "license": "CC-BY-4.0",
+    "materialPolicy": "preserve-original",
+    "appearance": "source-preserve",
+    "hasUV": false,
+    "hasBaseColorTexture": false,
+    "hasNormalTexture": false,
+    "defaultVisible": true,
+    "anatomicalRole": "source liver parenchymal subdivision",
+    "sourceQualityIssue": {
+      "type": "missing source ontology",
+      "resolution": "Source node identity retained; no ontology code invented."
+    },
+    "scopeNote": "Original regional name retained without assigning a new Couinaud number. Do not interpret repeated superomedial labels as independently verified nomenclature."
+  },
+  {
+    "id": "VH_F_left_superomedial_segment",
+    "conceptId": "",
+    "nameEn": "Left superomedial segment",
+    "system": "visceral",
+    "displaySystem": "visceral",
+    "meshIds": [
+      "VH_F_left_superomedial_segment"
+    ],
+    "bounds": [
+      [
+        -0.012802372686564922,
+        0.3232118785381317,
+        -0.08193647116422653
+      ],
+      [
+        0.11214424669742584,
+        0.39925211668014526,
+        0.005919327028095722
+      ]
+    ],
+    "vertices": 3308,
+    "triangles": 6444,
+    "sourceTriangles": 6444,
+    "kind": "structure",
+    "sourceNodeName": "VH_F_left_superomedial_segment",
+    "sourceNodeIndex": 535,
+    "sourceMeshIndex": 481,
+    "sourceMeshName": "VH_F_left_superomedial_segment",
+    "sourceParentName": "VH_F_liver_left_lateral_lobe",
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_liver/VH_F_couinaud_liver_segment/VH_F_left_lobe_of_liver/VH_F_liver_left_lateral_lobe/VH_F_left_superomedial_segment",
+    "sourceFile": "3d-vh-f-united.glb",
+    "sourceMetadata": {
+      "anatomical_structure_of": "-",
+      "source_spatial_entity": "#VHFemaleOrgans",
+      "label": "-",
+      "ontologyid": "-",
+      "representation_of": "-",
+      "glb_file_of_single_organs": "VH_F_Liver\n"
+    },
+    "sourceMaterialNames": [
+      "Liver_mat"
+    ],
+    "sourceMaterialIndices": [
+      63
+    ],
+    "sourcePrimitiveAccessorHashes": [
+      {
+        "POSITION": "896cb39216e7cd9d7f4b0b37d1a9dede8c173edf95b9fa046670c72721365952",
+        "NORMAL": "5125a7f686892d339a77b0af4876d6a65390d777cbed480e9bcd63da9a289ec1",
+        "INDICES": "fef58ded99392482838b07e8bb1d828ac62019775a36c12b647e063dcca5943a"
+      }
+    ],
+    "license": "CC-BY-4.0",
+    "materialPolicy": "preserve-original",
+    "appearance": "source-preserve",
+    "hasUV": false,
+    "hasBaseColorTexture": false,
+    "hasNormalTexture": false,
+    "defaultVisible": true,
+    "anatomicalRole": "source liver parenchymal subdivision",
+    "sourceQualityIssue": {
+      "type": "missing source ontology",
+      "resolution": "Source node identity retained; no ontology code invented."
+    },
+    "scopeNote": "Original regional name retained without assigning a new Couinaud number. Do not interpret repeated superomedial labels as independently verified nomenclature."
+  },
+  {
+    "id": "VH_F_left_superomedial_segment1",
+    "conceptId": "",
+    "nameEn": "Left superomedial segment1",
+    "system": "visceral",
+    "displaySystem": "visceral",
+    "meshIds": [
+      "VH_F_left_superomedial_segment1"
+    ],
+    "bounds": [
+      [
+        -0.08796725422143936,
+        0.3303369879722595,
+        -0.06388180702924728
+      ],
+      [
+        0.01742900162935257,
+        0.4222026765346527,
+        0.003194032935425639
+      ]
+    ],
+    "vertices": 1514,
+    "triangles": 2882,
+    "sourceTriangles": 2882,
+    "kind": "structure",
+    "sourceNodeName": "VH_F_left_superomedial_segment1",
+    "sourceNodeIndex": 537,
+    "sourceMeshIndex": 482,
+    "sourceMeshName": "VH_F_left_superomedial_segment1",
+    "sourceParentName": "VH_F_liver_left_medial_lobe",
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_liver/VH_F_couinaud_liver_segment/VH_F_left_lobe_of_liver/VH_F_liver_left_medial_lobe/VH_F_left_superomedial_segment1",
+    "sourceFile": "3d-vh-f-united.glb",
+    "sourceMetadata": {
+      "anatomical_structure_of": "-",
+      "source_spatial_entity": "#VHFemaleOrgans",
+      "label": "-",
+      "ontologyid": "-",
+      "representation_of": "-",
+      "glb_file_of_single_organs": "VH_F_Liver\n"
+    },
+    "sourceMaterialNames": [
+      "Liver_mat"
+    ],
+    "sourceMaterialIndices": [
+      63
+    ],
+    "sourcePrimitiveAccessorHashes": [
+      {
+        "POSITION": "b29f16f82b74676c3ba426cc9fac4dbc1425c58ce1469f0970a60caaff5ed09c",
+        "NORMAL": "a188b45b85015c89169bdc772eac2edb3dfa4742560873192b2fefa023e56855",
+        "INDICES": "31d965ca1ea5c716884e88502cbd806ccabc91c8296609e9ec506381e85c4628"
+      }
+    ],
+    "license": "CC-BY-4.0",
+    "materialPolicy": "preserve-original",
+    "appearance": "source-preserve",
+    "hasUV": false,
+    "hasBaseColorTexture": false,
+    "hasNormalTexture": false,
+    "defaultVisible": true,
+    "anatomicalRole": "source liver parenchymal subdivision",
+    "sourceQualityIssue": {
+      "type": "missing source ontology",
+      "resolution": "Source node identity retained; no ontology code invented."
+    },
+    "scopeNote": "Original regional name retained without assigning a new Couinaud number. Do not interpret repeated superomedial labels as independently verified nomenclature."
+  },
+  {
+    "id": "VH_F_left_inferomedial_segment",
+    "conceptId": "",
+    "nameEn": "Left inferomedial segment",
+    "system": "visceral",
+    "displaySystem": "visceral",
+    "meshIds": [
+      "VH_F_left_inferomedial_segment"
+    ],
+    "bounds": [
+      [
+        -0.09451890736818314,
+        0.26950496435165405,
+        -0.023465557023882866
+      ],
+      [
+        -0.012802372686564922,
+        0.3317493498325348,
+        0.0051301876083016396
+      ]
+    ],
+    "vertices": 792,
+    "triangles": 1476,
+    "sourceTriangles": 1476,
+    "kind": "structure",
+    "sourceNodeName": "VH_F_left_inferomedial_segment",
+    "sourceNodeIndex": 538,
+    "sourceMeshIndex": 483,
+    "sourceMeshName": "VH_F_left_inferomedial_segment",
+    "sourceParentName": "VH_F_liver_left_medial_lobe",
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_liver/VH_F_couinaud_liver_segment/VH_F_left_lobe_of_liver/VH_F_liver_left_medial_lobe/VH_F_left_inferomedial_segment",
+    "sourceFile": "3d-vh-f-united.glb",
+    "sourceMetadata": {
+      "anatomical_structure_of": "-",
+      "source_spatial_entity": "#VHFemaleOrgans",
+      "label": "-",
+      "ontologyid": "-",
+      "representation_of": "-",
+      "glb_file_of_single_organs": "VH_F_Liver\n"
+    },
+    "sourceMaterialNames": [
+      "Liver_mat"
+    ],
+    "sourceMaterialIndices": [
+      63
+    ],
+    "sourcePrimitiveAccessorHashes": [
+      {
+        "POSITION": "f4c1b46fabb201cc622f655cb6f64f8428a3b9e1aa88679b01a90c881b177da1",
+        "NORMAL": "72a6ddc6dcb6f7eda0afbf9ecf732a8617c3172d00ec688f475781ab5d2fa45f",
+        "INDICES": "273f9260bfba2d7d43581251e39a7d7ea523a0bfbf6c2046b810e4e5ed6e307e"
+      }
+    ],
+    "license": "CC-BY-4.0",
+    "materialPolicy": "preserve-original",
+    "appearance": "source-preserve",
+    "hasUV": false,
+    "hasBaseColorTexture": false,
+    "hasNormalTexture": false,
+    "defaultVisible": true,
+    "anatomicalRole": "source liver parenchymal subdivision",
+    "sourceQualityIssue": {
+      "type": "missing source ontology",
+      "resolution": "Source node identity retained; no ontology code invented."
+    },
+    "scopeNote": "Original regional name retained without assigning a new Couinaud number. Do not interpret repeated superomedial labels as independently verified nomenclature."
+  },
+  {
+    "id": "VH_F_quadrate_lobe",
+    "conceptId": "UBERON:0001116",
+    "nameEn": "Quadrate lobe of liver",
+    "system": "visceral",
+    "displaySystem": "visceral",
+    "meshIds": [
+      "VH_F_quadrate_lobe"
+    ],
+    "bounds": [
+      [
+        -0.08777671307325363,
+        0.2659551501274109,
+        -0.06726440787315369
+      ],
+      [
+        -0.023581432178616524,
+        0.3320216238498688,
+        -0.0015856135869398713
+      ]
+    ],
+    "vertices": 1066,
+    "triangles": 2008,
+    "sourceTriangles": 2008,
+    "kind": "structure",
+    "sourceNodeName": "VH_F_quadrate_lobe",
+    "sourceNodeIndex": 539,
+    "sourceMeshIndex": 484,
+    "sourceMeshName": "VH_F_quadrate_lobe",
+    "sourceParentName": "VH_F_left_inferomedial_segment",
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_liver/VH_F_couinaud_liver_segment/VH_F_left_lobe_of_liver/VH_F_liver_left_medial_lobe/VH_F_left_inferomedial_segment/VH_F_quadrate_lobe",
+    "sourceFile": "3d-vh-f-united.glb",
+    "sourceMetadata": {
+      "anatomical_structure_of": "#VHFLiver",
+      "source_spatial_entity": "#VHFemaleOrgans",
+      "label": "quadrate lobe of liver",
+      "ontologyid": "UBERON:0001116",
+      "representation_of": "http://purl.obolibrary.org/obo/UBERON_0001116",
+      "glb_file_of_single_organs": "VH_F_Liver\n"
+    },
+    "sourceMaterialNames": [
+      "Liver_mat"
+    ],
+    "sourceMaterialIndices": [
+      63
+    ],
+    "sourcePrimitiveAccessorHashes": [
+      {
+        "POSITION": "90c47bc6a70cd07bdb5fc14b8f69ebe39e60262ceec17c423b0ea65050424ebc",
+        "NORMAL": "3804490802b72921b9b862bf1927a85068abddefdfd34341094a8a0ab56bedcc",
+        "INDICES": "7c9e2cdb8f132401d0a604a0faa205ea90b7d227e3232e5b8b09eee03c9ee360"
+      }
+    ],
+    "license": "CC-BY-4.0",
+    "materialPolicy": "preserve-original",
+    "appearance": "source-preserve",
+    "hasUV": false,
+    "hasBaseColorTexture": false,
+    "hasNormalTexture": false,
+    "defaultVisible": true,
+    "anatomicalRole": "source liver parenchymal subdivision",
+    "scopeNote": "Original regional name retained without assigning a new Couinaud number. Do not interpret repeated superomedial labels as independently verified nomenclature."
+  },
+  {
+    "id": "VH_F_right_anterosuperior_segment",
+    "conceptId": "",
+    "nameEn": "Right anterosuperior segment",
+    "system": "visceral",
+    "displaySystem": "visceral",
+    "meshIds": [
+      "VH_F_right_anterosuperior_segment"
+    ],
+    "bounds": [
+      [
+        -0.13435009121894836,
+        0.33077284693717957,
+        -0.09502806514501572
+      ],
+      [
+        -0.023033007979393005,
+        0.4324268102645874,
+        -0.015604275278747082
+      ]
+    ],
+    "vertices": 1352,
+    "triangles": 2550,
+    "sourceTriangles": 2550,
+    "kind": "structure",
+    "sourceNodeName": "VH_F_right_anterosuperior_segment",
+    "sourceNodeIndex": 541,
+    "sourceMeshIndex": 485,
+    "sourceMeshName": "VH_F_right_anterosuperior_segment",
+    "sourceParentName": "VH_F_right_lobe_of_liver",
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_liver/VH_F_couinaud_liver_segment/VH_F_right_lobe_of_liver/VH_F_right_anterosuperior_segment",
+    "sourceFile": "3d-vh-f-united.glb",
+    "sourceMetadata": {
+      "anatomical_structure_of": "-",
+      "source_spatial_entity": "#VHFemaleOrgans",
+      "label": "-",
+      "ontologyid": "-",
+      "representation_of": "-",
+      "glb_file_of_single_organs": "VH_F_Liver\n"
+    },
+    "sourceMaterialNames": [
+      "Liver_mat"
+    ],
+    "sourceMaterialIndices": [
+      63
+    ],
+    "sourcePrimitiveAccessorHashes": [
+      {
+        "POSITION": "13c5ccb0e923013480d79370acf7a8c00d613a2272a9ed166b7fd310a4ca02e2",
+        "NORMAL": "4cd286d78b85e4c2c8e9fd83ffe0c798cb2204758f6d2346946e8654265364ea",
+        "INDICES": "ddd37f25dadc86c35e58b7f965b83ec318878594cb7c9c758f4d09988cadca2a"
+      }
+    ],
+    "license": "CC-BY-4.0",
+    "materialPolicy": "preserve-original",
+    "appearance": "source-preserve",
+    "hasUV": false,
+    "hasBaseColorTexture": false,
+    "hasNormalTexture": false,
+    "defaultVisible": true,
+    "anatomicalRole": "source liver parenchymal subdivision",
+    "sourceQualityIssue": {
+      "type": "missing source ontology",
+      "resolution": "Source node identity retained; no ontology code invented."
+    },
+    "scopeNote": "Original regional name retained without assigning a new Couinaud number. Do not interpret repeated superomedial labels as independently verified nomenclature."
+  },
+  {
+    "id": "VH_F_right_posteroinferior_segment",
+    "conceptId": "",
+    "nameEn": "Right posteroinferior segment",
+    "system": "visceral",
+    "displaySystem": "visceral",
+    "meshIds": [
+      "VH_F_right_posteroinferior_segment"
+    ],
+    "bounds": [
+      [
+        -0.1346474587917328,
+        0.2641414701938629,
+        -0.1522052139043808
+      ],
+      [
+        -0.037604816257953644,
+        0.3379945755004883,
+        -0.09006930887699127
+      ]
+    ],
+    "vertices": 1260,
+    "triangles": 2386,
+    "sourceTriangles": 2386,
+    "kind": "structure",
+    "sourceNodeName": "VH_F_right_posteroinferior_segment",
+    "sourceNodeIndex": 542,
+    "sourceMeshIndex": 486,
+    "sourceMeshName": "VH_F_right_posteroinferior_segment",
+    "sourceParentName": "VH_F_right_lobe_of_liver",
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_liver/VH_F_couinaud_liver_segment/VH_F_right_lobe_of_liver/VH_F_right_posteroinferior_segment",
+    "sourceFile": "3d-vh-f-united.glb",
+    "sourceMetadata": {
+      "anatomical_structure_of": "-",
+      "source_spatial_entity": "#VHFemaleOrgans",
+      "label": "-",
+      "ontologyid": "-",
+      "representation_of": "-",
+      "glb_file_of_single_organs": "VH_F_Liver\n"
+    },
+    "sourceMaterialNames": [
+      "Liver_mat"
+    ],
+    "sourceMaterialIndices": [
+      63
+    ],
+    "sourcePrimitiveAccessorHashes": [
+      {
+        "POSITION": "64e5a82f1395dce20534912a54ff0a91cfb9848fe308abda0d125dde9b2b2bd4",
+        "NORMAL": "42c21ec7588d4c4be998af5048beaffd94a72c5fa16860c7d0f3c3b91017d89d",
+        "INDICES": "86d37675c9cd5484f2f6d316ac711a06f1492e793884fdd7020abf6b36a661c3"
+      }
+    ],
+    "license": "CC-BY-4.0",
+    "materialPolicy": "preserve-original",
+    "appearance": "source-preserve",
+    "hasUV": false,
+    "hasBaseColorTexture": false,
+    "hasNormalTexture": false,
+    "defaultVisible": true,
+    "anatomicalRole": "source liver parenchymal subdivision",
+    "sourceQualityIssue": {
+      "type": "missing source ontology",
+      "resolution": "Source node identity retained; no ontology code invented."
+    },
+    "scopeNote": "Original regional name retained without assigning a new Couinaud number. Do not interpret repeated superomedial labels as independently verified nomenclature."
+  },
+  {
+    "id": "VH_F_right_posterosuperior_segment",
+    "conceptId": "",
+    "nameEn": "Right posterosuperior segment",
+    "system": "visceral",
+    "displaySystem": "visceral",
+    "meshIds": [
+      "VH_F_right_posterosuperior_segment"
+    ],
+    "bounds": [
+      [
+        -0.1343110352754593,
+        0.3299861550331116,
+        -0.15377701818943024
+      ],
+      [
+        -0.0322432704269886,
+        0.4253510534763336,
+        -0.09024777263402939
+      ]
+    ],
+    "vertices": 1608,
+    "triangles": 3076,
+    "sourceTriangles": 3076,
+    "kind": "structure",
+    "sourceNodeName": "VH_F_right_posterosuperior_segment",
+    "sourceNodeIndex": 543,
+    "sourceMeshIndex": 487,
+    "sourceMeshName": "VH_F_right_posterosuperior_segment",
+    "sourceParentName": "VH_F_right_lobe_of_liver",
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_liver/VH_F_couinaud_liver_segment/VH_F_right_lobe_of_liver/VH_F_right_posterosuperior_segment",
+    "sourceFile": "3d-vh-f-united.glb",
+    "sourceMetadata": {
+      "anatomical_structure_of": "-",
+      "source_spatial_entity": "#VHFemaleOrgans",
+      "label": "-",
+      "ontologyid": "-",
+      "representation_of": "-",
+      "glb_file_of_single_organs": "VH_F_Liver\n"
+    },
+    "sourceMaterialNames": [
+      "Liver_mat"
+    ],
+    "sourceMaterialIndices": [
+      63
+    ],
+    "sourcePrimitiveAccessorHashes": [
+      {
+        "POSITION": "b066b0de669bfa5cd85ec0527b40a686bdbf2b2a7ffd85278fe5cc316036abbe",
+        "NORMAL": "f520f3dda65740748a1c3512a103554dae5976418deb5b2926700d4feb32dfae",
+        "INDICES": "93a2c311f8434d10c712cc47bf9a726e85e44ab72eecfc1b3eb10bcd5749ab25"
+      }
+    ],
+    "license": "CC-BY-4.0",
+    "materialPolicy": "preserve-original",
+    "appearance": "source-preserve",
+    "hasUV": false,
+    "hasBaseColorTexture": false,
+    "hasNormalTexture": false,
+    "defaultVisible": true,
+    "anatomicalRole": "source liver parenchymal subdivision",
+    "sourceQualityIssue": {
+      "type": "missing source ontology",
+      "resolution": "Source node identity retained; no ontology code invented."
+    },
+    "scopeNote": "Original regional name retained without assigning a new Couinaud number. Do not interpret repeated superomedial labels as independently verified nomenclature."
+  },
+  {
+    "id": "VH_F_right_anteroinferior_segment",
+    "conceptId": "",
+    "nameEn": "Right anteroinferior segment",
+    "system": "visceral",
+    "displaySystem": "visceral",
+    "meshIds": [
+      "VH_F_right_anteroinferior_segment"
+    ],
+    "bounds": [
+      [
+        -0.1347273588180542,
+        0.2626878321170807,
+        -0.09282089024782181
+      ],
+      [
+        -0.04517248645424843,
+        0.3379945755004883,
+        -0.011963991448283195
+      ]
+    ],
+    "vertices": 1291,
+    "triangles": 2418,
+    "sourceTriangles": 2418,
+    "kind": "structure",
+    "sourceNodeName": "VH_F_right_anteroinferior_segment",
+    "sourceNodeIndex": 544,
+    "sourceMeshIndex": 488,
+    "sourceMeshName": "VH_F_right_anteroinferior_segment",
+    "sourceParentName": "VH_F_right_lobe_of_liver",
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_liver/VH_F_couinaud_liver_segment/VH_F_right_lobe_of_liver/VH_F_right_anteroinferior_segment",
+    "sourceFile": "3d-vh-f-united.glb",
+    "sourceMetadata": {
+      "anatomical_structure_of": "-",
+      "source_spatial_entity": "#VHFemaleOrgans",
+      "label": "-",
+      "ontologyid": "-",
+      "representation_of": "-",
+      "glb_file_of_single_organs": "VH_F_Liver\n"
+    },
+    "sourceMaterialNames": [
+      "Liver_mat"
+    ],
+    "sourceMaterialIndices": [
+      63
+    ],
+    "sourcePrimitiveAccessorHashes": [
+      {
+        "POSITION": "ea7dbf3d0c3619e2998dccc2285f65811b211bcf5ee8976e92bdfb4ff84ba59e",
+        "NORMAL": "5ef92ebca3408b20e42eaabe79db3d5d86349a9f40c1ec8ce97a1388bdbcf8f5",
+        "INDICES": "f6bc988ecc176620e982e94ed808adb66e5def7937c38839b68de5d4fc83aef0"
+      }
+    ],
+    "license": "CC-BY-4.0",
+    "materialPolicy": "preserve-original",
+    "appearance": "source-preserve",
+    "hasUV": false,
+    "hasBaseColorTexture": false,
+    "hasNormalTexture": false,
+    "defaultVisible": true,
+    "anatomicalRole": "source liver parenchymal subdivision",
+    "sourceQualityIssue": {
+      "type": "missing source ontology",
+      "resolution": "Source node identity retained; no ontology code invented."
+    },
+    "scopeNote": "Original regional name retained without assigning a new Couinaud number. Do not interpret repeated superomedial labels as independently verified nomenclature."
+  },
+  {
+    "id": "VH_F_caudate_lobe",
+    "conceptId": "UBERON:0001117",
+    "nameEn": "Caudate lobe of liver",
+    "system": "visceral",
+    "displaySystem": "visceral",
+    "meshIds": [
+      "VH_F_caudate_lobe"
+    ],
+    "bounds": [
+      [
+        -0.050473518669605255,
+        0.2979976534843445,
+        -0.11662663519382477
+      ],
+      [
+        0.030446423217654228,
+        0.4120492935180664,
+        -0.04998481646180153
+      ]
+    ],
+    "vertices": 2779,
+    "triangles": 5354,
+    "sourceTriangles": 5354,
+    "kind": "structure",
+    "sourceNodeName": "VH_F_caudate_lobe",
+    "sourceNodeIndex": 545,
+    "sourceMeshIndex": 489,
+    "sourceMeshName": "VH_F_caudate_lobe",
+    "sourceParentName": "VH_F_right_lobe_of_liver",
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_liver/VH_F_couinaud_liver_segment/VH_F_right_lobe_of_liver/VH_F_caudate_lobe",
+    "sourceFile": "3d-vh-f-united.glb",
+    "sourceMetadata": {
+      "anatomical_structure_of": "#VHFLiver",
+      "source_spatial_entity": "#VHFemaleOrgans",
+      "label": "caudate lobe of liver",
+      "ontologyid": "UBERON:0001117",
+      "representation_of": "http://purl.obolibrary.org/obo/UBERON_0001117",
+      "glb_file_of_single_organs": "VH_F_Liver\n"
+    },
+    "sourceMaterialNames": [
+      "Liver_mat"
+    ],
+    "sourceMaterialIndices": [
+      63
+    ],
+    "sourcePrimitiveAccessorHashes": [
+      {
+        "POSITION": "c1b70713bc8f53aa725da9be092e616b6bbcf06bad516594b490ac84be0bfb06",
+        "NORMAL": "41105ea5085690c0459c979000eb3e9ac26fe9cbc0187587bbd04da4982434f4",
+        "INDICES": "ab6a5ec82e086b20e51e06e5214b343b8981136229d0c385d99431244e4baf44"
+      }
+    ],
+    "license": "CC-BY-4.0",
+    "materialPolicy": "preserve-original",
+    "appearance": "source-preserve",
+    "hasUV": false,
+    "hasBaseColorTexture": false,
+    "hasNormalTexture": false,
+    "defaultVisible": true,
+    "anatomicalRole": "source liver parenchymal subdivision",
+    "scopeNote": "Original regional name retained without assigning a new Couinaud number. Do not interpret repeated superomedial labels as independently verified nomenclature."
+  },
+  {
+    "id": "VH_F_tail_of_pancreas",
+    "conceptId": "UBERON:0001151",
+    "nameEn": "Tail of pancreas",
+    "system": "visceral",
+    "displaySystem": "visceral",
+    "meshIds": [
+      "VH_F_tail_of_pancreas"
+    ],
+    "bounds": [
+      [
+        0.0420064739882946,
+        0.24882270395755768,
+        -0.11208879202604294
+      ],
+      [
+        0.11807678639888763,
+        0.2882678806781769,
+        -0.04987296834588051
+      ]
+    ],
+    "vertices": 8147,
+    "triangles": 3997,
+    "sourceTriangles": 3997,
+    "kind": "structure",
+    "sourceNodeName": "VH_F_tail_of_pancreas",
+    "sourceNodeIndex": 554,
+    "sourceMeshIndex": 496,
+    "sourceMeshName": "VH_F_tail_of_pancreas",
+    "sourceParentName": "VH_F_pancreas",
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_pancreas/VH_F_tail_of_pancreas",
+    "sourceFile": "3d-vh-f-united.glb",
+    "sourceMetadata": {
+      "anatomical_structure_of": "#VHFPancreas",
+      "source_spatial_entity": "#VHFemaleOrgans",
+      "label": "tail of pancreas",
+      "ontologyid": "UBERON:0001151",
+      "representation_of": "http://purl.obolibrary.org/obo/UBERON_0001151",
+      "glb_file_of_single_organs": "VH_F_Pancreas"
+    },
+    "sourceMaterialNames": [
+      "gland_mat"
+    ],
+    "sourceMaterialIndices": [
+      4
+    ],
+    "sourcePrimitiveAccessorHashes": [
+      {
+        "POSITION": "599576bd3959a00098d71c59654106b04e7a5a5e31e95d20227926fd88d099b1",
+        "NORMAL": "ce7444f17dce407292ad79be6ff4bf84a5e2025d72d1b45554d5e009018b982f",
+        "INDICES": "27ab0b5a01359d183d4152692169b5647097e952a53fb7c56f5c4d9f5a73fa02"
+      }
+    ],
+    "license": "CC-BY-4.0",
+    "materialPolicy": "preserve-original",
+    "appearance": "source-preserve",
+    "hasUV": false,
+    "hasBaseColorTexture": false,
+    "hasNormalTexture": false,
+    "defaultVisible": true,
+    "anatomicalRole": "organ subdivision"
+  },
+  {
+    "id": "VH_F_body_of_pancreas",
+    "conceptId": "UBERON:0001150",
+    "nameEn": "Body of pancreas",
+    "system": "visceral",
+    "displaySystem": "visceral",
+    "meshIds": [
+      "VH_F_body_of_pancreas"
+    ],
+    "bounds": [
+      [
+        -0.01057775504887104,
+        0.2518276274204254,
+        -0.07602794468402863
+      ],
+      [
+        0.05372413620352745,
+        0.29407721757888794,
+        -0.02771533839404583
+      ]
+    ],
+    "vertices": 7373,
+    "triangles": 3595,
+    "sourceTriangles": 3595,
+    "kind": "structure",
+    "sourceNodeName": "VH_F_body_of_pancreas",
+    "sourceNodeIndex": 555,
+    "sourceMeshIndex": 497,
+    "sourceMeshName": "VH_F_body_of_pancreas",
+    "sourceParentName": "VH_F_pancreas",
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_pancreas/VH_F_body_of_pancreas",
+    "sourceFile": "3d-vh-f-united.glb",
+    "sourceMetadata": {
+      "anatomical_structure_of": "#VHFPancreas",
+      "source_spatial_entity": "#VHFemaleOrgans",
+      "label": "body of pancreas",
+      "ontologyid": "UBERON:0001150",
+      "representation_of": "http://purl.obolibrary.org/obo/UBERON_0001150",
+      "glb_file_of_single_organs": "VH_F_Pancreas"
+    },
+    "sourceMaterialNames": [
+      "gland_mat"
+    ],
+    "sourceMaterialIndices": [
+      4
+    ],
+    "sourcePrimitiveAccessorHashes": [
+      {
+        "POSITION": "8d41a35ac46e2bb4729b5513fe1f133f4ae859fd936596e1971c8aa9f08337f9",
+        "NORMAL": "c5ada4a9400d2d09730b4b5b448642e96026c31ecc835ea402eb99cd70d7c04e",
+        "INDICES": "969e93f38a1bf0779231846e9ea22ba0eb4f40545d55617fb095f4ac148a83d8"
+      }
+    ],
+    "license": "CC-BY-4.0",
+    "materialPolicy": "preserve-original",
+    "appearance": "source-preserve",
+    "hasUV": false,
+    "hasBaseColorTexture": false,
+    "hasNormalTexture": false,
+    "defaultVisible": true,
+    "anatomicalRole": "organ subdivision"
+  },
+  {
+    "id": "VH_F_ucinate_process1",
+    "conceptId": "UBERON:0010373",
+    "nameEn": "Uncinate process of pancreas",
+    "system": "visceral",
+    "displaySystem": "visceral",
+    "meshIds": [
+      "VH_F_ucinate_process1"
+    ],
+    "bounds": [
+      [
+        -0.040230631828308105,
+        0.23753882944583893,
+        -0.06941457837820053
+      ],
+      [
+        -0.0008083721622824669,
+        0.25932493805885315,
+        -0.04676628112792969
+      ]
+    ],
+    "vertices": 1709,
+    "triangles": 831,
+    "sourceTriangles": 831,
+    "kind": "structure",
+    "sourceNodeName": "VH_F_ucinate_process1",
+    "sourceNodeIndex": 556,
+    "sourceMeshIndex": 498,
+    "sourceMeshName": "VH_F_ucinate_process1",
+    "sourceParentName": "VH_F_pancreas",
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_pancreas/VH_F_ucinate_process1",
+    "sourceFile": "3d-vh-f-united.glb",
+    "sourceMetadata": {
+      "anatomical_structure_of": "#VHFPancreas",
+      "source_spatial_entity": "#VHFemaleOrgans",
+      "label": "uncinate process of pancreas",
+      "ontologyid": "UBERON:0010373",
+      "representation_of": "http://purl.obolibrary.org/obo/UBERON_0010373",
+      "glb_file_of_single_organs": "VH_F_Pancreas"
+    },
+    "sourceMaterialNames": [
+      "gland_mat"
+    ],
+    "sourceMaterialIndices": [
+      4
+    ],
+    "sourcePrimitiveAccessorHashes": [
+      {
+        "POSITION": "9b385f7b6fe88cbe960313fc08cecfd460c46dce9489c02121892615f9525810",
+        "NORMAL": "9b45ce8921bf5dbd89bcb840824aa4d061423b00e831b352510eeb3e6dcbc510",
+        "INDICES": "648084110e3448694029c73b631207cb1c1928ba08de8285c4b0ce2691444060"
+      }
+    ],
+    "license": "CC-BY-4.0",
+    "materialPolicy": "preserve-original",
+    "appearance": "source-preserve",
+    "hasUV": false,
+    "hasBaseColorTexture": false,
+    "hasNormalTexture": false,
+    "defaultVisible": true,
+    "anatomicalRole": "organ subdivision"
+  },
+  {
+    "id": "VH_F_head_of_pancreas",
+    "conceptId": "UBERON:0001069",
+    "nameEn": "Head of pancreas",
+    "system": "visceral",
+    "displaySystem": "visceral",
+    "meshIds": [
+      "VH_F_head_of_pancreas"
+    ],
+    "bounds": [
+      [
+        -0.05395494028925896,
+        0.24867422878742218,
+        -0.07958701997995377
+      ],
+      [
+        -5.2518994380079675e-06,
+        0.2927190363407135,
+        -0.03920144960284233
+      ]
+    ],
+    "vertices": 7574,
+    "triangles": 3733,
+    "sourceTriangles": 3733,
+    "kind": "structure",
+    "sourceNodeName": "VH_F_head_of_pancreas",
+    "sourceNodeIndex": 557,
+    "sourceMeshIndex": 499,
+    "sourceMeshName": "VH_F_head_of_pancreas",
+    "sourceParentName": "VH_F_pancreas",
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_pancreas/VH_F_head_of_pancreas",
+    "sourceFile": "3d-vh-f-united.glb",
+    "sourceMetadata": {
+      "anatomical_structure_of": "#VHFPancreas",
+      "source_spatial_entity": "#VHFemaleOrgans",
+      "label": "head of pancreas",
+      "ontologyid": "UBERON:0001069",
+      "representation_of": "http://purl.obolibrary.org/obo/UBERON_0001069",
+      "glb_file_of_single_organs": "VH_F_Pancreas"
+    },
+    "sourceMaterialNames": [
+      "gland_mat"
+    ],
+    "sourceMaterialIndices": [
+      4
+    ],
+    "sourcePrimitiveAccessorHashes": [
+      {
+        "POSITION": "21a9f9adb127c5bacb7797e7be3b2a95c4e3c6da6090a3e711f43d9af553a7b4",
+        "NORMAL": "bbb341bb91dec9397f43b8a226d9ceca96e30c4f2d0ba2bbf72374b1d63c996a",
+        "INDICES": "390b15325ab654c1c64edc65a3d8830854b28bb9a4d4368f20084908c256cea9"
+      }
+    ],
+    "license": "CC-BY-4.0",
+    "materialPolicy": "preserve-original",
+    "appearance": "source-preserve",
+    "hasUV": false,
+    "hasBaseColorTexture": false,
+    "hasNormalTexture": false,
+    "defaultVisible": true,
+    "anatomicalRole": "organ subdivision"
+  },
+  {
+    "id": "VH_F_neck_of_pancreas",
+    "conceptId": "FMA:14517",
+    "nameEn": "Neck of pancreas",
+    "system": "visceral",
+    "displaySystem": "visceral",
+    "meshIds": [
+      "VH_F_neck_of_pancreas"
+    ],
+    "bounds": [
+      [
+        -0.020204180851578712,
+        0.25773757696151733,
+        -0.05289842560887337
+      ],
+      [
+        0.001298363320529461,
+        0.2817671000957489,
+        -0.03426116704940796
+      ]
+    ],
+    "vertices": 1548,
+    "triangles": 738,
+    "sourceTriangles": 738,
+    "kind": "structure",
+    "sourceNodeName": "VH_F_neck_of_pancreas",
+    "sourceNodeIndex": 558,
+    "sourceMeshIndex": 500,
+    "sourceMeshName": "VH_F_neck_of_pancreas",
+    "sourceParentName": "VH_F_pancreas",
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_pancreas/VH_F_neck_of_pancreas",
+    "sourceFile": "3d-vh-f-united.glb",
+    "sourceMetadata": {
+      "anatomical_structure_of": "#VHFPancreas",
+      "source_spatial_entity": "#VHFemaleOrgans",
+      "label": "Neck of pancreas",
+      "ontologyid": "FMA:14517",
+      "representation_of": "http://purl.org/sig/ont/fma/fma14517",
+      "glb_file_of_single_organs": "VH_F_Pancreas"
+    },
+    "sourceMaterialNames": [
+      "gland_mat"
+    ],
+    "sourceMaterialIndices": [
+      4
+    ],
+    "sourcePrimitiveAccessorHashes": [
+      {
+        "POSITION": "cfdc461fca2d983dfa0538dae30a60370133935a6efea40079f7e60f1859dd41",
+        "NORMAL": "e9d46c42ca2e234eaf6f7cf4fe19795f66c1fad4cdb251ed3d15116570b9cd06",
+        "INDICES": "f5b899f9fa05d6905bb9c1533cd884b6f3474196fcc8f7a2f872153b0bb58e26"
+      }
+    ],
+    "license": "CC-BY-4.0",
+    "materialPolicy": "preserve-original",
+    "appearance": "source-preserve",
+    "hasUV": false,
+    "hasBaseColorTexture": false,
+    "hasNormalTexture": false,
+    "defaultVisible": true,
+    "anatomicalRole": "organ subdivision"
+  },
+  {
+    "id": "VH_F_duodenum_superior",
+    "conceptId": "FMA:7206",
+    "nameEn": "Superior part of duodenum",
+    "system": "visceral",
+    "displaySystem": "visceral",
+    "meshIds": [
+      "VH_F_duodenum_superior"
+    ],
+    "bounds": [
+      [
+        -0.04969744011759758,
+        0.2450709044933319,
+        -0.0691952183842659
+      ],
+      [
+        -0.011244631372392178,
+        0.2961168587207794,
+        -0.00022676089429296553
+      ]
+    ],
+    "vertices": 648,
+    "triangles": 1224,
+    "sourceTriangles": 1224,
+    "kind": "structure",
+    "sourceNodeName": "VH_F_duodenum_superior",
+    "sourceNodeIndex": 499,
+    "sourceMeshIndex": 453,
+    "sourceMeshName": "VH_F_duodenum_superior",
+    "sourceParentName": "VH_F_duodenum",
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_small_intestine/VH_F_duodenum/VH_F_duodenum_superior",
+    "sourceFile": "3d-vh-f-united.glb",
+    "sourceMetadata": {
+      "anatomical_structure_of": "#VHFSmallIntestine",
+      "source_spatial_entity": "#VHFemaleOrgans",
+      "label": "superior part of duodenum",
+      "ontologyid": "FMA:7206",
+      "representation_of": "http://purl.org/sig/ont/fma/fma14926",
+      "glb_file_of_single_organs": "VH_F_Small_Intestine\n"
+    },
+    "sourceMaterialNames": [
+      "sm_intestine_mat"
+    ],
+    "sourceMaterialIndices": [
+      61
+    ],
+    "sourcePrimitiveAccessorHashes": [
+      {
+        "POSITION": "443de8a860566f9eed60c451458d4c88540921996d88589ceef8630a1f522798",
+        "NORMAL": "24dda6ee6577254a10f4068ba5bb1f57dce45b9bc129c7059bf40a00f08e739c",
+        "INDICES": "c1d16fff977835ee544e00a10751027a8d88a8ead3388ce94699af250431102f"
+      }
+    ],
+    "license": "CC-BY-4.0",
+    "materialPolicy": "preserve-original",
+    "appearance": "source-preserve",
+    "hasUV": false,
+    "hasBaseColorTexture": false,
+    "hasNormalTexture": false,
+    "defaultVisible": true,
+    "anatomicalRole": "organ subdivision"
+  },
+  {
+    "id": "VH_F_duodenal_ampulla",
+    "conceptId": "UBERON:0013644",
+    "nameEn": "Duodenal ampulla",
+    "system": "visceral",
+    "displaySystem": "visceral",
+    "meshIds": [
+      "VH_F_duodenal_ampulla"
+    ],
+    "bounds": [
+      [
+        -0.03970484808087349,
+        0.23337292671203613,
+        -0.023482434451580048
+      ],
+      [
+        -0.01093993242830038,
+        0.26252466440200806,
+        0.006455487571656704
+      ]
+    ],
+    "vertices": 576,
+    "triangles": 1116,
+    "sourceTriangles": 1116,
+    "kind": "structure",
+    "sourceNodeName": "VH_F_duodenal_ampulla",
+    "sourceNodeIndex": 500,
+    "sourceMeshIndex": 454,
+    "sourceMeshName": "VH_F_duodenal_ampulla",
+    "sourceParentName": "VH_F_duodenum_superior",
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_small_intestine/VH_F_duodenum/VH_F_duodenum_superior/VH_F_duodenal_ampulla",
+    "sourceFile": "3d-vh-f-united.glb",
+    "sourceMetadata": {
+      "anatomical_structure_of": "#VHFSmallIntestine",
+      "source_spatial_entity": "#VHFemaleOrgans",
+      "label": "duodenal ampulla",
+      "ontologyid": "UBERON:0013644",
+      "representation_of": "http://purl.obolibrary.org/obo/UBERON_0013644",
+      "glb_file_of_single_organs": "VH_F_Small_Intestine\n"
+    },
+    "sourceMaterialNames": [
+      "sm_intestine_mat"
+    ],
+    "sourceMaterialIndices": [
+      61
+    ],
+    "sourcePrimitiveAccessorHashes": [
+      {
+        "POSITION": "ced850712438eb8f297fae6964e0b753efc2f1fbafee68f2db42b601b75c6dcb",
+        "NORMAL": "6bf6ba36a5f40e4ea1bef6d11e24ff2adcc739a7fd4e61550483b0920d60fd82",
+        "INDICES": "cceb36949fcb35dbd34d6e6f9296d89266d0233dfd132320476a4114c474d40e"
+      }
+    ],
+    "license": "CC-BY-4.0",
+    "materialPolicy": "preserve-original",
+    "appearance": "source-preserve",
+    "hasUV": false,
+    "hasBaseColorTexture": false,
+    "hasNormalTexture": false,
+    "defaultVisible": true,
+    "anatomicalRole": "organ subdivision"
+  },
+  {
+    "id": "VH_F_duodenum_descending",
+    "conceptId": "FMA:14928",
+    "nameEn": "Descending part of duodenum",
+    "system": "visceral",
+    "displaySystem": "visceral",
+    "meshIds": [
+      "VH_F_duodenum_descending"
+    ],
+    "bounds": [
+      [
+        -0.06652910262346268,
+        0.2327936291694641,
+        -0.07816566526889801
+      ],
+      [
+        -0.0313403382897377,
+        0.29284408688545227,
+        -0.05146569758653641
+      ]
+    ],
+    "vertices": 504,
+    "triangles": 936,
+    "sourceTriangles": 936,
+    "kind": "structure",
+    "sourceNodeName": "VH_F_duodenum_descending",
+    "sourceNodeIndex": 501,
+    "sourceMeshIndex": 455,
+    "sourceMeshName": "VH_F_duodenum_descending",
+    "sourceParentName": "VH_F_duodenum",
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_small_intestine/VH_F_duodenum/VH_F_duodenum_descending",
+    "sourceFile": "3d-vh-f-united.glb",
+    "sourceMetadata": {
+      "anatomical_structure_of": "#VHFSmallIntestine",
+      "source_spatial_entity": "#VHFemaleOrgans",
+      "label": "descending part of duodenum",
+      "ontologyid": "FMA:14928",
+      "representation_of": "http://purl.org/sig/ont/fma/fma14928",
+      "glb_file_of_single_organs": "VH_F_Small_Intestine\n"
+    },
+    "sourceMaterialNames": [
+      "sm_intestine_mat"
+    ],
+    "sourceMaterialIndices": [
+      61
+    ],
+    "sourcePrimitiveAccessorHashes": [
+      {
+        "POSITION": "e3716e922dbe591f09faa94aa7eb05be515c4b667117362a7c66dc2b2a636eb8",
+        "NORMAL": "a0165bebeb7c9d4d80a715d29488155782388a50ced7ee3c11b1f3349fc59b58",
+        "INDICES": "14ecc55a89ac6285ade97bc775de7a9475e52bda3d00fa20571992f8393f5834"
+      }
+    ],
+    "license": "CC-BY-4.0",
+    "materialPolicy": "preserve-original",
+    "appearance": "source-preserve",
+    "hasUV": false,
+    "hasBaseColorTexture": false,
+    "hasNormalTexture": false,
+    "defaultVisible": true,
+    "anatomicalRole": "organ subdivision"
+  },
+  {
+    "id": "VH_F_sphincter_of_heptopancreatic_ampulla",
+    "conceptId": "FMA:15077",
+    "nameEn": "Sphincter of hepatopancreatic ampulla",
+    "system": "visceral",
+    "displaySystem": "visceral",
+    "meshIds": [
+      "VH_F_sphincter_of_heptopancreatic_ampulla"
+    ],
+    "bounds": [
+      [
+        -0.04710467532277107,
+        0.2449089139699936,
+        -0.06469082087278366
+      ],
+      [
+        -0.04212590679526329,
+        0.2500806748867035,
+        -0.059655673801898956
+      ]
+    ],
+    "vertices": 2145,
+    "triangles": 4096,
+    "sourceTriangles": 4096,
+    "kind": "structure",
+    "sourceNodeName": "VH_F_sphincter_of_heptopancreatic_ampulla",
+    "sourceNodeIndex": 502,
+    "sourceMeshIndex": 456,
+    "sourceMeshName": "VH_F_sphincter_of_heptopancreatic_ampulla",
+    "sourceParentName": "VH_F_duodenum",
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_small_intestine/VH_F_duodenum/VH_F_sphincter_of_heptopancreatic_ampulla",
+    "sourceFile": "3d-vh-f-united.glb",
+    "sourceMetadata": {
+      "anatomical_structure_of": "#VHFSmallIntestine",
+      "source_spatial_entity": "#VHFemaleOrgans",
+      "label": "Sphincter of hepatopancreatic ampulla",
+      "ontologyid": "FMA:15077",
+      "representation_of": "http://purl.org/sig/ont/fma/fma15077",
+      "glb_file_of_single_organs": "VH_F_Small_Intestine\n"
+    },
+    "sourceMaterialNames": [
+      "sm_intestine_mat"
+    ],
+    "sourceMaterialIndices": [
+      61
+    ],
+    "sourcePrimitiveAccessorHashes": [
+      {
+        "POSITION": "91e28676f69dd12b43f0ef23bd8220ba61ddaaecc20537de5ac8f84ae8e58d82",
+        "TANGENT": "5e056623d9d16847d9b4e59e25757491b7f753008cc8299e248c3b4d60e39e75",
+        "NORMAL": "a8ee5758f0e5cea928165c060432c41865c4462e8007e2ab018c89fdc0242557",
+        "TEXCOORD_0": "d1aa1e73c7032453411591640090d17902aacdc24aa4c5435ee1ad011b095ab5",
+        "INDICES": "26ae526d9f48523dae8af3c2bdae53712570cd5d2c889826e346f685066ec6a2"
+      }
+    ],
+    "license": "CC-BY-4.0",
+    "materialPolicy": "preserve-original",
+    "appearance": "source-preserve",
+    "hasUV": true,
+    "hasBaseColorTexture": false,
+    "hasNormalTexture": false,
+    "defaultVisible": false,
+    "anatomicalRole": "organ subdivision"
+  },
+  {
+    "id": "VH_F_duodenum_ascending",
+    "conceptId": "FMA:14930",
+    "nameEn": "Ascending part of duodenum",
+    "system": "visceral",
+    "displaySystem": "visceral",
+    "meshIds": [
+      "VH_F_duodenum_ascending"
+    ],
+    "bounds": [
+      [
+        -0.005242888815701008,
+        0.23057903349399567,
+        -0.06619530916213989
+      ],
+      [
+        0.02155720628798008,
+        0.25613832473754883,
+        -0.024763358756899834
+      ]
+    ],
+    "vertices": 288,
+    "triangles": 504,
+    "sourceTriangles": 504,
+    "kind": "structure",
+    "sourceNodeName": "VH_F_duodenum_ascending",
+    "sourceNodeIndex": 503,
+    "sourceMeshIndex": 457,
+    "sourceMeshName": "VH_F_duodenum_ascending",
+    "sourceParentName": "VH_F_duodenum",
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_small_intestine/VH_F_duodenum/VH_F_duodenum_ascending",
+    "sourceFile": "3d-vh-f-united.glb",
+    "sourceMetadata": {
+      "anatomical_structure_of": "#VHFSmallIntestine",
+      "source_spatial_entity": "#VHFemaleOrgans",
+      "label": "ascending part of duodenum",
+      "ontologyid": "FMA:14930",
+      "representation_of": "http://purl.org/sig/ont/fma/fma14930",
+      "glb_file_of_single_organs": "VH_F_Small_Intestine\n"
+    },
+    "sourceMaterialNames": [
+      "sm_intestine_mat"
+    ],
+    "sourceMaterialIndices": [
+      61
+    ],
+    "sourcePrimitiveAccessorHashes": [
+      {
+        "POSITION": "62abcdc43661e46b63f83a6bd67279e5bc8b0190c37ec3dc8b18cfca18c64f4f",
+        "NORMAL": "42e7300825734e032db8d023625d2fdba0a90d3b538870adb564b5e8b8f8cdb8",
+        "INDICES": "e7b70f17ceb09f8d5df5f54052e34dae9f4230df7d3ce8d88d62b2f8b50d0eb3"
+      }
+    ],
+    "license": "CC-BY-4.0",
+    "materialPolicy": "preserve-original",
+    "appearance": "source-preserve",
+    "hasUV": false,
+    "hasBaseColorTexture": false,
+    "hasNormalTexture": false,
+    "defaultVisible": true,
+    "anatomicalRole": "organ subdivision"
+  },
+  {
+    "id": "VH_F_duodenum_horizontal",
+    "conceptId": "FMA:14929",
+    "nameEn": "Horizontal part of duodenum",
+    "system": "visceral",
+    "displaySystem": "visceral",
+    "meshIds": [
+      "VH_F_duodenum_horizontal"
+    ],
+    "bounds": [
+      [
+        -0.05628524348139763,
+        0.21866874396800995,
+        -0.07272207736968994
+      ],
+      [
+        0.008575943298637867,
+        0.24616003036499023,
+        -0.045003850013017654
+      ]
+    ],
+    "vertices": 576,
+    "triangles": 1080,
+    "sourceTriangles": 1080,
+    "kind": "structure",
+    "sourceNodeName": "VH_F_duodenum_horizontal",
+    "sourceNodeIndex": 504,
+    "sourceMeshIndex": 458,
+    "sourceMeshName": "VH_F_duodenum_horizontal",
+    "sourceParentName": "VH_F_duodenum",
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_small_intestine/VH_F_duodenum/VH_F_duodenum_horizontal",
+    "sourceFile": "3d-vh-f-united.glb",
+    "sourceMetadata": {
+      "anatomical_structure_of": "#VHFSmallIntestine",
+      "source_spatial_entity": "#VHFemaleOrgans",
+      "label": "horizontal part of duodenum",
+      "ontologyid": "FMA:14929",
+      "representation_of": "http://purl.org/sig/ont/fma/fma14929",
+      "glb_file_of_single_organs": "VH_F_Small_Intestine\n"
+    },
+    "sourceMaterialNames": [
+      "sm_intestine_mat"
+    ],
+    "sourceMaterialIndices": [
+      61
+    ],
+    "sourcePrimitiveAccessorHashes": [
+      {
+        "POSITION": "ce1ec6eb3efd91fba0fc971e4613aca2bb6fae829506eb1fd8b5243b38bcf462",
+        "NORMAL": "9e396fb443798498db23ac1994c9a929f6f00fe53a3a2b6f5288f0b9517f4f88",
+        "INDICES": "7323e51661d082f26c75207a8cf5cbf03aaa7faac762dbb7ee802ea1659220ee"
+      }
+    ],
+    "license": "CC-BY-4.0",
+    "materialPolicy": "preserve-original",
+    "appearance": "source-preserve",
+    "hasUV": false,
+    "hasBaseColorTexture": false,
+    "hasNormalTexture": false,
+    "defaultVisible": true,
+    "anatomicalRole": "organ subdivision"
+  },
+  {
+    "id": "VH_F_right_hepatic_duct",
+    "conceptId": "UBERON:0001176",
+    "nameEn": "Right hepatic duct",
+    "system": "visceral",
+    "displaySystem": "visceral",
+    "meshIds": [
+      "VH_F_right_hepatic_duct"
+    ],
+    "bounds": [
+      [
+        -0.052663106471300125,
+        0.32561102509498596,
+        -0.06855779886245728
+      ],
+      [
+        -0.03902658447623253,
+        0.3331894874572754,
+        -0.0596284419298172
+      ]
+    ],
+    "vertices": 208,
+    "triangles": 400,
+    "sourceTriangles": 400,
+    "kind": "structure",
+    "sourceNodeName": "VH_F_right_hepatic_duct",
+    "sourceNodeIndex": 510,
+    "sourceMeshIndex": 462,
+    "sourceMeshName": "VH_F_right_hepatic_duct",
+    "sourceParentName": "VH_F_ducts_of_liver",
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_biliary_tree/VH_F_ducts_of_liver/VH_F_right_hepatic_duct",
+    "sourceFile": "3d-vh-f-united.glb",
+    "sourceMetadata": {
+      "anatomical_structure_of": "#VHFLiverDucts",
+      "source_spatial_entity": "#VHFemaleOrgans",
+      "label": "right hepatic duct",
+      "ontologyid": "UBERON:0001176",
+      "representation_of": "http://purl.obolibrary.org/obo/UBERON_0001176",
+      "glb_file_of_single_organs": "VH_F_Biliary_Tree\n"
+    },
+    "sourceMaterialNames": [
+      "Gall_mat"
+    ],
+    "sourceMaterialIndices": [
+      62
+    ],
+    "sourcePrimitiveAccessorHashes": [
+      {
+        "POSITION": "b649e0b7c0a01152b6d3a1180553872728b28695c789e1c15a80f416e07addfe",
+        "NORMAL": "2a24b5ea18685aa150096213c9a43a8f09b0b496415dbfe3715a0867d526cd1a",
+        "INDICES": "78bf2f3f21b7b3c22ad050fb45ebeee424c38a00a4ec8eb9d165554a1c1d5def"
+      }
+    ],
+    "license": "CC-BY-4.0",
+    "materialPolicy": "preserve-original",
+    "appearance": "source-preserve",
+    "hasUV": false,
+    "hasBaseColorTexture": false,
+    "hasNormalTexture": false,
+    "defaultVisible": true,
+    "anatomicalRole": "biliary or pancreatic duct"
+  },
+  {
+    "id": "VH_F_left_hepatic_duct",
+    "conceptId": "UBERON:0001177",
+    "nameEn": "Left hepatic duct",
+    "system": "visceral",
+    "displaySystem": "visceral",
+    "meshIds": [
+      "VH_F_left_hepatic_duct"
+    ],
+    "bounds": [
+      [
+        -0.03786679357290268,
+        0.32694950699806213,
+        -0.059343669563531876
+      ],
+      [
+        -0.016881344839930534,
+        0.34594905376434326,
+        -0.04253910481929779
+      ]
+    ],
+    "vertices": 368,
+    "triangles": 720,
+    "sourceTriangles": 720,
+    "kind": "structure",
+    "sourceNodeName": "VH_F_left_hepatic_duct",
+    "sourceNodeIndex": 511,
+    "sourceMeshIndex": 463,
+    "sourceMeshName": "VH_F_left_hepatic_duct",
+    "sourceParentName": "VH_F_ducts_of_liver",
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_biliary_tree/VH_F_ducts_of_liver/VH_F_left_hepatic_duct",
+    "sourceFile": "3d-vh-f-united.glb",
+    "sourceMetadata": {
+      "anatomical_structure_of": "#VHFLiverDucts",
+      "source_spatial_entity": "#VHFemaleOrgans",
+      "label": "left hepatic duct",
+      "ontologyid": "UBERON:0001177",
+      "representation_of": "http://purl.obolibrary.org/obo/UBERON_0001177",
+      "glb_file_of_single_organs": "VH_F_Biliary_Tree\n"
+    },
+    "sourceMaterialNames": [
+      "Gall_mat"
+    ],
+    "sourceMaterialIndices": [
+      62
+    ],
+    "sourcePrimitiveAccessorHashes": [
+      {
+        "POSITION": "3e41fe35f5f6a711a189089c6dfcf6ef58f3e29d7df69881c7d98eee0b968a33",
+        "NORMAL": "4825ff150592cba61f5b7a913b02325f6bea7458f0699c6a26a5ce79e10e4934",
+        "INDICES": "889e7d29261752f6fce39b4db49b9344ec805b17815c18a1c3fbe6df5dd7e50a"
+      }
+    ],
+    "license": "CC-BY-4.0",
+    "materialPolicy": "preserve-original",
+    "appearance": "source-preserve",
+    "hasUV": false,
+    "hasBaseColorTexture": false,
+    "hasNormalTexture": false,
+    "defaultVisible": true,
+    "anatomicalRole": "biliary or pancreatic duct"
+  },
+  {
+    "id": "VH_F_common_hepatic_duct",
+    "conceptId": "UBERON:0001175",
+    "nameEn": "Common hepatic duct",
+    "system": "visceral",
+    "displaySystem": "visceral",
+    "meshIds": [
+      "VH_F_common_hepatic_duct"
+    ],
+    "bounds": [
+      [
+        -0.03965213894844055,
+        0.319286048412323,
+        -0.06370757520198822
+      ],
+      [
+        -0.0330842025578022,
+        0.3277454376220703,
+        -0.05817623808979988
+      ]
+    ],
+    "vertices": 248,
+    "triangles": 432,
+    "sourceTriangles": 432,
+    "kind": "structure",
+    "sourceNodeName": "VH_F_common_hepatic_duct",
+    "sourceNodeIndex": 512,
+    "sourceMeshIndex": 464,
+    "sourceMeshName": "VH_F_common_hepatic_duct",
+    "sourceParentName": "VH_F_ducts_of_liver",
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_biliary_tree/VH_F_ducts_of_liver/VH_F_common_hepatic_duct",
+    "sourceFile": "3d-vh-f-united.glb",
+    "sourceMetadata": {
+      "anatomical_structure_of": "#VHFLiverDucts",
+      "source_spatial_entity": "#VHFemaleOrgans",
+      "label": "common hepatic duct",
+      "ontologyid": "UBERON:0001175",
+      "representation_of": "http://purl.obolibrary.org/obo/UBERON_0001175",
+      "glb_file_of_single_organs": "VH_F_Biliary_Tree\n"
+    },
+    "sourceMaterialNames": [
+      "Gall_mat"
+    ],
+    "sourceMaterialIndices": [
+      62
+    ],
+    "sourcePrimitiveAccessorHashes": [
+      {
+        "POSITION": "35a46ca908cb608c76722b4580e57dc1846e94c39a8ec8a15f124c9395607faf",
+        "NORMAL": "84653679501f956d9c7efa1aab9bf807c5e4bf3355d5fabe2f7d38da35640055",
+        "INDICES": "c864fb69d94ace297db94ba51189af3438f6d65e517e1d114a4a717900f1fbaa"
+      }
+    ],
+    "license": "CC-BY-4.0",
+    "materialPolicy": "preserve-original",
+    "appearance": "source-preserve",
+    "hasUV": false,
+    "hasBaseColorTexture": false,
+    "hasNormalTexture": false,
+    "defaultVisible": true,
+    "anatomicalRole": "biliary or pancreatic duct"
+  },
+  {
+    "id": "VH_F_hepatopancreatic_ampulla",
+    "conceptId": "UBERON:0004913",
+    "nameEn": "Hepatopancreatic ampulla",
+    "system": "visceral",
+    "displaySystem": "visceral",
+    "meshIds": [
+      "VH_F_hepatopancreatic_ampulla"
+    ],
+    "bounds": [
+      [
+        -0.04648091271519661,
+        0.24547693133354187,
+        -0.06400081515312195
+      ],
+      [
+        -0.03841373696923256,
+        0.2526872754096985,
+        -0.0599716380238533
+      ]
+    ],
+    "vertices": 364,
+    "triangles": 688,
+    "sourceTriangles": 688,
+    "kind": "structure",
+    "sourceNodeName": "VH_F_hepatopancreatic_ampulla",
+    "sourceNodeIndex": 514,
+    "sourceMeshIndex": 465,
+    "sourceMeshName": "VH_F_hepatopancreatic_ampulla",
+    "sourceParentName": "VH_F_ducts_of_pancreas",
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_biliary_tree/VH_F_ducts_of_pancreas/VH_F_hepatopancreatic_ampulla",
+    "sourceFile": "3d-vh-f-united.glb",
+    "sourceMetadata": {
+      "anatomical_structure_of": "#VHFPancreasDucts",
+      "source_spatial_entity": "#VHFemaleOrgans",
+      "label": "hepatopancreatic ampulla",
+      "ontologyid": "UBERON:0004913",
+      "representation_of": "http://purl.obolibrary.org/obo/UBERON_0004913",
+      "glb_file_of_single_organs": "VH_F_Biliary_Tree\n"
+    },
+    "sourceMaterialNames": [
+      "Gall_mat"
+    ],
+    "sourceMaterialIndices": [
+      62
+    ],
+    "sourcePrimitiveAccessorHashes": [
+      {
+        "POSITION": "c11c2ddfd8b02fdacec23041bd11586c506dfa988ca2c289657d0b56f0af37da",
+        "NORMAL": "c1bb3268ac703c3dd2e5d665a5a461f5c0b1dd4889e38592f5c8a494a1db97a6",
+        "INDICES": "d27991cfe87a1e5c39b0fc95d4b9ea39e506c5c2eb083ef6e528ae871c2b86a0"
+      }
+    ],
+    "license": "CC-BY-4.0",
+    "materialPolicy": "preserve-original",
+    "appearance": "source-preserve",
+    "hasUV": false,
+    "hasBaseColorTexture": false,
+    "hasNormalTexture": false,
+    "defaultVisible": true,
+    "anatomicalRole": "biliary or pancreatic duct"
+  },
+  {
+    "id": "VH_F_dorsal_pancreatic_duct",
+    "conceptId": "UBERON:0005429",
+    "nameEn": "Dorsal pancreatic duct",
+    "system": "visceral",
+    "displaySystem": "visceral",
+    "meshIds": [
+      "VH_F_dorsal_pancreatic_duct"
+    ],
+    "bounds": [
+      [
+        -0.04178215563297272,
+        0.25966760516166687,
+        -0.0694812536239624
+      ],
+      [
+        -0.0228809155523777,
+        0.2734377682209015,
+        -0.05813663825392723
+      ]
+    ],
+    "vertices": 472,
+    "triangles": 920,
+    "sourceTriangles": 920,
+    "kind": "structure",
+    "sourceNodeName": "VH_F_dorsal_pancreatic_duct",
+    "sourceNodeIndex": 515,
+    "sourceMeshIndex": 466,
+    "sourceMeshName": "VH_F_dorsal_pancreatic_duct",
+    "sourceParentName": "VH_F_ducts_of_pancreas",
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_biliary_tree/VH_F_ducts_of_pancreas/VH_F_dorsal_pancreatic_duct",
+    "sourceFile": "3d-vh-f-united.glb",
+    "sourceMetadata": {
+      "anatomical_structure_of": "#VHFPancreasDucts",
+      "source_spatial_entity": "#VHFemaleOrgans",
+      "label": "dorsal pancreatic duct",
+      "ontologyid": "UBERON:0005429",
+      "representation_of": "http://purl.obolibrary.org/obo/UBERON_0005429",
+      "glb_file_of_single_organs": "VH_F_Biliary_Tree\n"
+    },
+    "sourceMaterialNames": [
+      "Gall_mat"
+    ],
+    "sourceMaterialIndices": [
+      62
+    ],
+    "sourcePrimitiveAccessorHashes": [
+      {
+        "POSITION": "38ae011b40052c3eb5512cd3b9e8295bcacea317a20ac1fe0b1a44869657b376",
+        "NORMAL": "0216f41e8a9c6aec545dbb693b7e1db1a25c0f33f2364a09d2ef84dd3eaf6086",
+        "INDICES": "a89b02b9227bb93eabd9b5a01684a5ac29ecd321ce2e09233e86314a8991bf06"
+      }
+    ],
+    "license": "CC-BY-4.0",
+    "materialPolicy": "preserve-original",
+    "appearance": "source-preserve",
+    "hasUV": false,
+    "hasBaseColorTexture": false,
+    "hasNormalTexture": false,
+    "defaultVisible": true,
+    "anatomicalRole": "biliary or pancreatic duct"
+  },
+  {
+    "id": "VH_F_common_bile_duct",
+    "conceptId": "UBERON:0001174",
+    "nameEn": "Common bile duct",
+    "system": "visceral",
+    "displaySystem": "visceral",
+    "meshIds": [
+      "VH_F_common_bile_duct"
+    ],
+    "bounds": [
+      [
+        -0.04031218960881233,
+        0.25137293338775635,
+        -0.06407328695058823
+      ],
+      [
+        -0.019023260101675987,
+        0.32016852498054504,
+        -0.05826365947723389
+      ]
+    ],
+    "vertices": 764,
+    "triangles": 1472,
+    "sourceTriangles": 1472,
+    "kind": "structure",
+    "sourceNodeName": "VH_F_common_bile_duct",
+    "sourceNodeIndex": 516,
+    "sourceMeshIndex": 467,
+    "sourceMeshName": "VH_F_common_bile_duct",
+    "sourceParentName": "VH_F_ducts_of_pancreas",
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_biliary_tree/VH_F_ducts_of_pancreas/VH_F_common_bile_duct",
+    "sourceFile": "3d-vh-f-united.glb",
+    "sourceMetadata": {
+      "anatomical_structure_of": "#VHFPancreasDucts",
+      "source_spatial_entity": "#VHFemaleOrgans",
+      "label": "common bile duct",
+      "ontologyid": "UBERON:0001174",
+      "representation_of": "http://purl.obolibrary.org/obo/UBERON_0001174",
+      "glb_file_of_single_organs": "VH_F_Biliary_Tree\n"
+    },
+    "sourceMaterialNames": [
+      "Gall_mat"
+    ],
+    "sourceMaterialIndices": [
+      62
+    ],
+    "sourcePrimitiveAccessorHashes": [
+      {
+        "POSITION": "646fa26d66db1e1c1e2aedd29021f5425bd037cc5702038b6dd3f499a820ceef",
+        "NORMAL": "5f414e53f425a6d63c4b7eda9e146c987f5360cf6b4d3aa5c5bd4c5b1a7494ff",
+        "INDICES": "22384c25525c589fc92938258d593ed260d7e7bbf4bf7d9da21cc795a7ec951c"
+      }
+    ],
+    "license": "CC-BY-4.0",
+    "materialPolicy": "preserve-original",
+    "appearance": "source-preserve",
+    "hasUV": false,
+    "hasBaseColorTexture": false,
+    "hasNormalTexture": false,
+    "defaultVisible": true,
+    "anatomicalRole": "biliary or pancreatic duct"
+  },
+  {
+    "id": "VH_F_ventral_pancreatic_duct",
+    "conceptId": "UBERON:0001064",
+    "nameEn": "Ventral pancreatic duct",
+    "system": "visceral",
+    "displaySystem": "visceral",
+    "meshIds": [
+      "VH_F_ventral_pancreatic_duct"
+    ],
+    "bounds": [
+      [
+        -0.03918810188770294,
+        0.25075551867485046,
+        -0.10590124130249023
+      ],
+      [
+        0.11174663156270981,
+        0.28476956486701965,
+        -0.042430125176906586
+      ]
+    ],
+    "vertices": 2588,
+    "triangles": 5124,
+    "sourceTriangles": 5124,
+    "kind": "structure",
+    "sourceNodeName": "VH_F_ventral_pancreatic_duct",
+    "sourceNodeIndex": 517,
+    "sourceMeshIndex": 468,
+    "sourceMeshName": "VH_F_ventral_pancreatic_duct",
+    "sourceParentName": "VH_F_ducts_of_pancreas",
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_biliary_tree/VH_F_ducts_of_pancreas/VH_F_ventral_pancreatic_duct",
+    "sourceFile": "3d-vh-f-united.glb",
+    "sourceMetadata": {
+      "anatomical_structure_of": "#VHFPancreasDucts",
+      "source_spatial_entity": "#VHFemaleOrgans",
+      "label": "Ventral pancreatic duct",
+      "ontologyid": "UBERON:0001064",
+      "representation_of": "http://purl.obolibrary.org/obo/UBERON_0001064",
+      "glb_file_of_single_organs": "VH_F_Biliary_Tree\n"
+    },
+    "sourceMaterialNames": [
+      "Gall_mat"
+    ],
+    "sourceMaterialIndices": [
+      62
+    ],
+    "sourcePrimitiveAccessorHashes": [
+      {
+        "POSITION": "a91873c92f7005b6de3c920ae67819b46de75c022e18db6a7bb6d1fdebb88558",
+        "NORMAL": "6096181b3b6114bed54ebee3e2cf02b098917a20dfffc678bbc8d390abe753dc",
+        "INDICES": "f6758654c26b0860e9c027a0fb87e2e8d3a08d181fc44b9bc17aa6f616758255"
+      }
+    ],
+    "license": "CC-BY-4.0",
+    "materialPolicy": "preserve-original",
+    "appearance": "source-preserve",
+    "hasUV": false,
+    "hasBaseColorTexture": false,
+    "hasNormalTexture": false,
+    "defaultVisible": true,
+    "anatomicalRole": "biliary or pancreatic duct"
+  },
+  {
+    "id": "VH_F_cystic_duct",
+    "conceptId": "UBERON:0001152",
+    "nameEn": "Cystic duct",
+    "system": "visceral",
+    "displaySystem": "visceral",
+    "meshIds": [
+      "VH_F_cystic_duct"
+    ],
+    "bounds": [
+      [
+        -0.051486268639564514,
+        0.2921831011772156,
+        -0.06858503818511963
+      ],
+      [
+        -0.03525432571768761,
+        0.3219856321811676,
+        -0.06204457953572273
+      ]
+    ],
+    "vertices": 552,
+    "triangles": 1080,
+    "sourceTriangles": 1080,
+    "kind": "structure",
+    "sourceNodeName": "VH_F_cystic_duct",
+    "sourceNodeIndex": 519,
+    "sourceMeshIndex": 469,
+    "sourceMeshName": "VH_F_cystic_duct",
+    "sourceParentName": "VH_F_ducts_of_gallbladder",
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_biliary_tree/VH_F_ducts_of_gallbladder/VH_F_cystic_duct",
+    "sourceFile": "3d-vh-f-united.glb",
+    "sourceMetadata": {
+      "anatomical_structure_of": "#VHFGallbladderDucts",
+      "source_spatial_entity": "#VHFemaleOrgans",
+      "label": "cystic duct",
+      "ontologyid": "UBERON:0001152",
+      "representation_of": "http://purl.obolibrary.org/obo/UBERON_0001152",
+      "glb_file_of_single_organs": "VH_F_Biliary_Tree\n"
+    },
+    "sourceMaterialNames": [
+      "Gall_mat"
+    ],
+    "sourceMaterialIndices": [
+      62
+    ],
+    "sourcePrimitiveAccessorHashes": [
+      {
+        "POSITION": "41c37c0a8540e045213dbb6fa607c69d1b47af86f28d729adee7c074cc30cd7c",
+        "NORMAL": "aa07f8dc5c835f8e56824ead8660aa9518647f25f108aa7e8bc21302fcced755",
+        "INDICES": "29675ea7e782b8ef13657e8e1ea1a130ed57660e8715edf273f76a41e1c89dca"
+      }
+    ],
+    "license": "CC-BY-4.0",
+    "materialPolicy": "preserve-original",
+    "appearance": "source-preserve",
+    "hasUV": false,
+    "hasBaseColorTexture": false,
+    "hasNormalTexture": false,
+    "defaultVisible": true,
+    "anatomicalRole": "biliary or pancreatic duct"
+  },
+  {
+    "id": "VH_F_gallbladder",
+    "conceptId": "UBERON:0002110",
+    "nameEn": "Gallbladder",
+    "system": "visceral",
+    "displaySystem": "visceral",
+    "meshIds": [
+      "VH_F_gallbladder"
+    ],
+    "bounds": [
+      [
+        -0.08931174874305725,
+        0.25619247555732727,
+        -0.07164299488067627
+      ],
+      [
+        -0.04840186610817909,
+        0.29411834478378296,
+        -0.019629456102848053
+      ]
+    ],
+    "vertices": 1200,
+    "triangles": 2396,
+    "sourceTriangles": 2396,
+    "kind": "structure",
+    "sourceNodeName": "VH_F_gallbladder",
+    "sourceNodeIndex": 560,
+    "sourceMeshIndex": 501,
+    "sourceMeshName": "VH_F_gallbladder",
+    "sourceParentName": "VH_F_gallbladder_",
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_gallbladder_/VH_F_gallbladder",
+    "sourceFile": "3d-vh-f-united.glb",
+    "sourceMetadata": {
+      "anatomical_structure_of": "#VHFGallbladder",
+      "source_spatial_entity": "#VHFemaleOrgans",
+      "label": "gallbladder",
+      "ontologyid": "UBERON:0002110",
+      "representation_of": "http://purl.obolibrary.org/obo/UBERON_0002110",
+      "glb_file_of_single_organs": "VH_F_Gallbladder\n"
+    },
+    "sourceMaterialNames": [
+      "Gall_mat"
+    ],
+    "sourceMaterialIndices": [
+      62
+    ],
+    "sourcePrimitiveAccessorHashes": [
+      {
+        "POSITION": "cb181e67f97a24deb9a29355ecb4ef226f0e8148d19067da76abdf67e23e27f2",
+        "NORMAL": "206495a712ad0ac7335e0e9577f5b5548a259a9222241ea7334d19cc20ecb4a3",
+        "INDICES": "da07578cfda31d43bf81057ee27fa1f7ff03f9fc02fd564f14e79944564de679"
+      }
+    ],
+    "license": "CC-BY-4.0",
+    "materialPolicy": "preserve-original",
+    "appearance": "source-preserve",
+    "hasUV": false,
+    "hasBaseColorTexture": false,
+    "hasNormalTexture": false,
+    "defaultVisible": true,
+    "anatomicalRole": "organ"
+  },
+  {
+    "id": "VH_F_gastric_surface_of_spleen",
+    "conceptId": "FMA:15837",
+    "nameEn": "Gastric surface of spleen",
+    "system": "visceral",
+    "displaySystem": "visceral",
+    "meshIds": [
+      "VH_F_gastric_surface_of_spleen"
+    ],
+    "bounds": [
+      [
+        0.04167570546269417,
+        0.30538928508758545,
+        -0.1290028989315033
+      ],
+      [
+        0.1241079717874527,
+        0.38616982102394104,
+        -0.08230707049369812
+      ]
+    ],
+    "vertices": 974,
+    "triangles": 1778,
+    "sourceTriangles": 1778,
+    "kind": "structure",
+    "sourceNodeName": "VH_F_gastric_surface_of_spleen",
+    "sourceNodeIndex": 945,
+    "sourceMeshIndex": 783,
+    "sourceMeshName": "VH_F_gastric_surface_of_spleen",
+    "sourceParentName": "VH_F_spleen",
+    "sourcePath": "VH_F/VH_F_lymphatic_system/VH_F_spleen/VH_F_gastric_surface_of_spleen",
+    "sourceFile": "3d-vh-f-united.glb",
+    "sourceMetadata": {
+      "anatomical_structure_of": "#VHFSpleenV1.1",
+      "source_spatial_entity": "#VHFemaleOrgans",
+      "label": "gastric surface of spleen",
+      "ontologyid": "FMA:15837",
+      "representation_of": "http://purl.org/sig/ont/fma/fma15837",
+      "glb_file_of_single_organs": "VH_F_Spleen\n"
+    },
+    "sourceMaterialNames": [
+      "spleen_mat"
+    ],
+    "sourceMaterialIndices": [
+      84
+    ],
+    "sourcePrimitiveAccessorHashes": [
+      {
+        "POSITION": "f801c7bcaf37cda890736c65962eb34448bab1a16794b7e1400eb677d91ccbc0",
+        "TANGENT": "9718b7dbdb17ad2cf0eeb3cdd2a38513da4121b0e871be32945ec81c2145b23d",
+        "NORMAL": "f8ba6cf3de04123f46d94b24db921b090092a382c87f9c2f7ffe9e95df3b3aa0",
+        "TEXCOORD_0": "e739ce9966c5bdf3b51b28a9d48af4afced84d34772c018334da0dc554ac6b17",
+        "INDICES": "42ed324bc09589e7535350e662a7079a56ab47e9ec76111be38cc698f3acf04c"
+      }
+    ],
+    "license": "CC-BY-4.0",
+    "materialPolicy": "preserve-original",
+    "appearance": "source-preserve",
+    "hasUV": true,
+    "hasBaseColorTexture": false,
+    "hasNormalTexture": false,
+    "defaultVisible": true,
+    "anatomicalRole": "organ subdivision"
+  },
+  {
+    "id": "VH_F_diaphragmatic_surface_of_spleen",
+    "conceptId": "FMA:15828",
+    "nameEn": "Diaphragmatic surface of spleen",
+    "system": "visceral",
+    "displaySystem": "visceral",
+    "meshIds": [
+      "VH_F_diaphragmatic_surface_of_spleen"
+    ],
+    "bounds": [
+      [
+        0.036774251610040665,
+        0.2855469882488251,
+        -0.15319287776947021
+      ],
+      [
+        0.12633490562438965,
+        0.38786211609840393,
+        -0.0831056758761406
+      ]
+    ],
+    "vertices": 2239,
+    "triangles": 4338,
+    "sourceTriangles": 4338,
+    "kind": "structure",
+    "sourceNodeName": "VH_F_diaphragmatic_surface_of_spleen",
+    "sourceNodeIndex": 946,
+    "sourceMeshIndex": 784,
+    "sourceMeshName": "VH_F_diaphragmatic_surface_of_spleen",
+    "sourceParentName": "VH_F_spleen",
+    "sourcePath": "VH_F/VH_F_lymphatic_system/VH_F_spleen/VH_F_diaphragmatic_surface_of_spleen",
+    "sourceFile": "3d-vh-f-united.glb",
+    "sourceMetadata": {
+      "anatomical_structure_of": "#VHFSpleenV1.1",
+      "source_spatial_entity": "#VHFemaleOrgans",
+      "label": "diaphragmatic surface of spleen",
+      "ontologyid": "FMA:15828",
+      "representation_of": "http://purl.org/sig/ont/fma/fma15828",
+      "glb_file_of_single_organs": "VH_F_Spleen\n"
+    },
+    "sourceMaterialNames": [
+      "spleen_mat"
+    ],
+    "sourceMaterialIndices": [
+      84
+    ],
+    "sourcePrimitiveAccessorHashes": [
+      {
+        "POSITION": "444735452faac03e3bbb7cd9fcd1543c028c4241e32be2b9150eff1c07c3c2d4",
+        "TANGENT": "b5d330d8829e79c4f767b13b64ff93b6cd066e9fd373eb5d38f65d8b8cf1b933",
+        "NORMAL": "1758a88060e60a88904795cdbc5fef69c43fa23dbd8331d52f4fff198a3e0a17",
+        "TEXCOORD_0": "f9e6d505bc8c1ebc7d0f145438c588accd95d991145fc02dcf57aff72ffe4349",
+        "INDICES": "ee58816a95c96ed71c997791596b96cab2235a662e9aad224e9cb49a2365bc0c"
+      }
+    ],
+    "license": "CC-BY-4.0",
+    "materialPolicy": "preserve-original",
+    "appearance": "source-preserve",
+    "hasUV": true,
+    "hasBaseColorTexture": false,
+    "hasNormalTexture": false,
+    "defaultVisible": true,
+    "anatomicalRole": "organ subdivision"
+  },
+  {
+    "id": "VH_F_colic_surface_of_spleen",
+    "conceptId": "FMA:15838",
+    "nameEn": "Colic surface of spleen",
+    "system": "visceral",
+    "displaySystem": "visceral",
+    "meshIds": [
+      "VH_F_colic_surface_of_spleen"
+    ],
+    "bounds": [
+      [
+        0.1066533625125885,
+        0.2908746600151062,
+        -0.09163873642683029
+      ],
+      [
+        0.12320635467767715,
+        0.3087558150291443,
+        -0.08225168287754059
+      ]
+    ],
+    "vertices": 83,
+    "triangles": 130,
+    "sourceTriangles": 130,
+    "kind": "structure",
+    "sourceNodeName": "VH_F_colic_surface_of_spleen",
+    "sourceNodeIndex": 947,
+    "sourceMeshIndex": 785,
+    "sourceMeshName": "VH_F_colic_surface_of_spleen",
+    "sourceParentName": "VH_F_spleen",
+    "sourcePath": "VH_F/VH_F_lymphatic_system/VH_F_spleen/VH_F_colic_surface_of_spleen",
+    "sourceFile": "3d-vh-f-united.glb",
+    "sourceMetadata": {
+      "anatomical_structure_of": "#VHFSpleenV1.1",
+      "source_spatial_entity": "#VHFemaleOrgans",
+      "label": "colic surface of spleen",
+      "ontologyid": "FMA:15838",
+      "representation_of": "http://purl.org/sig/ont/fma/fma15838",
+      "glb_file_of_single_organs": "VH_F_Spleen\n"
+    },
+    "sourceMaterialNames": [
+      "spleen_mat"
+    ],
+    "sourceMaterialIndices": [
+      84
+    ],
+    "sourcePrimitiveAccessorHashes": [
+      {
+        "POSITION": "b466dc1a2ead6c6a3fa8f6105e36e670eef2807aaad0f417e88709385cfa4c4c",
+        "TANGENT": "78cc9896996d631ceb585360627ceea0dec89334ee6a977915fffdee516639de",
+        "NORMAL": "3134c2ff03ecf1eceb9419705657319b11c80042d9b7d187fa28eaa0753817b6",
+        "TEXCOORD_0": "6fcd74e5ec4bc584f01af788bed8827e93dd1e90761685f344d239c94d4792a6",
+        "INDICES": "ac39301f5778602a575511ab0f47d97a4eb750eef13b3fa9af9ebdac9164355e"
+      }
+    ],
+    "license": "CC-BY-4.0",
+    "materialPolicy": "preserve-original",
+    "appearance": "source-preserve",
+    "hasUV": true,
+    "hasBaseColorTexture": false,
+    "hasNormalTexture": false,
+    "defaultVisible": true,
+    "anatomicalRole": "organ subdivision"
+  },
+  {
+    "id": "VH_F_hilum_of_spleen",
+    "conceptId": "UBERON:0001248",
+    "nameEn": "Hilum of spleen",
+    "system": "visceral",
+    "displaySystem": "visceral",
+    "meshIds": [
+      "VH_F_hilum_of_spleen"
+    ],
+    "bounds": [
+      [
+        0.05695468932390213,
+        0.2966853976249695,
+        -0.12513013184070587
+      ],
+      [
+        0.10940999537706375,
+        0.3591134250164032,
+        -0.087284155189991
+      ]
+    ],
+    "vertices": 816,
+    "triangles": 1506,
+    "sourceTriangles": 1506,
+    "kind": "structure",
+    "sourceNodeName": "VH_F_hilum_of_spleen",
+    "sourceNodeIndex": 948,
+    "sourceMeshIndex": 786,
+    "sourceMeshName": "VH_F_hilum_of_spleen",
+    "sourceParentName": "VH_F_spleen",
+    "sourcePath": "VH_F/VH_F_lymphatic_system/VH_F_spleen/VH_F_hilum_of_spleen",
+    "sourceFile": "3d-vh-f-united.glb",
+    "sourceMetadata": {
+      "anatomical_structure_of": "#VHFSpleenV1.1",
+      "source_spatial_entity": "#VHFemaleOrgans",
+      "label": "hilum of spleen",
+      "ontologyid": "UBERON:0001248",
+      "representation_of": "http://purl.obolibrary.org/obo/UBERON_0001248",
+      "glb_file_of_single_organs": "VH_F_Spleen\n"
+    },
+    "sourceMaterialNames": [
+      "spleen_mat"
+    ],
+    "sourceMaterialIndices": [
+      84
+    ],
+    "sourcePrimitiveAccessorHashes": [
+      {
+        "POSITION": "a5cecf054c68c9a5ceee25640fc6d7fe6f98e0b0e3a9ab11b203d876e6696daa",
+        "TANGENT": "c94bd6647df42c80fe584ef50e7176893749e0d163674bbb09570ed19354b463",
+        "NORMAL": "c7c85548646df6758953076ee5a96162ef757dfad23d392fe0b0deca1aea4140",
+        "TEXCOORD_0": "6a33d2af13bda2417f37266120b2145cee11c6621bf1b9959c1e82cdb6c217cc",
+        "INDICES": "061d8e30c9dd656cacd3fc16d839e11a6b605158b6aa9a2930cf11927e40c8c4"
+      }
+    ],
+    "license": "CC-BY-4.0",
+    "materialPolicy": "preserve-original",
+    "appearance": "source-preserve",
+    "hasUV": true,
+    "hasBaseColorTexture": false,
+    "hasNormalTexture": false,
+    "defaultVisible": true,
+    "anatomicalRole": "organ subdivision"
+  },
+  {
+    "id": "VH_F_renal_surface_of_spleen",
+    "conceptId": "FMA:15839",
+    "nameEn": "Renal surface of spleen",
+    "system": "visceral",
+    "displaySystem": "visceral",
+    "meshIds": [
+      "VH_F_renal_surface_of_spleen"
+    ],
+    "bounds": [
+      [
+        0.04078330472111702,
+        0.28727778792381287,
+        -0.13478215038776398
+      ],
+      [
+        0.1115637868642807,
+        0.34087035059928894,
+        -0.08997498452663422
+      ]
+    ],
+    "vertices": 453,
+    "triangles": 792,
+    "sourceTriangles": 792,
+    "kind": "structure",
+    "sourceNodeName": "VH_F_renal_surface_of_spleen",
+    "sourceNodeIndex": 949,
+    "sourceMeshIndex": 787,
+    "sourceMeshName": "VH_F_renal_surface_of_spleen",
+    "sourceParentName": "VH_F_spleen",
+    "sourcePath": "VH_F/VH_F_lymphatic_system/VH_F_spleen/VH_F_renal_surface_of_spleen",
+    "sourceFile": "3d-vh-f-united.glb",
+    "sourceMetadata": {
+      "anatomical_structure_of": "#VHFSpleenV1.1",
+      "source_spatial_entity": "#VHFemaleOrgans",
+      "label": "renal surface of spleen",
+      "ontologyid": "FMA:15839",
+      "representation_of": "http://purl.org/sig/ont/fma/fma15839",
+      "glb_file_of_single_organs": "VH_F_Spleen\n"
+    },
+    "sourceMaterialNames": [
+      "spleen_mat"
+    ],
+    "sourceMaterialIndices": [
+      84
+    ],
+    "sourcePrimitiveAccessorHashes": [
+      {
+        "POSITION": "4efbddc0508cec393a55e8b44b5dbeb44e2d233e9b245124f8b68c846f6c0f3f",
+        "TANGENT": "44c7bce6e1f0b57676d19fe3c546bff8815476ffd354613836e852b4016ebd2a",
+        "NORMAL": "045ee1791055fd368aeb4b3c551c417093d158fac25043ca1fe31477842b7ec7",
+        "TEXCOORD_0": "6393f6ef2c48eebe3c5fbf816b1ca5d645ec3bed1cdc47527e266af159cf7625",
+        "INDICES": "cae0683598e38e02dbaa754208fa2bbcc126372e347e2c119cf65cbcaad5d748"
+      }
+    ],
+    "license": "CC-BY-4.0",
+    "materialPolicy": "preserve-original",
+    "appearance": "source-preserve",
+    "hasUV": true,
+    "hasBaseColorTexture": false,
+    "hasNormalTexture": false,
+    "defaultVisible": true,
+    "anatomicalRole": "organ subdivision"
+  }
+]

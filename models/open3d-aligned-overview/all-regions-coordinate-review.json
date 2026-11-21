@@ -1,0 +1,2340 @@
+{
+  "sourceToApp": "Identity: metres, Y up, anterior +Z, anatomical left +X",
+  "pairs": [
+    {
+      "regions": [
+        "lower-limb",
+        "upper-limb"
+      ],
+      "sameSourceNameCount": 13,
+      "sameNameBoundsWithin1mmCount": 12,
+      "structures": [
+        {
+          "sourceName": "Annulus fibrosus L3 L4",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Annulus fibrosus L4 L5",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Annulus fibrosus L5 S1",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Annulus fibrosus T12 L1",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Annulus fibrosus L2 L3",
+          "maxBoundsDifferenceMetres": 1.862645149230957e-09
+        },
+        {
+          "sourceName": "Sacrum",
+          "maxBoundsDifferenceMetres": 3.725290298461914e-09
+        },
+        {
+          "sourceName": "Lumbar vertebra (L1)",
+          "maxBoundsDifferenceMetres": 1.30385160446167e-06
+        },
+        {
+          "sourceName": "Lumbar vertebra (L4)",
+          "maxBoundsDifferenceMetres": 1.8700957298278809e-06
+        },
+        {
+          "sourceName": "Thoracic vertebra (T12)",
+          "maxBoundsDifferenceMetres": 1.9744038581848145e-06
+        },
+        {
+          "sourceName": "Lumbar vertebra (L5)",
+          "maxBoundsDifferenceMetres": 2.0265579223632812e-06
+        },
+        {
+          "sourceName": "Lumbar vertebra (L2)",
+          "maxBoundsDifferenceMetres": 2.2649765014648438e-06
+        },
+        {
+          "sourceName": "Lumbar vertebra (L3)",
+          "maxBoundsDifferenceMetres": 2.384185791015625e-06
+        },
+        {
+          "sourceName": "Articular capsules of distal interphalangeal joints",
+          "maxBoundsDifferenceMetres": 0.7795343417674303
+        }
+      ]
+    },
+    {
+      "regions": [
+        "lower-limb",
+        "pelvicfloor"
+      ],
+      "sameSourceNameCount": 37,
+      "sameNameBoundsWithin1mmCount": 24,
+      "structures": [
+        {
+          "sourceName": "Anterior sacro-iliac ligament.r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Coccygeus muscle.r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Gluteus maximus muscle.r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Gluteus medius muscle.r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Gluteus minimus muscle.r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Hip joint capsule.r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Iliolumbar ligament .r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Intercornual ligament.r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Obturator externus.r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Obturator membrane.r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Piriformis muscle.r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Sup, Inf, Ant, Post, Pubic ligaments",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Sacrotuberal ligament.r",
+          "maxBoundsDifferenceMetres": 5.960464477539063e-08
+        },
+        {
+          "sourceName": "Coccyx",
+          "maxBoundsDifferenceMetres": 7.152557373046875e-07
+        },
+        {
+          "sourceName": "Sacrum",
+          "maxBoundsDifferenceMetres": 2.864748239517212e-06
+        },
+        {
+          "sourceName": "Hip bone.r",
+          "maxBoundsDifferenceMetres": 4.045665264129639e-06
+        },
+        {
+          "sourceName": "Transverse acetabular ligament.r",
+          "maxBoundsDifferenceMetres": 3.288686275482178e-05
+        },
+        {
+          "sourceName": "Coccygeal nerve.r",
+          "maxBoundsDifferenceMetres": 5.611032247543335e-05
+        },
+        {
+          "sourceName": "Superior gemellus muscle.r",
+          "maxBoundsDifferenceMetres": 0.0001004338264465332
+        },
+        {
+          "sourceName": "Ligament of head of femur.r",
+          "maxBoundsDifferenceMetres": 0.0002176426351070404
+        },
+        {
+          "sourceName": "Sacrospinous ligament.r",
+          "maxBoundsDifferenceMetres": 0.0002542547881603241
+        },
+        {
+          "sourceName": "Inferior gemellus muscle.r",
+          "maxBoundsDifferenceMetres": 0.00025850534439086914
+        },
+        {
+          "sourceName": "Obturator internus.r",
+          "maxBoundsDifferenceMetres": 0.0002865791320800781
+        },
+        {
+          "sourceName": "Acetabular labrum.r",
+          "maxBoundsDifferenceMetres": 0.0002901386469602585
+        },
+        {
+          "sourceName": "Interpubic disc",
+          "maxBoundsDifferenceMetres": 0.0016506006941199303
+        },
+        {
+          "sourceName": "Symphysis of sacrococcygeal joint",
+          "maxBoundsDifferenceMetres": 0.0016695186495780945
+        },
+        {
+          "sourceName": "Iliacus muscle.r",
+          "maxBoundsDifferenceMetres": 0.0019759759306907654
+        },
+        {
+          "sourceName": "Inferior gluteal nerve.r",
+          "maxBoundsDifferenceMetres": 0.00616002082824707
+        },
+        {
+          "sourceName": "Superior gluteal nerve.r",
+          "maxBoundsDifferenceMetres": 0.023438215255737305
+        },
+        {
+          "sourceName": "Obturator nerve.r",
+          "maxBoundsDifferenceMetres": 0.03710031509399414
+        },
+        {
+          "sourceName": "Pudendal nerve.r",
+          "maxBoundsDifferenceMetres": 0.045562744140625
+        },
+        {
+          "sourceName": "Psoas major.r",
+          "maxBoundsDifferenceMetres": 0.12624263763427734
+        },
+        {
+          "sourceName": "Psoas minor.r",
+          "maxBoundsDifferenceMetres": 0.12953603267669678
+        },
+        {
+          "sourceName": "Femur.r",
+          "maxBoundsDifferenceMetres": 0.27297329902648926
+        },
+        {
+          "sourceName": "Posterior cutaneous nerve of the thigh.r",
+          "maxBoundsDifferenceMetres": 0.3003169298171997
+        },
+        {
+          "sourceName": "Common fibular nerve.r",
+          "maxBoundsDifferenceMetres": 0.46009624004364014
+        },
+        {
+          "sourceName": "Tibial nerve.r",
+          "maxBoundsDifferenceMetres": 0.8016456961631775
+        }
+      ]
+    },
+    {
+      "regions": [
+        "lower-limb",
+        "overview-skeleton"
+      ],
+      "sameSourceNameCount": 34,
+      "sameNameBoundsWithin1mmCount": 34,
+      "structures": [
+        {
+          "sourceName": "Calcaneus.r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Coccyx",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Cuboid bone.r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Distal phalanx of fifth finger of foot.r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Distal phalanx of first finger of foot.r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Distal phalanx of fourth finger of foot.r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Distal phalanx of second finger of foot.r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Distal phalanx of third finger of foot.r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Femur.r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Fibula.r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Fifth metatarsal bone.r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "First metatarsal bone.r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Fourth metatarsal bone.r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Hip bone.r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Intermediate cuneiform bone.r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Lateral cuneiform bone.r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Medial cuneiform bone.r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Middle phalanx of fifth finger of foot.r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Middle phalanx of fourth finger of foot.r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Middle phalanx of second finger of foot.r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Middle phalanx of third finger of foot.r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Navicular bone.r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Patella.r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Proximal phalanx of fifth finger of foot.r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Proximal phalanx of first finger of foot.r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Proximal phalanx of fourth finger of foot.r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Proximal phalanx of second finger of foot.r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Proximal phalanx of third finger of foot.r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Sacrum",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Second metatarsal bone.r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Sesamoid bones of foot.r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Talus.r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Third metatarsal bone.r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Tibia.r",
+          "maxBoundsDifferenceMetres": 0.0
+        }
+      ]
+    },
+    {
+      "regions": [
+        "lower-limb",
+        "muscles-thorax-abdomen"
+      ],
+      "sameSourceNameCount": 7,
+      "sameNameBoundsWithin1mmCount": 2,
+      "structures": [
+        {
+          "sourceName": "Coccyx",
+          "maxBoundsDifferenceMetres": 7.152557373046875e-07
+        },
+        {
+          "sourceName": "Sacrum",
+          "maxBoundsDifferenceMetres": 2.86102294921875e-06
+        },
+        {
+          "sourceName": "Symphysis of sacrococcygeal joint",
+          "maxBoundsDifferenceMetres": 0.001570768654346466
+        },
+        {
+          "sourceName": "Interpubic disc",
+          "maxBoundsDifferenceMetres": 0.0016506006941199303
+        },
+        {
+          "sourceName": "Psoas minor.r",
+          "maxBoundsDifferenceMetres": 0.06485196202993393
+        },
+        {
+          "sourceName": "Psoas major.r",
+          "maxBoundsDifferenceMetres": 0.12427705898880959
+        },
+        {
+          "sourceName": "Iliacus muscle.r",
+          "maxBoundsDifferenceMetres": 0.18350040167570114
+        }
+      ]
+    },
+    {
+      "regions": [
+        "lower-limb",
+        "spinal-cord"
+      ],
+      "sameSourceNameCount": 1,
+      "sameNameBoundsWithin1mmCount": 0,
+      "structures": [
+        {
+          "sourceName": "Arachnoid mater",
+          "maxBoundsDifferenceMetres": 0.5309631824493408
+        }
+      ]
+    },
+    {
+      "regions": [
+        "pelvicfloor",
+        "upper-limb"
+      ],
+      "sameSourceNameCount": 1,
+      "sameNameBoundsWithin1mmCount": 1,
+      "structures": [
+        {
+          "sourceName": "Sacrum",
+          "maxBoundsDifferenceMetres": 2.864748239517212e-06
+        }
+      ]
+    },
+    {
+      "regions": [
+        "pelvicfloor",
+        "spinal-cord"
+      ],
+      "sameSourceNameCount": 1,
+      "sameNameBoundsWithin1mmCount": 0,
+      "structures": [
+        {
+          "sourceName": "Aorta",
+          "maxBoundsDifferenceMetres": 0.5839331150054932
+        }
+      ]
+    },
+    {
+      "regions": [
+        "overview-skeleton",
+        "upper-limb"
+      ],
+      "sameSourceNameCount": 49,
+      "sameNameBoundsWithin1mmCount": 49,
+      "structures": [
+        {
+          "sourceName": "Atlas (C1)",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Clavicle.r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Manubrium of sternum",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Rib (10th).r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Rib (1st).r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Rib (7th).r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Rib (8th).r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Scapula.r.",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Axis (C2)",
+          "maxBoundsDifferenceMetres": 1.862645149230957e-09
+        },
+        {
+          "sourceName": "Rib (12th).r",
+          "maxBoundsDifferenceMetres": 1.862645149230957e-09
+        },
+        {
+          "sourceName": "Rib (11th).r",
+          "maxBoundsDifferenceMetres": 3.725290298461914e-09
+        },
+        {
+          "sourceName": "Rib (2nd).r",
+          "maxBoundsDifferenceMetres": 3.725290298461914e-09
+        },
+        {
+          "sourceName": "Rib (9th).r",
+          "maxBoundsDifferenceMetres": 3.725290298461914e-09
+        },
+        {
+          "sourceName": "Sacrum",
+          "maxBoundsDifferenceMetres": 3.725290298461914e-09
+        },
+        {
+          "sourceName": "Rib (3rd).r",
+          "maxBoundsDifferenceMetres": 7.450580596923828e-09
+        },
+        {
+          "sourceName": "Rib (4th).r",
+          "maxBoundsDifferenceMetres": 7.450580596923828e-09
+        },
+        {
+          "sourceName": "Rib (6th).r",
+          "maxBoundsDifferenceMetres": 7.450580596923828e-09
+        },
+        {
+          "sourceName": "Body of sternum",
+          "maxBoundsDifferenceMetres": 1.1920928955078125e-07
+        },
+        {
+          "sourceName": "Distal phalanx of 2d finger.r",
+          "maxBoundsDifferenceMetres": 1.1920928955078125e-07
+        },
+        {
+          "sourceName": "Rib (5th).r",
+          "maxBoundsDifferenceMetres": 1.1920928955078125e-07
+        },
+        {
+          "sourceName": "Pisiform.r",
+          "maxBoundsDifferenceMetres": 1.7881393432617188e-07
+        },
+        {
+          "sourceName": "4th metacarpal bone.r",
+          "maxBoundsDifferenceMetres": 2.1606683731079102e-07
+        },
+        {
+          "sourceName": "Trapezium.r",
+          "maxBoundsDifferenceMetres": 2.60770320892334e-07
+        },
+        {
+          "sourceName": "Capitate.r",
+          "maxBoundsDifferenceMetres": 2.682209014892578e-07
+        },
+        {
+          "sourceName": "Lunate bone.r",
+          "maxBoundsDifferenceMetres": 2.942979335784912e-07
+        },
+        {
+          "sourceName": "Distal phalanx of 3d finger.r",
+          "maxBoundsDifferenceMetres": 2.980232238769531e-07
+        },
+        {
+          "sourceName": "Distal phalanx of 4th finger.r",
+          "maxBoundsDifferenceMetres": 2.980232238769531e-07
+        },
+        {
+          "sourceName": "Triquetrum.r",
+          "maxBoundsDifferenceMetres": 3.2782554626464844e-07
+        },
+        {
+          "sourceName": "Proximal phalanx of 5th finger.r",
+          "maxBoundsDifferenceMetres": 3.427267074584961e-07
+        },
+        {
+          "sourceName": "Distal phalanx of 5th finger.r",
+          "maxBoundsDifferenceMetres": 3.5762786865234375e-07
+        },
+        {
+          "sourceName": "Middle phalanx of 5th finger.r",
+          "maxBoundsDifferenceMetres": 4.023313522338867e-07
+        },
+        {
+          "sourceName": "Distal phalanx of 1st finger.r",
+          "maxBoundsDifferenceMetres": 4.172325134277344e-07
+        },
+        {
+          "sourceName": "Trapezoid.r",
+          "maxBoundsDifferenceMetres": 4.172325134277344e-07
+        },
+        {
+          "sourceName": "Middle phalanx of 2d finger.r",
+          "maxBoundsDifferenceMetres": 5.364418029785156e-07
+        },
+        {
+          "sourceName": "Hamate.r",
+          "maxBoundsDifferenceMetres": 5.960464477539062e-07
+        },
+        {
+          "sourceName": "Scaphoid.r",
+          "maxBoundsDifferenceMetres": 6.556510925292969e-07
+        },
+        {
+          "sourceName": "Middle phalanx of 4th finger.r",
+          "maxBoundsDifferenceMetres": 7.152557373046875e-07
+        },
+        {
+          "sourceName": "Proximal phalanx of 3rd finger.r",
+          "maxBoundsDifferenceMetres": 7.152557373046875e-07
+        },
+        {
+          "sourceName": "Middle phalanx of 3rd finger.r",
+          "maxBoundsDifferenceMetres": 7.450580596923828e-07
+        },
+        {
+          "sourceName": "Proximal phalanx of 2d finger.r",
+          "maxBoundsDifferenceMetres": 7.748603820800781e-07
+        },
+        {
+          "sourceName": "Proximal phalanx of 1st finger.r",
+          "maxBoundsDifferenceMetres": 8.568167686462402e-07
+        },
+        {
+          "sourceName": "Proximal phalanx of 4th finger.r",
+          "maxBoundsDifferenceMetres": 1.0132789611816406e-06
+        },
+        {
+          "sourceName": "3rd metacarpal bone.r",
+          "maxBoundsDifferenceMetres": 1.0915100574493408e-06
+        },
+        {
+          "sourceName": "1st metacarpal bone.r",
+          "maxBoundsDifferenceMetres": 1.1101365089416504e-06
+        },
+        {
+          "sourceName": "2nd metacarpal bone.r",
+          "maxBoundsDifferenceMetres": 1.4416873455047607e-06
+        },
+        {
+          "sourceName": "5th metacarpal bone.r",
+          "maxBoundsDifferenceMetres": 1.6242265701293945e-06
+        },
+        {
+          "sourceName": "Humerus.r",
+          "maxBoundsDifferenceMetres": 1.8924474716186523e-06
+        },
+        {
+          "sourceName": "Ulna.r",
+          "maxBoundsDifferenceMetres": 0.00039756298065185547
+        },
+        {
+          "sourceName": "Radius.r",
+          "maxBoundsDifferenceMetres": 0.0005289316177368164
+        }
+      ]
+    },
+    {
+      "regions": [
+        "overview-skeleton",
+        "pelvicfloor"
+      ],
+      "sameSourceNameCount": 6,
+      "sameNameBoundsWithin1mmCount": 5,
+      "structures": [
+        {
+          "sourceName": "Coccyx",
+          "maxBoundsDifferenceMetres": 7.152557373046875e-07
+        },
+        {
+          "sourceName": "Lumbar vertebrae (L4)",
+          "maxBoundsDifferenceMetres": 1.8738210201263428e-06
+        },
+        {
+          "sourceName": "Lumbar vertebrae (L5)",
+          "maxBoundsDifferenceMetres": 2.0265579223632812e-06
+        },
+        {
+          "sourceName": "Sacrum",
+          "maxBoundsDifferenceMetres": 2.864748239517212e-06
+        },
+        {
+          "sourceName": "Hip bone.r",
+          "maxBoundsDifferenceMetres": 4.045665264129639e-06
+        },
+        {
+          "sourceName": "Femur.r",
+          "maxBoundsDifferenceMetres": 0.27297329902648926
+        }
+      ]
+    },
+    {
+      "regions": [
+        "overview-skeleton",
+        "spinal-cord"
+      ],
+      "sameSourceNameCount": 6,
+      "sameNameBoundsWithin1mmCount": 0,
+      "structures": [
+        {
+          "sourceName": "Thoracic vertebrae (T7)",
+          "maxBoundsDifferenceMetres": 0.2739027068018913
+        },
+        {
+          "sourceName": "Rib (7th).r",
+          "maxBoundsDifferenceMetres": 0.32103197276592255
+        },
+        {
+          "sourceName": "Rib (8th).r",
+          "maxBoundsDifferenceMetres": 0.3275910019874573
+        },
+        {
+          "sourceName": "Rib (6th).r",
+          "maxBoundsDifferenceMetres": 0.3639867305755615
+        },
+        {
+          "sourceName": "Thoracic vertebrae (T6)",
+          "maxBoundsDifferenceMetres": 0.3685251474380493
+        },
+        {
+          "sourceName": "Thoracic vertebrae (T8)",
+          "maxBoundsDifferenceMetres": 0.4609568119049072
+        }
+      ]
+    },
+    {
+      "regions": [
+        "hand",
+        "upper-limb"
+      ],
+      "sameSourceNameCount": 70,
+      "sameNameBoundsWithin1mmCount": 70,
+      "structures": [
+        {
+          "sourceName": "Abductor pollicis longus tendon sheath",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Articular capsule of radiocarpal joint",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Articular capsules of distal interphalangeal joints",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Capitohamate interosseus ligament",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Deep transverse metacarpal ligament",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Deep venous palmar arch",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Dorsal carpometacarpal ligaments",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Dorsal ulnocarpal ligament",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Extensor carpi radialis longus tendon sheath",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Extensor carpi ulnaris tendon sheath",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Extensor digiti minimi tendon sheath",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Extensor pollicis brevis tendon sheath",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Extensor retinaculum of wrist",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Fibrous sheath of digits of hand",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Fibrous sheath of digits of hand thumb",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Flexor carpi radialis tendon sheath",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Interosseous metacarpal ligaments",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Intertendinous connections of extensor digitorum",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Lateral band of 2nd finger",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Lateral band of 3rd finger",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Lateral band of 4th finger",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Lateral band of 5th finger",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Median nerve Common palmar digital nerves",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Median nerve Palmar br",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Median nerve Proper palmar digital nerves",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Median nerve Proper palmar digital nerves of the thumb",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Median nerve Recurrent br",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Palmal digital veins",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Palmar capitohamate ligament",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Palmar carpometacarpal ligaments",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Palmar metacarpal ligaments",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Palmar radio-ulnar ligament",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Palmar trapezoideocapitate ligament",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Pisohamate ligament",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Pisotriquetral ligament",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Radioscaphocapitate ligament",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Scaphocapitate ligament",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Scapholunate interosseus ligament",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Scaphotrapeziotrapezoidal ligament",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Synovial sheaths of fingers",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Triquetrohamate ligament",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Ulnar nerve Superficial br Proper palmar digital nn",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Ulnopisiform ligament",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Extensor pollicis longus tendon sheath",
+          "maxBoundsDifferenceMetres": 2.3283064365386963e-10
+        },
+        {
+          "sourceName": "Extensor carpi radialis brevis tendon sheath",
+          "maxBoundsDifferenceMetres": 4.656612873077393e-10
+        },
+        {
+          "sourceName": "Dorsal metacarpal ligaments",
+          "maxBoundsDifferenceMetres": 9.313225746154785e-10
+        },
+        {
+          "sourceName": "Lunotriquetral interosseous ligament",
+          "maxBoundsDifferenceMetres": 9.313225746154785e-10
+        },
+        {
+          "sourceName": "Trapezoideocapitate interosseous ligament",
+          "maxBoundsDifferenceMetres": 9.313225746154785e-10
+        },
+        {
+          "sourceName": "Articular capsules of metacarpophalangeal joints",
+          "maxBoundsDifferenceMetres": 1.862645149230957e-09
+        },
+        {
+          "sourceName": "Dorsal digital veins",
+          "maxBoundsDifferenceMetres": 1.862645149230957e-09
+        },
+        {
+          "sourceName": "Median nerve Common palmar digital nerve of the thumb",
+          "maxBoundsDifferenceMetres": 1.862645149230957e-09
+        },
+        {
+          "sourceName": "Palmar lunotriquetral ligament",
+          "maxBoundsDifferenceMetres": 1.862645149230957e-09
+        },
+        {
+          "sourceName": "Radiate carpal ligament",
+          "maxBoundsDifferenceMetres": 1.862645149230957e-09
+        },
+        {
+          "sourceName": "Superficial palmar venous arch",
+          "maxBoundsDifferenceMetres": 1.862645149230957e-09
+        },
+        {
+          "sourceName": "Trapeziotrapezoidal interosseous ligament",
+          "maxBoundsDifferenceMetres": 1.862645149230957e-09
+        },
+        {
+          "sourceName": "Ulnar nerve Palmar cutaneous br",
+          "maxBoundsDifferenceMetres": 1.862645149230957e-09
+        },
+        {
+          "sourceName": "Flexor pollicis longus tendon sheath",
+          "maxBoundsDifferenceMetres": 3.725290298461914e-09
+        },
+        {
+          "sourceName": "Articular capsules of proximal interphalangeal joints",
+          "maxBoundsDifferenceMetres": 1.4901161193847656e-08
+        },
+        {
+          "sourceName": "Common flexor tendon sheath",
+          "maxBoundsDifferenceMetres": 1.4901161193847656e-08
+        },
+        {
+          "sourceName": "Dorsal metatarsal veins",
+          "maxBoundsDifferenceMetres": 1.4901161193847656e-08
+        },
+        {
+          "sourceName": "Dorsal scaphotriquetral ligament",
+          "maxBoundsDifferenceMetres": 1.4901161193847656e-08
+        },
+        {
+          "sourceName": "Extensor digitorum - Extensor indicis tendon sheath",
+          "maxBoundsDifferenceMetres": 1.4901161193847656e-08
+        },
+        {
+          "sourceName": "Palmar metacarpal veins",
+          "maxBoundsDifferenceMetres": 1.4901161193847656e-08
+        },
+        {
+          "sourceName": "Palmar scaphotriquetral ligament",
+          "maxBoundsDifferenceMetres": 1.4901161193847656e-08
+        },
+        {
+          "sourceName": "Triangular fibro cartilage disc",
+          "maxBoundsDifferenceMetres": 1.4901161193847656e-08
+        },
+        {
+          "sourceName": "Triquetrocapitate ligament",
+          "maxBoundsDifferenceMetres": 1.4901161193847656e-08
+        },
+        {
+          "sourceName": "Ulnar nerve Communicating br",
+          "maxBoundsDifferenceMetres": 1.4901161193847656e-08
+        },
+        {
+          "sourceName": "Ulnar nerve Deep br",
+          "maxBoundsDifferenceMetres": 1.4901161193847656e-08
+        },
+        {
+          "sourceName": "Ulnar nerve Superficial br Common palmar digital n",
+          "maxBoundsDifferenceMetres": 1.4901161193847656e-08
+        },
+        {
+          "sourceName": "Ulnar nerve Dorsal cutaneous br",
+          "maxBoundsDifferenceMetres": 5.960464477539063e-08
+        }
+      ]
+    },
+    {
+      "regions": [
+        "hand",
+        "lower-limb"
+      ],
+      "sameSourceNameCount": 1,
+      "sameNameBoundsWithin1mmCount": 0,
+      "structures": [
+        {
+          "sourceName": "Articular capsules of distal interphalangeal joints",
+          "maxBoundsDifferenceMetres": 0.7795343417674303
+        }
+      ]
+    },
+    {
+      "regions": [
+        "hand",
+        "pelvicfloor"
+      ],
+      "sameSourceNameCount": 0,
+      "sameNameBoundsWithin1mmCount": 0,
+      "structures": []
+    },
+    {
+      "regions": [
+        "hand",
+        "overview-skeleton"
+      ],
+      "sameSourceNameCount": 0,
+      "sameNameBoundsWithin1mmCount": 0,
+      "structures": []
+    },
+    {
+      "regions": [
+        "hand",
+        "muscles-thorax-abdomen"
+      ],
+      "sameSourceNameCount": 0,
+      "sameNameBoundsWithin1mmCount": 0,
+      "structures": []
+    },
+    {
+      "regions": [
+        "hand",
+        "spinal-cord"
+      ],
+      "sameSourceNameCount": 0,
+      "sameNameBoundsWithin1mmCount": 0,
+      "structures": []
+    },
+    {
+      "regions": [
+        "hand",
+        "inguinal-canal"
+      ],
+      "sameSourceNameCount": 0,
+      "sameNameBoundsWithin1mmCount": 0,
+      "structures": []
+    },
+    {
+      "regions": [
+        "muscles-thorax-abdomen",
+        "upper-limb"
+      ],
+      "sameSourceNameCount": 51,
+      "sameNameBoundsWithin1mmCount": 45,
+      "structures": [
+        {
+          "sourceName": "Acromioclavicular capsule.r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Subclavius muscle.r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Superior transverse scapular ligament.r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Articular disc of steroclavicular joint.r",
+          "maxBoundsDifferenceMetres": 1.862645149230957e-09
+        },
+        {
+          "sourceName": "Coraco-acromial ligament.r",
+          "maxBoundsDifferenceMetres": 1.862645149230957e-09
+        },
+        {
+          "sourceName": "Coracoclavicular ligament.r",
+          "maxBoundsDifferenceMetres": 3.725290298461914e-09
+        },
+        {
+          "sourceName": "Sternoclavicular capsule.r",
+          "maxBoundsDifferenceMetres": 3.725290298461914e-09
+        },
+        {
+          "sourceName": "Inferior transverse scapular ligament.r",
+          "maxBoundsDifferenceMetres": 7.450580596923828e-09
+        },
+        {
+          "sourceName": "2nd rib art cart of head.r",
+          "maxBoundsDifferenceMetres": 3.5762786865234375e-07
+        },
+        {
+          "sourceName": "2nd rib art cart of tubercle.r",
+          "maxBoundsDifferenceMetres": 3.8370490074157715e-07
+        },
+        {
+          "sourceName": "Acromioclavicular disc.r",
+          "maxBoundsDifferenceMetres": 5.066394805908203e-07
+        },
+        {
+          "sourceName": "Atlas (C1)",
+          "maxBoundsDifferenceMetres": 5.941838026046753e-07
+        },
+        {
+          "sourceName": "Manubrium of sternum",
+          "maxBoundsDifferenceMetres": 7.152557373046875e-07
+        },
+        {
+          "sourceName": "Axis (C2)",
+          "maxBoundsDifferenceMetres": 1.3113021850585938e-06
+        },
+        {
+          "sourceName": "Body of sternum",
+          "maxBoundsDifferenceMetres": 1.996755599975586e-06
+        },
+        {
+          "sourceName": "Teres minor muscle.r",
+          "maxBoundsDifferenceMetres": 2.037733793258667e-06
+        },
+        {
+          "sourceName": "Rhomboid minor muscle.r",
+          "maxBoundsDifferenceMetres": 2.689659595489502e-06
+        },
+        {
+          "sourceName": "Sacrum",
+          "maxBoundsDifferenceMetres": 2.86102294921875e-06
+        },
+        {
+          "sourceName": "Rhomboid major muscle.r",
+          "maxBoundsDifferenceMetres": 3.7811696529388428e-06
+        },
+        {
+          "sourceName": "Infraspinatus muscle.r",
+          "maxBoundsDifferenceMetres": 8.431077003479004e-05
+        },
+        {
+          "sourceName": "10th rib art cart of tubercle.r",
+          "maxBoundsDifferenceMetres": 9.531527757644653e-05
+        },
+        {
+          "sourceName": "Levator scapulae.r",
+          "maxBoundsDifferenceMetres": 0.0001571178436279297
+        },
+        {
+          "sourceName": "Subscapularis muscle.r",
+          "maxBoundsDifferenceMetres": 0.00016339123249053955
+        },
+        {
+          "sourceName": "9th rib art cart of head.r",
+          "maxBoundsDifferenceMetres": 0.00017821788787841797
+        },
+        {
+          "sourceName": "Supraspinatus muscle.r",
+          "maxBoundsDifferenceMetres": 0.00019872188568115234
+        },
+        {
+          "sourceName": "3rd rib art cart of tubercle.r",
+          "maxBoundsDifferenceMetres": 0.0002000555396080017
+        },
+        {
+          "sourceName": "Coracohumeral ligament.r",
+          "maxBoundsDifferenceMetres": 0.00020813941955566406
+        },
+        {
+          "sourceName": "Articular capsule of glenohumeral joint.r",
+          "maxBoundsDifferenceMetres": 0.00021517276763916016
+        },
+        {
+          "sourceName": "5th rib art cart of head.r",
+          "maxBoundsDifferenceMetres": 0.00022220611572265625
+        },
+        {
+          "sourceName": "Latissimus dorsi.r",
+          "maxBoundsDifferenceMetres": 0.0002225637435913086
+        },
+        {
+          "sourceName": "10th rib art cart of head.r",
+          "maxBoundsDifferenceMetres": 0.00022864341735839844
+        },
+        {
+          "sourceName": "6th rib art cart of head.r",
+          "maxBoundsDifferenceMetres": 0.00024306774139404297
+        },
+        {
+          "sourceName": "4th rib art cart of head.r",
+          "maxBoundsDifferenceMetres": 0.00029328837990760803
+        },
+        {
+          "sourceName": "1st rib art cart of head.r",
+          "maxBoundsDifferenceMetres": 0.00029456615447998047
+        },
+        {
+          "sourceName": "3rd rib art cart of head.r",
+          "maxBoundsDifferenceMetres": 0.00036776065826416016
+        },
+        {
+          "sourceName": "7th rib art cart of tubercle.r",
+          "maxBoundsDifferenceMetres": 0.00039692223072052
+        },
+        {
+          "sourceName": "Xiphoid process",
+          "maxBoundsDifferenceMetres": 0.0004048813134431839
+        },
+        {
+          "sourceName": "8th rib art cart of head.r",
+          "maxBoundsDifferenceMetres": 0.0004172772169113159
+        },
+        {
+          "sourceName": "7th rib art cart of head.r",
+          "maxBoundsDifferenceMetres": 0.0004982128739356995
+        },
+        {
+          "sourceName": "4th rib art cart of tubercle.r",
+          "maxBoundsDifferenceMetres": 0.0006856881082057953
+        },
+        {
+          "sourceName": "1st rib art cart of tubercle.r",
+          "maxBoundsDifferenceMetres": 0.0006937980651855469
+        },
+        {
+          "sourceName": "8th rib art cart of tubercle.r",
+          "maxBoundsDifferenceMetres": 0.0007121562957763672
+        },
+        {
+          "sourceName": "9th rib art cart of tubercle.r",
+          "maxBoundsDifferenceMetres": 0.0007424056529998779
+        },
+        {
+          "sourceName": "Serratus anterior muscle.r",
+          "maxBoundsDifferenceMetres": 0.0009163618087768555
+        },
+        {
+          "sourceName": "Teres major muscle.r",
+          "maxBoundsDifferenceMetres": 0.0009215176105499268
+        },
+        {
+          "sourceName": "6th rib art cart of tubercle.r",
+          "maxBoundsDifferenceMetres": 0.0012499094009399414
+        },
+        {
+          "sourceName": "5th rib art cart of tubercle.r",
+          "maxBoundsDifferenceMetres": 0.0013448353856801987
+        },
+        {
+          "sourceName": "Trapezius muscle.r",
+          "maxBoundsDifferenceMetres": 0.0014580488204956055
+        },
+        {
+          "sourceName": "Deltoid muscle.r",
+          "maxBoundsDifferenceMetres": 0.001902468502521515
+        },
+        {
+          "sourceName": "Articular cartilage of acromioclavicular joint on clavicle.r",
+          "maxBoundsDifferenceMetres": 0.002926856279373169
+        },
+        {
+          "sourceName": "Pectoralis major.r",
+          "maxBoundsDifferenceMetres": 0.0036898404359817505
+        }
+      ]
+    },
+    {
+      "regions": [
+        "muscles-thorax-abdomen",
+        "pelvicfloor"
+      ],
+      "sameSourceNameCount": 10,
+      "sameNameBoundsWithin1mmCount": 5,
+      "structures": [
+        {
+          "sourceName": "Coccyx",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Interpubic disc",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Lumbar vertebrae (L5)",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Lumbar vertebrae (L4)",
+          "maxBoundsDifferenceMetres": 3.725290298461914e-09
+        },
+        {
+          "sourceName": "Sacrum",
+          "maxBoundsDifferenceMetres": 3.725290298461914e-09
+        },
+        {
+          "sourceName": "Symphysis of sacrococcygeal joint",
+          "maxBoundsDifferenceMetres": 0.0011739134788513184
+        },
+        {
+          "sourceName": "Quadratus lumborum muscle.r",
+          "maxBoundsDifferenceMetres": 0.11919891834259033
+        },
+        {
+          "sourceName": "Psoas major.r",
+          "maxBoundsDifferenceMetres": 0.1264897659420967
+        },
+        {
+          "sourceName": "Psoas minor.r",
+          "maxBoundsDifferenceMetres": 0.1293182373046875
+        },
+        {
+          "sourceName": "Iliacus muscle.r",
+          "maxBoundsDifferenceMetres": 0.18350040167570114
+        }
+      ]
+    },
+    {
+      "regions": [
+        "muscles-thorax-abdomen",
+        "overview-skeleton"
+      ],
+      "sameSourceNameCount": 28,
+      "sameNameBoundsWithin1mmCount": 28,
+      "structures": [
+        {
+          "sourceName": "Atlas (C1)",
+          "maxBoundsDifferenceMetres": 5.941838026046753e-07
+        },
+        {
+          "sourceName": "Coccyx",
+          "maxBoundsDifferenceMetres": 7.152557373046875e-07
+        },
+        {
+          "sourceName": "Manubrium of sternum",
+          "maxBoundsDifferenceMetres": 7.152557373046875e-07
+        },
+        {
+          "sourceName": "Cervical vertebrae (C7)",
+          "maxBoundsDifferenceMetres": 8.344650268554688e-07
+        },
+        {
+          "sourceName": "Cervical vertebrae (C3)",
+          "maxBoundsDifferenceMetres": 8.810311555862427e-07
+        },
+        {
+          "sourceName": "Thoracic vertebrae (T3)",
+          "maxBoundsDifferenceMetres": 1.1920928955078125e-06
+        },
+        {
+          "sourceName": "Thoracic vertebrae (T8)",
+          "maxBoundsDifferenceMetres": 1.1920928955078125e-06
+        },
+        {
+          "sourceName": "Thoracic vertebrae (T7)",
+          "maxBoundsDifferenceMetres": 1.259148120880127e-06
+        },
+        {
+          "sourceName": "Cervical vertebrae (C4)",
+          "maxBoundsDifferenceMetres": 1.2721866369247437e-06
+        },
+        {
+          "sourceName": "Lumbar vertebrae (L1)",
+          "maxBoundsDifferenceMetres": 1.30385160446167e-06
+        },
+        {
+          "sourceName": "Axis (C2)",
+          "maxBoundsDifferenceMetres": 1.3113021850585938e-06
+        },
+        {
+          "sourceName": "Thoracic vertebrae (T1)",
+          "maxBoundsDifferenceMetres": 1.3113021850585938e-06
+        },
+        {
+          "sourceName": "Thoracic vertebrae (T6)",
+          "maxBoundsDifferenceMetres": 1.3113021850585938e-06
+        },
+        {
+          "sourceName": "Thoracic vertebrae (T11)",
+          "maxBoundsDifferenceMetres": 1.5087425708770752e-06
+        },
+        {
+          "sourceName": "Cervical vertebrae (C5)",
+          "maxBoundsDifferenceMetres": 1.7601996660232544e-06
+        },
+        {
+          "sourceName": "Thoracic vertebrae (T10)",
+          "maxBoundsDifferenceMetres": 1.8328428268432617e-06
+        },
+        {
+          "sourceName": "Lumbar vertebrae (L4)",
+          "maxBoundsDifferenceMetres": 1.8775463104248047e-06
+        },
+        {
+          "sourceName": "Thoracic vertebrae (T2)",
+          "maxBoundsDifferenceMetres": 1.9073486328125e-06
+        },
+        {
+          "sourceName": "Thoracic vertebrae (T12)",
+          "maxBoundsDifferenceMetres": 1.9744038581848145e-06
+        },
+        {
+          "sourceName": "Lumbar vertebrae (L5)",
+          "maxBoundsDifferenceMetres": 2.0265579223632812e-06
+        },
+        {
+          "sourceName": "Thoracic vertebrae (T4)",
+          "maxBoundsDifferenceMetres": 2.0265579223632812e-06
+        },
+        {
+          "sourceName": "Body of sternum",
+          "maxBoundsDifferenceMetres": 2.041459083557129e-06
+        },
+        {
+          "sourceName": "Thoracic vertebrae (T5)",
+          "maxBoundsDifferenceMetres": 2.1010637283325195e-06
+        },
+        {
+          "sourceName": "Lumbar vertebrae (L2)",
+          "maxBoundsDifferenceMetres": 2.2649765014648438e-06
+        },
+        {
+          "sourceName": "Thoracic vertebrae (T9)",
+          "maxBoundsDifferenceMetres": 2.2649765014648438e-06
+        },
+        {
+          "sourceName": "Lumbar vertebrae (L3)",
+          "maxBoundsDifferenceMetres": 2.384185791015625e-06
+        },
+        {
+          "sourceName": "Sacrum",
+          "maxBoundsDifferenceMetres": 2.86102294921875e-06
+        },
+        {
+          "sourceName": "Cervical vertebrae (C6)",
+          "maxBoundsDifferenceMetres": 4.851818084716797e-05
+        }
+      ]
+    },
+    {
+      "regions": [
+        "muscles-thorax-abdomen",
+        "spinal-cord"
+      ],
+      "sameSourceNameCount": 3,
+      "sameNameBoundsWithin1mmCount": 0,
+      "structures": [
+        {
+          "sourceName": "Thoracic vertebrae (T7)",
+          "maxBoundsDifferenceMetres": 0.27390144765377045
+        },
+        {
+          "sourceName": "Thoracic vertebrae (T6)",
+          "maxBoundsDifferenceMetres": 0.3685264587402344
+        },
+        {
+          "sourceName": "Thoracic vertebrae (T8)",
+          "maxBoundsDifferenceMetres": 0.4609568119049072
+        }
+      ]
+    },
+    {
+      "regions": [
+        "spinal-cord",
+        "upper-limb"
+      ],
+      "sameSourceNameCount": 3,
+      "sameNameBoundsWithin1mmCount": 0,
+      "structures": [
+        {
+          "sourceName": "Rib (7th).r",
+          "maxBoundsDifferenceMetres": 0.32103197276592255
+        },
+        {
+          "sourceName": "Rib (8th).r",
+          "maxBoundsDifferenceMetres": 0.3275910019874573
+        },
+        {
+          "sourceName": "Rib (6th).r",
+          "maxBoundsDifferenceMetres": 0.3639867305755615
+        }
+      ]
+    },
+    {
+      "regions": [
+        "inguinal-canal",
+        "upper-limb"
+      ],
+      "sameSourceNameCount": 2,
+      "sameNameBoundsWithin1mmCount": 0,
+      "structures": [
+        {
+          "sourceName": "Sacrum",
+          "maxBoundsDifferenceMetres": 0.06180831789970398
+        },
+        {
+          "sourceName": "Latissimus dorsi.r",
+          "maxBoundsDifferenceMetres": 0.3023362159729004
+        }
+      ]
+    },
+    {
+      "regions": [
+        "inguinal-canal",
+        "lower-limb"
+      ],
+      "sameSourceNameCount": 88,
+      "sameNameBoundsWithin1mmCount": 40,
+      "structures": [
+        {
+          "sourceName": "Anterior sacro-iliac ligament.r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Bursa of piriformis.r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Coccygeus muscle.r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Common tendon of Semitendinosus and Long head of biceps femoris",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Gluteus maximus muscle.r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Gluteus medius muscle.r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Hip joint capsule.r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Iliolumbar ligament .r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Iliopectineal bursa.r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Intercornual ligament.r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Intermuscular gluteal bursae.r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Lateral circumflex femoral vein.r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Medial circumflex femoral vein.r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Obturator membrane.r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Quadratus femoris muscle.r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Sacrotuberal ligament.r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Sciatic bursa of gluteus maximus (Ischiogluteal bursa).r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Sciatic bursa of obturator internus.r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Subtendinous bursa of iliacus.r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Subtendinous bursa of obturator internus.r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Superficial circumflex iliac vein.r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Superficial epigastric artery.r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Superficial external pudendal vein.r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Superior bursa of biceps femoris.r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Trochanteric bursae of gluteus medius.r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Femoral neck vessels.r",
+          "maxBoundsDifferenceMetres": 1.862645149230957e-09
+        },
+        {
+          "sourceName": "Coccygeal nerve.r",
+          "maxBoundsDifferenceMetres": 5.611032247543335e-05
+        },
+        {
+          "sourceName": "Pectineus muscle.r",
+          "maxBoundsDifferenceMetres": 6.914138793945312e-05
+        },
+        {
+          "sourceName": "Gluteal aponeurosis.r",
+          "maxBoundsDifferenceMetres": 7.729232311248779e-05
+        },
+        {
+          "sourceName": "Superior gemellus muscle.r",
+          "maxBoundsDifferenceMetres": 0.0001004338264465332
+        },
+        {
+          "sourceName": "Ligament of head of femur.r",
+          "maxBoundsDifferenceMetres": 0.0002176426351070404
+        },
+        {
+          "sourceName": "Sacrospinous ligament.r",
+          "maxBoundsDifferenceMetres": 0.0002542547881603241
+        },
+        {
+          "sourceName": "Superficial external pudendal artery.r",
+          "maxBoundsDifferenceMetres": 0.00025635305792093277
+        },
+        {
+          "sourceName": "Inferior gemellus muscle.r",
+          "maxBoundsDifferenceMetres": 0.00025850534439086914
+        },
+        {
+          "sourceName": "Acetabular labrum.r",
+          "maxBoundsDifferenceMetres": 0.0002901386469602585
+        },
+        {
+          "sourceName": "Superficial epigastric vein.r",
+          "maxBoundsDifferenceMetres": 0.00031821802258491516
+        },
+        {
+          "sourceName": "Trochanteric bursa of gluteus minimus.r",
+          "maxBoundsDifferenceMetres": 0.0003275871276855469
+        },
+        {
+          "sourceName": "Subcutaneous trochanteric bursa.r",
+          "maxBoundsDifferenceMetres": 0.00041327252984046936
+        },
+        {
+          "sourceName": "Interossea / Posterior sacro-iliac ligament.r",
+          "maxBoundsDifferenceMetres": 0.00046512484550476074
+        },
+        {
+          "sourceName": "Trochanteric bursa of gluteus maximus.r",
+          "maxBoundsDifferenceMetres": 0.0005363523960113525
+        },
+        {
+          "sourceName": "Lateral circumflex femoral artery.r",
+          "maxBoundsDifferenceMetres": 0.0032910406589508057
+        },
+        {
+          "sourceName": "Inferior gluteal nerve.r",
+          "maxBoundsDifferenceMetres": 0.006160080432891846
+        },
+        {
+          "sourceName": "Symphysis of sacrococcygeal joint",
+          "maxBoundsDifferenceMetres": 0.00984774436801672
+        },
+        {
+          "sourceName": "Medial circumflex femoral artery.r",
+          "maxBoundsDifferenceMetres": 0.010615050792694092
+        },
+        {
+          "sourceName": "Interpubic disc",
+          "maxBoundsDifferenceMetres": 0.012155156582593918
+        },
+        {
+          "sourceName": "Sup, Inf, Ant, Post, Pubic ligaments",
+          "maxBoundsDifferenceMetres": 0.01436400692909956
+        },
+        {
+          "sourceName": "Gluteus minimus muscle.r",
+          "maxBoundsDifferenceMetres": 0.014857679605484009
+        },
+        {
+          "sourceName": "Iliohypogastric nerve, anterior branch.r",
+          "maxBoundsDifferenceMetres": 0.015544682741165161
+        },
+        {
+          "sourceName": "Iliacus muscle.r",
+          "maxBoundsDifferenceMetres": 0.016244610771536827
+        },
+        {
+          "sourceName": "Coccyx",
+          "maxBoundsDifferenceMetres": 0.016516130417585373
+        },
+        {
+          "sourceName": "Superficial circumflex iliac artery.r",
+          "maxBoundsDifferenceMetres": 0.01854526996612549
+        },
+        {
+          "sourceName": "Superior gluteal nerve.r",
+          "maxBoundsDifferenceMetres": 0.02343815565109253
+        },
+        {
+          "sourceName": "Piriformis muscle.r",
+          "maxBoundsDifferenceMetres": 0.026969730854034424
+        },
+        {
+          "sourceName": "Hip bone.r",
+          "maxBoundsDifferenceMetres": 0.027581248432397842
+        },
+        {
+          "sourceName": "Pudendal nerve.r",
+          "maxBoundsDifferenceMetres": 0.04553109407424927
+        },
+        {
+          "sourceName": "Ilioinguinal nerve.r",
+          "maxBoundsDifferenceMetres": 0.05976688861846924
+        },
+        {
+          "sourceName": "Sacrum",
+          "maxBoundsDifferenceMetres": 0.06180831417441368
+        },
+        {
+          "sourceName": "Femoral nerve.r",
+          "maxBoundsDifferenceMetres": 0.08962619304656982
+        },
+        {
+          "sourceName": "Deep femoral vein.r",
+          "maxBoundsDifferenceMetres": 0.10210281610488892
+        },
+        {
+          "sourceName": "Deep artery of the thigh.r",
+          "maxBoundsDifferenceMetres": 0.11376875638961792
+        },
+        {
+          "sourceName": "Obturator nerve, posterior branch.r",
+          "maxBoundsDifferenceMetres": 0.13097286224365234
+        },
+        {
+          "sourceName": "Sciatic nerve.r",
+          "maxBoundsDifferenceMetres": 0.14847785234451294
+        },
+        {
+          "sourceName": "1th to 4th perforating branches of the deep femoral vein.r",
+          "maxBoundsDifferenceMetres": 0.15257352590560913
+        },
+        {
+          "sourceName": "Femoral vein.r",
+          "maxBoundsDifferenceMetres": 0.15326476097106934
+        },
+        {
+          "sourceName": "Femoral artery.r",
+          "maxBoundsDifferenceMetres": 0.16085833311080933
+        },
+        {
+          "sourceName": "1th to 4th perforating branches of the deep femoral artery.r",
+          "maxBoundsDifferenceMetres": 0.17394250631332397
+        },
+        {
+          "sourceName": "Obturator nerve.r",
+          "maxBoundsDifferenceMetres": 0.1884346604347229
+        },
+        {
+          "sourceName": "Vastus intermedius muscle.r",
+          "maxBoundsDifferenceMetres": 0.20140373706817627
+        },
+        {
+          "sourceName": "Femoral nerve, muscular branches.r",
+          "maxBoundsDifferenceMetres": 0.20395022630691528
+        },
+        {
+          "sourceName": "Vastus lateralis muscle.r",
+          "maxBoundsDifferenceMetres": 0.21023154258728027
+        },
+        {
+          "sourceName": "Vastus medialis muscle.r",
+          "maxBoundsDifferenceMetres": 0.21432894468307495
+        },
+        {
+          "sourceName": "Lateral femoral intermuscular septum.r",
+          "maxBoundsDifferenceMetres": 0.22422674298286438
+        },
+        {
+          "sourceName": "Medial femoral intermuscular septum.r",
+          "maxBoundsDifferenceMetres": 0.23268359899520874
+        },
+        {
+          "sourceName": "Obturator nerve, anterior br, cutaneous br.r",
+          "maxBoundsDifferenceMetres": 0.23385858535766602
+        },
+        {
+          "sourceName": "Adductor magnus.r",
+          "maxBoundsDifferenceMetres": 0.2369602620601654
+        },
+        {
+          "sourceName": "Obturator nerve, anterior branch.r",
+          "maxBoundsDifferenceMetres": 0.2494117021560669
+        },
+        {
+          "sourceName": "Accessory saphenous vein.r",
+          "maxBoundsDifferenceMetres": 0.2516844570636749
+        },
+        {
+          "sourceName": "Semimembranosus muscle.r",
+          "maxBoundsDifferenceMetres": 0.262457013130188
+        },
+        {
+          "sourceName": "Anterior femoral cutaneous vein.r",
+          "maxBoundsDifferenceMetres": 0.27137282490730286
+        },
+        {
+          "sourceName": "Femur.r",
+          "maxBoundsDifferenceMetres": 0.2731739282608032
+        },
+        {
+          "sourceName": "Fascia lata.r",
+          "maxBoundsDifferenceMetres": 0.2858751118183136
+        },
+        {
+          "sourceName": "Sartorius muscle.r",
+          "maxBoundsDifferenceMetres": 0.2880934774875641
+        },
+        {
+          "sourceName": "Gracilis muscle.r",
+          "maxBoundsDifferenceMetres": 0.2926434874534607
+        },
+        {
+          "sourceName": "Semitendinosus muscle.r",
+          "maxBoundsDifferenceMetres": 0.29489943385124207
+        },
+        {
+          "sourceName": "Iliotibial tract.r",
+          "maxBoundsDifferenceMetres": 0.31307271122932434
+        },
+        {
+          "sourceName": "Posterior cutaneous nerve of the thigh.r",
+          "maxBoundsDifferenceMetres": 0.4060661196708679
+        },
+        {
+          "sourceName": "Great saphenous vein.r",
+          "maxBoundsDifferenceMetres": 0.6074149012565613
+        },
+        {
+          "sourceName": "Tibial nerve.r",
+          "maxBoundsDifferenceMetres": 0.8015812635421753
+        }
+      ]
+    },
+    {
+      "regions": [
+        "inguinal-canal",
+        "pelvicfloor"
+      ],
+      "sameSourceNameCount": 74,
+      "sameNameBoundsWithin1mmCount": 43,
+      "structures": [
+        {
+          "sourceName": "Acetabular labrum.r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Anterior sacro-iliac ligament.r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Coccygeal nerve.r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Coccygeus muscle.r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Deep part of external anal sphincter",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Gluteus maximus muscle.r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Gluteus medius muscle.r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Hip joint capsule.r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Iliolumbar ligament .r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Inferior gemellus muscle.r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Inferior rectal nerve.r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Inferior rectal vein.r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Inferior vesical artery.r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Inguinal ligament.r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Intercornual ligament.r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Internal iliac artery.r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Internal iliac vein.r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Internal pudendal artery.r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Lateral sacral vein.r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Ligament of head of femur.r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Obturator artery.r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Obturator membrane.r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Perineal vein.r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Superior gemellus muscle.r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Superior gluteal vein.r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Tendinous arch of levator ani.r",
+          "maxBoundsDifferenceMetres": 0.0
+        },
+        {
+          "sourceName": "Superior vesical artery.r",
+          "maxBoundsDifferenceMetres": 4.656612873077393e-10
+        },
+        {
+          "sourceName": "Internal pudendal vein.r",
+          "maxBoundsDifferenceMetres": 1.862645149230957e-09
+        },
+        {
+          "sourceName": "Inferior gluteal nerve.r",
+          "maxBoundsDifferenceMetres": 5.960464477539063e-08
+        },
+        {
+          "sourceName": "Sacrotuberal ligament.r",
+          "maxBoundsDifferenceMetres": 5.960464477539063e-08
+        },
+        {
+          "sourceName": "Inferior clunial br. of Post. cutaneous nerve of the thigh.r",
+          "maxBoundsDifferenceMetres": 2.5257468223571777e-06
+        },
+        {
+          "sourceName": "Sacrospinous ligament.r",
+          "maxBoundsDifferenceMetres": 8.940696716308594e-06
+        },
+        {
+          "sourceName": "Urethra",
+          "maxBoundsDifferenceMetres": 9.822845458984375e-05
+        },
+        {
+          "sourceName": "Pudendal nerve.r",
+          "maxBoundsDifferenceMetres": 0.00010780245065689087
+        },
+        {
+          "sourceName": "Inferior gluteal artery.r",
+          "maxBoundsDifferenceMetres": 0.0001138150691986084
+        },
+        {
+          "sourceName": "Perineal artery.r",
+          "maxBoundsDifferenceMetres": 0.00011669844388961792
+        },
+        {
+          "sourceName": "Pudendal canal (Alcock's) overlay.r",
+          "maxBoundsDifferenceMetres": 0.00016063451766967773
+        },
+        {
+          "sourceName": "Femur.r",
+          "maxBoundsDifferenceMetres": 0.00020062923431396484
+        },
+        {
+          "sourceName": "Middle rectal vein.r",
+          "maxBoundsDifferenceMetres": 0.0002734065055847168
+        },
+        {
+          "sourceName": "Urethral artery.r",
+          "maxBoundsDifferenceMetres": 0.00030100345611572266
+        },
+        {
+          "sourceName": "Inferior rectal artery.r",
+          "maxBoundsDifferenceMetres": 0.0005446821451187134
+        },
+        {
+          "sourceName": "Iliopectineal arch.r",
+          "maxBoundsDifferenceMetres": 0.0005961805582046509
+        },
+        {
+          "sourceName": "Perineal nerve.r",
+          "maxBoundsDifferenceMetres": 0.0009030699729919434
+        },
+        {
+          "sourceName": "Obturator fascia.r",
+          "maxBoundsDifferenceMetres": 0.0010831356048583984
+        },
+        {
+          "sourceName": "Lateral sacral artery",
+          "maxBoundsDifferenceMetres": 0.0017695128917694092
+        },
+        {
+          "sourceName": "Superior gluteal nerve.r",
+          "maxBoundsDifferenceMetres": 0.003208078444004059
+        },
+        {
+          "sourceName": "Tibial nerve.r",
+          "maxBoundsDifferenceMetres": 0.003572702407836914
+        },
+        {
+          "sourceName": "Inferior gluteal vein.r",
+          "maxBoundsDifferenceMetres": 0.003885362297296524
+        },
+        {
+          "sourceName": "Deep dorsal vein of penis",
+          "maxBoundsDifferenceMetres": 0.005949186161160469
+        },
+        {
+          "sourceName": "Middle rectal artery.r",
+          "maxBoundsDifferenceMetres": 0.006923377513885498
+        },
+        {
+          "sourceName": "Corpus spongiosum of penis",
+          "maxBoundsDifferenceMetres": 0.009893014095723629
+        },
+        {
+          "sourceName": "Symphysis of sacrococcygeal joint",
+          "maxBoundsDifferenceMetres": 0.010450808331370354
+        },
+        {
+          "sourceName": "Interpubic disc",
+          "maxBoundsDifferenceMetres": 0.01380575355142355
+        },
+        {
+          "sourceName": "Sup, Inf, Ant, Post, Pubic ligaments",
+          "maxBoundsDifferenceMetres": 0.01436400692909956
+        },
+        {
+          "sourceName": "Gluteus minimus muscle.r",
+          "maxBoundsDifferenceMetres": 0.014857679605484009
+        },
+        {
+          "sourceName": "Glans penis",
+          "maxBoundsDifferenceMetres": 0.015341031365096569
+        },
+        {
+          "sourceName": "Quadratus lumborum muscle.r",
+          "maxBoundsDifferenceMetres": 0.016490578651428223
+        },
+        {
+          "sourceName": "Coccyx",
+          "maxBoundsDifferenceMetres": 0.016516130417585373
+        },
+        {
+          "sourceName": "Bulbospongiosus muscle",
+          "maxBoundsDifferenceMetres": 0.01658966764807701
+        },
+        {
+          "sourceName": "Iliacus muscle.r",
+          "maxBoundsDifferenceMetres": 0.018220586702227592
+        },
+        {
+          "sourceName": "Piriformis muscle.r",
+          "maxBoundsDifferenceMetres": 0.026969730854034424
+        },
+        {
+          "sourceName": "Hip bone.r",
+          "maxBoundsDifferenceMetres": 0.027581248432397842
+        },
+        {
+          "sourceName": "Corpus cavernosum of penis",
+          "maxBoundsDifferenceMetres": 0.030755002051591873
+        },
+        {
+          "sourceName": "Urinary bladder",
+          "maxBoundsDifferenceMetres": 0.03441402688622475
+        },
+        {
+          "sourceName": "Perineal membrane",
+          "maxBoundsDifferenceMetres": 0.037302788347005844
+        },
+        {
+          "sourceName": "Superficial transverse perineal muscle.r",
+          "maxBoundsDifferenceMetres": 0.038182204589247704
+        },
+        {
+          "sourceName": "Lumbar vertebrae (L4)",
+          "maxBoundsDifferenceMetres": 0.04440932720899582
+        },
+        {
+          "sourceName": "Ischiocavernosus muscle.r",
+          "maxBoundsDifferenceMetres": 0.046110144816339016
+        },
+        {
+          "sourceName": "Lumbar vertebrae (L5)",
+          "maxBoundsDifferenceMetres": 0.05280115455389023
+        },
+        {
+          "sourceName": "Sacrum",
+          "maxBoundsDifferenceMetres": 0.06180831417441368
+        },
+        {
+          "sourceName": "External iliac artery.r",
+          "maxBoundsDifferenceMetres": 0.06627863645553589
+        },
+        {
+          "sourceName": "External iliac vein.r",
+          "maxBoundsDifferenceMetres": 0.07348364591598511
+        },
+        {
+          "sourceName": "Posterior cutaneous nerve of the thigh.r",
+          "maxBoundsDifferenceMetres": 0.10574918985366821
+        },
+        {
+          "sourceName": "Obturator nerve.r",
+          "maxBoundsDifferenceMetres": 0.15133434534072876
+        }
+      ]
+    },
+    {
+      "regions": [
+        "inguinal-canal",
+        "overview-skeleton"
+      ],
+      "sameSourceNameCount": 7,
+      "sameNameBoundsWithin1mmCount": 0,
+      "structures": [
+        {
+          "sourceName": "Coccyx",
+          "maxBoundsDifferenceMetres": 0.016516130417585373
+        },
+        {
+          "sourceName": "Hip bone.r",
+          "maxBoundsDifferenceMetres": 0.027581248432397842
+        },
+        {
+          "sourceName": "Lumbar vertebrae (L3)",
+          "maxBoundsDifferenceMetres": 0.041837308555841446
+        },
+        {
+          "sourceName": "Lumbar vertebrae (L4)",
+          "maxBoundsDifferenceMetres": 0.04440932720899582
+        },
+        {
+          "sourceName": "Lumbar vertebrae (L5)",
+          "maxBoundsDifferenceMetres": 0.05280115455389023
+        },
+        {
+          "sourceName": "Sacrum",
+          "maxBoundsDifferenceMetres": 0.06180831417441368
+        },
+        {
+          "sourceName": "Femur.r",
+          "maxBoundsDifferenceMetres": 0.2731739282608032
+        }
+      ]
+    },
+    {
+      "regions": [
+        "inguinal-canal",
+        "muscles-thorax-abdomen"
+      ],
+      "sameSourceNameCount": 23,
+      "sameNameBoundsWithin1mmCount": 0,
+      "structures": [
+        {
+          "sourceName": "Symphysis of sacrococcygeal joint",
+          "maxBoundsDifferenceMetres": 0.010428337380290031
+        },
+        {
+          "sourceName": "Interpubic disc",
+          "maxBoundsDifferenceMetres": 0.01380575355142355
+        },
+        {
+          "sourceName": "Coccyx",
+          "maxBoundsDifferenceMetres": 0.016516130417585373
+        },
+        {
+          "sourceName": "Articular cartilage of sacrum lumbosacral joint",
+          "maxBoundsDifferenceMetres": 0.021987582556903362
+        },
+        {
+          "sourceName": "Pyramidalis muscle.r",
+          "maxBoundsDifferenceMetres": 0.031438469886779785
+        },
+        {
+          "sourceName": "Lumbar vertebrae (L3)",
+          "maxBoundsDifferenceMetres": 0.04183625057339668
+        },
+        {
+          "sourceName": "Lumbar vertebrae (L4)",
+          "maxBoundsDifferenceMetres": 0.04440932720899582
+        },
+        {
+          "sourceName": "Lumbar vertebrae (L5)",
+          "maxBoundsDifferenceMetres": 0.05280115455389023
+        },
+        {
+          "sourceName": "Sacrum",
+          "maxBoundsDifferenceMetres": 0.06180831417441368
+        },
+        {
+          "sourceName": "Quadratus lumborum muscle.r",
+          "maxBoundsDifferenceMetres": 0.10270833969116211
+        },
+        {
+          "sourceName": "Interspinales lumborum muscles.r",
+          "maxBoundsDifferenceMetres": 0.10385119915008545
+        },
+        {
+          "sourceName": "Multifidus lumborum.r",
+          "maxBoundsDifferenceMetres": 0.14228618144989014
+        },
+        {
+          "sourceName": "Iliacus muscle.r",
+          "maxBoundsDifferenceMetres": 0.18350040167570114
+        },
+        {
+          "sourceName": "Transversalis fascia.r",
+          "maxBoundsDifferenceMetres": 0.18659842014312744
+        },
+        {
+          "sourceName": "Linea alba",
+          "maxBoundsDifferenceMetres": 0.19129419326782227
+        },
+        {
+          "sourceName": "Internal abdominal oblique muscle.r",
+          "maxBoundsDifferenceMetres": 0.19400155544281006
+        },
+        {
+          "sourceName": "External abdominal oblique muscle.r",
+          "maxBoundsDifferenceMetres": 0.23714816570281982
+        },
+        {
+          "sourceName": "Iliocostalis lumborum muscle.r",
+          "maxBoundsDifferenceMetres": 0.2625797986984253
+        },
+        {
+          "sourceName": "Latissimus dorsi.r",
+          "maxBoundsDifferenceMetres": 0.3023233413696289
+        },
+        {
+          "sourceName": "Longissimus thoracis muscle.r",
+          "maxBoundsDifferenceMetres": 0.40387070178985596
+        },
+        {
+          "sourceName": "Nucleus pulposus",
+          "maxBoundsDifferenceMetres": 0.48456883430480957
+        },
+        {
+          "sourceName": "Rotatores longi.r",
+          "maxBoundsDifferenceMetres": 0.49269843101501465
+        },
+        {
+          "sourceName": "Rotatores brevis.r",
+          "maxBoundsDifferenceMetres": 0.4998875856399536
+        }
+      ]
+    },
+    {
+      "regions": [
+        "inguinal-canal",
+        "spinal-cord"
+      ],
+      "sameSourceNameCount": 0,
+      "sameNameBoundsWithin1mmCount": 0,
+      "structures": []
+    }
+  ],
+  "interpretation": "Shared skeletal landmarks strongly support a common native body coordinate frame. Names alone are unsafe for merging: hand and foot contain a same-named distal interphalangeal capsule; pelvis femur is truncated; named limb nerves include different proximal/distal extents. Regions are delivered separately and have not been spatially registered or merged."
+}

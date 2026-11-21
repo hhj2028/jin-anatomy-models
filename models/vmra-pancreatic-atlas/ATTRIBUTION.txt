@@ -1,0 +1,1 @@
+Source artery geometry: BodyParts3D, The Database Center for Life Science, CC BY 4.0. Registration context: Z-Anatomy, CC BY-SA 4.0. This coordinate-modified derivative is CC BY-SA 4.0. Full original notices accompany this asset. Shape and triangle rows are retained; positions and normals changed. Not measured anatomy.

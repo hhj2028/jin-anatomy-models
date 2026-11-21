@@ -1,0 +1,404 @@
+{
+  "accepted": true,
+  "assetPin": {
+    "path": "anatomy-research/unified-body-v42/ascending-accommodation/package/right-intestinal-block.glb",
+    "bytes": 4153608,
+    "sha256": "f7771252eb5b81c6d4e4b10b33d2d1b569347a34503c50c447dc993cc9d3ec48"
+  },
+  "sourcePins": [
+    {
+      "path": "vmra-anatomy/dist/models/z-anatomy/z-anatomy-arterial-01.glb",
+      "bytes": 9535012,
+      "sha256": "1cd5433926d4f281a944aa742f5019b28f0c05aab47b461854caa2497c1627e2"
+    },
+    {
+      "path": "vmra-anatomy/dist/models/z-anatomy/z-anatomy-lymphatic-01.glb",
+      "bytes": 1250500,
+      "sha256": "34ebdd066c33c3f40d77e29b74ba1edf21dbc944929f3e93f11b2ecc2e547c4f"
+    },
+    {
+      "path": "vmra-anatomy/dist/models/z-anatomy/z-anatomy-venous-01.glb",
+      "bytes": 4651496,
+      "sha256": "9def16383bbf851ec74b0196c79c83b17f0c3a1ab80b3273aee3644ebade962a"
+    },
+    {
+      "path": "vmra-anatomy/dist/models/z-anatomy/z-anatomy-visceral-01.glb",
+      "bytes": 5755556,
+      "sha256": "4fbd7854fd5a6d59134fce04a8d083b8e0b95c626ad8a0c803111e0a1bc0eacd"
+    }
+  ],
+  "fieldPin": {
+    "path": "anatomy-research/unified-body-v42/ascending-accommodation/final_field.py",
+    "bytes": 6645,
+    "sha256": "c12b5c57973285338cde3706c99fbbc90b9e417f6983a90f11442e62507dab3b"
+  },
+  "arraysPin": {
+    "path": "anatomy-research/unified-body-v42/ascending-accommodation/shared-field-arrays.npz",
+    "bytes": 2756446,
+    "sha256": "a4e498f99f968665737aff589969ad202f4ab239c9d6e8a596eb7c6f060b306b"
+  },
+  "proof": [
+    {
+      "id": "VMRA_RLQ_ZA_00d42af6524b4e",
+      "sourceId": "ZA_00d42af6524b4e",
+      "positionsEqualFieldFloat32": true,
+      "triangleRowsAndCornersUnchanged": true,
+      "primitives": [
+        {
+          "sourceDracoPayloadSha256": "7cf7eddd428a5df7a7364f96dc18185099fc755fd031899e4dcd792850b73d09",
+          "originalMaterialsUnchanged": true,
+          "originalUvUnchanged": true
+        }
+      ]
+    },
+    {
+      "id": "VMRA_ASCENDING_COLON_01",
+      "sourceId": "ZA_0346e487ef01e7",
+      "positionsEqualFieldFloat32": true,
+      "triangleRowsAndCornersUnchanged": true,
+      "primitives": [
+        {
+          "sourceDracoPayloadSha256": "2178cea64a533733d6027aba563bad2c69e98e7d632393918c4d0b60c355b129",
+          "originalMaterialsUnchanged": true,
+          "originalUvUnchanged": true
+        }
+      ]
+    },
+    {
+      "id": "VMRA_RLQ_ZA_05a452c7b17a0a",
+      "sourceId": "ZA_05a452c7b17a0a",
+      "positionsEqualFieldFloat32": true,
+      "triangleRowsAndCornersUnchanged": true,
+      "primitives": [
+        {
+          "sourceDracoPayloadSha256": "8073cf4a4a1221dbc7e7f3c7a40ba13f9655054749e6cb540a93e5ccccf656a3",
+          "originalMaterialsUnchanged": true,
+          "originalUvUnchanged": true
+        }
+      ]
+    },
+    {
+      "id": "VMRA_RLQ_ZA_0ce2b6e767db7b",
+      "sourceId": "ZA_0ce2b6e767db7b",
+      "positionsEqualFieldFloat32": true,
+      "triangleRowsAndCornersUnchanged": true,
+      "primitives": [
+        {
+          "sourceDracoPayloadSha256": "23b70841567566211671b4f688f63016408697e56b6974dbe4e6f32ac33a9df6",
+          "originalMaterialsUnchanged": true,
+          "originalUvUnchanged": true
+        }
+      ]
+    },
+    {
+      "id": "VMRA_RLQ_ZA_1ecdcf3f0d7c84",
+      "sourceId": "ZA_1ecdcf3f0d7c84",
+      "positionsEqualFieldFloat32": true,
+      "triangleRowsAndCornersUnchanged": true,
+      "primitives": [
+        {
+          "sourceDracoPayloadSha256": "3225d0e26fecbba5bca349d42543634c4939a472543665f1ec62e79a679504a3",
+          "originalMaterialsUnchanged": true,
+          "originalUvUnchanged": true
+        }
+      ]
+    },
+    {
+      "id": "VMRA_RLQ_ZA_2e38bc8b4196f9",
+      "sourceId": "ZA_2e38bc8b4196f9",
+      "positionsEqualFieldFloat32": true,
+      "triangleRowsAndCornersUnchanged": true,
+      "primitives": [
+        {
+          "sourceDracoPayloadSha256": "78c2ca44c6c55d27b23f1b27b292ce7cf65e3a6cf6bf980aa81933f526bbd0d7",
+          "originalMaterialsUnchanged": true,
+          "originalUvUnchanged": true
+        }
+      ]
+    },
+    {
+      "id": "VMRA_RLQ_ZA_36ca5c9701a784",
+      "sourceId": "ZA_36ca5c9701a784",
+      "positionsEqualFieldFloat32": true,
+      "triangleRowsAndCornersUnchanged": true,
+      "primitives": [
+        {
+          "sourceDracoPayloadSha256": "e46eb5c59f4f9743d856bc99aecd102ed2046f612d35e7546e8c764e9717cc86",
+          "originalMaterialsUnchanged": true,
+          "originalUvUnchanged": true
+        }
+      ]
+    },
+    {
+      "id": "VMRA_RLQ_ZA_48016fbbd40880",
+      "sourceId": "ZA_48016fbbd40880",
+      "positionsEqualFieldFloat32": true,
+      "triangleRowsAndCornersUnchanged": true,
+      "primitives": [
+        {
+          "sourceDracoPayloadSha256": "2ede65626db490e83267eda9edbfa33e1d3edba59cc12906ab3c7cadc90a7445",
+          "originalMaterialsUnchanged": true,
+          "originalUvUnchanged": true
+        }
+      ]
+    },
+    {
+      "id": "VMRA_RLQ_ZA_4a205da0da49e4",
+      "sourceId": "ZA_4a205da0da49e4",
+      "positionsEqualFieldFloat32": true,
+      "triangleRowsAndCornersUnchanged": true,
+      "primitives": [
+        {
+          "sourceDracoPayloadSha256": "78208e138958abd80ccfbf103d6a89f14d1dfd7e63ddceceb8f890a658c63750",
+          "originalMaterialsUnchanged": true,
+          "originalUvUnchanged": true
+        }
+      ]
+    },
+    {
+      "id": "VMRA_RLQ_ZA_4aa0606a2626d4",
+      "sourceId": "ZA_4aa0606a2626d4",
+      "positionsEqualFieldFloat32": true,
+      "triangleRowsAndCornersUnchanged": true,
+      "primitives": [
+        {
+          "sourceDracoPayloadSha256": "85f70e4d3cf3bf8a9674b0684211921cc1a6fd869ebba3a41d19e0c1d420acab",
+          "originalMaterialsUnchanged": true,
+          "originalUvUnchanged": true
+        }
+      ]
+    },
+    {
+      "id": "VMRA_APPENDIX_01",
+      "sourceId": "ZA_4eefc95da94c9d",
+      "positionsEqualFieldFloat32": true,
+      "triangleRowsAndCornersUnchanged": true,
+      "primitives": [
+        {
+          "sourceDracoPayloadSha256": "902fe4ad1191b4d6b529e75ff2d56c43525b431cfcff1c6ab13fb3677257e20a",
+          "originalMaterialsUnchanged": true,
+          "originalUvUnchanged": true
+        }
+      ]
+    },
+    {
+      "id": "VMRA_RLQ_ZA_76bbd35c754f86",
+      "sourceId": "ZA_76bbd35c754f86",
+      "positionsEqualFieldFloat32": true,
+      "triangleRowsAndCornersUnchanged": true,
+      "primitives": [
+        {
+          "sourceDracoPayloadSha256": "8e9216715eb5e7d3a20b61068aa048000767e7704d219367c924657366066c3f",
+          "originalMaterialsUnchanged": true,
+          "originalUvUnchanged": true
+        }
+      ]
+    },
+    {
+      "id": "VMRA_RLQ_ZA_87fe83238319a6",
+      "sourceId": "ZA_87fe83238319a6",
+      "positionsEqualFieldFloat32": true,
+      "triangleRowsAndCornersUnchanged": true,
+      "primitives": [
+        {
+          "sourceDracoPayloadSha256": "6a4f831bddcb64c80df7fcae37a59664251d5e495390f3f20d13d2d3c17ec305",
+          "originalMaterialsUnchanged": true,
+          "originalUvUnchanged": true
+        }
+      ]
+    },
+    {
+      "id": "VMRA_RLQ_ZA_8814235835dbe9",
+      "sourceId": "ZA_8814235835dbe9",
+      "positionsEqualFieldFloat32": true,
+      "triangleRowsAndCornersUnchanged": true,
+      "primitives": [
+        {
+          "sourceDracoPayloadSha256": "a0b8d11d646b24c5ced9cd0a505aeb7a4b0d6379fcdfe605e1131e2b47f935d6",
+          "originalMaterialsUnchanged": true,
+          "originalUvUnchanged": true
+        }
+      ]
+    },
+    {
+      "id": "VMRA_RLQ_ZA_9a40d49059188b",
+      "sourceId": "ZA_9a40d49059188b",
+      "positionsEqualFieldFloat32": true,
+      "triangleRowsAndCornersUnchanged": true,
+      "primitives": [
+        {
+          "sourceDracoPayloadSha256": "4c6dcd64111886f8c73b8df7c1428c2759e60a291ec333abab855403dcb693ff",
+          "originalMaterialsUnchanged": true,
+          "originalUvUnchanged": true
+        }
+      ]
+    },
+    {
+      "id": "VMRA_RLQ_ZA_b1139d2bc8922b",
+      "sourceId": "ZA_b1139d2bc8922b",
+      "positionsEqualFieldFloat32": true,
+      "triangleRowsAndCornersUnchanged": true,
+      "primitives": [
+        {
+          "sourceDracoPayloadSha256": "5c7f8e3b86a7651aad3ac213f035b4782267ddf0efe4da6aa1b588b99a43e2ee",
+          "originalMaterialsUnchanged": true,
+          "originalUvUnchanged": true
+        }
+      ]
+    },
+    {
+      "id": "VMRA_JEJUNUM_01",
+      "sourceId": "ZA_b579f1c03eb459",
+      "positionsEqualFieldFloat32": true,
+      "triangleRowsAndCornersUnchanged": true,
+      "primitives": [
+        {
+          "sourceDracoPayloadSha256": "0e9465c5b5da76feee3450b967ba385810953d0e41e61f7db6328659c9fda24c",
+          "originalMaterialsUnchanged": true,
+          "originalUvUnchanged": true
+        }
+      ]
+    },
+    {
+      "id": "VMRA_RLQ_ZA_c82d9152540e4e",
+      "sourceId": "ZA_c82d9152540e4e",
+      "positionsEqualFieldFloat32": true,
+      "triangleRowsAndCornersUnchanged": true,
+      "primitives": [
+        {
+          "sourceDracoPayloadSha256": "4074366fac5b94a5ee9a1922bb0ab302a11df6ae131653ba1c38e9191f44844e",
+          "originalMaterialsUnchanged": true,
+          "originalUvUnchanged": true
+        }
+      ]
+    },
+    {
+      "id": "VMRA_RLQ_ZA_c8834cf6d085b1",
+      "sourceId": "ZA_c8834cf6d085b1",
+      "positionsEqualFieldFloat32": true,
+      "triangleRowsAndCornersUnchanged": true,
+      "primitives": [
+        {
+          "sourceDracoPayloadSha256": "be16c4a8caedd65692c31454cd0417bd43eace3bf946d5a02b39bf9283156207",
+          "originalMaterialsUnchanged": true,
+          "originalUvUnchanged": true
+        }
+      ]
+    },
+    {
+      "id": "VMRA_RLQ_ZA_e0b7c6631b26ca",
+      "sourceId": "ZA_e0b7c6631b26ca",
+      "positionsEqualFieldFloat32": true,
+      "triangleRowsAndCornersUnchanged": true,
+      "primitives": [
+        {
+          "sourceDracoPayloadSha256": "c2a7b8fd91d694654fe0b2f4f7d5f0545ecf815bc5311ec547b4cf34a44cb06c",
+          "originalMaterialsUnchanged": true,
+          "originalUvUnchanged": true
+        }
+      ]
+    },
+    {
+      "id": "VMRA_RLQ_ZA_f23a29a2a3a1ec",
+      "sourceId": "ZA_f23a29a2a3a1ec",
+      "positionsEqualFieldFloat32": true,
+      "triangleRowsAndCornersUnchanged": true,
+      "primitives": [
+        {
+          "sourceDracoPayloadSha256": "ad52aa39a8b74535925be12617219f843fd42648ad0da4c46160d22d36575e5a",
+          "originalMaterialsUnchanged": true,
+          "originalUvUnchanged": true
+        }
+      ]
+    },
+    {
+      "id": "VMRA_RLQ_ZA_f95c73abe3b64a",
+      "sourceId": "ZA_f95c73abe3b64a",
+      "positionsEqualFieldFloat32": true,
+      "triangleRowsAndCornersUnchanged": true,
+      "primitives": [
+        {
+          "sourceDracoPayloadSha256": "9f1370d08b3689351f02ee1da3b7979ad4d51895eac1b51aa63e35f4f991accf",
+          "originalMaterialsUnchanged": true,
+          "originalUvUnchanged": true
+        }
+      ]
+    },
+    {
+      "id": "VMRA_RLQ_ZA_feb117702045eb",
+      "sourceId": "ZA_feb117702045eb",
+      "positionsEqualFieldFloat32": true,
+      "triangleRowsAndCornersUnchanged": true,
+      "primitives": [
+        {
+          "sourceDracoPayloadSha256": "029235a704ee63099fcb4a5e5f80ad92ab970221a5ca3610443fac2d1380ceb9",
+          "originalMaterialsUnchanged": true,
+          "originalUvUnchanged": true
+        }
+      ]
+    }
+  ],
+  "mappingFile": "../replacement-map.json",
+  "acceptanceScope": "accepted-for-bounded-educational-composition",
+  "review": {
+    "status": "accepted-for-bounded-educational-composition",
+    "acceptedForBoundedEducationalComposition": true,
+    "assetPin": {
+      "path": "anatomy-research/unified-body-v42/ascending-accommodation/package/right-intestinal-block.glb",
+      "bytes": 4153608,
+      "sha256": "f7771252eb5b81c6d4e4b10b33d2d1b569347a34503c50c447dc993cc9d3ec48"
+    },
+    "reviewPin": {
+      "path": "anatomy-research/unified-body-v42/rectal-interface/peer-final-verdict.json",
+      "bytes": 3656,
+      "sha256": "359065838053daf0af402ad8c5d61d5facd5e97e72d1a3584da60bc6d575fa1a"
+    },
+    "rectalIndependentReviewPin": {
+      "path": "anatomy-research/unified-body-v42/rectal-independent-review/independent-final-review.json",
+      "bytes": 7949,
+      "sha256": "23f971de17ee85029db4790d5a14eaae3d359ada573d56859d7b1e4126ee627d"
+    },
+    "decision": "Accept final23 whole-source surfaces under the shared recorded field as an educational body-model accommodation. Their exact source ownership is preserved; original SRA stays fixed and is excluded from the right-intestinal field. No new isolated self-fold was identified.",
+    "evidence": {
+      "exportMeshesExact": 23,
+      "fixedUpperLowerVerticesMoved": 0,
+      "simultaneousRectalPairs": 4,
+      "simultaneousCrossingPairs": 0,
+      "strictMutualSweptBoundsRejects": 111,
+      "sourceContactPatchClassification": [
+        {
+          "name": "Appendicular artery",
+          "newTrianglePairIdentities": 2,
+          "allWithin2FaceHopsOfOriginalContact": true
+        },
+        {
+          "name": "Superior mesenteric vein",
+          "newTrianglePairIdentities": 1,
+          "allWithin2FaceHopsOfOriginalContact": true
+        },
+        {
+          "name": "Jejunum",
+          "newTrianglePairIdentities": 84,
+          "allWithin2FaceHopsOfOriginalContact": true
+        }
+      ]
+    },
+    "retainedLimits": [
+      "Educational source-derived body-model accommodation; not measured individual anatomy or clinical registration.",
+      "Native anterior-wall residual: ascending colon max sampled depth 0.986 mm over 1.118 cm2; greater omentum max sampled depth 1.937 mm over 1.542 cm2. These are retained model interpenetrations, not physiological contacts.",
+      "Existing source jejunal and vascular self-contact defects remain. Newly counted face-pair identities are confined to existing contact patches; no isolated new fold was identified.",
+      "Local shape and caliber change under the field: appendix volume ratio approximately 0.495 and appendicular artery approximately 0.511. Original dimensional or clinical caliber accuracy is not claimed.",
+      "Ascending colon is a double-wall source surface; appendix and jejunal ray chords do not establish anatomical wall thickness.",
+      "No new terminal branches, complete ileal/caecal compartment, or exact segment boundary is inferred from source names. Original superior anorectal artery remains fixed outside this field."
+    ],
+    "geometryChangedDuringFinalization": false
+  },
+  "limitations": [
+    "Educational source-derived body-model accommodation; not measured individual anatomy or clinical registration.",
+    "Native anterior-wall residual: ascending colon max sampled depth 0.986 mm over 1.118 cm2; greater omentum max sampled depth 1.937 mm over 1.542 cm2. These are retained model interpenetrations, not physiological contacts.",
+    "Existing source jejunal and vascular self-contact defects remain. Newly counted face-pair identities are confined to existing contact patches; no isolated new fold was identified.",
+    "Local shape and caliber change under the field: appendix volume ratio approximately 0.495 and appendicular artery approximately 0.511. Original dimensional or clinical caliber accuracy is not claimed.",
+    "Ascending colon is a double-wall source surface; appendix and jejunal ray chords do not establish anatomical wall thickness.",
+    "No new terminal branches, complete ileal/caecal compartment, or exact segment boundary is inferred from source names. Original superior anorectal artery remains fixed outside this field."
+  ]
+}

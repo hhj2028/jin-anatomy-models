@@ -1,0 +1,3346 @@
+[
+  {
+    "id": "ZA_4a8267f0e7d610",
+    "conceptId": "",
+    "nameEn": "Left Sternocleidomastoid muscle",
+    "sourceNodeName": "Sternocleidomastoid muscle.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Cervical part of muscular system.g/Muscles of neck.g/Sternocleidomastoid muscle.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Tendon",
+      "Internal rotator"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_4a8267f0e7d610"
+    ],
+    "bounds": [
+      [
+        0.0036842753572826938,
+        1.3817152569091409,
+        -0.049297007737039704
+      ],
+      [
+        0.06143242118071765,
+        1.5754349463251076,
+        0.06437485028050638
+      ]
+    ],
+    "vertices": 2698,
+    "triangles": 5204,
+    "dracoBytes": 67096,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular",
+    "hasAuthoredTendonMask": true,
+    "tendonSurface": {
+      "method": "original-fbx-material-faces-planar-display-refinement",
+      "sourceMaterialName": "Tendon",
+      "sourceTendonTriangles": 1668,
+      "renderTendonTriangles": 1920,
+      "boundarySegmentCount": 100,
+      "maskAttribute": "_TENDON_MASK",
+      "edgeAttribute": "_TENDON_EDGE",
+      "distanceMetric": "euclidean-to-source-boundary-segments",
+      "distanceCapM": 0.02,
+      "recommendedDisplayFeatherM": 0.003,
+      "positiveTendonDistanceP90M": 0.019999999552965164,
+      "maxTendonSampleDistanceM": 0.019999999552965164,
+      "refinedSourceTriangles": 78,
+      "sourceFaceProvenanceFile": "render-face-source-provenance.npz"
+    },
+    "sourceTriangles": 4952
+  },
+  {
+    "id": "ZA_f41d5628f1dac6",
+    "conceptId": "",
+    "nameEn": "Left Platysma",
+    "sourceNodeName": "Platysma.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Cervical part of muscular system.g/Muscles of neck.g/Platysma.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Biarticular",
+      "Tendon"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_f41d5628f1dac6"
+    ],
+    "bounds": [
+      [
+        -0.0026792245376447087,
+        1.399264017673423,
+        -0.04084751909138591
+      ],
+      [
+        0.1412031688901137,
+        1.5413922701318743,
+        0.0836602638912483
+      ]
+    ],
+    "vertices": 3582,
+    "triangles": 6966,
+    "dracoBytes": 90171,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular",
+    "hasAuthoredTendonMask": true,
+    "tendonSurface": {
+      "method": "original-fbx-material-faces-planar-display-refinement",
+      "sourceMaterialName": "Tendon",
+      "sourceTendonTriangles": 578,
+      "renderTendonTriangles": 996,
+      "boundarySegmentCount": 96,
+      "maskAttribute": "_TENDON_MASK",
+      "edgeAttribute": "_TENDON_EDGE",
+      "distanceMetric": "euclidean-to-source-boundary-segments",
+      "distanceCapM": 0.02,
+      "recommendedDisplayFeatherM": 0.003,
+      "positiveTendonDistanceP90M": 0.009434894658625126,
+      "maxTendonSampleDistanceM": 0.012449567206203938,
+      "refinedSourceTriangles": 130,
+      "sourceFaceProvenanceFile": "render-face-source-provenance.npz"
+    },
+    "sourceTriangles": 6548
+  },
+  {
+    "id": "ZA_e4de7a589daa03",
+    "conceptId": "",
+    "nameEn": "Left Scalenus medius muscle",
+    "sourceNodeName": "Scalenus medius muscle.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Cervical part of muscular system.g/Muscles of neck.g/Scalenus medius muscle.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Abductor"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_e4de7a589daa03"
+    ],
+    "bounds": [
+      [
+        0.023969912916784436,
+        1.4194780702788015,
+        -0.026666366794534362
+      ],
+      [
+        0.0541899555960987,
+        1.5186557797582783,
+        -0.001645133390785296
+      ]
+    ],
+    "vertices": 1037,
+    "triangles": 2078,
+    "dracoBytes": 18588,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular"
+  },
+  {
+    "id": "ZA_5479c6ff9503f2",
+    "conceptId": "",
+    "nameEn": "Left Scalenus posterior muscle",
+    "sourceNodeName": "Scalenus posterior muscle.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Cervical part of muscular system.g/Muscles of neck.g/Scalenus posterior muscle.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Abductor"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_5479c6ff9503f2"
+    ],
+    "bounds": [
+      [
+        0.025609643892766334,
+        1.4237892240335928,
+        -0.039757850117033144
+      ],
+      [
+        0.06981727372799071,
+        1.4773788944542963,
+        -0.012270278297869662
+      ]
+    ],
+    "vertices": 665,
+    "triangles": 1326,
+    "dracoBytes": 12164,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular"
+  },
+  {
+    "id": "ZA_af09f395bbf529",
+    "conceptId": "",
+    "nameEn": "Left Scalenus anterior muscle",
+    "sourceNodeName": "Scalenus anterior muscle.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Cervical part of muscular system.g/Muscles of neck.g/Scalenus anterior muscle.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Abductor"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_af09f395bbf529"
+    ],
+    "bounds": [
+      [
+        0.020613049909177672,
+        1.4107511932366765,
+        -0.010389710672289854
+      ],
+      [
+        0.05493528550215414,
+        1.49357515388736,
+        0.00844182018292561
+      ]
+    ],
+    "vertices": 699,
+    "triangles": 1386,
+    "dracoBytes": 12647,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular"
+  },
+  {
+    "id": "ZA_d5576cec579db2",
+    "conceptId": "",
+    "nameEn": "Left Longus capitis muscle",
+    "sourceNodeName": "Longus capitis muscle.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Cervical part of muscular system.g/Muscles of neck.g/Longus capitis muscle.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Flexion"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_d5576cec579db2"
+    ],
+    "bounds": [
+      [
+        0.002265393150016175,
+        1.4590092879088237,
+        -0.01096507098322661
+      ],
+      [
+        0.026592147513275127,
+        1.5690630996463986,
+        0.006663366898808847
+      ]
+    ],
+    "vertices": 988,
+    "triangles": 1980,
+    "dracoBytes": 17705,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular"
+  },
+  {
+    "id": "ZA_17d1fc249478dc",
+    "conceptId": "",
+    "nameEn": "Left Longus colli muscle",
+    "sourceNodeName": "Longus colli muscle.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Cervical part of muscular system.g/Muscles of neck.g/Longus colli muscle.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Flexion"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_17d1fc249478dc"
+    ],
+    "bounds": [
+      [
+        0.0012836120813418672,
+        1.3875195264348676,
+        -0.029370365690869683
+      ],
+      [
+        0.026069585784243617,
+        1.5449368986442988,
+        0.004748727949518729
+      ]
+    ],
+    "vertices": 3153,
+    "triangles": 6294,
+    "dracoBytes": 55312,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular"
+  },
+  {
+    "id": "ZA_6022d773cc4382",
+    "conceptId": "",
+    "nameEn": "Left Rectus anterior capitis muscle",
+    "sourceNodeName": "Rectus anterior capitis muscle.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Cervical part of muscular system.g/Muscles of neck.g/Rectus anterior capitis muscle.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Flexion"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_6022d773cc4382"
+    ],
+    "bounds": [
+      [
+        0.0032028836175408727,
+        1.545543121888456,
+        -0.006187957025879722
+      ],
+      [
+        0.028177610333635306,
+        1.5658988884306442,
+        0.0005003003189300942
+      ]
+    ],
+    "vertices": 200,
+    "triangles": 396,
+    "dracoBytes": 3819,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular"
+  },
+  {
+    "id": "ZA_7567d6c42adb21",
+    "conceptId": "",
+    "nameEn": "Left Rectus lateralis capitis muscle",
+    "sourceNodeName": "Rectus lateralis capitis muscle.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Cervical part of muscular system.g/Muscles of neck.g/Rectus lateralis capitis muscle.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Abductor"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_7567d6c42adb21"
+    ],
+    "bounds": [
+      [
+        0.02951774950571443,
+        1.5409315579317615,
+        -0.02536198074518456
+      ],
+      [
+        0.04177207639244797,
+        1.5622325693793935,
+        -0.007973440809885202
+      ]
+    ],
+    "vertices": 182,
+    "triangles": 360,
+    "dracoBytes": 3494,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular"
+  },
+  {
+    "id": "ZA_99d334fa147c71",
+    "conceptId": "",
+    "nameEn": "Left Mylohyoid muscle",
+    "sourceNodeName": "Mylohyoid muscle.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Cervical part of muscular system.g/Muscles of neck.g/Suprahyoid muscles.g/Mylohyoid muscle.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Masticator"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_99d334fa147c71"
+    ],
+    "bounds": [
+      [
+        0.00003664719575441899,
+        1.4981967785668635,
+        0.034620245060909
+      ],
+      [
+        0.026952441381550046,
+        1.5261796458143382,
+        0.07240443327665265
+      ]
+    ],
+    "vertices": 561,
+    "triangles": 1122,
+    "dracoBytes": 10391,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular"
+  },
+  {
+    "id": "ZA_f589804d573100",
+    "conceptId": "",
+    "nameEn": "Left Stylohyoid muscle",
+    "sourceNodeName": "Stylohyoid muscle.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Cervical part of muscular system.g/Muscles of neck.g/Suprahyoid muscles.g/Stylohyoid muscle.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Levator"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_f589804d573100"
+    ],
+    "bounds": [
+      [
+        0.009794162925288183,
+        1.4989588124235584,
+        -0.0066087503707176285
+      ],
+      [
+        0.041406542177368125,
+        1.5617317203833592,
+        0.03417796512209969
+      ]
+    ],
+    "vertices": 349,
+    "triangles": 694,
+    "dracoBytes": 6411,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular"
+  },
+  {
+    "id": "ZA_acb41213bf37f8",
+    "conceptId": "",
+    "nameEn": "Left Geniohyoid muscle",
+    "sourceNodeName": "Geniohyoid muscle.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Cervical part of muscular system.g/Muscles of neck.g/Suprahyoid muscles.g/Geniohyoid muscle.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Levator"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_acb41213bf37f8"
+    ],
+    "bounds": [
+      [
+        0.00006810014576281386,
+        1.500680940163936,
+        0.02976643978838405
+      ],
+      [
+        0.01131135647500912,
+        1.5108182644245562,
+        0.06982536152679263
+      ]
+    ],
+    "vertices": 267,
+    "triangles": 530,
+    "dracoBytes": 4990,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular"
+  },
+  {
+    "id": "ZA_324ccc9e892411",
+    "conceptId": "",
+    "nameEn": "Left Intermediate tendon of digastric muscle",
+    "sourceNodeName": "Intermediate tendon of digastric muscle.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Cervical part of muscular system.g/Muscles of neck.g/Suprahyoid muscles.g/Digastric muscle.g/Intermediate tendon of digastric muscle.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Ligament.001"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_324ccc9e892411"
+    ],
+    "bounds": [
+      [
+        0.00939702801418817,
+        1.4990757945001925,
+        0.031944268950818366
+      ],
+      [
+        0.017296998077912556,
+        1.5065658462515017,
+        0.03905965925064897
+      ]
+    ],
+    "vertices": 116,
+    "triangles": 228,
+    "dracoBytes": 2289,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "tendon",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "connective"
+  },
+  {
+    "id": "ZA_1c826d08c23bb7",
+    "conceptId": "",
+    "nameEn": "Left Anterior belly of digastric muscle",
+    "sourceNodeName": "Anterior belly of digastric muscle.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Cervical part of muscular system.g/Muscles of neck.g/Suprahyoid muscles.g/Digastric muscle.g/Anterior belly of digastric muscle.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Ingestion"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_1c826d08c23bb7"
+    ],
+    "bounds": [
+      [
+        0.0032824305844363823,
+        1.4991729956271704,
+        0.033754993409528374
+      ],
+      [
+        0.015260352762971387,
+        1.5055062952759932,
+        0.06955373733594956
+      ]
+    ],
+    "vertices": 198,
+    "triangles": 392,
+    "dracoBytes": 3748,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular"
+  },
+  {
+    "id": "ZA_3efa9a97c6a86a",
+    "conceptId": "",
+    "nameEn": "Left Posterior belly of digastric muscle",
+    "sourceNodeName": "Posterior belly of digastric muscle.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Cervical part of muscular system.g/Muscles of neck.g/Suprahyoid muscles.g/Digastric muscle.g/Posterior belly of digastric muscle.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Ingestion"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_3efa9a97c6a86a"
+    ],
+    "bounds": [
+      [
+        0.011945789559919002,
+        1.5026260626563095,
+        -0.025940481678563186
+      ],
+      [
+        0.05888707565416374,
+        1.5667470104153258,
+        0.037149376594420275
+      ]
+    ],
+    "vertices": 638,
+    "triangles": 1276,
+    "dracoBytes": 11638,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular"
+  },
+  {
+    "id": "ZA_8a0c794075422b",
+    "conceptId": "",
+    "nameEn": "Left Omohyoid muscle",
+    "sourceNodeName": "Omohyoid muscle.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Cervical part of muscular system.g/Muscles of neck.g/Infrahyoid muscles.g/Omohyoid muscle.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Flexion"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_8a0c794075422b"
+    ],
+    "bounds": [
+      [
+        0.012366912753097986,
+        1.3914185959872543,
+        -0.059775936409793784
+      ],
+      [
+        0.10315844406642777,
+        1.4979790444835461,
+        0.03370578338707938
+      ]
+    ],
+    "vertices": 1355,
+    "triangles": 2706,
+    "dracoBytes": 24057,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular"
+  },
+  {
+    "id": "ZA_55fdbb244c6c6a",
+    "conceptId": "",
+    "nameEn": "Left Sternohyoid muscle",
+    "sourceNodeName": "Sternohyoid muscle.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Cervical part of muscular system.g/Muscles of neck.g/Infrahyoid muscles.g/Sternohyoid muscle.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Flexion"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_55fdbb244c6c6a"
+    ],
+    "bounds": [
+      [
+        0.0036156641327377793,
+        1.3894378886841392,
+        0.01816065655241222
+      ],
+      [
+        0.027413387658742034,
+        1.4975429177132396,
+        0.036799196960520135
+      ]
+    ],
+    "vertices": 697,
+    "triangles": 1394,
+    "dracoBytes": 12637,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular"
+  },
+  {
+    "id": "ZA_60d5bddd05f0a5",
+    "conceptId": "",
+    "nameEn": "Left Sternothyroid muscle",
+    "sourceNodeName": "Sternothyroid muscle.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Cervical part of muscular system.g/Muscles of neck.g/Infrahyoid muscles.g/Sternothyroid muscle.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Depressor"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_60d5bddd05f0a5"
+    ],
+    "bounds": [
+      [
+        0.004182586303517958,
+        1.3812867896878216,
+        0.008228972466080113
+      ],
+      [
+        0.022451885165130275,
+        1.4800661838528968,
+        0.03816940821734627
+      ]
+    ],
+    "vertices": 546,
+    "triangles": 1088,
+    "dracoBytes": 9951,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular"
+  },
+  {
+    "id": "ZA_e8f04a6436689d",
+    "conceptId": "",
+    "nameEn": "Left Thyrohyoid muscle",
+    "sourceNodeName": "Thyrohyoid muscle.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Cervical part of muscular system.g/Muscles of neck.g/Infrahyoid muscles.g/Thyrohyoid muscle.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Levator"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_e8f04a6436689d"
+    ],
+    "bounds": [
+      [
+        0.007528684814900778,
+        1.4665290955554042,
+        0.0071000612989513875
+      ],
+      [
+        0.019808451443398958,
+        1.4973721732976364,
+        0.032127250113792076
+      ]
+    ],
+    "vertices": 352,
+    "triangles": 699,
+    "dracoBytes": 6561,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular"
+  },
+  {
+    "id": "ZA_074bf82a56159f",
+    "conceptId": "",
+    "nameEn": "Left Superior pharyngeal constrictor",
+    "sourceNodeName": "Superior pharyngeal constrictor.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Cervical part of muscular system.g/Muscles of neck.g/Pharyngeal muscles.g/Superior pharyngeal constrictor.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Orbicularis/Constrictor"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_074bf82a56159f"
+    ],
+    "bounds": [
+      [
+        0.0006534540023179725,
+        1.5209421932829192,
+        0.00585031339061242
+      ],
+      [
+        0.03364055845653125,
+        1.5745594206553017,
+        0.03852872739377053
+      ]
+    ],
+    "vertices": 2669,
+    "triangles": 5334,
+    "dracoBytes": 47409,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular"
+  },
+  {
+    "id": "ZA_beac3114de45f7",
+    "conceptId": "",
+    "nameEn": "Left Middle pharyngeal constrictor",
+    "sourceNodeName": "Middle pharyngeal constrictor.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Cervical part of muscular system.g/Muscles of neck.g/Pharyngeal muscles.g/Middle pharyngeal constrictor.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Orbicularis/Constrictor"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_beac3114de45f7"
+    ],
+    "bounds": [
+      [
+        0.0004220304003027775,
+        1.4994703444252984,
+        0.0021119888492145034
+      ],
+      [
+        0.019200847907618595,
+        1.5452338738245783,
+        0.03368542971768658
+      ]
+    ],
+    "vertices": 1476,
+    "triangles": 2948,
+    "dracoBytes": 26479,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular"
+  },
+  {
+    "id": "ZA_3351ca35dc654f",
+    "conceptId": "",
+    "nameEn": "Left Inferior pharyngeal constrictor",
+    "sourceNodeName": "Inferior pharyngeal constrictor.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Cervical part of muscular system.g/Muscles of neck.g/Pharyngeal muscles.g/Inferior pharyngeal constrictor.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Orbicularis/Constrictor"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_3351ca35dc654f"
+    ],
+    "bounds": [
+      [
+        0.0005915077076199137,
+        1.4600694156926384,
+        -0.0037015516530334003
+      ],
+      [
+        0.022615524661143603,
+        1.525159203848081,
+        0.01063867502784771
+      ]
+    ],
+    "vertices": 1850,
+    "triangles": 3696,
+    "dracoBytes": 32859,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular"
+  },
+  {
+    "id": "ZA_e6eb12113afc00",
+    "conceptId": "",
+    "nameEn": "Left Stylopharyngeus muscle",
+    "sourceNodeName": "Stylopharyngeus muscle.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Cervical part of muscular system.g/Muscles of neck.g/Pharyngeal muscles.g/Stylopharyngeus muscle.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Levator"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_e6eb12113afc00"
+    ],
+    "bounds": [
+      [
+        0.012634701884315919,
+        1.4907013927046884,
+        -0.005165548888260283
+      ],
+      [
+        0.040382516344792035,
+        1.5573941003076432,
+        0.019134645719044822
+      ]
+    ],
+    "vertices": 4741,
+    "triangles": 9478,
+    "dracoBytes": 81497,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular"
+  },
+  {
+    "id": "ZA_35ace5753d6ab5",
+    "conceptId": "",
+    "nameEn": "Left Oblique part of cricothyroid muscle",
+    "sourceNodeName": "Oblique part of cricothyroid muscle.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Cervical part of muscular system.g/Muscles of neck.g/Laryngeal muscles.g/Oblique part of cricothyroid muscle.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Levator"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_35ace5753d6ab5"
+    ],
+    "bounds": [
+      [
+        0.00489195925674379,
+        1.4588694186944378,
+        0.004580216803905642
+      ],
+      [
+        0.013733545465588423,
+        1.4681633445304485,
+        0.0204245367519788
+      ]
+    ],
+    "vertices": 1032,
+    "triangles": 2060,
+    "dracoBytes": 18643,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular"
+  },
+  {
+    "id": "ZA_7713af344e460b",
+    "conceptId": "",
+    "nameEn": "Left Straight part of cricothyroid muscle",
+    "sourceNodeName": "Straight part of cricothyroid muscle.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Cervical part of muscular system.g/Muscles of neck.g/Laryngeal muscles.g/Straight part of cricothyroid muscle.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Levator"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_7713af344e460b"
+    ],
+    "bounds": [
+      [
+        0.002286322514482958,
+        1.463041584510339,
+        0.006499784491667899
+      ],
+      [
+        0.01201391427322532,
+        1.4733358004005728,
+        0.013347209682916004
+      ]
+    ],
+    "vertices": 592,
+    "triangles": 1180,
+    "dracoBytes": 10975,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular"
+  },
+  {
+    "id": "ZA_c6ba2e38050b62",
+    "conceptId": "",
+    "nameEn": "Left External part of thyro-arytenoid muscle",
+    "sourceNodeName": "External part of thyro-arytenoid muscle.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Cervical part of muscular system.g/Muscles of neck.g/Laryngeal muscles.g/External part of thyro-arytenoid muscle.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Phonation"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_c6ba2e38050b62"
+    ],
+    "bounds": [
+      [
+        0.0023943469713392194,
+        1.4711361948785808,
+        0.004844004549665339
+      ],
+      [
+        0.008365351008170015,
+        1.480346945773951,
+        0.02562622897769479
+      ]
+    ],
+    "vertices": 1120,
+    "triangles": 2236,
+    "dracoBytes": 20150,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular"
+  },
+  {
+    "id": "ZA_c40a9d725cd8c6",
+    "conceptId": "",
+    "nameEn": "Left Ary-epiglottic part of oblique arytenoid muscle",
+    "sourceNodeName": "Ary-epiglottic part of oblique arytenoid muscle.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Cervical part of muscular system.g/Muscles of neck.g/Laryngeal muscles.g/Ary-epiglottic part of oblique arytenoid muscle.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Phonation"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_c40a9d725cd8c6"
+    ],
+    "bounds": [
+      [
+        0.004799418353655677,
+        1.4813565642839006,
+        0.006787363594565842
+      ],
+      [
+        0.009042017907516155,
+        1.5047856943184963,
+        0.019419510578844976
+      ]
+    ],
+    "vertices": 513,
+    "triangles": 1022,
+    "dracoBytes": 9307,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular"
+  },
+  {
+    "id": "ZA_8b85c23f6abf94",
+    "conceptId": "",
+    "nameEn": "Left Thyro-epiglottic part of thyro-arytenoid muscle",
+    "sourceNodeName": "Thyro-epiglottic part of thyro-arytenoid muscle.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Cervical part of muscular system.g/Muscles of neck.g/Laryngeal muscles.g/Thyro-epiglottic part of thyro-arytenoid muscle.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Ingestion"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_8b85c23f6abf94"
+    ],
+    "bounds": [
+      [
+        0.00029378531579172916,
+        1.4778877280674547,
+        0.009476110571040329
+      ],
+      [
+        0.008774811400039032,
+        1.5027913147673104,
+        0.028255366445086433
+      ]
+    ],
+    "vertices": 1557,
+    "triangles": 3110,
+    "dracoBytes": 27804,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular"
+  },
+  {
+    "id": "ZA_7257119cf2c39d",
+    "conceptId": "",
+    "nameEn": "Left Lateral crico-arytenoid muscle",
+    "sourceNodeName": "Lateral crico-arytenoid muscle.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Cervical part of muscular system.g/Muscles of neck.g/Laryngeal muscles.g/Lateral crico-arytenoid muscle.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Phonation"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_7257119cf2c39d"
+    ],
+    "bounds": [
+      [
+        0.007296568088666735,
+        1.4692682597015627,
+        -0.0008419894129340083
+      ],
+      [
+        0.011739221079345961,
+        1.4800144753970057,
+        0.009103151029363642
+      ]
+    ],
+    "vertices": 824,
+    "triangles": 1624,
+    "dracoBytes": 14945,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular"
+  },
+  {
+    "id": "ZA_2131354751b8df",
+    "conceptId": "",
+    "nameEn": "Left Posterior crico-arytenoid muscle",
+    "sourceNodeName": "Posterior crico-arytenoid muscle.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Cervical part of muscular system.g/Muscles of neck.g/Laryngeal muscles.g/Posterior crico-arytenoid muscle.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Phonation"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_2131354751b8df"
+    ],
+    "bounds": [
+      [
+        0.002289565308391483,
+        1.4653122918453392,
+        -0.005494101725573562
+      ],
+      [
+        0.01137523834943422,
+        1.4796729615351722,
+        0.00024089413266593918
+      ]
+    ],
+    "vertices": 908,
+    "triangles": 1812,
+    "dracoBytes": 16519,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular"
+  },
+  {
+    "id": "ZA_64194f1733b26c",
+    "conceptId": "",
+    "nameEn": "Left Dorsal parts of lateral intertransversarii lumborum muscles",
+    "sourceNodeName": "Dorsal parts of lateral intertransversarii lumborum muscles.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Dorsal part of muscular system.g/Hypaxial muscles of back.g/Dorsal parts of lateral intertransversarii lumborum muscles.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Abductor"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_64194f1733b26c"
+    ],
+    "bounds": [
+      [
+        0.02009024181241318,
+        0.9964263965611062,
+        -0.056624600111485235
+      ],
+      [
+        0.048638567102866015,
+        1.1466369101898783,
+        -0.024711082991490843
+      ]
+    ],
+    "vertices": 362,
+    "triangles": 720,
+    "dracoBytes": 6661,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular"
+  },
+  {
+    "id": "ZA_8414c4561055a3",
+    "conceptId": "",
+    "nameEn": "Left Ventral parts of lateral intertransversarii lumborum muscles",
+    "sourceNodeName": "Ventral parts of lateral intertransversarii lumborum muscles.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Dorsal part of muscular system.g/Hypaxial muscles of back.g/Ventral parts of lateral intertransversarii lumborum muscles.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Abductor"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_8414c4561055a3"
+    ],
+    "bounds": [
+      [
+        0.012935399252249048,
+        0.9923704653908172,
+        -0.034558262070722046
+      ],
+      [
+        0.037053331595837846,
+        1.1089191060823167,
+        -0.01701041869033396
+      ]
+    ],
+    "vertices": 506,
+    "triangles": 996,
+    "dracoBytes": 9174,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular"
+  },
+  {
+    "id": "ZA_e1097de9e48d75",
+    "conceptId": "",
+    "nameEn": "Left Levator scapulae",
+    "sourceNodeName": "Levator scapulae.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Dorsal part of muscular system.g/Hypaxial muscles of back.g/Levator scapulae.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Tendon",
+      "Levator"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_e1097de9e48d75"
+    ],
+    "bounds": [
+      [
+        0.025238885233001215,
+        1.3865594704389865,
+        -0.09532260755832174
+      ],
+      [
+        0.08668537169458106,
+        1.5394262686080802,
+        -0.009452888798505543
+      ]
+    ],
+    "vertices": 2057,
+    "triangles": 3778,
+    "dracoBytes": 49442,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular",
+    "hasAuthoredTendonMask": true,
+    "tendonSurface": {
+      "method": "original-fbx-material-faces-planar-display-refinement",
+      "sourceMaterialName": "Tendon",
+      "sourceTendonTriangles": 1404,
+      "renderTendonTriangles": 2100,
+      "boundarySegmentCount": 166,
+      "maskAttribute": "_TENDON_MASK",
+      "edgeAttribute": "_TENDON_EDGE",
+      "distanceMetric": "euclidean-to-source-boundary-segments",
+      "distanceCapM": 0.02,
+      "recommendedDisplayFeatherM": 0.003,
+      "positiveTendonDistanceP90M": 0.019999999552965164,
+      "maxTendonSampleDistanceM": 0.019999999552965164,
+      "refinedSourceTriangles": 209,
+      "sourceFaceProvenanceFile": "render-face-source-provenance.npz"
+    },
+    "sourceTriangles": 3082
+  },
+  {
+    "id": "ZA_9fb037d9e7e1f8",
+    "conceptId": "",
+    "nameEn": "Left Rhomboid major muscle",
+    "sourceNodeName": "Rhomboid major muscle.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Dorsal part of muscular system.g/Hypaxial muscles of back.g/Rhomboid major muscle.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Adductor",
+      "Tendon"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_9fb037d9e7e1f8"
+    ],
+    "bounds": [
+      [
+        -0.001015694725698597,
+        1.2592380741859295,
+        -0.11335043247203634
+      ],
+      [
+        0.08751387584672185,
+        1.439308445426585,
+        -0.08241254131211352
+      ]
+    ],
+    "vertices": 2868,
+    "triangles": 5488,
+    "dracoBytes": 70928,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular",
+    "hasAuthoredTendonMask": true,
+    "tendonSurface": {
+      "method": "original-fbx-material-faces-planar-display-refinement",
+      "sourceMaterialName": "Tendon",
+      "sourceTendonTriangles": 1695,
+      "renderTendonTriangles": 2383,
+      "boundarySegmentCount": 121,
+      "maskAttribute": "_TENDON_MASK",
+      "edgeAttribute": "_TENDON_EDGE",
+      "distanceMetric": "euclidean-to-source-boundary-segments",
+      "distanceCapM": 0.02,
+      "recommendedDisplayFeatherM": 0.003,
+      "positiveTendonDistanceP90M": 0.008494295179843903,
+      "maxTendonSampleDistanceM": 0.014469732530415058,
+      "refinedSourceTriangles": 208,
+      "sourceFaceProvenanceFile": "render-face-source-provenance.npz"
+    },
+    "sourceTriangles": 4800
+  },
+  {
+    "id": "ZA_b4c1ee4a746c98",
+    "conceptId": "",
+    "nameEn": "Left Rhomboid minor muscle",
+    "sourceNodeName": "Rhomboid minor muscle.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Dorsal part of muscular system.g/Hypaxial muscles of back.g/Rhomboid minor muscle.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Adductor",
+      "Tendon"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_b4c1ee4a746c98"
+    ],
+    "bounds": [
+      [
+        -0.0011135299119634024,
+        1.3596467164780477,
+        -0.10241339913306921
+      ],
+      [
+        0.06425838544187433,
+        1.4607235258031226,
+        -0.06776162071254904
+      ]
+    ],
+    "vertices": 912,
+    "triangles": 1740,
+    "dracoBytes": 22996,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular",
+    "hasAuthoredTendonMask": true,
+    "tendonSurface": {
+      "method": "original-fbx-material-faces-planar-display-refinement",
+      "sourceMaterialName": "Tendon",
+      "sourceTendonTriangles": 450,
+      "renderTendonTriangles": 696,
+      "boundarySegmentCount": 42,
+      "maskAttribute": "_TENDON_MASK",
+      "edgeAttribute": "_TENDON_EDGE",
+      "distanceMetric": "euclidean-to-source-boundary-segments",
+      "distanceCapM": 0.02,
+      "recommendedDisplayFeatherM": 0.003,
+      "positiveTendonDistanceP90M": 0.007885608822107315,
+      "maxTendonSampleDistanceM": 0.009835307486355305,
+      "refinedSourceTriangles": 74,
+      "sourceFaceProvenanceFile": "render-face-source-provenance.npz"
+    },
+    "sourceTriangles": 1494
+  },
+  {
+    "id": "ZA_e91edc544b9cfb",
+    "conceptId": "",
+    "nameEn": "Left Latissimus dorsi muscle",
+    "sourceNodeName": "Latissimus dorsi muscle.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Dorsal part of muscular system.g/Hypaxial muscles of back.g/Latissimus dorsi muscle.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Tendon",
+      "Adductor"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_e91edc544b9cfb"
+    ],
+    "bounds": [
+      [
+        -0.0022370235187168584,
+        0.931509794746734,
+        -0.11996430088233985
+      ],
+      [
+        0.18462817221884356,
+        1.341928150307953,
+        -0.018267546232425113
+      ]
+    ],
+    "vertices": 14166,
+    "triangles": 26722,
+    "dracoBytes": 342297,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular",
+    "hasAuthoredTendonMask": true,
+    "tendonSurface": {
+      "method": "original-fbx-material-faces-planar-display-refinement",
+      "sourceMaterialName": "Tendon",
+      "sourceTendonTriangles": 6120,
+      "renderTendonTriangles": 11262,
+      "boundarySegmentCount": 786,
+      "maskAttribute": "_TENDON_MASK",
+      "edgeAttribute": "_TENDON_EDGE",
+      "distanceMetric": "euclidean-to-source-boundary-segments",
+      "distanceCapM": 0.02,
+      "recommendedDisplayFeatherM": 0.003,
+      "positiveTendonDistanceP90M": 0.0151479821652174,
+      "maxTendonSampleDistanceM": 0.019999999552965164,
+      "refinedSourceTriangles": 1514,
+      "sourceFaceProvenanceFile": "render-face-source-provenance.npz"
+    },
+    "sourceTriangles": 21580
+  },
+  {
+    "id": "ZA_206cbf29bbc995",
+    "conceptId": "",
+    "nameEn": "Left Serratus posterior inferior muscle",
+    "sourceNodeName": "Serratus posterior inferior muscle.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Dorsal part of muscular system.g/Hypaxial muscles of back.g/Serratus posterior inferior muscle.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Tendon",
+      "External rotation"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_206cbf29bbc995"
+    ],
+    "bounds": [
+      [
+        -0.0025862950835005448,
+        1.0216158772744388,
+        -0.09480086583852793
+      ],
+      [
+        0.11109633458514381,
+        1.200216315944859,
+        -0.05767344629306695
+      ]
+    ],
+    "vertices": 6036,
+    "triangles": 11196,
+    "dracoBytes": 144931,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular",
+    "hasAuthoredTendonMask": true,
+    "tendonSurface": {
+      "method": "original-fbx-material-faces-planar-display-refinement",
+      "sourceMaterialName": "Tendon",
+      "sourceTendonTriangles": 4182,
+      "renderTendonTriangles": 6420,
+      "boundarySegmentCount": 446,
+      "maskAttribute": "_TENDON_MASK",
+      "edgeAttribute": "_TENDON_EDGE",
+      "distanceMetric": "euclidean-to-source-boundary-segments",
+      "distanceCapM": 0.02,
+      "recommendedDisplayFeatherM": 0.003,
+      "positiveTendonDistanceP90M": 0.014087142422795296,
+      "maxTendonSampleDistanceM": 0.019999999552965164,
+      "refinedSourceTriangles": 677,
+      "sourceFaceProvenanceFile": "render-face-source-provenance.npz"
+    },
+    "sourceTriangles": 8958
+  },
+  {
+    "id": "ZA_ef7e5f7aa5f745",
+    "conceptId": "",
+    "nameEn": "Left Serratus posterior superior muscle",
+    "sourceNodeName": "Serratus posterior superior muscle.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Dorsal part of muscular system.g/Hypaxial muscles of back.g/Serratus posterior superior muscle.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "External rotation",
+      "Tendon"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_ef7e5f7aa5f745"
+    ],
+    "bounds": [
+      [
+        -0.001503452943203376,
+        1.3381584957988892,
+        -0.09375053647679663
+      ],
+      [
+        0.10395950764764525,
+        1.463903773112136,
+        -0.027353319584479667
+      ]
+    ],
+    "vertices": 2992,
+    "triangles": 5812,
+    "dracoBytes": 75408,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular",
+    "hasAuthoredTendonMask": true,
+    "tendonSurface": {
+      "method": "original-fbx-material-faces-planar-display-refinement",
+      "sourceMaterialName": "Tendon",
+      "sourceTendonTriangles": 1422,
+      "renderTendonTriangles": 1716,
+      "boundarySegmentCount": 86,
+      "maskAttribute": "_TENDON_MASK",
+      "edgeAttribute": "_TENDON_EDGE",
+      "distanceMetric": "euclidean-to-source-boundary-segments",
+      "distanceCapM": 0.02,
+      "recommendedDisplayFeatherM": 0.003,
+      "positiveTendonDistanceP90M": 0.014443803578615189,
+      "maxTendonSampleDistanceM": 0.018647126853466034,
+      "refinedSourceTriangles": 92,
+      "sourceFaceProvenanceFile": "render-face-source-provenance.npz"
+    },
+    "sourceTriangles": 5518
+  },
+  {
+    "id": "ZA_3986f91734fc1a",
+    "conceptId": "",
+    "nameEn": "Left Ascending part of trapezius muscle",
+    "sourceNodeName": "Ascending part of trapezius muscle.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Dorsal part of muscular system.g/Hypaxial muscles of back.g/Trapezius muscle.g/Ascending part of trapezius muscle.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Tendon",
+      "Abductor"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_3986f91734fc1a"
+    ],
+    "bounds": [
+      [
+        -0.003970440123122545,
+        1.4154927781004438,
+        -0.0917146237760929
+      ],
+      [
+        0.13113392710147873,
+        1.5747382975914237,
+        0.0003779112230353299
+      ]
+    ],
+    "vertices": 3613,
+    "triangles": 6606,
+    "dracoBytes": 86836,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular",
+    "hasAuthoredTendonMask": true,
+    "tendonSurface": {
+      "method": "original-fbx-material-faces-planar-display-refinement",
+      "sourceMaterialName": "Tendon",
+      "sourceTendonTriangles": 2450,
+      "renderTendonTriangles": 4460,
+      "boundarySegmentCount": 310,
+      "maskAttribute": "_TENDON_MASK",
+      "edgeAttribute": "_TENDON_EDGE",
+      "distanceMetric": "euclidean-to-source-boundary-segments",
+      "distanceCapM": 0.02,
+      "recommendedDisplayFeatherM": 0.003,
+      "positiveTendonDistanceP90M": 0.011460104957222939,
+      "maxTendonSampleDistanceM": 0.019999999552965164,
+      "refinedSourceTriangles": 591,
+      "sourceFaceProvenanceFile": "render-face-source-provenance.npz"
+    },
+    "sourceTriangles": 4596
+  },
+  {
+    "id": "ZA_023a8afb2c563b",
+    "conceptId": "",
+    "nameEn": "Left Descending part of trapezius muscle",
+    "sourceNodeName": "Descending part of trapezius muscle.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Dorsal part of muscular system.g/Hypaxial muscles of back.g/Trapezius muscle.g/Descending part of trapezius muscle.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Tendon",
+      "External rotation"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_023a8afb2c563b"
+    ],
+    "bounds": [
+      [
+        -0.0014916642941580883,
+        1.1200794384178008,
+        -0.13013204484381155
+      ],
+      [
+        0.13728469117904724,
+        1.4143074949955612,
+        -0.069106525045569
+      ]
+    ],
+    "vertices": 4886,
+    "triangles": 9016,
+    "dracoBytes": 116733,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular",
+    "hasAuthoredTendonMask": true,
+    "tendonSurface": {
+      "method": "original-fbx-material-faces-planar-display-refinement",
+      "sourceMaterialName": "Tendon",
+      "sourceTendonTriangles": 3189,
+      "renderTendonTriangles": 5445,
+      "boundarySegmentCount": 381,
+      "maskAttribute": "_TENDON_MASK",
+      "edgeAttribute": "_TENDON_EDGE",
+      "distanceMetric": "euclidean-to-source-boundary-segments",
+      "distanceCapM": 0.02,
+      "recommendedDisplayFeatherM": 0.003,
+      "positiveTendonDistanceP90M": 0.010836467146873474,
+      "maxTendonSampleDistanceM": 0.019999999552965164,
+      "refinedSourceTriangles": 672,
+      "sourceFaceProvenanceFile": "render-face-source-provenance.npz"
+    },
+    "sourceTriangles": 6760
+  },
+  {
+    "id": "ZA_cc7c6828821b41",
+    "conceptId": "",
+    "nameEn": "Left Transverse part of trapezius muscle",
+    "sourceNodeName": "Transverse part of trapezius muscle.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Dorsal part of muscular system.g/Hypaxial muscles of back.g/Trapezius muscle.g/Transverse part of trapezius muscle.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Tendon",
+      "External rotation"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_cc7c6828821b41"
+    ],
+    "bounds": [
+      [
+        -0.0047282108477836714,
+        1.3696474280231519,
+        -0.11223855225204396
+      ],
+      [
+        0.16754998970025042,
+        1.4508254770658973,
+        -0.03212954192106314
+      ]
+    ],
+    "vertices": 2037,
+    "triangles": 3822,
+    "dracoBytes": 50100,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular",
+    "hasAuthoredTendonMask": true,
+    "tendonSurface": {
+      "method": "original-fbx-material-faces-planar-display-refinement",
+      "sourceMaterialName": "Tendon",
+      "sourceTendonTriangles": 2080,
+      "renderTendonTriangles": 2910,
+      "boundarySegmentCount": 128,
+      "maskAttribute": "_TENDON_MASK",
+      "edgeAttribute": "_TENDON_EDGE",
+      "distanceMetric": "euclidean-to-source-boundary-segments",
+      "distanceCapM": 0.02,
+      "recommendedDisplayFeatherM": 0.003,
+      "positiveTendonDistanceP90M": 0.019999999552965164,
+      "maxTendonSampleDistanceM": 0.019999999552965164,
+      "refinedSourceTriangles": 248,
+      "sourceFaceProvenanceFile": "render-face-source-provenance.npz"
+    },
+    "sourceTriangles": 2992
+  },
+  {
+    "id": "ZA_ed17380924855c",
+    "conceptId": "",
+    "nameEn": "Left Obliquus inferior capitis muscle",
+    "sourceNodeName": "Obliquus inferior capitis muscle.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Dorsal part of muscular system.g/Epaxial muscles.g/Suboccipital muscles.g/Obliquus inferior capitis muscle.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "External rotation"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_ed17380924855c"
+    ],
+    "bounds": [
+      [
+        0.002917569141544536,
+        1.510324446821106,
+        -0.05170955656850903
+      ],
+      [
+        0.041592250485013825,
+        1.541807913784394,
+        -0.013937754831792557
+      ]
+    ],
+    "vertices": 272,
+    "triangles": 540,
+    "dracoBytes": 5120,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular"
+  },
+  {
+    "id": "ZA_e8c8a918dbdfc5",
+    "conceptId": "",
+    "nameEn": "Left Obliquus superior capitis muscle",
+    "sourceNodeName": "Obliquus superior capitis muscle.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Dorsal part of muscular system.g/Epaxial muscles.g/Suboccipital muscles.g/Obliquus superior capitis muscle.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Extension"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_e8c8a918dbdfc5"
+    ],
+    "bounds": [
+      [
+        0.028440978956833493,
+        1.5411614972387324,
+        -0.06548957512273812
+      ],
+      [
+        0.04277093299118664,
+        1.564100219912657,
+        -0.0156597631390588
+      ]
+    ],
+    "vertices": 325,
+    "triangles": 654,
+    "dracoBytes": 6041,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular"
+  },
+  {
+    "id": "ZA_abdd439037a897",
+    "conceptId": "",
+    "nameEn": "Left Rectus posterior major capitis muscle",
+    "sourceNodeName": "Rectus posterior major capitis muscle.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Dorsal part of muscular system.g/Epaxial muscles.g/Suboccipital muscles.g/Rectus posterior major capitis muscle.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Extension"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_abdd439037a897"
+    ],
+    "bounds": [
+      [
+        0.0002579652211102257,
+        1.5144656429682875,
+        -0.06154788697407605
+      ],
+      [
+        0.03555362638502228,
+        1.5610808968526146,
+        -0.03624999217100812
+      ]
+    ],
+    "vertices": 396,
+    "triangles": 788,
+    "dracoBytes": 7376,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular"
+  },
+  {
+    "id": "ZA_5f717a44163d38",
+    "conceptId": "",
+    "nameEn": "Left Rectus posterior minor capitis muscle",
+    "sourceNodeName": "Rectus posterior minor capitis muscle.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Dorsal part of muscular system.g/Epaxial muscles.g/Suboccipital muscles.g/Rectus posterior minor capitis muscle.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Extension"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_5f717a44163d38"
+    ],
+    "bounds": [
+      [
+        0.00004067275694587646,
+        1.5385161727374266,
+        -0.06857311853157165
+      ],
+      [
+        0.023679603792493297,
+        1.5644987938876878,
+        -0.043278358523749644
+      ]
+    ],
+    "vertices": 214,
+    "triangles": 432,
+    "dracoBytes": 4097,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular"
+  },
+  {
+    "id": "ZA_31ff27b0f4d7c3",
+    "conceptId": "",
+    "nameEn": "Left Splenius capitis muscle",
+    "sourceNodeName": "Splenius capitis muscle.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Dorsal part of muscular system.g/Epaxial muscles.g/Spinotransversales muscles.g/Splenius muscles.g/Splenius capitis muscle.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Tendon",
+      "Abductor"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_31ff27b0f4d7c3"
+    ],
+    "bounds": [
+      [
+        -0.0007209372676952919,
+        1.3577875259350476,
+        -0.10326550773509785
+      ],
+      [
+        0.06062090063816411,
+        1.5734315538982349,
+        -0.018954392729394032
+      ]
+    ],
+    "vertices": 3397,
+    "triangles": 6336,
+    "dracoBytes": 81958,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular",
+    "hasAuthoredTendonMask": true,
+    "tendonSurface": {
+      "method": "original-fbx-material-faces-planar-display-refinement",
+      "sourceMaterialName": "Tendon",
+      "sourceTendonTriangles": 2013,
+      "renderTendonTriangles": 3087,
+      "boundarySegmentCount": 231,
+      "maskAttribute": "_TENDON_MASK",
+      "edgeAttribute": "_TENDON_EDGE",
+      "distanceMetric": "euclidean-to-source-boundary-segments",
+      "distanceCapM": 0.02,
+      "recommendedDisplayFeatherM": 0.003,
+      "positiveTendonDistanceP90M": 0.0075346603989601135,
+      "maxTendonSampleDistanceM": 0.012460397556424141,
+      "refinedSourceTriangles": 324,
+      "sourceFaceProvenanceFile": "render-face-source-provenance.npz"
+    },
+    "sourceTriangles": 5262
+  },
+  {
+    "id": "ZA_be0359e7c763f4",
+    "conceptId": "",
+    "nameEn": "Left Splenius colli muscle",
+    "sourceNodeName": "Splenius colli muscle.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Dorsal part of muscular system.g/Epaxial muscles.g/Spinotransversales muscles.g/Splenius muscles.g/Splenius colli muscle.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Abductor"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_be0359e7c763f4"
+    ],
+    "bounds": [
+      [
+        -0.0010842107731163053,
+        1.2853767515459815,
+        -0.10438894483946609
+      ],
+      [
+        0.042629980585239285,
+        1.5429546711159128,
+        -0.012140381102909617
+      ]
+    ],
+    "vertices": 2157,
+    "triangles": 4314,
+    "dracoBytes": 37654,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular"
+  },
+  {
+    "id": "ZA_fd6f4c77d94cd8",
+    "conceptId": "",
+    "nameEn": "Left Iliocostalis lumborum muscle",
+    "sourceNodeName": "Iliocostalis lumborum muscle.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Dorsal part of muscular system.g/Epaxial muscles.g/Erector spinae.g/Iliocostalis muscles.g/Iliocostalis lumborum muscle.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "External rotation"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_fd6f4c77d94cd8"
+    ],
+    "bounds": [
+      [
+        0.010074489305829566,
+        0.883645645625123,
+        -0.09498334540773498
+      ],
+      [
+        0.1046342538213134,
+        1.273936208481534,
+        -0.04747190374486831
+      ]
+    ],
+    "vertices": 5019,
+    "triangles": 10038,
+    "dracoBytes": 86336,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular"
+  },
+  {
+    "id": "ZA_ac461f767fd0bb",
+    "conceptId": "",
+    "nameEn": "Left Iliocostalis thoracis muscle",
+    "sourceNodeName": "Iliocostalis thoracis muscle.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Dorsal part of muscular system.g/Epaxial muscles.g/Erector spinae.g/Iliocostalis muscles.g/Iliocostalis thoracis muscle.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Extension"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_ac461f767fd0bb"
+    ],
+    "bounds": [
+      [
+        0.03878602578669267,
+        1.123476984628873,
+        -0.1028042929291945
+      ],
+      [
+        0.09346167784571585,
+        1.4399366292870035,
+        -0.023259058702668468
+      ]
+    ],
+    "vertices": 2888,
+    "triangles": 5772,
+    "dracoBytes": 49991,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular"
+  },
+  {
+    "id": "ZA_bd616030f9ef57",
+    "conceptId": "",
+    "nameEn": "Left Longissimus thoracis muscle",
+    "sourceNodeName": "Longissimus thoracis muscle.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Dorsal part of muscular system.g/Epaxial muscles.g/Erector spinae.g/Longissimus muscles.g/Longissimus thoracis muscle.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Extension"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_bd616030f9ef57"
+    ],
+    "bounds": [
+      [
+        -0.0016645359713548346,
+        0.9008258279044431,
+        -0.10176015858762559
+      ],
+      [
+        0.07042149819268105,
+        1.4490603184453923,
+        -0.02801125734781289
+      ]
+    ],
+    "vertices": 4818,
+    "triangles": 9652,
+    "dracoBytes": 82445,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular"
+  },
+  {
+    "id": "ZA_3bd5766c9c9f5e",
+    "conceptId": "",
+    "nameEn": "Left Longissimus capitis muscle",
+    "sourceNodeName": "Longissimus capitis muscle.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Dorsal part of muscular system.g/Epaxial muscles.g/Erector spinae.g/Longissimus muscles.g/Longissimus capitis muscle.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Abductor"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_3bd5766c9c9f5e"
+    ],
+    "bounds": [
+      [
+        0.025183939692901624,
+        1.412851552873509,
+        -0.06747502471614122
+      ],
+      [
+        0.060436962860913566,
+        1.5700548464191775,
+        -0.015260648130106327
+      ]
+    ],
+    "vertices": 788,
+    "triangles": 1574,
+    "dracoBytes": 14144,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular"
+  },
+  {
+    "id": "ZA_72696f4ec62f12",
+    "conceptId": "",
+    "nameEn": "Left Longissimus colli muscle",
+    "sourceNodeName": "Longissimus colli muscle.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Dorsal part of muscular system.g/Epaxial muscles.g/Erector spinae.g/Longissimus muscles.g/Longissimus colli muscle.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Extension"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_72696f4ec62f12"
+    ],
+    "bounds": [
+      [
+        0.02309796984347609,
+        1.3301478978213104,
+        -0.092434004792971
+      ],
+      [
+        0.04223031081600599,
+        1.5195877880865538,
+        -0.011189553758424915
+      ]
+    ],
+    "vertices": 915,
+    "triangles": 1826,
+    "dracoBytes": 16153,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular"
+  },
+  {
+    "id": "ZA_0fc49a360e2b23",
+    "conceptId": "",
+    "nameEn": "Left Spinalis capitis muscle",
+    "sourceNodeName": "Spinalis capitis muscle.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Dorsal part of muscular system.g/Epaxial muscles.g/Erector spinae.g/Spinalis muscles.g/Spinalis capitis muscle.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Tendon",
+      "Extension"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_0fc49a360e2b23"
+    ],
+    "bounds": [
+      [
+        0.0028136270204162893,
+        1.4490555226052126,
+        -0.07938196967749947
+      ],
+      [
+        0.04431143977012731,
+        1.5731559430085869,
+        -0.02473968632786762
+      ]
+    ],
+    "vertices": 1572,
+    "triangles": 2996,
+    "dracoBytes": 39100,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular",
+    "hasAuthoredTendonMask": true,
+    "tendonSurface": {
+      "method": "original-fbx-material-faces-planar-display-refinement",
+      "sourceMaterialName": "Tendon",
+      "sourceTendonTriangles": 636,
+      "renderTendonTriangles": 1072,
+      "boundarySegmentCount": 78,
+      "maskAttribute": "_TENDON_MASK",
+      "edgeAttribute": "_TENDON_EDGE",
+      "distanceMetric": "euclidean-to-source-boundary-segments",
+      "distanceCapM": 0.02,
+      "recommendedDisplayFeatherM": 0.003,
+      "positiveTendonDistanceP90M": 0.007277142722159624,
+      "maxTendonSampleDistanceM": 0.009030355140566826,
+      "refinedSourceTriangles": 131,
+      "sourceFaceProvenanceFile": "render-face-source-provenance.npz"
+    },
+    "sourceTriangles": 2560
+  },
+  {
+    "id": "ZA_77713789677c09",
+    "conceptId": "",
+    "nameEn": "Left Spinalis colli muscle",
+    "sourceNodeName": "Spinalis colli muscle.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Dorsal part of muscular system.g/Epaxial muscles.g/Erector spinae.g/Spinalis muscles.g/Spinalis colli muscle.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Extension"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_77713789677c09"
+    ],
+    "bounds": [
+      [
+        0.0012964379145813014,
+        1.4066529994498829,
+        -0.08776229981872909
+      ],
+      [
+        0.009217932583802813,
+        1.5124206340999735,
+        -0.043948732924440764
+      ]
+    ],
+    "vertices": 298,
+    "triangles": 596,
+    "dracoBytes": 5462,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular"
+  },
+  {
+    "id": "ZA_6ec293665e181b",
+    "conceptId": "",
+    "nameEn": "Left Spinalis thoracis muscle",
+    "sourceNodeName": "Spinalis thoracis muscle.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Dorsal part of muscular system.g/Epaxial muscles.g/Erector spinae.g/Spinalis muscles.g/Spinalis thoracis muscle.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Extension"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_6ec293665e181b"
+    ],
+    "bounds": [
+      [
+        -0.0009640120941603614,
+        1.0335440341202824,
+        -0.10279002336505533
+      ],
+      [
+        0.011686807140308522,
+        1.4110304393154802,
+        -0.05335956313789042
+      ]
+    ],
+    "vertices": 2768,
+    "triangles": 5532,
+    "dracoBytes": 47622,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular"
+  },
+  {
+    "id": "ZA_21c8a346f30e97",
+    "conceptId": "",
+    "nameEn": "Left Multifidus colli muscle",
+    "sourceNodeName": "Multifidus colli muscle.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Dorsal part of muscular system.g/Epaxial muscles.g/Transversospinal muscles.g/Multifidus muscles.g/Multifidus colli muscle.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Internal rotator"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_21c8a346f30e97"
+    ],
+    "bounds": [
+      [
+        0.0020955053747536566,
+        1.4407448040579924,
+        -0.046640626695023515
+      ],
+      [
+        0.026067353856119625,
+        1.5388329711256226,
+        -0.023996133686612468
+      ]
+    ],
+    "vertices": 697,
+    "triangles": 1390,
+    "dracoBytes": 12630,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular"
+  },
+  {
+    "id": "ZA_6e147120766f7a",
+    "conceptId": "",
+    "nameEn": "Left Multifidus thoracis muscle",
+    "sourceNodeName": "Multifidus thoracis muscle.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Dorsal part of muscular system.g/Epaxial muscles.g/Transversospinal muscles.g/Multifidus muscles.g/Multifidus thoracis muscle.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "External rotation"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_6e147120766f7a"
+    ],
+    "bounds": [
+      [
+        0.0020997728695597816,
+        1.1443757186399106,
+        -0.09447207132638955
+      ],
+      [
+        0.028304294865397883,
+        1.4522296982759964,
+        -0.04208298568089754
+      ]
+    ],
+    "vertices": 11706,
+    "triangles": 3902,
+    "dracoBytes": 151174,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular"
+  },
+  {
+    "id": "ZA_9d3110e5475a1f",
+    "conceptId": "",
+    "nameEn": "Left Multifidus lumborum muscle",
+    "sourceNodeName": "Multifidus lumborum muscle.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Dorsal part of muscular system.g/Epaxial muscles.g/Transversospinal muscles.g/Multifidus muscles.g/Multifidus lumborum muscle.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "External rotation"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_9d3110e5475a1f"
+    ],
+    "bounds": [
+      [
+        0.0034502047717556474,
+        0.9930516667322365,
+        -0.06773923956812362
+      ],
+      [
+        0.046088962164144244,
+        1.1545034441281268,
+        -0.028177220915293857
+      ]
+    ],
+    "vertices": 1414,
+    "triangles": 2820,
+    "dracoBytes": 24983,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular"
+  },
+  {
+    "id": "ZA_e0663280afb6db",
+    "conceptId": "",
+    "nameEn": "Left Semispinalis thoracis muscle",
+    "sourceNodeName": "Semispinalis thoracis muscle.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Dorsal part of muscular system.g/Epaxial muscles.g/Transversospinal muscles.g/Semispinalis muscles.g/Semispinalis thoracis muscle.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Extension"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_e0663280afb6db"
+    ],
+    "bounds": [
+      [
+        -0.0012548351742222596,
+        1.1495787547483713,
+        -0.09917948132805281
+      ],
+      [
+        0.03413478210977774,
+        1.4309061498631428,
+        -0.0583387226046392
+      ]
+    ],
+    "vertices": 2485,
+    "triangles": 4972,
+    "dracoBytes": 43423,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular"
+  },
+  {
+    "id": "ZA_1324bf7875a8c7",
+    "conceptId": "",
+    "nameEn": "Left Semispinalis colli muscle",
+    "sourceNodeName": "Semispinalis colli muscle.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Dorsal part of muscular system.g/Epaxial muscles.g/Transversospinal muscles.g/Semispinalis muscles.g/Semispinalis colli muscle.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Internal rotator"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_1324bf7875a8c7"
+    ],
+    "bounds": [
+      [
+        0.00010120006349090938,
+        1.3606415767464295,
+        -0.08372909449684358
+      ],
+      [
+        0.03405761640221158,
+        1.5031002738380854,
+        -0.03102090900303708
+      ]
+    ],
+    "vertices": 1292,
+    "triangles": 2584,
+    "dracoBytes": 23053,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular"
+  },
+  {
+    "id": "ZA_6f1a25262b2773",
+    "conceptId": "",
+    "nameEn": "Left Rotatores",
+    "sourceNodeName": "Rotatores.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Dorsal part of muscular system.g/Epaxial muscles.g/Transversospinal muscles.g/Rotatores.g/Rotatores.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Internal rotator"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_6f1a25262b2773"
+    ],
+    "bounds": [
+      [
+        0.0004130125407901075,
+        0.884991634866449,
+        -0.09552454873645833
+      ],
+      [
+        0.03858380666707052,
+        1.5204130298044163,
+        -0.029015185911512354
+      ]
+    ],
+    "vertices": 3255,
+    "triangles": 6518,
+    "dracoBytes": 55765,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular"
+  },
+  {
+    "id": "ZA_8ef4431e86a2f2",
+    "conceptId": "",
+    "nameEn": "Left Interspinales colli muscles",
+    "sourceNodeName": "Interspinales colli muscles.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Dorsal part of muscular system.g/Epaxial muscles.g/Interspinales muscles.g/Interspinales colli muscles.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Extension"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_8ef4431e86a2f2"
+    ],
+    "bounds": [
+      [
+        0.0005099673559183082,
+        1.4483323587336314,
+        -0.07032740476527502
+      ],
+      [
+        0.007323191466305219,
+        1.53865584086187,
+        -0.042802363863473684
+      ]
+    ],
+    "vertices": 234,
+    "triangles": 444,
+    "dracoBytes": 4286,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular"
+  },
+  {
+    "id": "ZA_3cafa3797e0fef",
+    "conceptId": "",
+    "nameEn": "Left Interspinales thoracis muscles",
+    "sourceNodeName": "Interspinales thoracis muscles.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Dorsal part of muscular system.g/Epaxial muscles.g/Interspinales muscles.g/Interspinales thoracis muscles.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Extension"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_3cafa3797e0fef"
+    ],
+    "bounds": [
+      [
+        0.00012841589224844852,
+        1.381697696292357,
+        -0.09866830373986599
+      ],
+      [
+        0.007162812192913215,
+        1.4265505719487623,
+        -0.08062447708083796
+      ]
+    ],
+    "vertices": 103,
+    "triangles": 198,
+    "dracoBytes": 1977,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular"
+  },
+  {
+    "id": "ZA_4aca8792cb0736",
+    "conceptId": "",
+    "nameEn": "Left Interspinales lumborum muscles",
+    "sourceNodeName": "Interspinales lumborum muscles.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Dorsal part of muscular system.g/Epaxial muscles.g/Interspinales muscles.g/Interspinales lumborum muscles.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Extension"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_4aca8792cb0736"
+    ],
+    "bounds": [
+      [
+        -0.0011933465806122328,
+        0.9872568528179054,
+        -0.0817251031257735
+      ],
+      [
+        0.007549438997557893,
+        1.1475549864066354,
+        -0.057002213898792856
+      ]
+    ],
+    "vertices": 291,
+    "triangles": 562,
+    "dracoBytes": 5267,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular"
+  },
+  {
+    "id": "ZA_f75e9e20fe60cf",
+    "conceptId": "",
+    "nameEn": "Left Pectoralis minor muscle",
+    "sourceNodeName": "Pectoralis minor muscle.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Thoracic part of muscular system.g/Muscles of thorax.g/Pectoralis minor muscle.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Abductor"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_f75e9e20fe60cf"
+    ],
+    "bounds": [
+      [
+        0.07640414798265854,
+        1.2613862617898597,
+        -0.01876643757238371
+      ],
+      [
+        0.13525402746877052,
+        1.4003599544384675,
+        0.07630325709916912
+      ]
+    ],
+    "vertices": 2097,
+    "triangles": 4142,
+    "dracoBytes": 37068,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular"
+  },
+  {
+    "id": "ZA_fdd0e0ea1a72e5",
+    "conceptId": "",
+    "nameEn": "Left External intercostal muscles",
+    "sourceNodeName": "External intercostal muscles.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Thoracic part of muscular system.g/Muscles of thorax.g/External intercostal muscles.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Levator"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_fdd0e0ea1a72e5"
+    ],
+    "bounds": [
+      [
+        0.02909713653768742,
+        1.0694065803020196,
+        -0.09762165417026417
+      ],
+      [
+        0.14095068559871085,
+        1.4416288641946335,
+        0.09721520171889292
+      ]
+    ],
+    "vertices": 20892,
+    "triangles": 41408,
+    "dracoBytes": 357948,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular"
+  },
+  {
+    "id": "ZA_5010afc2892db1",
+    "conceptId": "",
+    "nameEn": "Left Internal intercostal muscles",
+    "sourceNodeName": "Internal intercostal muscles.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Thoracic part of muscular system.g/Muscles of thorax.g/Internal intercostal muscles.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Levator"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_5010afc2892db1"
+    ],
+    "bounds": [
+      [
+        0.013378586813487808,
+        1.0778850851855841,
+        -0.0939657659301273
+      ],
+      [
+        0.13901742381777438,
+        1.407871004944961,
+        0.11210963283821083
+      ]
+    ],
+    "vertices": 20348,
+    "triangles": 40184,
+    "dracoBytes": 348792,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular"
+  },
+  {
+    "id": "ZA_2565787006b7c4",
+    "conceptId": "",
+    "nameEn": "Left Serratus anterior muscle",
+    "sourceNodeName": "Serratus anterior muscle.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Thoracic part of muscular system.g/Muscles of thorax.g/Serratus anterior muscle.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Internal rotator"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_2565787006b7c4"
+    ],
+    "bounds": [
+      [
+        0.06215871962545333,
+        1.1479065604400098,
+        -0.11042869770340318
+      ],
+      [
+        0.1486529133953582,
+        1.4226108887762041,
+        0.06166440131681114
+      ]
+    ],
+    "vertices": 12618,
+    "triangles": 25240,
+    "dracoBytes": 217385,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular"
+  },
+  {
+    "id": "ZA_ac755afbe5489c",
+    "conceptId": "",
+    "nameEn": "Left Innermost intercostal muscles",
+    "sourceNodeName": "Innermost intercostal muscles.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Thoracic part of muscular system.g/Muscles of thorax.g/Innermost intercostal muscles.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Depressor"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_ac755afbe5489c"
+    ],
+    "bounds": [
+      [
+        0.0432033880472682,
+        1.0840289247265897,
+        -0.09054572045749998
+      ],
+      [
+        0.13510072432012382,
+        1.4088469711398863,
+        0.09685709271729777
+      ]
+    ],
+    "vertices": 19223,
+    "triangles": 38254,
+    "dracoBytes": 330056,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular"
+  },
+  {
+    "id": "ZA_72cf45e627cec3",
+    "conceptId": "",
+    "nameEn": "Left Subclavius muscle",
+    "sourceNodeName": "Subclavius muscle.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Thoracic part of muscular system.g/Muscles of thorax.g/Subclavius muscle.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Depressor"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_72cf45e627cec3"
+    ],
+    "bounds": [
+      [
+        0.026976962038530727,
+        1.3849264021449756,
+        -0.012790058678032139
+      ],
+      [
+        0.10163259284544812,
+        1.412670345120681,
+        0.04879902437039156
+      ]
+    ],
+    "vertices": 403,
+    "triangles": 794,
+    "dracoBytes": 7381,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular"
+  },
+  {
+    "id": "ZA_3da2881a46f4bf",
+    "conceptId": "",
+    "nameEn": "Left Transversus thoracis muscle",
+    "sourceNodeName": "Transversus thoracis muscle.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Thoracic part of muscular system.g/Muscles of thorax.g/Transversus thoracis muscle.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Depressor"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_3da2881a46f4bf"
+    ],
+    "bounds": [
+      [
+        0.00272702429185784,
+        1.2080552454449087,
+        0.05451559758722075
+      ],
+      [
+        0.08819982167780072,
+        1.3570742658731667,
+        0.10501609022810915
+      ]
+    ],
+    "vertices": 821,
+    "triangles": 1670,
+    "dracoBytes": 14983,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular"
+  },
+  {
+    "id": "ZA_0757c23a62d31d",
+    "conceptId": "",
+    "nameEn": "Left Clavicular head of pectoralis major muscle",
+    "sourceNodeName": "Clavicular head of pectoralis major muscle.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Thoracic part of muscular system.g/Muscles of thorax.g/Pectoralis major muscle.g/Clavicular head of pectoralis major muscle.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Tendon",
+      "Adductor"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_0757c23a62d31d"
+    ],
+    "bounds": [
+      [
+        0.026709953007452682,
+        1.3037739042155758,
+        -0.016251251771465927
+      ],
+      [
+        0.2001462597270673,
+        1.409408584688154,
+        0.04892477317795155
+      ]
+    ],
+    "vertices": 515,
+    "triangles": 988,
+    "dracoBytes": 13178,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular",
+    "hasAuthoredTendonMask": true,
+    "tendonSurface": {
+      "method": "original-fbx-material-faces-planar-display-refinement",
+      "sourceMaterialName": "Tendon",
+      "sourceTendonTriangles": 143,
+      "renderTendonTriangles": 281,
+      "boundarySegmentCount": 21,
+      "maskAttribute": "_TENDON_MASK",
+      "edgeAttribute": "_TENDON_EDGE",
+      "distanceMetric": "euclidean-to-source-boundary-segments",
+      "distanceCapM": 0.02,
+      "recommendedDisplayFeatherM": 0.003,
+      "positiveTendonDistanceP90M": 0.013594656251370907,
+      "maxTendonSampleDistanceM": 0.016618112102150917,
+      "refinedSourceTriangles": 40,
+      "sourceFaceProvenanceFile": "render-face-source-provenance.npz"
+    },
+    "sourceTriangles": 850
+  },
+  {
+    "id": "ZA_c5f91bad1cc328",
+    "conceptId": "",
+    "nameEn": "Left Sternocostal head of pectoralis major muscle",
+    "sourceNodeName": "Sternocostal head of pectoralis major muscle.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Thoracic part of muscular system.g/Muscles of thorax.g/Pectoralis major muscle.g/Sternocostal head of pectoralis major muscle.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Tendon",
+      "Adductor"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_c5f91bad1cc328"
+    ],
+    "bounds": [
+      [
+        0.0032744010195207094,
+        1.212584213224302,
+        -0.015952419714510526
+      ],
+      [
+        0.1933422148660406,
+        1.3947740590334263,
+        0.1263023520897044
+      ]
+    ],
+    "vertices": 1789,
+    "triangles": 3490,
+    "dracoBytes": 45782,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular",
+    "hasAuthoredTendonMask": true,
+    "tendonSurface": {
+      "method": "original-fbx-material-faces-planar-display-refinement",
+      "sourceMaterialName": "Tendon",
+      "sourceTendonTriangles": 378,
+      "renderTendonTriangles": 646,
+      "boundarySegmentCount": 42,
+      "maskAttribute": "_TENDON_MASK",
+      "edgeAttribute": "_TENDON_EDGE",
+      "distanceMetric": "euclidean-to-source-boundary-segments",
+      "distanceCapM": 0.02,
+      "recommendedDisplayFeatherM": 0.003,
+      "positiveTendonDistanceP90M": 0.019999999552965164,
+      "maxTendonSampleDistanceM": 0.019999999552965164,
+      "refinedSourceTriangles": 78,
+      "sourceFaceProvenanceFile": "render-face-source-provenance.npz"
+    },
+    "sourceTriangles": 3222
+  },
+  {
+    "id": "ZA_0ef9b54fe98de0",
+    "conceptId": "",
+    "nameEn": "Left (Abdominal part of pectoralis major muscle)",
+    "sourceNodeName": "(Abdominal part of pectoralis major muscle).l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Thoracic part of muscular system.g/Muscles of thorax.g/Pectoralis major muscle.g/(Abdominal part of pectoralis major muscle).l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Tendon",
+      "Adductor"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_0ef9b54fe98de0"
+    ],
+    "bounds": [
+      [
+        0.05408064546582878,
+        1.1718326016073506,
+        -0.016804480204859615
+      ],
+      [
+        0.1861972075395017,
+        1.3487028038888347,
+        0.11619438625020788
+      ]
+    ],
+    "vertices": 985,
+    "triangles": 1824,
+    "dracoBytes": 24223,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular",
+    "hasAuthoredTendonMask": true,
+    "tendonSurface": {
+      "method": "original-fbx-material-faces-planar-display-refinement",
+      "sourceMaterialName": "Tendon",
+      "sourceTendonTriangles": 723,
+      "renderTendonTriangles": 1039,
+      "boundarySegmentCount": 71,
+      "maskAttribute": "_TENDON_MASK",
+      "edgeAttribute": "_TENDON_EDGE",
+      "distanceMetric": "euclidean-to-source-boundary-segments",
+      "distanceCapM": 0.02,
+      "recommendedDisplayFeatherM": 0.003,
+      "positiveTendonDistanceP90M": 0.019999999552965164,
+      "maxTendonSampleDistanceM": 0.019999999552965164,
+      "refinedSourceTriangles": 95,
+      "sourceFaceProvenanceFile": "render-face-source-provenance.npz"
+    },
+    "sourceTriangles": 1508
+  },
+  {
+    "id": "ZA_a8ecfe2a5104df",
+    "conceptId": "",
+    "nameEn": "Left Levatores longi costarum",
+    "sourceNodeName": "Levatores longi costarum.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Thoracic part of muscular system.g/Muscles of thorax.g/Levatores costarum.g/Levatores longi costarum.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Levator"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_a8ecfe2a5104df"
+    ],
+    "bounds": [
+      [
+        0.029622147866397906,
+        1.1250224748919626,
+        -0.09783356126239623
+      ],
+      [
+        0.07684635820581139,
+        1.4548647605099634,
+        -0.02536395305434845
+      ]
+    ],
+    "vertices": 3017,
+    "triangles": 5930,
+    "dracoBytes": 52171,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular"
+  },
+  {
+    "id": "ZA_8eae777e2537d3",
+    "conceptId": "",
+    "nameEn": "Left Levatores breves costarum",
+    "sourceNodeName": "Levatores breves costarum.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Thoracic part of muscular system.g/Muscles of thorax.g/Levatores costarum.g/Levatores breves costarum.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Levator"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_8eae777e2537d3"
+    ],
+    "bounds": [
+      [
+        0.023474024027185365,
+        1.1297017396795201,
+        -0.09618238562391022
+      ],
+      [
+        0.07420816181042207,
+        1.4528451333203125,
+        -0.02449227913595437
+      ]
+    ],
+    "vertices": 1371,
+    "triangles": 2690,
+    "dracoBytes": 23958,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular"
+  },
+  {
+    "id": "ZA_607fc9902feeb6",
+    "conceptId": "",
+    "nameEn": "Left Internal abdominal oblique muscle",
+    "sourceNodeName": "Internal abdominal oblique muscle.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Abdominal part of muscular system.g/Muscles of abdomen.g/Internal abdominal oblique muscle.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "External rotation"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_607fc9902feeb6"
+    ],
+    "bounds": [
+      [
+        0.002880630564322697,
+        0.8499056264173245,
+        -0.053271203716761056
+      ],
+      [
+        0.12742029457263704,
+        1.241615246717934,
+        0.1221448091286664
+      ]
+    ],
+    "vertices": 14435,
+    "triangles": 28869,
+    "dracoBytes": 248260,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular"
+  },
+  {
+    "id": "ZA_15d0978f961e75",
+    "conceptId": "",
+    "nameEn": "Left Transversus abdominis muscle",
+    "sourceNodeName": "Transversus abdominis muscle.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Abdominal part of muscular system.g/Muscles of abdomen.g/Transversus abdominis muscle.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Orbicularis/Constrictor"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_15d0978f961e75"
+    ],
+    "bounds": [
+      [
+        0.0035423874175121205,
+        0.8411028491973848,
+        -0.06334675185381439
+      ],
+      [
+        0.13301571048662741,
+        1.262219669785529,
+        0.10408567046233287
+      ]
+    ],
+    "vertices": 17164,
+    "triangles": 34328,
+    "dracoBytes": 293343,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular"
+  },
+  {
+    "id": "ZA_ce818a6f24a4d0",
+    "conceptId": "",
+    "nameEn": "Left Pyramidalis muscle",
+    "sourceNodeName": "Pyramidalis muscle.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Abdominal part of muscular system.g/Muscles of abdomen.g/Pyramidalis muscle.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Flexion"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_ce818a6f24a4d0"
+    ],
+    "bounds": [
+      [
+        0.0031550242759252932,
+        0.8503626388175961,
+        0.04790939394785399
+      ],
+      [
+        0.03105153512874662,
+        0.922075370252173,
+        0.07483996479066392
+      ]
+    ],
+    "vertices": 554,
+    "triangles": 1112,
+    "dracoBytes": 10210,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular"
+  },
+  {
+    "id": "ZA_d3cab2d9bcc107",
+    "conceptId": "",
+    "nameEn": "Left Quadratus lumborum muscle",
+    "sourceNodeName": "Quadratus lumborum muscle.l",
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Abdominal part of muscular system.g/Muscles of abdomen.g/Quadratus lumborum muscle.l",
+    "sourceFile": "MuscularSystem100.fbx",
+    "sourceMaterialNames": [
+      "Extension"
+    ],
+    "system": "muscular",
+    "meshIds": [
+      "ZA_d3cab2d9bcc107"
+    ],
+    "bounds": [
+      [
+        0.01769694290446768,
+        0.9404142703244885,
+        -0.07383112333322803
+      ],
+      [
+        0.06912768313322105,
+        1.146801382375139,
+        -0.028611633545379208
+      ]
+    ],
+    "vertices": 1416,
+    "triangles": 2832,
+    "dracoBytes": 25168,
+    "license": "CC-BY-SA-4.0",
+    "additionalAttribution": [],
+    "appearance": "muscle",
+    "appearanceStyle": {
+      "color": "#d2957e",
+      "roughness": 0.59
+    },
+    "displaySystem": "muscular"
+  }
+]

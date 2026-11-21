@@ -1,0 +1,206 @@
+[
+  {
+    "id": "ZAG_ea1796261f16e0",
+    "nameEn": "Right Hyoglossus muscle",
+    "sourceNodeName": "Hyoglossus muscle.r",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_ea1796261f16e0"
+    ],
+    "directMeshIds": [
+      "ZA_ea1796261f16e0"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Cranial part of muscular system.g/Muscles of head.g/Muscles of tongue.g/Hyoglossus muscle.r",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        -0.013022490073715268,
+        1.4985252169202528,
+        0.033540129483790926
+      ],
+      [
+        -0.0051474977869287,
+        1.5238592123378667,
+        0.06425335549865684
+      ]
+    ],
+    "parentIds": [
+      "ZAG_ead6e5aa6b1454"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_d3a25f93603585",
+    "nameEn": "Left Hyoglossus muscle",
+    "sourceNodeName": "Hyoglossus muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_d3a25f93603585"
+    ],
+    "directMeshIds": [
+      "ZA_d3a25f93603585"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Cranial part of muscular system.g/Muscles of head.g/Muscles of tongue.g/Hyoglossus muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.005147527802807578,
+        1.4985252165912106,
+        0.03354012984360735
+      ],
+      [
+        0.013022520089594147,
+        1.5238592128374722,
+        0.06425335513065784
+      ]
+    ],
+    "parentIds": [
+      "ZAG_ead6e5aa6b1454"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_429b46cd6d5cd1",
+    "nameEn": "Right Genioglossus muscle",
+    "sourceNodeName": "Genioglossus muscle.r",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_429b46cd6d5cd1"
+    ],
+    "directMeshIds": [
+      "ZA_429b46cd6d5cd1"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Cranial part of muscular system.g/Muscles of head.g/Muscles of tongue.g/Genioglossus muscle.r",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        -0.008840947163693581,
+        1.4995326514181853,
+        0.0312827208767567
+      ],
+      [
+        -0.0012326169719389074,
+        1.535676887535882,
+        0.07885312944988097
+      ]
+    ],
+    "parentIds": [
+      "ZAG_ead6e5aa6b1454"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_5a35a6dab78631",
+    "nameEn": "Left Genioglossus muscle",
+    "sourceNodeName": "Genioglossus muscle.l",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_5a35a6dab78631"
+    ],
+    "directMeshIds": [
+      "ZA_5a35a6dab78631"
+    ],
+    "childIds": [],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Cranial part of muscular system.g/Muscles of head.g/Muscles of tongue.g/Genioglossus muscle.l",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        0.0012326476863097442,
+        1.4995326510462632,
+        0.03128272086776906
+      ],
+      [
+        0.008840977878064418,
+        1.535676887663367,
+        0.07885312921599992
+      ]
+    ],
+    "parentIds": [
+      "ZAG_ead6e5aa6b1454"
+    ],
+    "kind": "structure"
+  },
+  {
+    "id": "ZAG_ead6e5aa6b1454",
+    "nameEn": "Muscles of tongue",
+    "sourceNodeName": "Muscles of tongue.g",
+    "system": "muscular",
+    "meshIds": [
+      "ZA_ea1796261f16e0",
+      "ZA_d3a25f93603585",
+      "ZA_429b46cd6d5cd1",
+      "ZA_5a35a6dab78631"
+    ],
+    "directMeshIds": [],
+    "childIds": [
+      "ZAG_ea1796261f16e0",
+      "ZAG_d3a25f93603585",
+      "ZAG_429b46cd6d5cd1",
+      "ZAG_5a35a6dab78631"
+    ],
+    "sourcePath": "MuscularSystem100.fbx/RootNode/Cranial part of muscular system.g/Muscles of head.g/Muscles of tongue.g",
+    "systems": [
+      "muscular"
+    ],
+    "bounds": [
+      [
+        -0.013022490073715268,
+        1.4985252165912106,
+        0.03128272086776906
+      ],
+      [
+        0.013022520089594147,
+        1.535676887663367,
+        0.07885312944988097
+      ]
+    ],
+    "parentIds": [
+      "ZAG_0500473cc55b6c"
+    ],
+    "kind": "group"
+  },
+  {
+    "id": "ZAG_b71ed9c42a05cb",
+    "nameEn": "Tongue",
+    "sourceNodeName": "Tongue",
+    "system": "visceral",
+    "meshIds": [
+      "ZA_b71ed9c42a05cb"
+    ],
+    "directMeshIds": [
+      "ZA_b71ed9c42a05cb"
+    ],
+    "childIds": [],
+    "sourcePath": "VisceralSystem100.fbx/RootNode/Digestive system.g/Mouth.g/Tongue",
+    "systems": [
+      "visceral"
+    ],
+    "bounds": [
+      [
+        -0.0168355433554536,
+        1.496926566595224,
+        0.021877387563393982
+      ],
+      [
+        0.016835679317570042,
+        1.5395737550111266,
+        0.07822259439542528
+      ]
+    ],
+    "parentIds": [
+      "ZAG_8e414eb4fa6838"
+    ],
+    "kind": "structure"
+  }
+]

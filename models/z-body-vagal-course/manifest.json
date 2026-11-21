@@ -1,0 +1,65 @@
+{
+  "dataset": "Z-Anatomy",
+  "sourceUrl": "https://github.com/LluisV/Z-Anatomy/tree/PC-Version/Resources/Models/FBX",
+  "license": "Mixed: CC BY-SA 4.0 aggregate; selected inner-ear and kidney assets carry non-commercial source terms",
+  "licenseSourceUrl": "https://github.com/Z-Anatomy/Models-of-human-anatomy",
+  "attribution": "Z-Anatomy - The libre 3D atlas of anatomy; BodyParts3D - The Database Center for Life Science; additional model-specific credits in ATTRIBUTION.txt and meshes.json",
+  "modifications": "Converted official FBX to independent named Draco GLB structures; removed annotation-helper geometry; applied FBX hierarchy transforms and converted centimetres to metres; 18-bit position quantization. Mirrored transform winding corrected. No anatomical meshes invented. Original FBX Tendon material faces restored as scalar masks; optional 1.5 mm display feather remains inside authored tendon faces. Original geometry, identifiers and bounds retained. Source-authored Tendon boundary interpolation repaired with planar edge midpoint/face centroid display subdivisions. Original anatomical surfaces and source IDs retained; render tessellation is not additional anatomical detail. Cool off-white nonmetal display material, roughness 0.52, and per-mesh inside-boundary feather capped at 3 mm.",
+  "coordinates": {
+    "up": "+Y",
+    "front": "+Z",
+    "left": "+X",
+    "units": "metres",
+    "sourceToApp": "Apply complete FBX node world transform, then divide positions by 100. This model is not spatially registered to BodyParts3D 4.0.",
+    "bounds": [
+      [
+        -0.028958523711113068,
+        1.1049205212279463,
+        -0.04587518984787515
+      ],
+      [
+        0.06981646126680512,
+        1.5758665940921526,
+        0.04273554485450723
+      ]
+    ]
+  },
+  "geometryMeshCount": 2,
+  "structureCount": 2,
+  "triangleCount": 60464,
+  "totalGlbBytes": 436592,
+  "chunks": [
+    {
+      "file": "vagal-original-nervous-01.glb",
+      "system": "nervous",
+      "bytes": 436592,
+      "meshCount": 2,
+      "meshIds": [
+        "ZA_adace3b96e95e8",
+        "ZA_3b1cfa406b9326"
+      ],
+      "sha256": "c2189497014f2d2c4adb80325d5d87bff4ed8016c6fd98e000e0805896894963"
+    }
+  ],
+  "geometryFile": "meshes.json",
+  "structuresFile": "structures.json",
+  "requiresDecoder": "KHR_draco_mesh_compression",
+  "limitations": [
+    "Mixed underlying source licenses: do not describe this whole package as unrestricted commercial-use content.",
+    "Two telencephalon white-matter meshes omitted because the original University of Washington permission could not be confirmed.",
+    "Contains original anatomy surfaces and optional attachment/surface-region teaching layers; completeness against a textbook must be mapped, not assumed.",
+    "Do not overlay on BodyParts3D without anatomical registration."
+  ],
+  "sourceTriangles": 60464,
+  "datasetId": "z-body-vagal-course",
+  "subset": {
+    "sourceDatasetId": "z-anatomy",
+    "physicalMeshIds": [
+      "ZA_adace3b96e95e8",
+      "ZA_3b1cfa406b9326"
+    ],
+    "anatomicalRepresentation": "original-source-subset",
+    "modifications": "Whole original source surfaces, compressed attributes, materials and coordinates preserved; only glTF table offsets and indices compacted.",
+    "scope": "Available bilateral source course. Left source extent stops above the abdomen; terminal branches are not independently named or assigned by this resource."
+  }
+}

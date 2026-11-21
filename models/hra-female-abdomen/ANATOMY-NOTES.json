@@ -1,0 +1,31 @@
+{
+  "status": "Asset/runtime/source review complete; product browser QA belongs to root task",
+  "sourceRole": "All selected native coordinates come from one curated HRA united reference file. This is not a claim of a single patient segmentation.",
+  "validated": [
+    "71 actual source mesh nodes exist and are nonempty",
+    "183875 original triangles retained",
+    "Every attribute/index byte exactly matches source accessor values",
+    "Original PBR materials copied without changes",
+    "Native source coordinates preserved with no node matrix/TRS transforms",
+    "All four GLB files under 20 MB",
+    "Celiac/common/proper/right hepatic/cystic sampled surface junctions are coincident or within 0.015 mm; source branch role is separately reviewed",
+    "Pinned Three.js r186 loads all 71 IDs and retains exact attribute/index hashes, materials, transforms and bounds",
+    "39 canonical mappings and all referenced IDs validated",
+    "Six arterial branch relations reviewed against VMRA PDF51-52 and actual HRA named geometry",
+    "Gallbladder arterial supply, liver arterial supply and separate portal venous inflow documented",
+    "Initial region contains all 10 liver parenchymal surface patches and excludes all auxiliary liver surfaces/capsule"
+  ],
+  "knownLimits": [
+    "No source stomach, left gastric, gastroduodenal, gastroomental or short gastric arterial geometry is available in this candidate.",
+    "Source arteries_of_large_intestine parent for celiac is an organizational error; not a branch-of assertion.",
+    "Middle and anterior/posterior hepatic segment names retain source wording; blank ontology is not invented.",
+    "Spleen is source surface subdivisions; liver parenchyma is original named subdivisions, not new generated geometry.",
+    "Liver parenchymal source pieces are exterior surface patches, not volumetric solids with generated anatomical cut interiors. All 10 including quadrate are needed for complete exterior.",
+    "Source right-lobe grouping includes caudate and is not silently equated to VMRA functional lobes.",
+    "Runtime drawable nodes must be made independent while preserving root-relative world matrices; original superior duodenum and left inferomedial liver segment have mesh children. Root implemented this in app; browser QA pending."
+  ],
+  "notCompleted": [
+    "Product browser/WebGL rendering and picking QA",
+    "Site integration and release"
+  ]
+}

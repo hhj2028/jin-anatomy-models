@@ -1,0 +1,2683 @@
+[
+  {
+    "id": "VH_F_celiac_trunk",
+    "nameEn": "Celiac trunk",
+    "conceptId": "FMA:14812",
+    "system": "arterial",
+    "displaySystem": "arterial",
+    "meshIds": [
+      "VH_F_celiac_trunk"
+    ],
+    "bounds": [
+      [
+        0.0017321633640676737,
+        0.30408942699432373,
+        -0.08335699141025543
+      ],
+      [
+        0.012159275822341442,
+        0.3138108253479004,
+        -0.06506521254777908
+      ]
+    ],
+    "sourceNodeName": "VH_F_celiac_trunk",
+    "sourceNodeIndex": 764,
+    "sourcePath": "VH_F/VH_F_circulatory_system/VH_F_blood_vasculature/VH_F_blood_vasculature_of_large_intestine/VH_F_arteries_of_large_intestine/VH_F_celiac_trunk",
+    "defaultVisible": true,
+    "kind": "structure",
+    "parentIds": [
+      "HRAA_G_arterial"
+    ],
+    "childIds": []
+  },
+  {
+    "id": "VH_F_splenic_artery",
+    "nameEn": "Splenic artery",
+    "conceptId": "UBERON:0001194",
+    "system": "arterial",
+    "displaySystem": "arterial",
+    "meshIds": [
+      "VH_F_splenic_artery"
+    ],
+    "bounds": [
+      [
+        0.005536928772926331,
+        0.2818797826766968,
+        -0.12268572300672531
+      ],
+      [
+        0.10323753207921982,
+        0.3560258746147156,
+        -0.04856806993484497
+      ]
+    ],
+    "sourceNodeName": "VH_F_splenic_artery",
+    "sourceNodeIndex": 775,
+    "sourcePath": "VH_F/VH_F_circulatory_system/VH_F_blood_vasculature/VH_F_blood_vasculature_of_spleen/VH_F_arteries_of_spleen/VH_F_splenic_artery",
+    "defaultVisible": true,
+    "kind": "structure",
+    "parentIds": [
+      "HRAA_G_arterial"
+    ],
+    "childIds": []
+  },
+  {
+    "id": "VH_F_cystic_artery",
+    "nameEn": "Cystic artery",
+    "conceptId": "UBERON:0039222",
+    "system": "arterial",
+    "displaySystem": "arterial",
+    "meshIds": [
+      "VH_F_cystic_artery"
+    ],
+    "bounds": [
+      [
+        -0.08538519591093063,
+        0.2676711976528168,
+        -0.06894750148057938
+      ],
+      [
+        -0.04158759489655495,
+        0.3258405327796936,
+        -0.028168966993689537
+      ]
+    ],
+    "sourceNodeName": "VH_F_cystic_artery",
+    "sourceNodeIndex": 780,
+    "sourcePath": "VH_F/VH_F_circulatory_system/VH_F_blood_vasculature/VH_F_blood_vasculature_of_gallbladder/VH_F_arteries_of_gallbladder/VH_F_cystic_artery",
+    "defaultVisible": true,
+    "kind": "structure",
+    "parentIds": [
+      "HRAA_G_arterial"
+    ],
+    "childIds": []
+  },
+  {
+    "id": "VH_F_middle_hepatic_artery_branch_of_left_hepatic_artery",
+    "nameEn": "Middle hepatic artery branch of left hepatic artery",
+    "conceptId": "",
+    "system": "arterial",
+    "displaySystem": "arterial",
+    "meshIds": [
+      "VH_F_middle_hepatic_artery_branch_of_left_hepatic_artery"
+    ],
+    "bounds": [
+      [
+        -0.03101140446960926,
+        0.33583033084869385,
+        -0.04377174377441406
+      ],
+      [
+        -0.013801904395222664,
+        0.3465065062046051,
+        -0.028012365102767944
+      ]
+    ],
+    "sourceNodeName": "VH_F_middle_hepatic_artery_branch_of_left_hepatic_artery",
+    "sourceNodeIndex": 785,
+    "sourcePath": "VH_F/VH_F_circulatory_system/VH_F_blood_vasculature/VH_F_blood_vasculature_of_liver/VH_F_arteries_of_liver/VH_F_middle_hepatic_artery_branch_of_left_hepatic_artery",
+    "defaultVisible": true,
+    "kind": "structure",
+    "parentIds": [
+      "HRAA_G_arterial"
+    ],
+    "childIds": []
+  },
+  {
+    "id": "VH_F_proper_hepatic_artery",
+    "nameEn": "Hepatic artery proper",
+    "conceptId": "FMA:14772",
+    "system": "arterial",
+    "displaySystem": "arterial",
+    "meshIds": [
+      "VH_F_proper_hepatic_artery"
+    ],
+    "bounds": [
+      [
+        -0.032753270119428635,
+        0.309021532535553,
+        -0.06104857474565506
+      ],
+      [
+        -0.013924301601946354,
+        0.3317640721797943,
+        -0.05307137221097946
+      ]
+    ],
+    "sourceNodeName": "VH_F_proper_hepatic_artery",
+    "sourceNodeIndex": 786,
+    "sourcePath": "VH_F/VH_F_circulatory_system/VH_F_blood_vasculature/VH_F_blood_vasculature_of_liver/VH_F_arteries_of_liver/VH_F_proper_hepatic_artery",
+    "defaultVisible": true,
+    "kind": "structure",
+    "parentIds": [
+      "HRAA_G_arterial"
+    ],
+    "childIds": []
+  },
+  {
+    "id": "VH_F_right_hepatic_artery",
+    "nameEn": "Right hepatic artery",
+    "conceptId": "FMA:14778",
+    "system": "arterial",
+    "displaySystem": "arterial",
+    "meshIds": [
+      "VH_F_right_hepatic_artery"
+    ],
+    "bounds": [
+      [
+        -0.05528474226593971,
+        0.3229373097419739,
+        -0.07628457993268967
+      ],
+      [
+        -0.031925786286592484,
+        0.33390963077545166,
+        -0.05593729019165039
+      ]
+    ],
+    "sourceNodeName": "VH_F_right_hepatic_artery",
+    "sourceNodeIndex": 787,
+    "sourcePath": "VH_F/VH_F_circulatory_system/VH_F_blood_vasculature/VH_F_blood_vasculature_of_liver/VH_F_arteries_of_liver/VH_F_right_hepatic_artery",
+    "defaultVisible": true,
+    "kind": "structure",
+    "parentIds": [
+      "HRAA_G_arterial"
+    ],
+    "childIds": []
+  },
+  {
+    "id": "VH_F_common_hepatic_artery",
+    "nameEn": "Common hepatic artery",
+    "conceptId": "UBERON:0005436",
+    "system": "arterial",
+    "displaySystem": "arterial",
+    "meshIds": [
+      "VH_F_common_hepatic_artery"
+    ],
+    "bounds": [
+      [
+        -0.017323940992355347,
+        0.3039710819721222,
+        -0.07055635750293732
+      ],
+      [
+        0.005126246251165867,
+        0.31275156140327454,
+        -0.052645351737737656
+      ]
+    ],
+    "sourceNodeName": "VH_F_common_hepatic_artery",
+    "sourceNodeIndex": 788,
+    "sourcePath": "VH_F/VH_F_circulatory_system/VH_F_blood_vasculature/VH_F_blood_vasculature_of_liver/VH_F_arteries_of_liver/VH_F_common_hepatic_artery",
+    "defaultVisible": true,
+    "kind": "structure",
+    "parentIds": [
+      "HRAA_G_arterial"
+    ],
+    "childIds": []
+  },
+  {
+    "id": "VH_F_posterior_segmental_right_hepatic_artery",
+    "nameEn": "Posterior segmental right hepatic artery",
+    "conceptId": "",
+    "system": "arterial",
+    "displaySystem": "arterial",
+    "meshIds": [
+      "VH_F_posterior_segmental_right_hepatic_artery"
+    ],
+    "bounds": [
+      [
+        -0.05661720037460327,
+        0.3277139961719513,
+        -0.11249028891324997
+      ],
+      [
+        -0.04989844188094139,
+        0.33655524253845215,
+        -0.07028662413358688
+      ]
+    ],
+    "sourceNodeName": "VH_F_posterior_segmental_right_hepatic_artery",
+    "sourceNodeIndex": 789,
+    "sourcePath": "VH_F/VH_F_circulatory_system/VH_F_blood_vasculature/VH_F_blood_vasculature_of_liver/VH_F_arteries_of_liver/VH_F_posterior_segmental_right_hepatic_artery",
+    "defaultVisible": true,
+    "kind": "structure",
+    "parentIds": [
+      "HRAA_G_arterial"
+    ],
+    "childIds": []
+  },
+  {
+    "id": "VH_F_anterior_segmental_right_hepatic_artery",
+    "nameEn": "Anterior segmental right hepatic artery",
+    "conceptId": "",
+    "system": "arterial",
+    "displaySystem": "arterial",
+    "meshIds": [
+      "VH_F_anterior_segmental_right_hepatic_artery"
+    ],
+    "bounds": [
+      [
+        -0.06616105139255524,
+        0.3291158974170685,
+        -0.07469773292541504
+      ],
+      [
+        -0.05418527498841286,
+        0.33764851093292236,
+        -0.06596080958843231
+      ]
+    ],
+    "sourceNodeName": "VH_F_anterior_segmental_right_hepatic_artery",
+    "sourceNodeIndex": 790,
+    "sourcePath": "VH_F/VH_F_circulatory_system/VH_F_blood_vasculature/VH_F_blood_vasculature_of_liver/VH_F_arteries_of_liver/VH_F_anterior_segmental_right_hepatic_artery",
+    "defaultVisible": true,
+    "kind": "structure",
+    "parentIds": [
+      "HRAA_G_arterial"
+    ],
+    "childIds": []
+  },
+  {
+    "id": "VH_F_left_hepatic_artery",
+    "nameEn": "Left hepatic artery",
+    "conceptId": "FMA:14779",
+    "system": "arterial",
+    "displaySystem": "arterial",
+    "meshIds": [
+      "VH_F_left_hepatic_artery"
+    ],
+    "bounds": [
+      [
+        -0.029460398480296135,
+        0.328939288854599,
+        -0.057184427976608276
+      ],
+      [
+        0.025523845106363297,
+        0.36053699254989624,
+        -0.0380198135972023
+      ]
+    ],
+    "sourceNodeName": "VH_F_left_hepatic_artery",
+    "sourceNodeIndex": 791,
+    "sourcePath": "VH_F/VH_F_circulatory_system/VH_F_blood_vasculature/VH_F_blood_vasculature_of_liver/VH_F_arteries_of_liver/VH_F_left_hepatic_artery",
+    "defaultVisible": true,
+    "kind": "structure",
+    "parentIds": [
+      "HRAA_G_arterial"
+    ],
+    "childIds": []
+  },
+  {
+    "id": "VH_F_descending_aorta_a",
+    "nameEn": "Descending aorta",
+    "conceptId": "UBERON:0001514",
+    "system": "arterial",
+    "displaySystem": "arterial",
+    "meshIds": [
+      "VH_F_descending_aorta_a"
+    ],
+    "bounds": [
+      [
+        0.010528108105063438,
+        0.3771907091140747,
+        -0.13187435269355774
+      ],
+      [
+        0.03874223679304123,
+        0.5280540585517883,
+        -0.09432603418827057
+      ]
+    ],
+    "sourceNodeName": "VH_F_descending_aorta_a",
+    "sourceNodeIndex": 838,
+    "sourcePath": "VH_F/VH_F_circulatory_system/VH_F_blood_vasculature/VH_F_blood_vasculature_of_heart/VH_F_arteries_of_heart/VH_F_aorta/VH_F_descending_aorta/VH_F_descending_aorta_a",
+    "defaultVisible": true,
+    "kind": "structure",
+    "parentIds": [
+      "HRAA_G_arterial"
+    ],
+    "childIds": []
+  },
+  {
+    "id": "VH_F_descending_aorta_b",
+    "nameEn": "Descending aorta",
+    "conceptId": "UBERON:0001514",
+    "system": "arterial",
+    "displaySystem": "arterial",
+    "meshIds": [
+      "VH_F_descending_aorta_b"
+    ],
+    "bounds": [
+      [
+        -0.0066095259971916676,
+        0.1659040004014969,
+        -0.11745863407850266
+      ],
+      [
+        0.03634387254714966,
+        0.3844245970249176,
+        -0.048240337520837784
+      ]
+    ],
+    "sourceNodeName": "VH_F_descending_aorta_b",
+    "sourceNodeIndex": 839,
+    "sourcePath": "VH_F/VH_F_circulatory_system/VH_F_blood_vasculature/VH_F_blood_vasculature_of_heart/VH_F_arteries_of_heart/VH_F_aorta/VH_F_descending_aorta/VH_F_descending_aorta_b",
+    "defaultVisible": true,
+    "kind": "structure",
+    "parentIds": [
+      "HRAA_G_arterial"
+    ],
+    "childIds": []
+  },
+  {
+    "id": "VH_F_splenic_vein",
+    "nameEn": "Splenic vein",
+    "conceptId": "UBERON:0003713",
+    "system": "venous",
+    "displaySystem": "venous",
+    "meshIds": [
+      "VH_F_splenic_vein"
+    ],
+    "bounds": [
+      [
+        -0.009293079376220703,
+        0.2553093731403351,
+        -0.12470801919698715
+      ],
+      [
+        0.09936650842428207,
+        0.35601678490638733,
+        -0.04432205110788345
+      ]
+    ],
+    "sourceNodeName": "VH_F_splenic_vein",
+    "sourceNodeIndex": 777,
+    "sourcePath": "VH_F/VH_F_circulatory_system/VH_F_blood_vasculature/VH_F_blood_vasculature_of_spleen/VH_F_veins_of_spleen/VH_F_splenic_vein",
+    "defaultVisible": true,
+    "kind": "structure",
+    "parentIds": [
+      "HRAA_G_venous"
+    ],
+    "childIds": []
+  },
+  {
+    "id": "VH_F_cystic_vein",
+    "nameEn": "Cystic vein",
+    "conceptId": "UBERON:0035392",
+    "system": "venous",
+    "displaySystem": "venous",
+    "meshIds": [
+      "VH_F_cystic_vein"
+    ],
+    "bounds": [
+      [
+        -0.08323772251605988,
+        0.2695486843585968,
+        -0.06729111075401306
+      ],
+      [
+        -0.036597948521375656,
+        0.323972225189209,
+        -0.02909328229725361
+      ]
+    ],
+    "sourceNodeName": "VH_F_cystic_vein",
+    "sourceNodeIndex": 782,
+    "sourcePath": "VH_F/VH_F_circulatory_system/VH_F_blood_vasculature/VH_F_blood_vasculature_of_gallbladder/VH_F_veins_of_gallbladder/VH_F_cystic_vein",
+    "defaultVisible": true,
+    "kind": "structure",
+    "parentIds": [
+      "HRAA_G_venous"
+    ],
+    "childIds": []
+  },
+  {
+    "id": "VH_F_hepatic_portal_vein",
+    "nameEn": "Hepatic portal vein",
+    "conceptId": "UBERON:0001639",
+    "system": "venous",
+    "displaySystem": "venous",
+    "meshIds": [
+      "VH_F_hepatic_portal_vein"
+    ],
+    "bounds": [
+      [
+        -0.03664742037653923,
+        0.27032771706581116,
+        -0.06757401674985886
+      ],
+      [
+        -0.0020952154882252216,
+        0.33338361978530884,
+        -0.05080728232860565
+      ]
+    ],
+    "sourceNodeName": "VH_F_hepatic_portal_vein",
+    "sourceNodeIndex": 793,
+    "sourcePath": "VH_F/VH_F_circulatory_system/VH_F_blood_vasculature/VH_F_blood_vasculature_of_liver/VH_F_veins_of_liver/VH_F_hepatic_portal_vein",
+    "defaultVisible": true,
+    "kind": "structure",
+    "parentIds": [
+      "HRAA_G_venous"
+    ],
+    "childIds": []
+  },
+  {
+    "id": "VH_F_middle_hepatic_vein",
+    "nameEn": "Middle hepatic vein",
+    "conceptId": "FMA:14340",
+    "system": "venous",
+    "displaySystem": "venous",
+    "meshIds": [
+      "VH_F_middle_hepatic_vein"
+    ],
+    "bounds": [
+      [
+        -0.048028506338596344,
+        0.35066089034080505,
+        -0.08159761875867844
+      ],
+      [
+        0.0010968156857416034,
+        0.3895765542984009,
+        -0.04800902307033539
+      ]
+    ],
+    "sourceNodeName": "VH_F_middle_hepatic_vein",
+    "sourceNodeIndex": 794,
+    "sourcePath": "VH_F/VH_F_circulatory_system/VH_F_blood_vasculature/VH_F_blood_vasculature_of_liver/VH_F_veins_of_liver/VH_F_middle_hepatic_vein",
+    "defaultVisible": true,
+    "kind": "structure",
+    "parentIds": [
+      "HRAA_G_venous"
+    ],
+    "childIds": []
+  },
+  {
+    "id": "VH_F_left_hepatic_vein",
+    "nameEn": "Left hepatic vein",
+    "conceptId": "FMA:14339",
+    "system": "venous",
+    "displaySystem": "venous",
+    "meshIds": [
+      "VH_F_left_hepatic_vein"
+    ],
+    "bounds": [
+      [
+        -0.0032920001540333033,
+        0.35751059651374817,
+        -0.07959870994091034
+      ],
+      [
+        0.015818150714039803,
+        0.3936774432659149,
+        -0.03967396542429924
+      ]
+    ],
+    "sourceNodeName": "VH_F_left_hepatic_vein",
+    "sourceNodeIndex": 795,
+    "sourcePath": "VH_F/VH_F_circulatory_system/VH_F_blood_vasculature/VH_F_blood_vasculature_of_liver/VH_F_veins_of_liver/VH_F_left_hepatic_vein",
+    "defaultVisible": true,
+    "kind": "structure",
+    "parentIds": [
+      "HRAA_G_venous"
+    ],
+    "childIds": []
+  },
+  {
+    "id": "VH_F_right_hepatic_vein",
+    "nameEn": "Right hepatic vein",
+    "conceptId": "FMA:14338",
+    "system": "venous",
+    "displaySystem": "venous",
+    "meshIds": [
+      "VH_F_right_hepatic_vein"
+    ],
+    "bounds": [
+      [
+        -0.08951888978481293,
+        0.3797873556613922,
+        -0.09930547326803207
+      ],
+      [
+        -0.016301874071359634,
+        0.4000343680381775,
+        -0.08581496775150299
+      ]
+    ],
+    "sourceNodeName": "VH_F_right_hepatic_vein",
+    "sourceNodeIndex": 796,
+    "sourcePath": "VH_F/VH_F_circulatory_system/VH_F_blood_vasculature/VH_F_blood_vasculature_of_liver/VH_F_veins_of_liver/VH_F_right_hepatic_vein",
+    "defaultVisible": true,
+    "kind": "structure",
+    "parentIds": [
+      "HRAA_G_venous"
+    ],
+    "childIds": []
+  },
+  {
+    "id": "VH_F_right_branch_of_portal_vein",
+    "nameEn": "Right branch of portal vein",
+    "conceptId": "",
+    "system": "venous",
+    "displaySystem": "venous",
+    "meshIds": [
+      "VH_F_right_branch_of_portal_vein"
+    ],
+    "bounds": [
+      [
+        -0.0624496154487133,
+        0.32104575634002686,
+        -0.07849207520484924
+      ],
+      [
+        -0.030116382986307144,
+        0.33432403206825256,
+        -0.0621209554374218
+      ]
+    ],
+    "sourceNodeName": "VH_F_right_branch_of_portal_vein",
+    "sourceNodeIndex": 797,
+    "sourcePath": "VH_F/VH_F_circulatory_system/VH_F_blood_vasculature/VH_F_blood_vasculature_of_liver/VH_F_veins_of_liver/VH_F_right_branch_of_portal_vein",
+    "defaultVisible": true,
+    "kind": "structure",
+    "parentIds": [
+      "HRAA_G_venous"
+    ],
+    "childIds": []
+  },
+  {
+    "id": "VH_F_left_branch_of_portal_vein",
+    "nameEn": "Left branch of portal vein",
+    "conceptId": "",
+    "system": "venous",
+    "displaySystem": "venous",
+    "meshIds": [
+      "VH_F_left_branch_of_portal_vein"
+    ],
+    "bounds": [
+      [
+        -0.03203492611646652,
+        0.3255898654460907,
+        -0.06562598794698715
+      ],
+      [
+        -0.005403748247772455,
+        0.3450605571269989,
+        -0.039761073887348175
+      ]
+    ],
+    "sourceNodeName": "VH_F_left_branch_of_portal_vein",
+    "sourceNodeIndex": 798,
+    "sourcePath": "VH_F/VH_F_circulatory_system/VH_F_blood_vasculature/VH_F_blood_vasculature_of_liver/VH_F_veins_of_liver/VH_F_left_branch_of_portal_vein",
+    "defaultVisible": true,
+    "kind": "structure",
+    "parentIds": [
+      "HRAA_G_venous"
+    ],
+    "childIds": []
+  },
+  {
+    "id": "VH_F_coronary_ligament_of_liver",
+    "nameEn": "Coronary ligament of liver",
+    "conceptId": "UBERON:0013138",
+    "system": "connective",
+    "displaySystem": "connective",
+    "meshIds": [
+      "VH_F_coronary_ligament_of_liver"
+    ],
+    "bounds": [
+      [
+        -0.12351681292057037,
+        0.29991981387138367,
+        -0.14340360462665558
+      ],
+      [
+        0.038809455931186676,
+        0.4223542809486389,
+        -0.0503590852022171
+      ]
+    ],
+    "sourceNodeName": "VH_F_coronary_ligament_of_liver",
+    "sourceNodeIndex": 547,
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_liver/VH_F_ligament_of_liver/VH_F_coronary_ligament_of_liver",
+    "defaultVisible": false,
+    "kind": "structure",
+    "parentIds": [
+      "HRAA_G_liver-ligaments"
+    ],
+    "childIds": []
+  },
+  {
+    "id": "VH_F_falciform_ligament",
+    "nameEn": "Falciform ligament",
+    "conceptId": "UBERON:0001247",
+    "system": "connective",
+    "displaySystem": "connective",
+    "meshIds": [
+      "VH_F_falciform_ligament"
+    ],
+    "bounds": [
+      [
+        -0.03852479159832001,
+        0.29369208216667175,
+        -0.051487039774656296
+      ],
+      [
+        0.016790499910712242,
+        0.401004821062088,
+        0.007835148833692074
+      ]
+    ],
+    "sourceNodeName": "VH_F_falciform_ligament",
+    "sourceNodeIndex": 548,
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_liver/VH_F_ligament_of_liver/VH_F_falciform_ligament",
+    "defaultVisible": false,
+    "kind": "structure",
+    "parentIds": [
+      "HRAA_G_liver-ligaments"
+    ],
+    "childIds": []
+  },
+  {
+    "id": "VH_F_triangular_ligament_of_liver",
+    "nameEn": "Triangular ligament of liver",
+    "conceptId": "UBERON:0035444",
+    "system": "connective",
+    "displaySystem": "connective",
+    "meshIds": [
+      "VH_F_triangular_ligament_of_liver"
+    ],
+    "bounds": [
+      [
+        0.031979747116565704,
+        0.39306342601776123,
+        -0.08140312880277634
+      ],
+      [
+        0.06642086058855057,
+        0.4005005657672882,
+        -0.07174532860517502
+      ]
+    ],
+    "sourceNodeName": "VH_F_triangular_ligament_of_liver",
+    "sourceNodeIndex": 549,
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_liver/VH_F_ligament_of_liver/VH_F_triangular_ligament_of_liver",
+    "defaultVisible": false,
+    "kind": "structure",
+    "parentIds": [
+      "HRAA_G_liver-ligaments"
+    ],
+    "childIds": []
+  },
+  {
+    "id": "VH_F_ligamentum_venosum",
+    "nameEn": "Ligamentum venosum",
+    "conceptId": "UBERON:0006587",
+    "system": "connective",
+    "displaySystem": "connective",
+    "meshIds": [
+      "VH_F_ligamentum_venosum"
+    ],
+    "bounds": [
+      [
+        -0.002934637013822794,
+        0.3137408196926117,
+        -0.08456677943468094
+      ],
+      [
+        0.0384419709444046,
+        0.3987853527069092,
+        -0.04972543194890022
+      ]
+    ],
+    "sourceNodeName": "VH_F_ligamentum_venosum",
+    "sourceNodeIndex": 550,
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_liver/VH_F_ligament_of_liver/VH_F_ligamentum_venosum",
+    "defaultVisible": false,
+    "kind": "structure",
+    "parentIds": [
+      "HRAA_G_liver-ligaments"
+    ],
+    "childIds": []
+  },
+  {
+    "id": "VH_F_round_ligament_of_liver",
+    "nameEn": "Round ligament of liver",
+    "conceptId": "UBERON:0006588",
+    "system": "connective",
+    "displaySystem": "connective",
+    "meshIds": [
+      "VH_F_round_ligament_of_liver"
+    ],
+    "bounds": [
+      [
+        -0.04196837916970253,
+        0.28625234961509705,
+        -0.04293685406446457
+      ],
+      [
+        -0.017031706869602203,
+        0.3243442177772522,
+        0.0030297674238681793
+      ]
+    ],
+    "sourceNodeName": "VH_F_round_ligament_of_liver",
+    "sourceNodeIndex": 551,
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_liver/VH_F_ligament_of_liver/VH_F_round_ligament_of_liver",
+    "defaultVisible": false,
+    "kind": "structure",
+    "parentIds": [
+      "HRAA_G_liver-ligaments"
+    ],
+    "childIds": []
+  },
+  {
+    "id": "VH_F_hepataduodenal_ligament",
+    "nameEn": "Hepatoduodenal ligament",
+    "conceptId": "UBERON:0012472",
+    "system": "connective",
+    "displaySystem": "connective",
+    "meshIds": [
+      "VH_F_hepataduodenal_ligament"
+    ],
+    "bounds": [
+      [
+        -0.06146339327096939,
+        0.2921672463417053,
+        -0.07472928613424301
+      ],
+      [
+        -0.0006794559303671122,
+        0.32219669222831726,
+        -0.0361003503203392
+      ]
+    ],
+    "sourceNodeName": "VH_F_hepataduodenal_ligament",
+    "sourceNodeIndex": 552,
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_liver/VH_F_ligament_of_liver/VH_F_hepataduodenal_ligament",
+    "defaultVisible": false,
+    "kind": "structure",
+    "parentIds": [
+      "HRAA_G_liver-ligaments"
+    ],
+    "childIds": []
+  },
+  {
+    "id": "VH_F_gastric_impression_of_liver",
+    "nameEn": "Gastric impression of liver",
+    "conceptId": "FMA:14487",
+    "system": "visceral",
+    "displaySystem": "visceral",
+    "meshIds": [
+      "VH_F_gastric_impression_of_liver"
+    ],
+    "bounds": [
+      [
+        -0.0036454414948821068,
+        0.2682228088378906,
+        -0.07579582184553146
+      ],
+      [
+        0.09402097761631012,
+        0.38483163714408875,
+        -0.0011343936203047633
+      ]
+    ],
+    "sourceNodeName": "VH_F_gastric_impression_of_liver",
+    "sourceNodeIndex": 521,
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_liver/VH_F_gastric_impression_of_liver",
+    "defaultVisible": false,
+    "kind": "structure",
+    "parentIds": [
+      "HRAA_G_liver-surface"
+    ],
+    "childIds": []
+  },
+  {
+    "id": "VH_F_suprarenal_impression_of_liver",
+    "nameEn": "Suprarenal impression of liver",
+    "conceptId": "FMA:14489",
+    "system": "visceral",
+    "displaySystem": "visceral",
+    "meshIds": [
+      "VH_F_suprarenal_impression_of_liver"
+    ],
+    "bounds": [
+      [
+        -0.06846342980861664,
+        0.30476754903793335,
+        -0.13224874436855316
+      ],
+      [
+        -0.03795311227440834,
+        0.3213357925415039,
+        -0.09702840447425842
+      ]
+    ],
+    "sourceNodeName": "VH_F_suprarenal_impression_of_liver",
+    "sourceNodeIndex": 522,
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_liver/VH_F_suprarenal_impression_of_liver",
+    "defaultVisible": false,
+    "kind": "structure",
+    "parentIds": [
+      "HRAA_G_liver-surface"
+    ],
+    "childIds": []
+  },
+  {
+    "id": "VH_F_renal_impression_of_liver",
+    "nameEn": "Renal impression of liver",
+    "conceptId": "FMA:14488",
+    "system": "visceral",
+    "displaySystem": "visceral",
+    "meshIds": [
+      "VH_F_renal_impression_of_liver"
+    ],
+    "bounds": [
+      [
+        -0.09399621933698654,
+        0.2687889337539673,
+        -0.13096632063388824
+      ],
+      [
+        -0.0380854457616806,
+        0.3120324909687042,
+        -0.08119681477546692
+      ]
+    ],
+    "sourceNodeName": "VH_F_renal_impression_of_liver",
+    "sourceNodeIndex": 523,
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_liver/VH_F_renal_impression_of_liver",
+    "defaultVisible": false,
+    "kind": "structure",
+    "parentIds": [
+      "HRAA_G_liver-surface"
+    ],
+    "childIds": []
+  },
+  {
+    "id": "VH_F_duodenal_impression_of_liver",
+    "nameEn": "Duodenal impression of liver",
+    "conceptId": "FMA:14485",
+    "system": "visceral",
+    "displaySystem": "visceral",
+    "meshIds": [
+      "VH_F_duodenal_impression_of_liver"
+    ],
+    "bounds": [
+      [
+        -0.0594903901219368,
+        0.2883029580116272,
+        -0.08336348086595535
+      ],
+      [
+        -0.04547400772571564,
+        0.30099084973335266,
+        -0.07243173569440842
+      ]
+    ],
+    "sourceNodeName": "VH_F_duodenal_impression_of_liver",
+    "sourceNodeIndex": 524,
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_liver/VH_F_duodenal_impression_of_liver",
+    "defaultVisible": false,
+    "kind": "structure",
+    "parentIds": [
+      "HRAA_G_liver-surface"
+    ],
+    "childIds": []
+  },
+  {
+    "id": "VH_F_esophageal_impression_of_liver",
+    "nameEn": "Esophageal impression of liver",
+    "conceptId": "FMA:14486",
+    "system": "visceral",
+    "displaySystem": "visceral",
+    "meshIds": [
+      "VH_F_esophageal_impression_of_liver"
+    ],
+    "bounds": [
+      [
+        0.010792951099574566,
+        0.33780211210250854,
+        -0.08061622083187103
+      ],
+      [
+        0.03451649472117424,
+        0.38119181990623474,
+        -0.06412878632545471
+      ]
+    ],
+    "sourceNodeName": "VH_F_esophageal_impression_of_liver",
+    "sourceNodeIndex": 525,
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_liver/VH_F_esophageal_impression_of_liver",
+    "defaultVisible": false,
+    "kind": "structure",
+    "parentIds": [
+      "HRAA_G_liver-surface"
+    ],
+    "childIds": []
+  },
+  {
+    "id": "VH_F_porta_hepatis",
+    "nameEn": "Porta hepatis",
+    "conceptId": "FMA:15758",
+    "system": "visceral",
+    "displaySystem": "visceral",
+    "meshIds": [
+      "VH_F_porta_hepatis"
+    ],
+    "bounds": [
+      [
+        -0.057310573756694794,
+        0.2968502342700958,
+        -0.07437004894018173
+      ],
+      [
+        -0.008243336342275143,
+        0.3345215618610382,
+        -0.033628690987825394
+      ]
+    ],
+    "sourceNodeName": "VH_F_porta_hepatis",
+    "sourceNodeIndex": 526,
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_liver/VH_F_porta_hepatis",
+    "defaultVisible": false,
+    "kind": "structure",
+    "parentIds": [
+      "HRAA_G_liver-surface"
+    ],
+    "childIds": []
+  },
+  {
+    "id": "VH_F_colic_impression_of_liver",
+    "nameEn": "Colic impression of liver",
+    "conceptId": "FMA:14484",
+    "system": "visceral",
+    "displaySystem": "visceral",
+    "meshIds": [
+      "VH_F_colic_impression_of_liver"
+    ],
+    "bounds": [
+      [
+        -0.10991223156452179,
+        0.2625395655632019,
+        -0.08322736620903015
+      ],
+      [
+        -0.03303024545311928,
+        0.2943666875362396,
+        -0.012934878468513489
+      ]
+    ],
+    "sourceNodeName": "VH_F_colic_impression_of_liver",
+    "sourceNodeIndex": 527,
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_liver/VH_F_colic_impression_of_liver",
+    "defaultVisible": false,
+    "kind": "structure",
+    "parentIds": [
+      "HRAA_G_liver-surface"
+    ],
+    "childIds": []
+  },
+  {
+    "id": "VH_F_capsule_of_the_liver",
+    "nameEn": "Capsule of the liver",
+    "conceptId": "UBERON:0016479",
+    "system": "visceral",
+    "displaySystem": "visceral",
+    "meshIds": [
+      "VH_F_capsule_of_the_liver"
+    ],
+    "bounds": [
+      [
+        -0.13488732278347015,
+        0.2625870108604431,
+        -0.1400981992483139
+      ],
+      [
+        0.1122201681137085,
+        0.4324977397918701,
+        0.012434097006917
+      ]
+    ],
+    "sourceNodeName": "VH_F_capsule_of_the_liver",
+    "sourceNodeIndex": 528,
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_liver/VH_F_capsule_of_the_liver",
+    "defaultVisible": false,
+    "kind": "structure",
+    "parentIds": [
+      "HRAA_G_liver-surface"
+    ],
+    "childIds": []
+  },
+  {
+    "id": "VH_F_bare_area_of_liver",
+    "nameEn": "Bare area of liver",
+    "conceptId": "UBERON:0001149",
+    "system": "visceral",
+    "displaySystem": "visceral",
+    "meshIds": [
+      "VH_F_bare_area_of_liver"
+    ],
+    "bounds": [
+      [
+        -0.11884476244449615,
+        0.3048211336135864,
+        -0.15384282171726227
+      ],
+      [
+        0.04120996966958046,
+        0.4151679277420044,
+        -0.05392007157206535
+      ]
+    ],
+    "sourceNodeName": "VH_F_bare_area_of_liver",
+    "sourceNodeIndex": 529,
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_liver/VH_F_bare_area_of_liver",
+    "defaultVisible": false,
+    "kind": "structure",
+    "parentIds": [
+      "HRAA_G_liver-surface"
+    ],
+    "childIds": []
+  },
+  {
+    "id": "VH_F_diaphragmatic_surface_of_liver",
+    "nameEn": "Diaphragmatic surface of liver",
+    "conceptId": "FMA:15729",
+    "system": "visceral",
+    "displaySystem": "visceral",
+    "meshIds": [
+      "VH_F_diaphragmatic_surface_of_liver"
+    ],
+    "bounds": [
+      [
+        -0.11645153909921646,
+        0.2625250816345215,
+        -0.14256133139133453
+      ],
+      [
+        0.1114019826054573,
+        0.3976861238479614,
+        0.00897550955414772
+      ]
+    ],
+    "sourceNodeName": "VH_F_diaphragmatic_surface_of_liver",
+    "sourceNodeIndex": 530,
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_liver/VH_F_diaphragmatic_surface_of_liver",
+    "defaultVisible": false,
+    "kind": "structure",
+    "parentIds": [
+      "HRAA_G_liver-surface"
+    ],
+    "childIds": []
+  },
+  {
+    "id": "VH_F_left_anterolateral_segment",
+    "nameEn": "Left anterolateral segment",
+    "conceptId": "",
+    "system": "visceral",
+    "displaySystem": "visceral",
+    "meshIds": [
+      "VH_F_left_anterolateral_segment"
+    ],
+    "bounds": [
+      [
+        -0.03790036961436272,
+        0.26397860050201416,
+        -0.06175176799297333
+      ],
+      [
+        0.09017767012119293,
+        0.3340069055557251,
+        0.01239237654954195
+      ]
+    ],
+    "sourceNodeName": "VH_F_left_anterolateral_segment",
+    "sourceNodeIndex": 534,
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_liver/VH_F_couinaud_liver_segment/VH_F_left_lobe_of_liver/VH_F_liver_left_lateral_lobe/VH_F_left_anterolateral_segment",
+    "defaultVisible": true,
+    "kind": "structure",
+    "parentIds": [
+      "HRAA_G_liver-parenchyma"
+    ],
+    "childIds": []
+  },
+  {
+    "id": "VH_F_left_superomedial_segment",
+    "nameEn": "Left superomedial segment",
+    "conceptId": "",
+    "system": "visceral",
+    "displaySystem": "visceral",
+    "meshIds": [
+      "VH_F_left_superomedial_segment"
+    ],
+    "bounds": [
+      [
+        -0.012802372686564922,
+        0.3232118785381317,
+        -0.08193647116422653
+      ],
+      [
+        0.11214424669742584,
+        0.39925211668014526,
+        0.005919327028095722
+      ]
+    ],
+    "sourceNodeName": "VH_F_left_superomedial_segment",
+    "sourceNodeIndex": 535,
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_liver/VH_F_couinaud_liver_segment/VH_F_left_lobe_of_liver/VH_F_liver_left_lateral_lobe/VH_F_left_superomedial_segment",
+    "defaultVisible": true,
+    "kind": "structure",
+    "parentIds": [
+      "HRAA_G_liver-parenchyma"
+    ],
+    "childIds": []
+  },
+  {
+    "id": "VH_F_left_superomedial_segment1",
+    "nameEn": "Left superomedial segment1",
+    "conceptId": "",
+    "system": "visceral",
+    "displaySystem": "visceral",
+    "meshIds": [
+      "VH_F_left_superomedial_segment1"
+    ],
+    "bounds": [
+      [
+        -0.08796725422143936,
+        0.3303369879722595,
+        -0.06388180702924728
+      ],
+      [
+        0.01742900162935257,
+        0.4222026765346527,
+        0.003194032935425639
+      ]
+    ],
+    "sourceNodeName": "VH_F_left_superomedial_segment1",
+    "sourceNodeIndex": 537,
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_liver/VH_F_couinaud_liver_segment/VH_F_left_lobe_of_liver/VH_F_liver_left_medial_lobe/VH_F_left_superomedial_segment1",
+    "defaultVisible": true,
+    "kind": "structure",
+    "parentIds": [
+      "HRAA_G_liver-parenchyma"
+    ],
+    "childIds": []
+  },
+  {
+    "id": "VH_F_left_inferomedial_segment",
+    "nameEn": "Left inferomedial segment",
+    "conceptId": "",
+    "system": "visceral",
+    "displaySystem": "visceral",
+    "meshIds": [
+      "VH_F_left_inferomedial_segment"
+    ],
+    "bounds": [
+      [
+        -0.09451890736818314,
+        0.26950496435165405,
+        -0.023465557023882866
+      ],
+      [
+        -0.012802372686564922,
+        0.3317493498325348,
+        0.0051301876083016396
+      ]
+    ],
+    "sourceNodeName": "VH_F_left_inferomedial_segment",
+    "sourceNodeIndex": 538,
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_liver/VH_F_couinaud_liver_segment/VH_F_left_lobe_of_liver/VH_F_liver_left_medial_lobe/VH_F_left_inferomedial_segment",
+    "defaultVisible": true,
+    "kind": "structure",
+    "parentIds": [
+      "HRAA_G_liver-parenchyma"
+    ],
+    "childIds": []
+  },
+  {
+    "id": "VH_F_quadrate_lobe",
+    "nameEn": "Quadrate lobe of liver",
+    "conceptId": "UBERON:0001116",
+    "system": "visceral",
+    "displaySystem": "visceral",
+    "meshIds": [
+      "VH_F_quadrate_lobe"
+    ],
+    "bounds": [
+      [
+        -0.08777671307325363,
+        0.2659551501274109,
+        -0.06726440787315369
+      ],
+      [
+        -0.023581432178616524,
+        0.3320216238498688,
+        -0.0015856135869398713
+      ]
+    ],
+    "sourceNodeName": "VH_F_quadrate_lobe",
+    "sourceNodeIndex": 539,
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_liver/VH_F_couinaud_liver_segment/VH_F_left_lobe_of_liver/VH_F_liver_left_medial_lobe/VH_F_left_inferomedial_segment/VH_F_quadrate_lobe",
+    "defaultVisible": true,
+    "kind": "structure",
+    "parentIds": [
+      "HRAA_G_liver-parenchyma"
+    ],
+    "childIds": []
+  },
+  {
+    "id": "VH_F_right_anterosuperior_segment",
+    "nameEn": "Right anterosuperior segment",
+    "conceptId": "",
+    "system": "visceral",
+    "displaySystem": "visceral",
+    "meshIds": [
+      "VH_F_right_anterosuperior_segment"
+    ],
+    "bounds": [
+      [
+        -0.13435009121894836,
+        0.33077284693717957,
+        -0.09502806514501572
+      ],
+      [
+        -0.023033007979393005,
+        0.4324268102645874,
+        -0.015604275278747082
+      ]
+    ],
+    "sourceNodeName": "VH_F_right_anterosuperior_segment",
+    "sourceNodeIndex": 541,
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_liver/VH_F_couinaud_liver_segment/VH_F_right_lobe_of_liver/VH_F_right_anterosuperior_segment",
+    "defaultVisible": true,
+    "kind": "structure",
+    "parentIds": [
+      "HRAA_G_liver-parenchyma"
+    ],
+    "childIds": []
+  },
+  {
+    "id": "VH_F_right_posteroinferior_segment",
+    "nameEn": "Right posteroinferior segment",
+    "conceptId": "",
+    "system": "visceral",
+    "displaySystem": "visceral",
+    "meshIds": [
+      "VH_F_right_posteroinferior_segment"
+    ],
+    "bounds": [
+      [
+        -0.1346474587917328,
+        0.2641414701938629,
+        -0.1522052139043808
+      ],
+      [
+        -0.037604816257953644,
+        0.3379945755004883,
+        -0.09006930887699127
+      ]
+    ],
+    "sourceNodeName": "VH_F_right_posteroinferior_segment",
+    "sourceNodeIndex": 542,
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_liver/VH_F_couinaud_liver_segment/VH_F_right_lobe_of_liver/VH_F_right_posteroinferior_segment",
+    "defaultVisible": true,
+    "kind": "structure",
+    "parentIds": [
+      "HRAA_G_liver-parenchyma"
+    ],
+    "childIds": []
+  },
+  {
+    "id": "VH_F_right_posterosuperior_segment",
+    "nameEn": "Right posterosuperior segment",
+    "conceptId": "",
+    "system": "visceral",
+    "displaySystem": "visceral",
+    "meshIds": [
+      "VH_F_right_posterosuperior_segment"
+    ],
+    "bounds": [
+      [
+        -0.1343110352754593,
+        0.3299861550331116,
+        -0.15377701818943024
+      ],
+      [
+        -0.0322432704269886,
+        0.4253510534763336,
+        -0.09024777263402939
+      ]
+    ],
+    "sourceNodeName": "VH_F_right_posterosuperior_segment",
+    "sourceNodeIndex": 543,
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_liver/VH_F_couinaud_liver_segment/VH_F_right_lobe_of_liver/VH_F_right_posterosuperior_segment",
+    "defaultVisible": true,
+    "kind": "structure",
+    "parentIds": [
+      "HRAA_G_liver-parenchyma"
+    ],
+    "childIds": []
+  },
+  {
+    "id": "VH_F_right_anteroinferior_segment",
+    "nameEn": "Right anteroinferior segment",
+    "conceptId": "",
+    "system": "visceral",
+    "displaySystem": "visceral",
+    "meshIds": [
+      "VH_F_right_anteroinferior_segment"
+    ],
+    "bounds": [
+      [
+        -0.1347273588180542,
+        0.2626878321170807,
+        -0.09282089024782181
+      ],
+      [
+        -0.04517248645424843,
+        0.3379945755004883,
+        -0.011963991448283195
+      ]
+    ],
+    "sourceNodeName": "VH_F_right_anteroinferior_segment",
+    "sourceNodeIndex": 544,
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_liver/VH_F_couinaud_liver_segment/VH_F_right_lobe_of_liver/VH_F_right_anteroinferior_segment",
+    "defaultVisible": true,
+    "kind": "structure",
+    "parentIds": [
+      "HRAA_G_liver-parenchyma"
+    ],
+    "childIds": []
+  },
+  {
+    "id": "VH_F_caudate_lobe",
+    "nameEn": "Caudate lobe of liver",
+    "conceptId": "UBERON:0001117",
+    "system": "visceral",
+    "displaySystem": "visceral",
+    "meshIds": [
+      "VH_F_caudate_lobe"
+    ],
+    "bounds": [
+      [
+        -0.050473518669605255,
+        0.2979976534843445,
+        -0.11662663519382477
+      ],
+      [
+        0.030446423217654228,
+        0.4120492935180664,
+        -0.04998481646180153
+      ]
+    ],
+    "sourceNodeName": "VH_F_caudate_lobe",
+    "sourceNodeIndex": 545,
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_liver/VH_F_couinaud_liver_segment/VH_F_right_lobe_of_liver/VH_F_caudate_lobe",
+    "defaultVisible": true,
+    "kind": "structure",
+    "parentIds": [
+      "HRAA_G_liver-parenchyma"
+    ],
+    "childIds": []
+  },
+  {
+    "id": "VH_F_tail_of_pancreas",
+    "nameEn": "Tail of pancreas",
+    "conceptId": "UBERON:0001151",
+    "system": "visceral",
+    "displaySystem": "visceral",
+    "meshIds": [
+      "VH_F_tail_of_pancreas"
+    ],
+    "bounds": [
+      [
+        0.0420064739882946,
+        0.24882270395755768,
+        -0.11208879202604294
+      ],
+      [
+        0.11807678639888763,
+        0.2882678806781769,
+        -0.04987296834588051
+      ]
+    ],
+    "sourceNodeName": "VH_F_tail_of_pancreas",
+    "sourceNodeIndex": 554,
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_pancreas/VH_F_tail_of_pancreas",
+    "defaultVisible": true,
+    "kind": "structure",
+    "parentIds": [
+      "HRAA_G_pancreas"
+    ],
+    "childIds": []
+  },
+  {
+    "id": "VH_F_body_of_pancreas",
+    "nameEn": "Body of pancreas",
+    "conceptId": "UBERON:0001150",
+    "system": "visceral",
+    "displaySystem": "visceral",
+    "meshIds": [
+      "VH_F_body_of_pancreas"
+    ],
+    "bounds": [
+      [
+        -0.01057775504887104,
+        0.2518276274204254,
+        -0.07602794468402863
+      ],
+      [
+        0.05372413620352745,
+        0.29407721757888794,
+        -0.02771533839404583
+      ]
+    ],
+    "sourceNodeName": "VH_F_body_of_pancreas",
+    "sourceNodeIndex": 555,
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_pancreas/VH_F_body_of_pancreas",
+    "defaultVisible": true,
+    "kind": "structure",
+    "parentIds": [
+      "HRAA_G_pancreas"
+    ],
+    "childIds": []
+  },
+  {
+    "id": "VH_F_ucinate_process1",
+    "nameEn": "Uncinate process of pancreas",
+    "conceptId": "UBERON:0010373",
+    "system": "visceral",
+    "displaySystem": "visceral",
+    "meshIds": [
+      "VH_F_ucinate_process1"
+    ],
+    "bounds": [
+      [
+        -0.040230631828308105,
+        0.23753882944583893,
+        -0.06941457837820053
+      ],
+      [
+        -0.0008083721622824669,
+        0.25932493805885315,
+        -0.04676628112792969
+      ]
+    ],
+    "sourceNodeName": "VH_F_ucinate_process1",
+    "sourceNodeIndex": 556,
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_pancreas/VH_F_ucinate_process1",
+    "defaultVisible": true,
+    "kind": "structure",
+    "parentIds": [
+      "HRAA_G_pancreas"
+    ],
+    "childIds": []
+  },
+  {
+    "id": "VH_F_head_of_pancreas",
+    "nameEn": "Head of pancreas",
+    "conceptId": "UBERON:0001069",
+    "system": "visceral",
+    "displaySystem": "visceral",
+    "meshIds": [
+      "VH_F_head_of_pancreas"
+    ],
+    "bounds": [
+      [
+        -0.05395494028925896,
+        0.24867422878742218,
+        -0.07958701997995377
+      ],
+      [
+        -5.2518994380079675e-06,
+        0.2927190363407135,
+        -0.03920144960284233
+      ]
+    ],
+    "sourceNodeName": "VH_F_head_of_pancreas",
+    "sourceNodeIndex": 557,
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_pancreas/VH_F_head_of_pancreas",
+    "defaultVisible": true,
+    "kind": "structure",
+    "parentIds": [
+      "HRAA_G_pancreas"
+    ],
+    "childIds": []
+  },
+  {
+    "id": "VH_F_neck_of_pancreas",
+    "nameEn": "Neck of pancreas",
+    "conceptId": "FMA:14517",
+    "system": "visceral",
+    "displaySystem": "visceral",
+    "meshIds": [
+      "VH_F_neck_of_pancreas"
+    ],
+    "bounds": [
+      [
+        -0.020204180851578712,
+        0.25773757696151733,
+        -0.05289842560887337
+      ],
+      [
+        0.001298363320529461,
+        0.2817671000957489,
+        -0.03426116704940796
+      ]
+    ],
+    "sourceNodeName": "VH_F_neck_of_pancreas",
+    "sourceNodeIndex": 558,
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_pancreas/VH_F_neck_of_pancreas",
+    "defaultVisible": true,
+    "kind": "structure",
+    "parentIds": [
+      "HRAA_G_pancreas"
+    ],
+    "childIds": []
+  },
+  {
+    "id": "VH_F_duodenum_superior",
+    "nameEn": "Superior part of duodenum",
+    "conceptId": "FMA:7206",
+    "system": "visceral",
+    "displaySystem": "visceral",
+    "meshIds": [
+      "VH_F_duodenum_superior"
+    ],
+    "bounds": [
+      [
+        -0.04969744011759758,
+        0.2450709044933319,
+        -0.0691952183842659
+      ],
+      [
+        -0.011244631372392178,
+        0.2961168587207794,
+        -0.00022676089429296553
+      ]
+    ],
+    "sourceNodeName": "VH_F_duodenum_superior",
+    "sourceNodeIndex": 499,
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_small_intestine/VH_F_duodenum/VH_F_duodenum_superior",
+    "defaultVisible": true,
+    "kind": "structure",
+    "parentIds": [
+      "HRAA_G_duodenum"
+    ],
+    "childIds": []
+  },
+  {
+    "id": "VH_F_duodenal_ampulla",
+    "nameEn": "Duodenal ampulla",
+    "conceptId": "UBERON:0013644",
+    "system": "visceral",
+    "displaySystem": "visceral",
+    "meshIds": [
+      "VH_F_duodenal_ampulla"
+    ],
+    "bounds": [
+      [
+        -0.03970484808087349,
+        0.23337292671203613,
+        -0.023482434451580048
+      ],
+      [
+        -0.01093993242830038,
+        0.26252466440200806,
+        0.006455487571656704
+      ]
+    ],
+    "sourceNodeName": "VH_F_duodenal_ampulla",
+    "sourceNodeIndex": 500,
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_small_intestine/VH_F_duodenum/VH_F_duodenum_superior/VH_F_duodenal_ampulla",
+    "defaultVisible": true,
+    "kind": "structure",
+    "parentIds": [
+      "HRAA_G_duodenum"
+    ],
+    "childIds": []
+  },
+  {
+    "id": "VH_F_duodenum_descending",
+    "nameEn": "Descending part of duodenum",
+    "conceptId": "FMA:14928",
+    "system": "visceral",
+    "displaySystem": "visceral",
+    "meshIds": [
+      "VH_F_duodenum_descending"
+    ],
+    "bounds": [
+      [
+        -0.06652910262346268,
+        0.2327936291694641,
+        -0.07816566526889801
+      ],
+      [
+        -0.0313403382897377,
+        0.29284408688545227,
+        -0.05146569758653641
+      ]
+    ],
+    "sourceNodeName": "VH_F_duodenum_descending",
+    "sourceNodeIndex": 501,
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_small_intestine/VH_F_duodenum/VH_F_duodenum_descending",
+    "defaultVisible": true,
+    "kind": "structure",
+    "parentIds": [
+      "HRAA_G_duodenum"
+    ],
+    "childIds": []
+  },
+  {
+    "id": "VH_F_sphincter_of_heptopancreatic_ampulla",
+    "nameEn": "Sphincter of hepatopancreatic ampulla",
+    "conceptId": "FMA:15077",
+    "system": "visceral",
+    "displaySystem": "visceral",
+    "meshIds": [
+      "VH_F_sphincter_of_heptopancreatic_ampulla"
+    ],
+    "bounds": [
+      [
+        -0.04710467532277107,
+        0.2449089139699936,
+        -0.06469082087278366
+      ],
+      [
+        -0.04212590679526329,
+        0.2500806748867035,
+        -0.059655673801898956
+      ]
+    ],
+    "sourceNodeName": "VH_F_sphincter_of_heptopancreatic_ampulla",
+    "sourceNodeIndex": 502,
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_small_intestine/VH_F_duodenum/VH_F_sphincter_of_heptopancreatic_ampulla",
+    "defaultVisible": false,
+    "kind": "structure",
+    "parentIds": [
+      "HRAA_G_duodenum"
+    ],
+    "childIds": []
+  },
+  {
+    "id": "VH_F_duodenum_ascending",
+    "nameEn": "Ascending part of duodenum",
+    "conceptId": "FMA:14930",
+    "system": "visceral",
+    "displaySystem": "visceral",
+    "meshIds": [
+      "VH_F_duodenum_ascending"
+    ],
+    "bounds": [
+      [
+        -0.005242888815701008,
+        0.23057903349399567,
+        -0.06619530916213989
+      ],
+      [
+        0.02155720628798008,
+        0.25613832473754883,
+        -0.024763358756899834
+      ]
+    ],
+    "sourceNodeName": "VH_F_duodenum_ascending",
+    "sourceNodeIndex": 503,
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_small_intestine/VH_F_duodenum/VH_F_duodenum_ascending",
+    "defaultVisible": true,
+    "kind": "structure",
+    "parentIds": [
+      "HRAA_G_duodenum"
+    ],
+    "childIds": []
+  },
+  {
+    "id": "VH_F_duodenum_horizontal",
+    "nameEn": "Horizontal part of duodenum",
+    "conceptId": "FMA:14929",
+    "system": "visceral",
+    "displaySystem": "visceral",
+    "meshIds": [
+      "VH_F_duodenum_horizontal"
+    ],
+    "bounds": [
+      [
+        -0.05628524348139763,
+        0.21866874396800995,
+        -0.07272207736968994
+      ],
+      [
+        0.008575943298637867,
+        0.24616003036499023,
+        -0.045003850013017654
+      ]
+    ],
+    "sourceNodeName": "VH_F_duodenum_horizontal",
+    "sourceNodeIndex": 504,
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_small_intestine/VH_F_duodenum/VH_F_duodenum_horizontal",
+    "defaultVisible": true,
+    "kind": "structure",
+    "parentIds": [
+      "HRAA_G_duodenum"
+    ],
+    "childIds": []
+  },
+  {
+    "id": "VH_F_right_hepatic_duct",
+    "nameEn": "Right hepatic duct",
+    "conceptId": "UBERON:0001176",
+    "system": "visceral",
+    "displaySystem": "visceral",
+    "meshIds": [
+      "VH_F_right_hepatic_duct"
+    ],
+    "bounds": [
+      [
+        -0.052663106471300125,
+        0.32561102509498596,
+        -0.06855779886245728
+      ],
+      [
+        -0.03902658447623253,
+        0.3331894874572754,
+        -0.0596284419298172
+      ]
+    ],
+    "sourceNodeName": "VH_F_right_hepatic_duct",
+    "sourceNodeIndex": 510,
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_biliary_tree/VH_F_ducts_of_liver/VH_F_right_hepatic_duct",
+    "defaultVisible": true,
+    "kind": "structure",
+    "parentIds": [
+      "HRAA_G_gallbladder-biliary"
+    ],
+    "childIds": []
+  },
+  {
+    "id": "VH_F_left_hepatic_duct",
+    "nameEn": "Left hepatic duct",
+    "conceptId": "UBERON:0001177",
+    "system": "visceral",
+    "displaySystem": "visceral",
+    "meshIds": [
+      "VH_F_left_hepatic_duct"
+    ],
+    "bounds": [
+      [
+        -0.03786679357290268,
+        0.32694950699806213,
+        -0.059343669563531876
+      ],
+      [
+        -0.016881344839930534,
+        0.34594905376434326,
+        -0.04253910481929779
+      ]
+    ],
+    "sourceNodeName": "VH_F_left_hepatic_duct",
+    "sourceNodeIndex": 511,
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_biliary_tree/VH_F_ducts_of_liver/VH_F_left_hepatic_duct",
+    "defaultVisible": true,
+    "kind": "structure",
+    "parentIds": [
+      "HRAA_G_gallbladder-biliary"
+    ],
+    "childIds": []
+  },
+  {
+    "id": "VH_F_common_hepatic_duct",
+    "nameEn": "Common hepatic duct",
+    "conceptId": "UBERON:0001175",
+    "system": "visceral",
+    "displaySystem": "visceral",
+    "meshIds": [
+      "VH_F_common_hepatic_duct"
+    ],
+    "bounds": [
+      [
+        -0.03965213894844055,
+        0.319286048412323,
+        -0.06370757520198822
+      ],
+      [
+        -0.0330842025578022,
+        0.3277454376220703,
+        -0.05817623808979988
+      ]
+    ],
+    "sourceNodeName": "VH_F_common_hepatic_duct",
+    "sourceNodeIndex": 512,
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_biliary_tree/VH_F_ducts_of_liver/VH_F_common_hepatic_duct",
+    "defaultVisible": true,
+    "kind": "structure",
+    "parentIds": [
+      "HRAA_G_gallbladder-biliary"
+    ],
+    "childIds": []
+  },
+  {
+    "id": "VH_F_hepatopancreatic_ampulla",
+    "nameEn": "Hepatopancreatic ampulla",
+    "conceptId": "UBERON:0004913",
+    "system": "visceral",
+    "displaySystem": "visceral",
+    "meshIds": [
+      "VH_F_hepatopancreatic_ampulla"
+    ],
+    "bounds": [
+      [
+        -0.04648091271519661,
+        0.24547693133354187,
+        -0.06400081515312195
+      ],
+      [
+        -0.03841373696923256,
+        0.2526872754096985,
+        -0.0599716380238533
+      ]
+    ],
+    "sourceNodeName": "VH_F_hepatopancreatic_ampulla",
+    "sourceNodeIndex": 514,
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_biliary_tree/VH_F_ducts_of_pancreas/VH_F_hepatopancreatic_ampulla",
+    "defaultVisible": true,
+    "kind": "structure",
+    "parentIds": [
+      "HRAA_G_gallbladder-biliary"
+    ],
+    "childIds": []
+  },
+  {
+    "id": "VH_F_dorsal_pancreatic_duct",
+    "nameEn": "Dorsal pancreatic duct",
+    "conceptId": "UBERON:0005429",
+    "system": "visceral",
+    "displaySystem": "visceral",
+    "meshIds": [
+      "VH_F_dorsal_pancreatic_duct"
+    ],
+    "bounds": [
+      [
+        -0.04178215563297272,
+        0.25966760516166687,
+        -0.0694812536239624
+      ],
+      [
+        -0.0228809155523777,
+        0.2734377682209015,
+        -0.05813663825392723
+      ]
+    ],
+    "sourceNodeName": "VH_F_dorsal_pancreatic_duct",
+    "sourceNodeIndex": 515,
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_biliary_tree/VH_F_ducts_of_pancreas/VH_F_dorsal_pancreatic_duct",
+    "defaultVisible": true,
+    "kind": "structure",
+    "parentIds": [
+      "HRAA_G_gallbladder-biliary"
+    ],
+    "childIds": []
+  },
+  {
+    "id": "VH_F_common_bile_duct",
+    "nameEn": "Common bile duct",
+    "conceptId": "UBERON:0001174",
+    "system": "visceral",
+    "displaySystem": "visceral",
+    "meshIds": [
+      "VH_F_common_bile_duct"
+    ],
+    "bounds": [
+      [
+        -0.04031218960881233,
+        0.25137293338775635,
+        -0.06407328695058823
+      ],
+      [
+        -0.019023260101675987,
+        0.32016852498054504,
+        -0.05826365947723389
+      ]
+    ],
+    "sourceNodeName": "VH_F_common_bile_duct",
+    "sourceNodeIndex": 516,
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_biliary_tree/VH_F_ducts_of_pancreas/VH_F_common_bile_duct",
+    "defaultVisible": true,
+    "kind": "structure",
+    "parentIds": [
+      "HRAA_G_gallbladder-biliary"
+    ],
+    "childIds": []
+  },
+  {
+    "id": "VH_F_ventral_pancreatic_duct",
+    "nameEn": "Ventral pancreatic duct",
+    "conceptId": "UBERON:0001064",
+    "system": "visceral",
+    "displaySystem": "visceral",
+    "meshIds": [
+      "VH_F_ventral_pancreatic_duct"
+    ],
+    "bounds": [
+      [
+        -0.03918810188770294,
+        0.25075551867485046,
+        -0.10590124130249023
+      ],
+      [
+        0.11174663156270981,
+        0.28476956486701965,
+        -0.042430125176906586
+      ]
+    ],
+    "sourceNodeName": "VH_F_ventral_pancreatic_duct",
+    "sourceNodeIndex": 517,
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_biliary_tree/VH_F_ducts_of_pancreas/VH_F_ventral_pancreatic_duct",
+    "defaultVisible": true,
+    "kind": "structure",
+    "parentIds": [
+      "HRAA_G_gallbladder-biliary"
+    ],
+    "childIds": []
+  },
+  {
+    "id": "VH_F_cystic_duct",
+    "nameEn": "Cystic duct",
+    "conceptId": "UBERON:0001152",
+    "system": "visceral",
+    "displaySystem": "visceral",
+    "meshIds": [
+      "VH_F_cystic_duct"
+    ],
+    "bounds": [
+      [
+        -0.051486268639564514,
+        0.2921831011772156,
+        -0.06858503818511963
+      ],
+      [
+        -0.03525432571768761,
+        0.3219856321811676,
+        -0.06204457953572273
+      ]
+    ],
+    "sourceNodeName": "VH_F_cystic_duct",
+    "sourceNodeIndex": 519,
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_biliary_tree/VH_F_ducts_of_gallbladder/VH_F_cystic_duct",
+    "defaultVisible": true,
+    "kind": "structure",
+    "parentIds": [
+      "HRAA_G_gallbladder-biliary"
+    ],
+    "childIds": []
+  },
+  {
+    "id": "VH_F_gallbladder",
+    "nameEn": "Gallbladder",
+    "conceptId": "UBERON:0002110",
+    "system": "visceral",
+    "displaySystem": "visceral",
+    "meshIds": [
+      "VH_F_gallbladder"
+    ],
+    "bounds": [
+      [
+        -0.08931174874305725,
+        0.25619247555732727,
+        -0.07164299488067627
+      ],
+      [
+        -0.04840186610817909,
+        0.29411834478378296,
+        -0.019629456102848053
+      ]
+    ],
+    "sourceNodeName": "VH_F_gallbladder",
+    "sourceNodeIndex": 560,
+    "sourcePath": "VH_F/VH_F_digestive_system/VH_F_gallbladder_/VH_F_gallbladder",
+    "defaultVisible": true,
+    "kind": "structure",
+    "parentIds": [
+      "HRAA_G_gallbladder-biliary"
+    ],
+    "childIds": []
+  },
+  {
+    "id": "VH_F_gastric_surface_of_spleen",
+    "nameEn": "Gastric surface of spleen",
+    "conceptId": "FMA:15837",
+    "system": "visceral",
+    "displaySystem": "visceral",
+    "meshIds": [
+      "VH_F_gastric_surface_of_spleen"
+    ],
+    "bounds": [
+      [
+        0.04167570546269417,
+        0.30538928508758545,
+        -0.1290028989315033
+      ],
+      [
+        0.1241079717874527,
+        0.38616982102394104,
+        -0.08230707049369812
+      ]
+    ],
+    "sourceNodeName": "VH_F_gastric_surface_of_spleen",
+    "sourceNodeIndex": 945,
+    "sourcePath": "VH_F/VH_F_lymphatic_system/VH_F_spleen/VH_F_gastric_surface_of_spleen",
+    "defaultVisible": true,
+    "kind": "structure",
+    "parentIds": [
+      "HRAA_G_spleen"
+    ],
+    "childIds": []
+  },
+  {
+    "id": "VH_F_diaphragmatic_surface_of_spleen",
+    "nameEn": "Diaphragmatic surface of spleen",
+    "conceptId": "FMA:15828",
+    "system": "visceral",
+    "displaySystem": "visceral",
+    "meshIds": [
+      "VH_F_diaphragmatic_surface_of_spleen"
+    ],
+    "bounds": [
+      [
+        0.036774251610040665,
+        0.2855469882488251,
+        -0.15319287776947021
+      ],
+      [
+        0.12633490562438965,
+        0.38786211609840393,
+        -0.0831056758761406
+      ]
+    ],
+    "sourceNodeName": "VH_F_diaphragmatic_surface_of_spleen",
+    "sourceNodeIndex": 946,
+    "sourcePath": "VH_F/VH_F_lymphatic_system/VH_F_spleen/VH_F_diaphragmatic_surface_of_spleen",
+    "defaultVisible": true,
+    "kind": "structure",
+    "parentIds": [
+      "HRAA_G_spleen"
+    ],
+    "childIds": []
+  },
+  {
+    "id": "VH_F_colic_surface_of_spleen",
+    "nameEn": "Colic surface of spleen",
+    "conceptId": "FMA:15838",
+    "system": "visceral",
+    "displaySystem": "visceral",
+    "meshIds": [
+      "VH_F_colic_surface_of_spleen"
+    ],
+    "bounds": [
+      [
+        0.1066533625125885,
+        0.2908746600151062,
+        -0.09163873642683029
+      ],
+      [
+        0.12320635467767715,
+        0.3087558150291443,
+        -0.08225168287754059
+      ]
+    ],
+    "sourceNodeName": "VH_F_colic_surface_of_spleen",
+    "sourceNodeIndex": 947,
+    "sourcePath": "VH_F/VH_F_lymphatic_system/VH_F_spleen/VH_F_colic_surface_of_spleen",
+    "defaultVisible": true,
+    "kind": "structure",
+    "parentIds": [
+      "HRAA_G_spleen"
+    ],
+    "childIds": []
+  },
+  {
+    "id": "VH_F_hilum_of_spleen",
+    "nameEn": "Hilum of spleen",
+    "conceptId": "UBERON:0001248",
+    "system": "visceral",
+    "displaySystem": "visceral",
+    "meshIds": [
+      "VH_F_hilum_of_spleen"
+    ],
+    "bounds": [
+      [
+        0.05695468932390213,
+        0.2966853976249695,
+        -0.12513013184070587
+      ],
+      [
+        0.10940999537706375,
+        0.3591134250164032,
+        -0.087284155189991
+      ]
+    ],
+    "sourceNodeName": "VH_F_hilum_of_spleen",
+    "sourceNodeIndex": 948,
+    "sourcePath": "VH_F/VH_F_lymphatic_system/VH_F_spleen/VH_F_hilum_of_spleen",
+    "defaultVisible": true,
+    "kind": "structure",
+    "parentIds": [
+      "HRAA_G_spleen"
+    ],
+    "childIds": []
+  },
+  {
+    "id": "VH_F_renal_surface_of_spleen",
+    "nameEn": "Renal surface of spleen",
+    "conceptId": "FMA:15839",
+    "system": "visceral",
+    "displaySystem": "visceral",
+    "meshIds": [
+      "VH_F_renal_surface_of_spleen"
+    ],
+    "bounds": [
+      [
+        0.04078330472111702,
+        0.28727778792381287,
+        -0.13478215038776398
+      ],
+      [
+        0.1115637868642807,
+        0.34087035059928894,
+        -0.08997498452663422
+      ]
+    ],
+    "sourceNodeName": "VH_F_renal_surface_of_spleen",
+    "sourceNodeIndex": 949,
+    "sourcePath": "VH_F/VH_F_lymphatic_system/VH_F_spleen/VH_F_renal_surface_of_spleen",
+    "defaultVisible": true,
+    "kind": "structure",
+    "parentIds": [
+      "HRAA_G_spleen"
+    ],
+    "childIds": []
+  },
+  {
+    "id": "HRAA_G_arterial",
+    "nameEn": "Arterial structures",
+    "system": "arterial",
+    "meshIds": [
+      "VH_F_celiac_trunk",
+      "VH_F_splenic_artery",
+      "VH_F_cystic_artery",
+      "VH_F_middle_hepatic_artery_branch_of_left_hepatic_artery",
+      "VH_F_proper_hepatic_artery",
+      "VH_F_right_hepatic_artery",
+      "VH_F_common_hepatic_artery",
+      "VH_F_posterior_segmental_right_hepatic_artery",
+      "VH_F_anterior_segmental_right_hepatic_artery",
+      "VH_F_left_hepatic_artery",
+      "VH_F_descending_aorta_a",
+      "VH_F_descending_aorta_b"
+    ],
+    "bounds": [
+      [
+        -0.08538519591093063,
+        0.1659040004014969,
+        -0.13187435269355774
+      ],
+      [
+        0.10323753207921982,
+        0.5280540585517883,
+        -0.028012365102767944
+      ]
+    ],
+    "kind": "group",
+    "childIds": [
+      "VH_F_celiac_trunk",
+      "VH_F_splenic_artery",
+      "VH_F_cystic_artery",
+      "VH_F_middle_hepatic_artery_branch_of_left_hepatic_artery",
+      "VH_F_proper_hepatic_artery",
+      "VH_F_right_hepatic_artery",
+      "VH_F_common_hepatic_artery",
+      "VH_F_posterior_segmental_right_hepatic_artery",
+      "VH_F_anterior_segmental_right_hepatic_artery",
+      "VH_F_left_hepatic_artery",
+      "VH_F_descending_aorta_a",
+      "VH_F_descending_aorta_b"
+    ],
+    "parentIds": [
+      "HRAA_G_hepatobiliary"
+    ],
+    "groupBasis": "Editorial navigation grouping of explicitly named original HRA structures; not vascular branch-of topology."
+  },
+  {
+    "id": "HRAA_G_venous",
+    "nameEn": "Venous structures",
+    "system": "venous",
+    "meshIds": [
+      "VH_F_splenic_vein",
+      "VH_F_cystic_vein",
+      "VH_F_hepatic_portal_vein",
+      "VH_F_middle_hepatic_vein",
+      "VH_F_left_hepatic_vein",
+      "VH_F_right_hepatic_vein",
+      "VH_F_right_branch_of_portal_vein",
+      "VH_F_left_branch_of_portal_vein"
+    ],
+    "bounds": [
+      [
+        -0.08951888978481293,
+        0.2553093731403351,
+        -0.12470801919698715
+      ],
+      [
+        0.09936650842428207,
+        0.4000343680381775,
+        -0.02909328229725361
+      ]
+    ],
+    "kind": "group",
+    "childIds": [
+      "VH_F_splenic_vein",
+      "VH_F_cystic_vein",
+      "VH_F_hepatic_portal_vein",
+      "VH_F_middle_hepatic_vein",
+      "VH_F_left_hepatic_vein",
+      "VH_F_right_hepatic_vein",
+      "VH_F_right_branch_of_portal_vein",
+      "VH_F_left_branch_of_portal_vein"
+    ],
+    "parentIds": [
+      "HRAA_G_hepatobiliary"
+    ],
+    "groupBasis": "Editorial navigation grouping of explicitly named original HRA structures; not vascular branch-of topology."
+  },
+  {
+    "id": "HRAA_G_liver-parenchyma",
+    "nameEn": "Liver parenchymal subdivisions",
+    "system": "visceral",
+    "meshIds": [
+      "VH_F_left_anterolateral_segment",
+      "VH_F_left_superomedial_segment",
+      "VH_F_left_superomedial_segment1",
+      "VH_F_left_inferomedial_segment",
+      "VH_F_quadrate_lobe",
+      "VH_F_right_anterosuperior_segment",
+      "VH_F_right_posteroinferior_segment",
+      "VH_F_right_posterosuperior_segment",
+      "VH_F_right_anteroinferior_segment",
+      "VH_F_caudate_lobe"
+    ],
+    "bounds": [
+      [
+        -0.1347273588180542,
+        0.2626878321170807,
+        -0.15377701818943024
+      ],
+      [
+        0.11214424669742584,
+        0.4324268102645874,
+        0.01239237654954195
+      ]
+    ],
+    "kind": "group",
+    "childIds": [
+      "VH_F_left_anterolateral_segment",
+      "VH_F_left_superomedial_segment",
+      "VH_F_left_superomedial_segment1",
+      "VH_F_left_inferomedial_segment",
+      "VH_F_quadrate_lobe",
+      "VH_F_right_anterosuperior_segment",
+      "VH_F_right_posteroinferior_segment",
+      "VH_F_right_posterosuperior_segment",
+      "VH_F_right_anteroinferior_segment",
+      "VH_F_caudate_lobe"
+    ],
+    "parentIds": [
+      "HRAA_G_hepatobiliary"
+    ],
+    "groupBasis": "Editorial navigation grouping of explicitly named original HRA structures; not vascular branch-of topology."
+  },
+  {
+    "id": "HRAA_G_liver-surface",
+    "nameEn": "Liver surfaces and landmarks",
+    "system": "visceral",
+    "meshIds": [
+      "VH_F_gastric_impression_of_liver",
+      "VH_F_suprarenal_impression_of_liver",
+      "VH_F_renal_impression_of_liver",
+      "VH_F_duodenal_impression_of_liver",
+      "VH_F_esophageal_impression_of_liver",
+      "VH_F_porta_hepatis",
+      "VH_F_colic_impression_of_liver",
+      "VH_F_capsule_of_the_liver",
+      "VH_F_bare_area_of_liver",
+      "VH_F_diaphragmatic_surface_of_liver"
+    ],
+    "bounds": [
+      [
+        -0.13488732278347015,
+        0.2625250816345215,
+        -0.15384282171726227
+      ],
+      [
+        0.1122201681137085,
+        0.4324977397918701,
+        0.012434097006917
+      ]
+    ],
+    "kind": "group",
+    "childIds": [
+      "VH_F_gastric_impression_of_liver",
+      "VH_F_suprarenal_impression_of_liver",
+      "VH_F_renal_impression_of_liver",
+      "VH_F_duodenal_impression_of_liver",
+      "VH_F_esophageal_impression_of_liver",
+      "VH_F_porta_hepatis",
+      "VH_F_colic_impression_of_liver",
+      "VH_F_capsule_of_the_liver",
+      "VH_F_bare_area_of_liver",
+      "VH_F_diaphragmatic_surface_of_liver"
+    ],
+    "parentIds": [
+      "HRAA_G_hepatobiliary"
+    ],
+    "groupBasis": "Editorial navigation grouping of explicitly named original HRA structures; not vascular branch-of topology."
+  },
+  {
+    "id": "HRAA_G_liver-ligaments",
+    "nameEn": "Liver ligaments",
+    "system": "connective",
+    "meshIds": [
+      "VH_F_coronary_ligament_of_liver",
+      "VH_F_falciform_ligament",
+      "VH_F_triangular_ligament_of_liver",
+      "VH_F_ligamentum_venosum",
+      "VH_F_round_ligament_of_liver",
+      "VH_F_hepataduodenal_ligament"
+    ],
+    "bounds": [
+      [
+        -0.12351681292057037,
+        0.28625234961509705,
+        -0.14340360462665558
+      ],
+      [
+        0.06642086058855057,
+        0.4223542809486389,
+        0.007835148833692074
+      ]
+    ],
+    "kind": "group",
+    "childIds": [
+      "VH_F_coronary_ligament_of_liver",
+      "VH_F_falciform_ligament",
+      "VH_F_triangular_ligament_of_liver",
+      "VH_F_ligamentum_venosum",
+      "VH_F_round_ligament_of_liver",
+      "VH_F_hepataduodenal_ligament"
+    ],
+    "parentIds": [
+      "HRAA_G_hepatobiliary"
+    ],
+    "groupBasis": "Editorial navigation grouping of explicitly named original HRA structures; not vascular branch-of topology."
+  },
+  {
+    "id": "HRAA_G_gallbladder-biliary",
+    "nameEn": "Gallbladder and biliary ducts",
+    "system": "visceral",
+    "meshIds": [
+      "VH_F_gallbladder",
+      "VH_F_right_hepatic_duct",
+      "VH_F_left_hepatic_duct",
+      "VH_F_common_hepatic_duct",
+      "VH_F_hepatopancreatic_ampulla",
+      "VH_F_dorsal_pancreatic_duct",
+      "VH_F_common_bile_duct",
+      "VH_F_ventral_pancreatic_duct",
+      "VH_F_cystic_duct"
+    ],
+    "bounds": [
+      [
+        -0.08931174874305725,
+        0.24547693133354187,
+        -0.10590124130249023
+      ],
+      [
+        0.11174663156270981,
+        0.34594905376434326,
+        -0.019629456102848053
+      ]
+    ],
+    "kind": "group",
+    "childIds": [
+      "VH_F_gallbladder",
+      "VH_F_right_hepatic_duct",
+      "VH_F_left_hepatic_duct",
+      "VH_F_common_hepatic_duct",
+      "VH_F_hepatopancreatic_ampulla",
+      "VH_F_dorsal_pancreatic_duct",
+      "VH_F_common_bile_duct",
+      "VH_F_ventral_pancreatic_duct",
+      "VH_F_cystic_duct"
+    ],
+    "parentIds": [
+      "HRAA_G_hepatobiliary"
+    ],
+    "groupBasis": "Editorial navigation grouping of explicitly named original HRA structures; not vascular branch-of topology."
+  },
+  {
+    "id": "HRAA_G_pancreas",
+    "nameEn": "Pancreas",
+    "system": "visceral",
+    "meshIds": [
+      "VH_F_tail_of_pancreas",
+      "VH_F_body_of_pancreas",
+      "VH_F_ucinate_process1",
+      "VH_F_head_of_pancreas",
+      "VH_F_neck_of_pancreas"
+    ],
+    "bounds": [
+      [
+        -0.05395494028925896,
+        0.23753882944583893,
+        -0.11208879202604294
+      ],
+      [
+        0.11807678639888763,
+        0.29407721757888794,
+        -0.02771533839404583
+      ]
+    ],
+    "kind": "group",
+    "childIds": [
+      "VH_F_tail_of_pancreas",
+      "VH_F_body_of_pancreas",
+      "VH_F_ucinate_process1",
+      "VH_F_head_of_pancreas",
+      "VH_F_neck_of_pancreas"
+    ],
+    "parentIds": [
+      "HRAA_G_hepatobiliary"
+    ],
+    "groupBasis": "Editorial navigation grouping of explicitly named original HRA structures; not vascular branch-of topology."
+  },
+  {
+    "id": "HRAA_G_duodenum",
+    "nameEn": "Duodenum",
+    "system": "visceral",
+    "meshIds": [
+      "VH_F_duodenum_superior",
+      "VH_F_duodenal_ampulla",
+      "VH_F_duodenum_descending",
+      "VH_F_sphincter_of_heptopancreatic_ampulla",
+      "VH_F_duodenum_ascending",
+      "VH_F_duodenum_horizontal"
+    ],
+    "bounds": [
+      [
+        -0.06652910262346268,
+        0.21866874396800995,
+        -0.07816566526889801
+      ],
+      [
+        0.02155720628798008,
+        0.2961168587207794,
+        0.006455487571656704
+      ]
+    ],
+    "kind": "group",
+    "childIds": [
+      "VH_F_duodenum_superior",
+      "VH_F_duodenal_ampulla",
+      "VH_F_duodenum_descending",
+      "VH_F_sphincter_of_heptopancreatic_ampulla",
+      "VH_F_duodenum_ascending",
+      "VH_F_duodenum_horizontal"
+    ],
+    "parentIds": [
+      "HRAA_G_hepatobiliary"
+    ],
+    "groupBasis": "Editorial navigation grouping of explicitly named original HRA structures; not vascular branch-of topology."
+  },
+  {
+    "id": "HRAA_G_spleen",
+    "nameEn": "Spleen surfaces",
+    "system": "visceral",
+    "meshIds": [
+      "VH_F_gastric_surface_of_spleen",
+      "VH_F_diaphragmatic_surface_of_spleen",
+      "VH_F_colic_surface_of_spleen",
+      "VH_F_hilum_of_spleen",
+      "VH_F_renal_surface_of_spleen"
+    ],
+    "bounds": [
+      [
+        0.036774251610040665,
+        0.2855469882488251,
+        -0.15319287776947021
+      ],
+      [
+        0.12633490562438965,
+        0.38786211609840393,
+        -0.08225168287754059
+      ]
+    ],
+    "kind": "group",
+    "childIds": [
+      "VH_F_gastric_surface_of_spleen",
+      "VH_F_diaphragmatic_surface_of_spleen",
+      "VH_F_colic_surface_of_spleen",
+      "VH_F_hilum_of_spleen",
+      "VH_F_renal_surface_of_spleen"
+    ],
+    "parentIds": [
+      "HRAA_G_hepatobiliary"
+    ],
+    "groupBasis": "Editorial navigation grouping of explicitly named original HRA structures; not vascular branch-of topology."
+  },
+  {
+    "id": "HRAA_G_hepatobiliary",
+    "nameEn": "Female hepatobiliary reference anatomy",
+    "system": "visceral",
+    "meshIds": [
+      "VH_F_celiac_trunk",
+      "VH_F_splenic_artery",
+      "VH_F_cystic_artery",
+      "VH_F_middle_hepatic_artery_branch_of_left_hepatic_artery",
+      "VH_F_proper_hepatic_artery",
+      "VH_F_right_hepatic_artery",
+      "VH_F_common_hepatic_artery",
+      "VH_F_posterior_segmental_right_hepatic_artery",
+      "VH_F_anterior_segmental_right_hepatic_artery",
+      "VH_F_left_hepatic_artery",
+      "VH_F_descending_aorta_a",
+      "VH_F_descending_aorta_b",
+      "VH_F_splenic_vein",
+      "VH_F_cystic_vein",
+      "VH_F_hepatic_portal_vein",
+      "VH_F_middle_hepatic_vein",
+      "VH_F_left_hepatic_vein",
+      "VH_F_right_hepatic_vein",
+      "VH_F_right_branch_of_portal_vein",
+      "VH_F_left_branch_of_portal_vein",
+      "VH_F_coronary_ligament_of_liver",
+      "VH_F_falciform_ligament",
+      "VH_F_triangular_ligament_of_liver",
+      "VH_F_ligamentum_venosum",
+      "VH_F_round_ligament_of_liver",
+      "VH_F_hepataduodenal_ligament",
+      "VH_F_gastric_impression_of_liver",
+      "VH_F_suprarenal_impression_of_liver",
+      "VH_F_renal_impression_of_liver",
+      "VH_F_duodenal_impression_of_liver",
+      "VH_F_esophageal_impression_of_liver",
+      "VH_F_porta_hepatis",
+      "VH_F_colic_impression_of_liver",
+      "VH_F_capsule_of_the_liver",
+      "VH_F_bare_area_of_liver",
+      "VH_F_diaphragmatic_surface_of_liver",
+      "VH_F_left_anterolateral_segment",
+      "VH_F_left_superomedial_segment",
+      "VH_F_left_superomedial_segment1",
+      "VH_F_left_inferomedial_segment",
+      "VH_F_quadrate_lobe",
+      "VH_F_right_anterosuperior_segment",
+      "VH_F_right_posteroinferior_segment",
+      "VH_F_right_posterosuperior_segment",
+      "VH_F_right_anteroinferior_segment",
+      "VH_F_caudate_lobe",
+      "VH_F_tail_of_pancreas",
+      "VH_F_body_of_pancreas",
+      "VH_F_ucinate_process1",
+      "VH_F_head_of_pancreas",
+      "VH_F_neck_of_pancreas",
+      "VH_F_duodenum_superior",
+      "VH_F_duodenal_ampulla",
+      "VH_F_duodenum_descending",
+      "VH_F_sphincter_of_heptopancreatic_ampulla",
+      "VH_F_duodenum_ascending",
+      "VH_F_duodenum_horizontal",
+      "VH_F_right_hepatic_duct",
+      "VH_F_left_hepatic_duct",
+      "VH_F_common_hepatic_duct",
+      "VH_F_hepatopancreatic_ampulla",
+      "VH_F_dorsal_pancreatic_duct",
+      "VH_F_common_bile_duct",
+      "VH_F_ventral_pancreatic_duct",
+      "VH_F_cystic_duct",
+      "VH_F_gallbladder",
+      "VH_F_gastric_surface_of_spleen",
+      "VH_F_diaphragmatic_surface_of_spleen",
+      "VH_F_colic_surface_of_spleen",
+      "VH_F_hilum_of_spleen",
+      "VH_F_renal_surface_of_spleen"
+    ],
+    "bounds": [
+      [
+        -0.13488732278347015,
+        0.1659040004014969,
+        -0.15384282171726227
+      ],
+      [
+        0.12633490562438965,
+        0.5280540585517883,
+        0.012434097006917
+      ]
+    ],
+    "kind": "group",
+    "childIds": [
+      "HRAA_G_arterial",
+      "HRAA_G_venous",
+      "HRAA_G_liver-parenchyma",
+      "HRAA_G_liver-surface",
+      "HRAA_G_liver-ligaments",
+      "HRAA_G_gallbladder-biliary",
+      "HRAA_G_pancreas",
+      "HRAA_G_duodenum",
+      "HRAA_G_spleen"
+    ],
+    "parentIds": [],
+    "groupBasis": "Subset from one native united HRA reference model. No source registration or geometry creation."
+  }
+]
