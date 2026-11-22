@@ -1,0 +1,1673 @@
+{
+ "sourceDatasetId": "z-anatomy",
+ "sourceChunk": "z-anatomy-attachments-01.glb",
+ "sourceChunkSHA256": "139b91cb5f5ca020c1ed1ba47495e18455d92df74a780303be12463a598e54a3",
+ "method": "scripts/build_major_attachments.mjs",
+ "review": [
+  {
+   "id": "ZA_19cb43fd05da2c",
+   "target": "Trapezius",
+   "role": "origin",
+   "side": "right",
+   "site": "External occipital protuberance",
+   "gapMm": 1.81,
+   "roleFrom": "textbook (source label reversed)"
+  },
+  {
+   "id": "ZA_4dd6bbb6ef9a7e",
+   "target": "Trapezius",
+   "role": "origin",
+   "side": "left",
+   "site": "External occipital protuberance",
+   "gapMm": 1.72,
+   "roleFrom": "textbook (source label reversed)"
+  },
+  {
+   "id": "ZA_2ec073aa760b32",
+   "target": "Sternocleidomastoid",
+   "role": "insertion",
+   "side": "right",
+   "site": "Mastoid process",
+   "gapMm": 0.97,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_0ccf233d92c49c",
+   "target": "Temporalis",
+   "role": "origin",
+   "side": "right",
+   "site": "Temporal fossa and overlying fascia",
+   "gapMm": 0.81,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_fbee76e17d2857",
+   "target": "Temporalis",
+   "role": "insertion",
+   "side": "right",
+   "site": "Coronoid process of mandible",
+   "gapMm": 1.8,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_6298920c4dc11f",
+   "target": "Temporalis",
+   "role": "insertion",
+   "side": "left",
+   "site": "Coronoid process of mandible",
+   "gapMm": 1.89,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_8df34b4fc42d5c",
+   "target": "Pectoralis minor",
+   "role": "origin",
+   "side": "right",
+   "site": "Ribs 3–5 near costal cartilages",
+   "gapMm": 0.98,
+   "roleFrom": "textbook (source label reversed)"
+  },
+  {
+   "id": "ZA_5e37372c7ab1ef",
+   "target": "External abdominal oblique muscle",
+   "role": "origin",
+   "side": "right",
+   "site": "Outer surfaces of ribs 5–12",
+   "gapMm": 1.04,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_0b077080ee41cc",
+   "target": "Erector spinae",
+   "role": "insertion",
+   "side": "right",
+   "site": "Angles of ribs",
+   "gapMm": 1.12,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_65d129032a644b",
+   "target": "Serratus anterior",
+   "role": "origin",
+   "side": "right",
+   "site": "Outer surfaces of ribs 1–9",
+   "gapMm": 1.12,
+   "roleFrom": "textbook (source label reversed)"
+  },
+  {
+   "id": "ZA_0e66529f3a1b3d",
+   "target": "Erector spinae",
+   "role": "insertion",
+   "side": "right",
+   "site": "Angles of ribs",
+   "gapMm": 0.92,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_c8ccb573a5ba1b",
+   "target": "Serratus anterior",
+   "role": "origin",
+   "side": "right",
+   "site": "Outer surfaces of ribs 1–9",
+   "gapMm": 0.96,
+   "roleFrom": "textbook (source label reversed)"
+  },
+  {
+   "id": "ZA_1d450c8d270915",
+   "target": "Pectoralis minor",
+   "role": "origin",
+   "side": "right",
+   "site": "Ribs 3–5 near costal cartilages",
+   "gapMm": 0.94,
+   "roleFrom": "textbook (source label reversed)"
+  },
+  {
+   "id": "ZA_e67c22b6ec502f",
+   "target": "Erector spinae",
+   "role": "insertion",
+   "side": "right",
+   "site": "Angles of ribs",
+   "gapMm": 0.8,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_9e485acacbb37d",
+   "target": "Serratus anterior",
+   "role": "origin",
+   "side": "right",
+   "site": "Outer surfaces of ribs 1–9",
+   "gapMm": 1.11,
+   "roleFrom": "textbook (source label reversed)"
+  },
+  {
+   "id": "ZA_dc5f00e610af5b",
+   "target": "Erector spinae",
+   "role": "insertion",
+   "side": "right",
+   "site": "Angles of ribs",
+   "gapMm": 1.37,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_e94b1e84d97d2b",
+   "target": "External abdominal oblique muscle",
+   "role": "origin",
+   "side": "right",
+   "site": "Outer surfaces of ribs 5–12",
+   "gapMm": 1.23,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_fdfc04139efe7c",
+   "target": "Erector spinae",
+   "role": "insertion",
+   "side": "right",
+   "site": "Angles of ribs",
+   "gapMm": 1.76,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_f4626c0cf31302",
+   "target": "Serratus anterior",
+   "role": "origin",
+   "side": "right",
+   "site": "Outer surfaces of ribs 1–9",
+   "gapMm": 1.52,
+   "roleFrom": "textbook (source label reversed)"
+  },
+  {
+   "id": "ZA_bf0b6f1d1fce0d",
+   "target": "External abdominal oblique muscle",
+   "role": "origin",
+   "side": "right",
+   "site": "Outer surfaces of ribs 5–12",
+   "gapMm": 1.17,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_c9f830dabbf5a7",
+   "target": "Erector spinae",
+   "role": "insertion",
+   "side": "right",
+   "site": "Angles of ribs",
+   "gapMm": 1.17,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_71e2bb4356d8bb",
+   "target": "Serratus anterior",
+   "role": "origin",
+   "side": "right",
+   "site": "Outer surfaces of ribs 1–9",
+   "gapMm": 0.9,
+   "roleFrom": "textbook (source label reversed)"
+  },
+  {
+   "id": "ZA_818176728014b6",
+   "target": "Pectoralis minor",
+   "role": "origin",
+   "side": "right",
+   "site": "Ribs 3–5 near costal cartilages",
+   "gapMm": 1.15,
+   "roleFrom": "textbook (source label reversed)"
+  },
+  {
+   "id": "ZA_bc6c6a5b18c200",
+   "target": "Erector spinae",
+   "role": "insertion",
+   "side": "right",
+   "site": "Angles of ribs",
+   "gapMm": 1.02,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_ac5abede041da7",
+   "target": "Erector spinae",
+   "role": "insertion",
+   "side": "left",
+   "site": "Angles of ribs",
+   "gapMm": 0.78,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_306b79b9475ccd",
+   "target": "Pectoralis minor",
+   "role": "origin",
+   "side": "left",
+   "site": "Ribs 3–5 near costal cartilages",
+   "gapMm": 1.05,
+   "roleFrom": "textbook (source label reversed)"
+  },
+  {
+   "id": "ZA_efe1f179f83d70",
+   "target": "Serratus anterior",
+   "role": "origin",
+   "side": "left",
+   "site": "Outer surfaces of ribs 1–9",
+   "gapMm": 1.03,
+   "roleFrom": "textbook (source label reversed)"
+  },
+  {
+   "id": "ZA_99f1f52b24a834",
+   "target": "Erector spinae",
+   "role": "insertion",
+   "side": "left",
+   "site": "Angles of ribs",
+   "gapMm": 1.38,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_97dc47b72c8a8c",
+   "target": "External abdominal oblique muscle",
+   "role": "origin",
+   "side": "left",
+   "site": "Outer surfaces of ribs 5–12",
+   "gapMm": 1.28,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_e1df9906b7ba0c",
+   "target": "Erector spinae",
+   "role": "insertion",
+   "side": "left",
+   "site": "Angles of ribs",
+   "gapMm": 1.6,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_f6a71d61db601f",
+   "target": "Serratus anterior",
+   "role": "origin",
+   "side": "left",
+   "site": "Outer surfaces of ribs 1–9",
+   "gapMm": 1.38,
+   "roleFrom": "textbook (source label reversed)"
+  },
+  {
+   "id": "ZA_30c67146e108e9",
+   "target": "Erector spinae",
+   "role": "insertion",
+   "side": "left",
+   "site": "Angles of ribs",
+   "gapMm": 1,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_25ac416c23d5a1",
+   "target": "Pectoralis minor",
+   "role": "origin",
+   "side": "left",
+   "site": "Ribs 3–5 near costal cartilages",
+   "gapMm": 0.89,
+   "roleFrom": "textbook (source label reversed)"
+  },
+  {
+   "id": "ZA_1d0825c78e39c7",
+   "target": "External abdominal oblique muscle",
+   "role": "origin",
+   "side": "right",
+   "site": "Outer surfaces of ribs 5–12",
+   "gapMm": 1.22,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_a1fe180243cf9b",
+   "target": "Erector spinae",
+   "role": "insertion",
+   "side": "right",
+   "site": "Angles of ribs",
+   "gapMm": 1.44,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_b049555b302107",
+   "target": "Serratus anterior",
+   "role": "origin",
+   "side": "right",
+   "site": "Outer surfaces of ribs 1–9",
+   "gapMm": 1.14,
+   "roleFrom": "textbook (source label reversed)"
+  },
+  {
+   "id": "ZA_f38afb70a4b2b1",
+   "target": "Erector spinae",
+   "role": "insertion",
+   "side": "right",
+   "site": "Angles of ribs",
+   "gapMm": 1.51,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_f23cdb686c0cc8",
+   "target": "Internal abdominal oblique muscle",
+   "role": "insertion",
+   "side": "right",
+   "site": "Inferior borders of ribs 10–12",
+   "gapMm": 1,
+   "roleFrom": "textbook (source label reversed)"
+  },
+  {
+   "id": "ZA_47cc15d239b931",
+   "target": "Erector spinae",
+   "role": "insertion",
+   "side": "right",
+   "site": "Angles of ribs",
+   "gapMm": 1.15,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_f77912cbe76563",
+   "target": "Erector spinae",
+   "role": "insertion",
+   "side": "left",
+   "site": "Angles of ribs",
+   "gapMm": 1.42,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_f7bcb750919c35",
+   "target": "Internal abdominal oblique muscle",
+   "role": "insertion",
+   "side": "left",
+   "site": "Inferior borders of ribs 10–12",
+   "gapMm": 0.85,
+   "roleFrom": "textbook (source label reversed)"
+  },
+  {
+   "id": "ZA_68f9f8e500c657",
+   "target": "Erector spinae",
+   "role": "insertion",
+   "side": "left",
+   "site": "Angles of ribs",
+   "gapMm": 1.05,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_f370bebc7f7113",
+   "target": "External abdominal oblique muscle",
+   "role": "origin",
+   "side": "left",
+   "site": "Outer surfaces of ribs 5–12",
+   "gapMm": 1.16,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_00d0cd9b801e42",
+   "target": "Erector spinae",
+   "role": "insertion",
+   "side": "left",
+   "site": "Angles of ribs",
+   "gapMm": 1.38,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_a21281ca947768",
+   "target": "Serratus anterior",
+   "role": "origin",
+   "side": "left",
+   "site": "Outer surfaces of ribs 1–9",
+   "gapMm": 1.21,
+   "roleFrom": "textbook (source label reversed)"
+  },
+  {
+   "id": "ZA_82eadf673cf1f3",
+   "target": "Internal abdominal oblique muscle",
+   "role": "insertion",
+   "side": "right",
+   "site": "Inferior borders of ribs 10–12",
+   "gapMm": 1.26,
+   "roleFrom": "textbook (source label reversed)"
+  },
+  {
+   "id": "ZA_3d5e20e2f419ac",
+   "target": "Erector spinae",
+   "role": "insertion",
+   "side": "right",
+   "site": "Angles of ribs",
+   "gapMm": 1.34,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_582dcadd568448",
+   "target": "Internal abdominal oblique muscle",
+   "role": "insertion",
+   "side": "right",
+   "site": "Inferior borders of ribs 10–12",
+   "gapMm": 0.97,
+   "roleFrom": "textbook (source label reversed)"
+  },
+  {
+   "id": "ZA_776ba43a0208a4",
+   "target": "Erector spinae",
+   "role": "insertion",
+   "side": "right",
+   "site": "Angles of ribs",
+   "gapMm": 1.27,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_58a2b87e046101",
+   "target": "Internal abdominal oblique muscle",
+   "role": "insertion",
+   "side": "left",
+   "site": "Inferior borders of ribs 10–12",
+   "gapMm": 1.16,
+   "roleFrom": "textbook (source label reversed)"
+  },
+  {
+   "id": "ZA_c26674fb514d61",
+   "target": "Erector spinae",
+   "role": "insertion",
+   "side": "left",
+   "site": "Angles of ribs",
+   "gapMm": 1.33,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_39d2a64f1f102b",
+   "target": "Internal abdominal oblique muscle",
+   "role": "insertion",
+   "side": "left",
+   "site": "Inferior borders of ribs 10–12",
+   "gapMm": 0.86,
+   "roleFrom": "textbook (source label reversed)"
+  },
+  {
+   "id": "ZA_94700eb624a438",
+   "target": "Erector spinae",
+   "role": "insertion",
+   "side": "left",
+   "site": "Angles of ribs",
+   "gapMm": 1.11,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_533ff3bc99c451",
+   "target": "Sternocleidomastoid",
+   "role": "origin",
+   "side": "right",
+   "site": "Superior manubrium",
+   "gapMm": 1.53,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_a9d0b57ea8cf33",
+   "target": "Pectoralis major",
+   "role": "origin",
+   "side": "right",
+   "site": "Anterior sternum",
+   "gapMm": 1.29,
+   "roleFrom": "textbook (source label reversed)"
+  },
+  {
+   "id": "ZA_8ee28b0e208efe",
+   "target": "Sternocleidomastoid",
+   "role": "origin",
+   "side": "left",
+   "site": "Superior manubrium",
+   "gapMm": 1.21,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_e877278f9b499f",
+   "target": "Pectoralis major",
+   "role": "origin",
+   "side": "left",
+   "site": "Anterior sternum",
+   "gapMm": 1.25,
+   "roleFrom": "textbook (source label reversed)"
+  },
+  {
+   "id": "ZA_064d84d1b5c4ed",
+   "target": "Pectoralis major",
+   "role": "origin",
+   "side": "right",
+   "site": "Anterior sternum",
+   "gapMm": 1.28,
+   "roleFrom": "textbook (source label reversed)"
+  },
+  {
+   "id": "ZA_a723b34439b4de",
+   "target": "Pectoralis major",
+   "role": "origin",
+   "side": "left",
+   "site": "Anterior sternum",
+   "gapMm": 1.18,
+   "roleFrom": "textbook (source label reversed)"
+  },
+  {
+   "id": "ZA_604412b0bca71a",
+   "target": "Deltoid",
+   "role": "origin",
+   "side": "right",
+   "site": "Lateral third of clavicle",
+   "gapMm": 1.29,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_a724d0a5f54404",
+   "target": "Subclavius",
+   "role": "insertion",
+   "side": "right",
+   "site": "Inferior middle clavicle",
+   "gapMm": 1.44,
+   "roleFrom": "textbook (source label reversed)"
+  },
+  {
+   "id": "ZA_dce88a3ec06973",
+   "target": "Trapezius",
+   "role": "insertion",
+   "side": "right",
+   "site": "Lateral third of clavicle",
+   "gapMm": 1.67,
+   "roleFrom": "textbook (source label reversed)"
+  },
+  {
+   "id": "ZA_a8408579ea60a5",
+   "target": "Sternocleidomastoid",
+   "role": "origin",
+   "side": "right",
+   "site": "Medial clavicle",
+   "gapMm": 1.08,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_eadc32f6c1e346",
+   "target": "Pectoralis major",
+   "role": "origin",
+   "side": "right",
+   "site": "Medial half of clavicle",
+   "gapMm": 1.7,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_f38c0cd2e611b5",
+   "target": "Triceps brachii",
+   "role": "origin",
+   "side": "right",
+   "site": "Infraglenoid tubercle",
+   "gapMm": 0.61,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_e2dc268e54e350",
+   "target": "Coracobrachialis",
+   "role": "origin",
+   "side": "right",
+   "site": "Coracoid process",
+   "gapMm": 0.43,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_d40b7d4aebe740",
+   "target": "Deltoid",
+   "role": "origin",
+   "side": "right",
+   "site": "Acromion",
+   "gapMm": 0.49,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_261aa8a0b55dd1",
+   "target": "Deltoid",
+   "role": "origin",
+   "side": "right",
+   "site": "Spine of scapula",
+   "gapMm": 0.46,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_5b3c89458ca854",
+   "target": "Teres major",
+   "role": "origin",
+   "side": "right",
+   "site": "Posterior inferior angle of scapula",
+   "gapMm": 0.53,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_61399fc3416dee",
+   "target": "Pectoralis minor",
+   "role": "insertion",
+   "side": "right",
+   "site": "Coracoid process",
+   "gapMm": 0.49,
+   "roleFrom": "textbook (source label reversed)"
+  },
+  {
+   "id": "ZA_47977488618160",
+   "target": "Rhomboid major",
+   "role": "insertion",
+   "side": "right",
+   "site": "Medial scapular border below the spine",
+   "gapMm": 0.57,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_5a01fef4f9b36a",
+   "target": "Rhomboid minor",
+   "role": "insertion",
+   "side": "right",
+   "site": "Medial scapular border at the spine root",
+   "gapMm": 0.54,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_e332a45a16949e",
+   "target": "Levator scapulae",
+   "role": "insertion",
+   "side": "right",
+   "site": "Superior medial border of scapula",
+   "gapMm": 0.5,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_14bc565a01bd9e",
+   "target": "Serratus anterior",
+   "role": "insertion",
+   "side": "right",
+   "site": "Anterior medial border of scapula",
+   "gapMm": 0.83,
+   "roleFrom": "textbook (source label reversed)"
+  },
+  {
+   "id": "ZA_0cc404d3f4c11d",
+   "target": "Deltoid",
+   "role": "origin",
+   "side": "left",
+   "site": "Lateral third of clavicle",
+   "gapMm": 1.2,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_bfa3af14e6b893",
+   "target": "Subclavius",
+   "role": "insertion",
+   "side": "left",
+   "site": "Inferior middle clavicle",
+   "gapMm": 1.14,
+   "roleFrom": "textbook (source label reversed)"
+  },
+  {
+   "id": "ZA_9d049e35a8c21d",
+   "target": "Trapezius",
+   "role": "insertion",
+   "side": "left",
+   "site": "Lateral third of clavicle",
+   "gapMm": 1.67,
+   "roleFrom": "textbook (source label reversed)"
+  },
+  {
+   "id": "ZA_5147f6f0cf8bb9",
+   "target": "Sternocleidomastoid",
+   "role": "origin",
+   "side": "left",
+   "site": "Medial clavicle",
+   "gapMm": 1.26,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_cba31164abca89",
+   "target": "Pectoralis major",
+   "role": "origin",
+   "side": "left",
+   "site": "Medial half of clavicle",
+   "gapMm": 1.43,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_60309fed5c0a4f",
+   "target": "Triceps brachii",
+   "role": "origin",
+   "side": "left",
+   "site": "Infraglenoid tubercle",
+   "gapMm": 0.5,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_0bd2be1a39fec7",
+   "target": "Coracobrachialis",
+   "role": "origin",
+   "side": "left",
+   "site": "Coracoid process",
+   "gapMm": 0.4,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_9f59c4c39a618b",
+   "target": "Deltoid",
+   "role": "origin",
+   "side": "left",
+   "site": "Acromion",
+   "gapMm": 0.51,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_d6987e3001796f",
+   "target": "Teres major",
+   "role": "origin",
+   "side": "left",
+   "site": "Posterior inferior angle of scapula",
+   "gapMm": 0.49,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_520a2e092f4f93",
+   "target": "Levator scapulae",
+   "role": "insertion",
+   "side": "left",
+   "site": "Superior medial border of scapula",
+   "gapMm": 0.48,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_2a51513dd82e33",
+   "target": "Deltoid",
+   "role": "origin",
+   "side": "left",
+   "site": "Spine of scapula",
+   "gapMm": 0.52,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_1c8e92f19053f7",
+   "target": "Pectoralis minor",
+   "role": "insertion",
+   "side": "left",
+   "site": "Coracoid process",
+   "gapMm": 0.47,
+   "roleFrom": "textbook (source label reversed)"
+  },
+  {
+   "id": "ZA_6978f3ff0bfc61",
+   "target": "Rhomboid major",
+   "role": "insertion",
+   "side": "left",
+   "site": "Medial scapular border below the spine",
+   "gapMm": 0.54,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_d7bdbeeb0ac4b4",
+   "target": "Rhomboid minor",
+   "role": "insertion",
+   "side": "left",
+   "site": "Medial scapular border at the spine root",
+   "gapMm": 0.58,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_02174091aa88b5",
+   "target": "Serratus anterior",
+   "role": "insertion",
+   "side": "left",
+   "site": "Anterior medial border of scapula",
+   "gapMm": 0.73,
+   "roleFrom": "textbook (source label reversed)"
+  },
+  {
+   "id": "ZA_ca93951ed138be",
+   "target": "Pronator teres",
+   "role": "origin",
+   "side": "right",
+   "site": "Medial epicondyle of humerus",
+   "gapMm": 0.97,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_a4c6fb09cea4e0",
+   "target": "Pectoralis major",
+   "role": "insertion",
+   "side": "right",
+   "site": "Intertubercular groove",
+   "gapMm": 1.35,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_02539a78ccc335",
+   "target": "Extensor carpi radialis longus",
+   "role": "origin",
+   "side": "right",
+   "site": "Lateral supracondylar ridge of humerus",
+   "gapMm": 1.37,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_33f886f0e7dadd",
+   "target": "Deltoid",
+   "role": "insertion",
+   "side": "right",
+   "site": "Deltoid tuberosity",
+   "gapMm": 2.14,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_81e5dcbe29d9c4",
+   "target": "Brachioradialis",
+   "role": "origin",
+   "side": "right",
+   "site": "Lateral supracondylar ridge of humerus",
+   "gapMm": 1.4,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_78c3f95a022f8f",
+   "target": "Flexor digitorum profundus",
+   "role": "insertion",
+   "side": "right",
+   "site": "Bases of distal phalanges of fingers 2-5",
+   "gapMm": 2.39,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_367b3af7e187a0",
+   "target": "Flexor digitorum profundus",
+   "role": "insertion",
+   "side": "right",
+   "site": "Bases of distal phalanges of fingers 2-5",
+   "gapMm": 2.47,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_76da2084b31862",
+   "target": "Flexor digitorum profundus",
+   "role": "insertion",
+   "side": "right",
+   "site": "Bases of distal phalanges of fingers 2-5",
+   "gapMm": 2.36,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_d0b1b93a4b7eed",
+   "target": "Flexor digitorum profundus",
+   "role": "insertion",
+   "side": "right",
+   "site": "Bases of distal phalanges of fingers 2-5",
+   "gapMm": 2.94,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_df99717a9d3a1a",
+   "target": "Flexor digitorum superficialis",
+   "role": "insertion",
+   "side": "right",
+   "site": "Sides of middle phalanges of fingers 2-5",
+   "gapMm": 3.63,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_eb11f8a8d316db",
+   "target": "Flexor digitorum superficialis",
+   "role": "insertion",
+   "side": "right",
+   "site": "Sides of middle phalanges of fingers 2-5",
+   "gapMm": 3.81,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_3393c327505214",
+   "target": "Flexor digitorum superficialis",
+   "role": "insertion",
+   "side": "right",
+   "site": "Sides of middle phalanges of fingers 2-5",
+   "gapMm": 3.63,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_a3759fd5b8d4b0",
+   "target": "Flexor digitorum superficialis",
+   "role": "insertion",
+   "side": "right",
+   "site": "Sides of middle phalanges of fingers 2-5",
+   "gapMm": 3.46,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_f07126c42a91cd",
+   "target": "Extensor carpi radialis longus",
+   "role": "insertion",
+   "side": "right",
+   "site": "Dorsal base of second metacarpal",
+   "gapMm": 3.18,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_c5f843e3b6e57b",
+   "target": "Extensor carpi radialis brevis",
+   "role": "insertion",
+   "side": "right",
+   "site": "Dorsal base of third metacarpal",
+   "gapMm": 1.96,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_58f5138b7f64ac",
+   "target": "Pronator teres",
+   "role": "insertion",
+   "side": "right",
+   "site": "Middle lateral radial shaft",
+   "gapMm": 1.29,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_60d94c26f60046",
+   "target": "Brachioradialis",
+   "role": "insertion",
+   "side": "right",
+   "site": "Styloid process of radius",
+   "gapMm": 0.95,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_6affdaef51b112",
+   "target": "Supinator",
+   "role": "origin",
+   "side": "right",
+   "site": "Supinator crest and fossa of ulna",
+   "gapMm": 1.64,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_b78c50686aea8c",
+   "target": "Brachialis",
+   "role": "insertion",
+   "side": "right",
+   "site": "Ulnar tuberosity",
+   "gapMm": 1.04,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_51d8fbf95bf099",
+   "target": "Extensor carpi radialis longus",
+   "role": "origin",
+   "side": "left",
+   "site": "Lateral supracondylar ridge of humerus",
+   "gapMm": 1.17,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_895fa62a15bc4f",
+   "target": "Deltoid",
+   "role": "insertion",
+   "side": "left",
+   "site": "Deltoid tuberosity",
+   "gapMm": 1.96,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_a7ddb13728b0b2",
+   "target": "Brachioradialis",
+   "role": "origin",
+   "side": "left",
+   "site": "Lateral supracondylar ridge of humerus",
+   "gapMm": 1.37,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_34a8e02d8aaa41",
+   "target": "Pronator teres",
+   "role": "origin",
+   "side": "left",
+   "site": "Medial epicondyle of humerus",
+   "gapMm": 1.02,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_cc083bd25efb16",
+   "target": "Pectoralis major",
+   "role": "insertion",
+   "side": "left",
+   "site": "Intertubercular groove",
+   "gapMm": 1.59,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_1b6e1f24dc9ecf",
+   "target": "Flexor digitorum profundus",
+   "role": "insertion",
+   "side": "left",
+   "site": "Bases of distal phalanges of fingers 2-5",
+   "gapMm": 0.48,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_67a43baaf5637b",
+   "target": "Flexor digitorum profundus",
+   "role": "insertion",
+   "side": "left",
+   "site": "Bases of distal phalanges of fingers 2-5",
+   "gapMm": 0.53,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_00b9bc42a3e489",
+   "target": "Flexor digitorum profundus",
+   "role": "insertion",
+   "side": "left",
+   "site": "Bases of distal phalanges of fingers 2-5",
+   "gapMm": 0.48,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_a7f16b0e5060d5",
+   "target": "Flexor digitorum profundus",
+   "role": "insertion",
+   "side": "left",
+   "site": "Bases of distal phalanges of fingers 2-5",
+   "gapMm": 0.52,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_551311a14f76f8",
+   "target": "Flexor digitorum superficialis",
+   "role": "insertion",
+   "side": "left",
+   "site": "Sides of middle phalanges of fingers 2-5",
+   "gapMm": 0.49,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_161ce770d512ea",
+   "target": "Flexor digitorum superficialis",
+   "role": "insertion",
+   "side": "left",
+   "site": "Sides of middle phalanges of fingers 2-5",
+   "gapMm": 0.5,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_09cd0ba5153a62",
+   "target": "Flexor digitorum superficialis",
+   "role": "insertion",
+   "side": "left",
+   "site": "Sides of middle phalanges of fingers 2-5",
+   "gapMm": 0.51,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_e350c726545a83",
+   "target": "Flexor digitorum superficialis",
+   "role": "insertion",
+   "side": "left",
+   "site": "Sides of middle phalanges of fingers 2-5",
+   "gapMm": 0.54,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_41cd80fb20e681",
+   "target": "Extensor carpi radialis longus",
+   "role": "insertion",
+   "side": "left",
+   "site": "Dorsal base of second metacarpal",
+   "gapMm": 0.82,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_f3cee517421543",
+   "target": "Extensor carpi radialis brevis",
+   "role": "insertion",
+   "side": "left",
+   "site": "Dorsal base of third metacarpal",
+   "gapMm": 0.77,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_2a9cc8624e7d2d",
+   "target": "Flexor digitorum superficialis",
+   "role": "origin",
+   "side": "left",
+   "site": "Anterior oblique line of radius",
+   "gapMm": 3.81,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_ac8420264cf0bd",
+   "target": "Brachioradialis",
+   "role": "insertion",
+   "side": "left",
+   "site": "Styloid process of radius",
+   "gapMm": 0.93,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_2c92d9db28ac89",
+   "target": "Pronator teres",
+   "role": "insertion",
+   "side": "left",
+   "site": "Middle lateral radial shaft",
+   "gapMm": 1.29,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_0bc8711fdc29b0",
+   "target": "Supinator",
+   "role": "origin",
+   "side": "left",
+   "site": "Supinator crest and fossa of ulna",
+   "gapMm": 2,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_9041fe58707c8c",
+   "target": "Brachialis",
+   "role": "insertion",
+   "side": "left",
+   "site": "Ulnar tuberosity",
+   "gapMm": 1.18,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_9bba316092ee80",
+   "target": "Tensor fasciae latae",
+   "role": "origin",
+   "side": "right",
+   "site": "Anterior superior iliac spine",
+   "gapMm": 1.53,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_fe22ebadaeffca",
+   "target": "Superior gemellus",
+   "role": "origin",
+   "side": "right",
+   "site": "Ischial spine",
+   "gapMm": 0.97,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_9f79a136f66828",
+   "target": "Erector spinae",
+   "role": "origin",
+   "side": "right",
+   "site": "Iliac crest",
+   "gapMm": 1.23,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_abd95981127d2a",
+   "target": "Latissimus dorsi",
+   "role": "origin",
+   "side": "right",
+   "site": "Iliac crest",
+   "gapMm": 1.47,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_dd3b154e01237d",
+   "target": "Transversus abdominis",
+   "role": "origin",
+   "side": "right",
+   "site": "Iliac crest",
+   "gapMm": 1.74,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_bfa8c2b4f9af44",
+   "target": "Internal abdominal oblique muscle",
+   "role": "origin",
+   "side": "right",
+   "site": "Iliac crest",
+   "gapMm": 1.27,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_d64a055f1eb9f6",
+   "target": "Inferior gemellus",
+   "role": "origin",
+   "side": "right",
+   "site": "Ischial tuberosity",
+   "gapMm": 1.63,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_fa96f857deedfa",
+   "target": "Iliopsoas",
+   "role": "origin",
+   "side": "right",
+   "site": "Iliac fossa",
+   "gapMm": 3.18,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_b757f59427e857",
+   "target": "Tensor fasciae latae",
+   "role": "origin",
+   "side": "left",
+   "site": "Anterior superior iliac spine",
+   "gapMm": 1.76,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_c0556683720166",
+   "target": "Superior gemellus",
+   "role": "origin",
+   "side": "left",
+   "site": "Ischial spine",
+   "gapMm": 1.01,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_954ac363bb0e80",
+   "target": "Erector spinae",
+   "role": "origin",
+   "side": "left",
+   "site": "Iliac crest",
+   "gapMm": 0.93,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_eda16e9a0850d8",
+   "target": "Latissimus dorsi",
+   "role": "origin",
+   "side": "left",
+   "site": "Iliac crest",
+   "gapMm": 1.2,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_2332560a9abaa2",
+   "target": "Transversus abdominis",
+   "role": "origin",
+   "side": "left",
+   "site": "Iliac crest",
+   "gapMm": 1.49,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_dbc7f633c29551",
+   "target": "Internal abdominal oblique muscle",
+   "role": "origin",
+   "side": "left",
+   "site": "Iliac crest",
+   "gapMm": 1.2,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_eb224e23ceeb45",
+   "target": "Inferior gemellus",
+   "role": "origin",
+   "side": "left",
+   "site": "Ischial tuberosity",
+   "gapMm": 1.75,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_fb7d7a9559b79b",
+   "target": "Iliopsoas",
+   "role": "origin",
+   "side": "left",
+   "site": "Iliac fossa",
+   "gapMm": 3.03,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_beaae772903192",
+   "target": "Popliteus",
+   "role": "origin",
+   "side": "right",
+   "site": "Lateral condyle of femur",
+   "gapMm": 1.03,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_ac9140fb7a0e8f",
+   "target": "Iliopsoas",
+   "role": "insertion",
+   "side": "right",
+   "site": "Lesser trochanter",
+   "gapMm": 1.44,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_87cb7c882fe1ac",
+   "target": "Adductor magnus",
+   "role": "insertion",
+   "side": "right",
+   "site": "Adductor tubercle",
+   "gapMm": 1.48,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_50215b0c287743",
+   "target": "Soleus",
+   "role": "origin",
+   "side": "right",
+   "site": "Soleal line",
+   "gapMm": 2.42,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_8388cbe3c68dce",
+   "target": "Flexor digitorum longus",
+   "role": "origin",
+   "side": "right",
+   "site": "Posterior tibial shaft below soleal line",
+   "gapMm": 3.81,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_b7f56f25d5c79b",
+   "target": "Popliteus",
+   "role": "insertion",
+   "side": "right",
+   "site": "Posterior proximal tibia above soleal line",
+   "gapMm": 2.62,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_a46f21906a9d84",
+   "target": "Extensor digitorum longus",
+   "role": "origin",
+   "side": "right",
+   "site": "Lateral condyle of tibia",
+   "gapMm": 2.57,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_4925c44ec10802",
+   "target": "Soleus",
+   "role": "origin",
+   "side": "right",
+   "site": "Head of fibula",
+   "gapMm": 1.3,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_eeec20099ac800",
+   "target": "Extensor digitorum longus",
+   "role": "origin",
+   "side": "right",
+   "site": "Proximal anterior fibular shaft",
+   "gapMm": 2.75,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_ac85b05cf230fa",
+   "target": "Biceps femoris",
+   "role": "insertion",
+   "side": "right",
+   "site": "Head of fibula",
+   "gapMm": 0.86,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_28add2a7292eb0",
+   "target": "Vastus intermedius",
+   "role": "origin",
+   "side": "left",
+   "site": "Anterior and lateral femoral shaft",
+   "gapMm": 3.33,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_28c1094e407df9",
+   "target": "Iliopsoas",
+   "role": "insertion",
+   "side": "left",
+   "site": "Lesser trochanter",
+   "gapMm": 1.16,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_6faa916f06a4bb",
+   "target": "Adductor magnus",
+   "role": "insertion",
+   "side": "left",
+   "site": "Adductor tubercle",
+   "gapMm": 1.33,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_47d39594448e17",
+   "target": "Soleus",
+   "role": "origin",
+   "side": "left",
+   "site": "Soleal line",
+   "gapMm": 2.24,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_11708fc54bf8b9",
+   "target": "Extensor digitorum longus",
+   "role": "origin",
+   "side": "left",
+   "site": "Lateral condyle of tibia",
+   "gapMm": 2.55,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_7a10a3b203e3d6",
+   "target": "Popliteus",
+   "role": "insertion",
+   "side": "left",
+   "site": "Posterior proximal tibia above soleal line",
+   "gapMm": 2.6,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_3c67d4d501cb84",
+   "target": "Soleus",
+   "role": "origin",
+   "side": "left",
+   "site": "Head of fibula",
+   "gapMm": 1.19,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_557bbd3d01afb5",
+   "target": "Extensor digitorum longus",
+   "role": "origin",
+   "side": "left",
+   "site": "Proximal anterior fibular shaft",
+   "gapMm": 3.54,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_e025d453bad1a7",
+   "target": "Biceps femoris",
+   "role": "insertion",
+   "side": "left",
+   "site": "Head of fibula",
+   "gapMm": 0.95,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_018808776a055e",
+   "target": "Tibialis anterior",
+   "role": "insertion",
+   "side": "right",
+   "site": "Base of first metatarsal",
+   "gapMm": 1.03,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_03c97d7b04febd",
+   "target": "Fibularis brevis",
+   "role": "insertion",
+   "side": "right",
+   "site": "Tuberosity at base of fifth metatarsal",
+   "gapMm": 0.73,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_8f50b9c9d91fa0",
+   "target": "Tibialis anterior",
+   "role": "insertion",
+   "side": "left",
+   "site": "Base of first metatarsal",
+   "gapMm": 0.71,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_ffd42816025a8f",
+   "target": "Fibularis brevis",
+   "role": "insertion",
+   "side": "left",
+   "site": "Tuberosity at base of fifth metatarsal",
+   "gapMm": 0.45,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_f78c42fdfdd83e",
+   "target": "Extensor digitorum longus",
+   "role": "insertion",
+   "side": "right",
+   "site": "Dorsal distal phalanges of toes 2-5",
+   "gapMm": 0.62,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_f3c3bf34233edf",
+   "target": "Flexor digitorum longus",
+   "role": "insertion",
+   "side": "right",
+   "site": "Plantar bases of distal phalanges of toes 2-5",
+   "gapMm": 0.57,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_4113dee4f8e00a",
+   "target": "Flexor hallucis longus",
+   "role": "insertion",
+   "side": "right",
+   "site": "Plantar base of hallux distal phalanx",
+   "gapMm": 0.87,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_ea35ce653b24cb",
+   "target": "Extensor digitorum longus",
+   "role": "insertion",
+   "side": "right",
+   "site": "Dorsal distal phalanges of toes 2-5",
+   "gapMm": 0.61,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_b44bb387049dd5",
+   "target": "Flexor digitorum longus",
+   "role": "insertion",
+   "side": "right",
+   "site": "Plantar bases of distal phalanges of toes 2-5",
+   "gapMm": 0.67,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_98b816e49fde7d",
+   "target": "Extensor digitorum longus",
+   "role": "insertion",
+   "side": "right",
+   "site": "Dorsal distal phalanges of toes 2-5",
+   "gapMm": 0.59,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_4d72b39a0d0695",
+   "target": "Flexor digitorum longus",
+   "role": "insertion",
+   "side": "right",
+   "site": "Plantar bases of distal phalanges of toes 2-5",
+   "gapMm": 0.59,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_53348e32a51bb3",
+   "target": "Extensor digitorum longus",
+   "role": "insertion",
+   "side": "right",
+   "site": "Dorsal distal phalanges of toes 2-5",
+   "gapMm": 0.58,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_a6882540e2be2e",
+   "target": "Flexor digitorum longus",
+   "role": "insertion",
+   "side": "right",
+   "site": "Plantar bases of distal phalanges of toes 2-5",
+   "gapMm": 2.24,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_4dd928f2f6a734",
+   "target": "Extensor digitorum longus",
+   "role": "insertion",
+   "side": "left",
+   "site": "Dorsal distal phalanges of toes 2-5",
+   "gapMm": 0.63,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_0e02b537f40cd9",
+   "target": "Flexor digitorum longus",
+   "role": "insertion",
+   "side": "left",
+   "site": "Plantar bases of distal phalanges of toes 2-5",
+   "gapMm": 0.37,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_6fa41ab70045b0",
+   "target": "Flexor hallucis longus",
+   "role": "insertion",
+   "side": "left",
+   "site": "Plantar base of hallux distal phalanx",
+   "gapMm": 0.88,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_d6ab995039bace",
+   "target": "Extensor digitorum longus",
+   "role": "insertion",
+   "side": "left",
+   "site": "Dorsal distal phalanges of toes 2-5",
+   "gapMm": 0.5,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_194d4b52fa94cc",
+   "target": "Flexor digitorum longus",
+   "role": "insertion",
+   "side": "left",
+   "site": "Plantar bases of distal phalanges of toes 2-5",
+   "gapMm": 0.47,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_9f399ed9d9ebf5",
+   "target": "Extensor digitorum longus",
+   "role": "insertion",
+   "side": "left",
+   "site": "Dorsal distal phalanges of toes 2-5",
+   "gapMm": 0.5,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_bd8c806d82aa7d",
+   "target": "Flexor digitorum longus",
+   "role": "insertion",
+   "side": "left",
+   "site": "Plantar bases of distal phalanges of toes 2-5",
+   "gapMm": 0.5,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_d134960c2061be",
+   "target": "Extensor digitorum longus",
+   "role": "insertion",
+   "side": "left",
+   "site": "Dorsal distal phalanges of toes 2-5",
+   "gapMm": 0.46,
+   "roleFrom": "source"
+  },
+  {
+   "id": "ZA_794adc16b2a5a2",
+   "target": "Flexor digitorum longus",
+   "role": "insertion",
+   "side": "left",
+   "site": "Plantar bases of distal phalanges of toes 2-5",
+   "gapMm": 0.54,
+   "roleFrom": "source"
+  }
+ ]
+}

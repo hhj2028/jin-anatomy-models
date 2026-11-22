@@ -1,6 +1,6 @@
 # JIN Anatomy Studio — model data
 
-The 3D model data shipped in [JIN Anatomy Studio](https://github.com/hhj2028/jin-anatomy-studio) 1.0.24, published so that anyone can reuse it under the same terms as its sources. This repository holds **model data only**; the application code is not included.
+The 3D model data shipped in [JIN Anatomy Studio](https://github.com/hhj2028/jin-anatomy-studio) 1.0.26, published so that anyone can reuse it under the same terms as its sources. This repository holds **model data only**; the application code is not included.
 
 ## Licence
 
@@ -25,7 +25,7 @@ The scripts that made these changes are in `tools/`.
 
 Geometry is Draco-compressed glTF (`.glb`, extension `KHR_draco_mesh_compression`), metres, +Y up, +Z front, +X left. Each package has `manifest.json` (chunks, sha256, coordinate notes), `meshes.json` (per-surface metadata and licence) and `structures.json` (named hierarchy).
 
-## Packages (93)
+## Packages (94)
 
 | Package | Source | Licences |
 |---|---|---|
@@ -91,6 +91,7 @@ Geometry is Draco-compressed glTF (`.glb`, extension `KHR_draco_mesh_compression
 | `z-body-left-trunk` | Z-Anatomy | CC BY-SA 4.0 |
 | `z-body-left-upper-limb` | Z-Anatomy | CC BY-SA 4.0 |
 | `z-body-left-wall` | Z-Anatomy | CC BY-SA 4.0 |
+| `z-body-major-attachments` | Z-Anatomy | CC BY-SA 4.0 |
 | `z-body-male-external` | Z-Anatomy | CC BY-SA 4.0 |
 | `z-body-male-pelvis` | Z-Anatomy | CC BY-SA 4.0 |
 | `z-body-missing-bilateral-muscles` | Z-Anatomy | CC BY-SA 4.0 |
